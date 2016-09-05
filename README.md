@@ -12,6 +12,14 @@
 
 ![唐诗作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/author_topK.png "唐诗作者作品榜")
 
+## 宋诗高频词
+
+![宋诗高频词](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/song_text_topK.png "宋诗高频词")
+
+## 宋诗作者作品榜
+
+![宋诗作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/song_author_topK.png "宋诗作者作品榜")
+
 
 ## 数据分发形式
 
