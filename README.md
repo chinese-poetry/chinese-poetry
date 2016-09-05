@@ -1,7 +1,5 @@
 # chinese-poetry
 
-内容出自中国国家图书馆《[全唐诗分析系统](http://202.106.125.44:8082/tang/)》. 基于《[全唐诗](http://baike.baidu.com/view/26372.htm)》修订.
-
 ![中华古诗](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/full-tang-poetry.png "中华古诗")
 
 ## 唐诗高频词
