@@ -6,11 +6,11 @@
 
 ## 唐诗高频词
 
-![唐诗高频词](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/text_topK.png "唐诗高频词")
+![唐诗高频词](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/tang_text_topK.png "唐诗高频词")
 
 ## 唐诗作者作品榜
 
-![唐诗作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/author_topK.png "唐诗作者作品榜")
+![唐诗作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/tang_author_topK.png "唐诗作者作品榜")
 
 ## 宋诗高频词
 
