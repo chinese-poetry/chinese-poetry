@@ -22,3 +22,6 @@ sqlite> select * from ci limit 1;
 sqlite> select * from ciauthor limit 1;
 1|苏轼|苏轼：(1037-1101)北宋文学家、书画家...
 ```
+
+
+

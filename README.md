@@ -1,4 +1,4 @@
-# chinese-poetry
+# chinese-poetry  | [全宋词爬取过程及数据分析](http://jackeygao.io/words/crawl-ci.html)
 
 ![中华古诗](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/full-tang-poetry.png "中华古诗")
 
