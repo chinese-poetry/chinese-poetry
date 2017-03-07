@@ -18,6 +18,18 @@
 
 ![宋诗作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/song_author_topK.png "宋诗作者作品榜")
 
+## 宋词作者作品榜
+
+![宋词作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/ci_author_topK.png "宋词作者作品榜")
+
+## 宋词高频词
+
+![宋词高频词](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/ci_words_topK.png)
+
+## 两宋喜欢的词牌名
+
+![两宋喜欢的词牌名](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/ci_rhythmic_topK.png)
+
 
 ## 数据分发形式
 
