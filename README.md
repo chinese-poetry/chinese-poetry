@@ -73,3 +73,5 @@
 
 目前仅有全唐诗记录, 唐后的一些古诗未收集，古诗乃中华文化瑰宝, 如果有靠谱的数据源也欢迎提交PR加入.  
 
+## License
+[MIT](https://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89) 许可证.
