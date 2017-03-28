@@ -1,4 +1,4 @@
-# chinese-poetry
+# chinese-poetry  | [全宋词爬取过程及数据分析](http://jackeygao.io/words/crawl-ci.html)
 
 ![中华古诗](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/full-tang-poetry.png "中华古诗")
 
@@ -17,6 +17,18 @@
 ## 宋诗作者作品榜
 
 ![宋诗作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/song_author_topK.png "宋诗作者作品榜")
+
+## 宋词作者作品榜
+
+![宋词作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/ci_author_topK.png "宋词作者作品榜")
+
+## 宋词高频词
+
+![宋词高频词](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/ci_words_topK.png)
+
+## 两宋喜欢的词牌名
+
+![两宋喜欢的词牌名](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/ci_rhythmic_topK.png)
 
 
 ## 数据分发形式
@@ -61,3 +73,5 @@
 
 目前仅有全唐诗记录, 唐后的一些古诗未收集，古诗乃中华文化瑰宝, 如果有靠谱的数据源也欢迎提交PR加入.  
 
+## License
+[MIT](https://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89) 许可证.
