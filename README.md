@@ -69,7 +69,7 @@ chinese-poetry
 
 提交issue来优化完善此数据库, 你也可以联系我的邮箱 gaojunqi@outlook.com
 
-![微信](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/WechatIMG1.jpeg)
+![微信](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/WechatIMG1.jpeg =150x200)
 
 
 ## License
