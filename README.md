@@ -74,4 +74,4 @@ chinese-poetry
 
 ## License
 
-[MIT](https://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89) 许可证.
+[MIT](https://github.com/jackeyGao/chinese-poetry/blob/master/LICENSE) 许可证.
