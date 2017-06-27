@@ -2,6 +2,7 @@ chinese-poetry
 ==============
 
 [![Build Status](https://travis-ci.org/jackeyGao/chinese-poetry.svg?branch=master)](https://travis-ci.org/jackeyGao/chinese-poetry)
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://github.com/jackeyGao/chinese-poetry/blob/master/LICENSE)
 
 最全的中华古典文集数据库, 包含5.5万首唐诗、26万首宋诗和2.1万首宋词. 唐宋两朝斤1.4万古诗人, 和两宋时期1.5K词人. 数据来源于互联网. 
 
