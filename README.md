@@ -68,6 +68,10 @@ chinese-poetry
 ]
 ```
 
+## 案例展示
+
+- [animalize](https://github.com/animalize) **/** [QuanTangshi](https://github.com/animalize/QuanTangshi)  *离线全唐诗 Android*
+- 欢迎补充
 
 ## 贡献&讨论
 
