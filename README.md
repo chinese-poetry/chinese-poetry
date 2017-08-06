@@ -30,8 +30,6 @@ chinese-poetry
 | :---: |
 |![两宋喜欢的词牌名](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/ci_rhythmic_topK.png)|
 
-<center>两宋喜欢的词牌名</center>
-
 ## 数据分发形式
 
 古诗数据分发采用繁体字的分组JSON文件, 保留繁体能更大程序的保存原数据. 宋词数据分发采用sqlite数据库, 使用简体字(无原因, 采集源就是简体, 如需繁体请自行转换).
