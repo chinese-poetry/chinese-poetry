@@ -1,7 +1,7 @@
 chinese-poetry
 ==============
 
-[![Build Status](https://travis-ci.org/jackeyGao/chinese-poetry.svg?branch=master)](https://travis-ci.org/jackeyGao/chinese-poetry)
+[![Build Status](https://travis-ci.org/chinese-poetry/chinese-poetry.svg?branch=master)](https://travis-ci.org/chinese-poetry/chinese-poetry)
 [![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://github.com/jackeyGao/chinese-poetry/blob/master/LICENSE)
 [![tang poetry](https://img.shields.io/badge/tang%20poetry-5.5w-green.svg)]()
 [![song poetry](https://img.shields.io/badge/song%20poetry-22w-green.svg)]()
@@ -18,16 +18,17 @@ chinese-poetry
 
 一些简单的高频分析
 
-|||
+|唐诗高频词|唐诗作者作品榜|
 | :---: | :---: |
-| ![唐诗高频词](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/tang_text_topK.png "唐诗高频词") 唐诗高频词 | ![唐诗作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/tang_author_topK.png "唐诗作者作品榜") 唐诗作者作品榜  |
-| ![宋诗高频词](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/song_text_topK.png "宋诗高频词" )宋诗高频词 | ![宋诗作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/song_author_topK.png "宋诗作者作品榜") 宋诗作者作品榜 |
-| ![宋词高频词](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/ci_words_topK.png "宋词高频词") 宋词高频词 |![宋词作者作品榜](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/ci_author_topK.png "宋词作者作品榜") 宋词作者作品榜 |
+| ![唐诗高频词](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/tang_text_topK.png "唐诗高频词")| ![唐诗作者作品榜](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/tang_author_topK.png "唐诗作者作品榜")|
+|宋诗高频词|宋诗作者作品榜|
+| ![宋诗高频词](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/song_text_topK.png "宋诗高频词" )| ![宋诗作者作品榜](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/song_author_topK.png "宋诗作者作品榜")|
+|宋词高频词|宋词作者作品榜|
+| ![宋词高频词](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/ci_words_topK.png "宋词高频词")  |![宋词作者作品榜](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/ci_author_topK.png "宋词作者作品榜") |
 
-
-![两宋喜欢的词牌名](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/ci_rhythmic_topK.png)
-
-<center>两宋喜欢的词牌名</center>
+|两宋喜欢的词牌名|
+| :---: |
+|![两宋喜欢的词牌名](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/ci_rhythmic_topK.png)|
 
 ## 数据分发形式
 
@@ -79,9 +80,9 @@ chinese-poetry
 
 提交issue来优化完善此数据库, 你也可以联系我的邮箱 gaojunqi@outlook.com
 
-<img src="https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/WechatIMG1.jpeg" width="150" height="200" />
+<img src="https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/WechatIMG1.jpeg" width="150" height="200" />
 
 
 ## License
 
-[MIT](https://github.com/jackeyGao/chinese-poetry/blob/master/LICENSE) 许可证.
+[MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) 许可证.
