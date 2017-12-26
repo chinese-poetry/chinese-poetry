@@ -84,6 +84,8 @@ chinese-poetry
 
 提交issue来优化完善此数据库, 你也可以联系我的邮箱 gaojunqi@outlook.com
 
+创建和维护`chinese-poetry`需要花费很多的时间和资源. 如果此数据库对您有很大的帮助, 请酌情考虑[打赏作者](https://jackeygao.io/donation.html).
+
 <img src="https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/WechatIMG1.jpeg" width="150" height="200" />
 
 
