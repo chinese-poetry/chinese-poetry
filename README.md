@@ -34,6 +34,11 @@ chinese-poetry
 
 古诗数据分发采用繁体字的分组JSON文件, 保留繁体能更大程度地保存原数据. 宋词数据分发采用sqlite数据库, 使用简体字(无原因, 采集源就是简体, 如需繁体请自行转换).
 
+### 其他类型结构数据
+
+- [KomaBeyond](https://github.com/KomaBeyond) **/** [chinese-poetry-mysql](https://github.com/KomaBeyond/chinese-poetry-mysql) 适用于mysql数据库的格式数据
+
+
 ### 古诗JSON结构
 
 ```text
