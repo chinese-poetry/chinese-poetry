@@ -4,10 +4,11 @@ import json, sys
 import sqlite3
 from collections import OrderedDict
 
-
-reload(sys)
-sys.setdefaultencoding('utf-8')
-
+try:               # Python 2
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
+except NameError:  # Python 3
+    pass
 
 c = sqlite3.connect('ci.db')
 
