@@ -39,6 +39,9 @@ chinese-poetry
 - [chinese-poetry](https://github.com/chinese-poetry) **/** [chinese-poetry-zhCN](https://github.com/chinese-poetry/chinese-poetry-zhCN) 简体中文版本数据
 - [KomaBeyond](https://github.com/KomaBeyond) **/** [chinese-poetry-mysql](https://github.com/KomaBeyond/chinese-poetry-mysql) 适用于mysql数据库的格式数据
 
+### 转换数据库格式工具
+
+- [chinese-poetry-to-mysql-tool](https://github.com/woodylan/chinese-poetry-to-mysql-tool) 转换成sql文件的脚本
 
 ### 古诗JSON结构
 
