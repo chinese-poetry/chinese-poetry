@@ -1,5 +1,5 @@
 #! -*- coding: utf-8 -*-
-import os, json, sqlite3
+import os, json, sqlite3, sys, traceback
 
 def check_json(f, _dir):
     if not f.endswith('.json'):
@@ -11,6 +11,7 @@ def check_json(f, _dir):
             _ = json.loads(file.read())
             return True
         except:
+            sys.stderr.write(traceback.format_exc())            
             assert False, u"校验(%s)失败" % f
 
 
