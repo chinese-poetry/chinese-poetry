@@ -1,5 +1,11 @@
 #! -*- coding: utf-8 -*-
-import os, json, sqlite3, sys, traceback
+# import sqlite3
+import os
+import json
+import sys
+import traceback
+import functools
+
 
 def check_json(f, _dir):
     if not f.endswith('.json'):
@@ -15,39 +21,16 @@ def check_json(f, _dir):
             assert False, u"校验(%s)失败" % f
 
 
-def test_shi_json():
-    """
-        测试古诗JSON文件是否有效
-    """
-    [ check_json(f, './json') for f in os.listdir('./json') ]
+def __check_path__(path):
+    """校验 指定目录 中的 json 文件"""
+    [ check_json(f, path) for f in os.listdir(path) ]
 
 
-def test_ci_json():
-    """
-        测试词JSON文件是否有效
-    """
-    [ check_json(f, './ci') for f in os.listdir('./ci') ]
+test_shi = functools.partial(__check_path__, './json')
 
+test_ci = functools.partial(__check_path__, './ci')
 
-#def test_sqlite():
-#    """
-#        测试ci数据库文件是否有效
-#    """
-#    conn = sqlite3.connect('./ci/ci.db')
-#
-#    c = conn.cursor()
-#
-#    c.execute("SELECT name FROM sqlite_master WHERE type='table'")
-#
-#    tables = c.fetchall()
-#    
-#    assert len(tables) == 2, u"Sqlite文件异常"
+test_shijing = functools.partial(__check_path__, './shijing')
 
+test_lunyu = functools.partial(__check_path__, './lunyu')
 
-def main():
-    test_shi_json()
-    test_ci_json()
-
-
-if __name__ == '__main__':
-    main()
