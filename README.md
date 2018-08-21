@@ -36,8 +36,12 @@ chinese-poetry
 
 ### 其他类型结构数据
 
+- [chinese-poetry](https://github.com/chinese-poetry) **/** [chinese-poetry-zhCN](https://github.com/chinese-poetry/chinese-poetry-zhCN) 简体中文版本数据
 - [KomaBeyond](https://github.com/KomaBeyond) **/** [chinese-poetry-mysql](https://github.com/KomaBeyond/chinese-poetry-mysql) 适用于mysql数据库的格式数据
 
+### 转换数据库格式工具
+
+- [chinese-poetry-to-mysql-tool](https://github.com/woodylan/chinese-poetry-to-mysql-tool) 转换成sql文件的脚本
 
 ### 古诗JSON结构
 
@@ -81,6 +85,8 @@ chinese-poetry
 - [Clover27](https://github.com/Clover27) **/** [ancient-Chinese-poem-generator](https://github.com/Clover27/ancient-Chinese-poem-generator)  *Ancient-Chinese-Poem-Generator*
 - [chinese-poetry](https://github.com/chinese-poetry) **/** [poetry-calendar](http://shici.store/poetry-calendar/)  *诗词周历*
 - [chenyuntc](https://github.com/chenyuntc) **/** [pytorch-book](https://github.com/chenyuntc/pytorch-book/blob/master/chapter9-神经网络写诗(CharRNN)/) *简体唐诗生成(char-RNN), 可生成藏头诗,自定义诗歌意境,前缀等*
+- [okcy1016](https://github.com/okcy1016) **/** [poetry-desktop](https://github.com/okcy1016/poetry-desktop/) *诗词桌面*
+
 ### 公众号
 
 - **PoemSearcher**
