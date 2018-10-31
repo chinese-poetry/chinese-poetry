@@ -1,106 +1,106 @@
-chinese-poetry
+Chinese-poetry
 ==============
 
-[![Build Status](https://travis-ci.org/chinese-poetry/chinese-poetry.svg?branch=master)](https://travis-ci.org/chinese-poetry/chinese-poetry)
-[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://github.com/jackeyGao/chinese-poetry/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/chinese-poetry/chinese-poetry.svg?branch=master)](https://travis-ci.org/chinese-poetry/chinese-poetry )
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://github.com/jackeyGao/chinese-poetry/blob/ Master/LICENSE)
 [![tang poetry](https://img.shields.io/badge/tang%20poetry-5.5w-green.svg)]()
 [![song poetry](https://img.shields.io/badge/song%20poetry-22w-green.svg)]()
 [![song ci](https://img.shields.io/badge/song%20Ci-21k-green.svg)]()
 
-最全的中华古典文集数据库, 包含5.5万首唐诗、26万首宋诗和2.1万首宋词. 唐宋两朝近1.4万古诗人, 和两宋时期1.5K词人. 数据来源于互联网. 
+The most complete Chinese classical anthology database contains 55,000 Tang poems, 260,000 Song poems and 21,000 Song poems. Nearly 14,000 ancient poets in the Tang and Song Dynasties, and 1.5K poets in the Song Dynasty. Data from the Internet.
 
-**为什么要做这个仓库?** 古诗是中华民族乃至全世界的瑰宝, 我们应该传承下去, 虽然有古典文集, 但大多数人并没有拥有这些书籍. 从某种意义上来说, 这些庞大的文集离我们是有一定距离的。而电子版方便拷贝, 所以此开源数据库诞生了. 你可以用此数据做任何有益的事情， 甚至我也可以帮助你.
+**Why do you want to do this warehouse?** Ancient poetry is a treasure of the Chinese nation and the whole world. We should pass it on. Although there are classical anthologies, most people do not own these books. In a sense, these huge The collection is a certain distance from us. The electronic version is easy to copy, so this open source database was born. You can use this data to do any useful things, even I can help you.
 
-古诗采集没有记录过程， 因为古诗数据庞大，目标网站有限制, 采集过程经常中断超过了一个星期.2017年新加入全宋词, [全宋词爬取过程及数据分析](http://jackeygao.io/words/crawl-ci.html).
+There is no recording process in the collection of ancient poems, because the ancient poetry data is huge, the target website is limited, and the collection process is often interrupted for more than one week. In 2017, the new songs are added, [the whole song crawling process and data analysis] (http://jackeygao.io /words/crawl-ci.html).
 
 
-## 数据分析
+## data analysis
 
-一些简单的高频分析
+Some simple high frequency analysis
 
-|唐诗高频词|唐诗作者作品榜|
+|Tang Shi high frequency words|Tang poetry author list|
 | :---: | :---: |
-| ![唐诗高频词](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/tang_text_topK.png "唐诗高频词")| ![唐诗作者作品榜](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/tang_author_topK.png "唐诗作者作品榜")|
-|宋诗高频词|宋诗作者作品榜|
-| ![宋诗高频词](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/song_text_topK.png "宋诗高频词" )| ![宋诗作者作品榜](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/song_author_topK.png "宋诗作者作品榜")|
-|宋词高频词|宋词作者作品榜|
-| ![宋词高频词](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/ci_words_topK.png "宋词高频词")  |![宋词作者作品榜](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/ci_author_topK.png "宋词作者作品榜") |
+| [[Tang Shi high-frequency words] (https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/tang_text_topK.png "Tang Shi high-frequency words")| ![Tang poetry author list] ( https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/tang_author_topK.png "Tang poetry author list")|
+|Song Shi high-frequency words|Song poetry author list|
+| [[Song Shi high-frequency words] (https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/song_text_topK.png "Song Shi high-frequency words")| ![宋诗作者作品榜](https ://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/song_author_topK.png "Song Poetry Author List")|
+|Song word high frequency words|宋词作者作品榜|
+| ![宋词高频词](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/ci_words_topK.png "Song Word High Frequency Words") |![宋词作者作品榜榜]( https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/ci_author_topK.png "Songwriter Author List") |
 
-|两宋喜欢的词牌名|
+| Songs like the name of the word |
 | :---: |
-|![两宋喜欢的词牌名](https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/ci_rhythmic_topK.png)|
+|![The name of the songs that the two Songs like] (https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/ci_rhythmic_topK.png)|
 
-## 数据分发形式
+## Data distribution form
 
-古诗数据分发采用繁体字的分组JSON文件, 保留繁体能更大程度地保存原数据. 宋词数据分发采用sqlite数据库, 使用简体字(无原因, 采集源就是简体, 如需繁体请自行转换).
+The ancient poetry data distribution uses traditional Chinese character group JSON files, retaining the traditional Chinese to save the original data to a greater extent. The Song word data distribution uses the sqlite database, using simplified characters (no reason, the collection source is simplified, if you need to convert in traditional Chinese).
 
-### 其他类型结构数据
+### Other type structure data
 
-- [chinese-poetry](https://github.com/chinese-poetry) **/** [chinese-poetry-zhCN](https://github.com/chinese-poetry/chinese-poetry-zhCN) 简体中文版本数据
-- [KomaBeyond](https://github.com/KomaBeyond) **/** [chinese-poetry-mysql](https://github.com/KomaBeyond/chinese-poetry-mysql) 适用于mysql数据库的格式数据
+- [chinese-poetry](https://github.com/chinese-poetry) **/** [chinese-poetry-zhCN](https://github.com/chinese-poetry/chinese-poetry-zhCN) Simplified Chinese version data
+- [KomaBeyond](https://github.com/KomaBeyond) **/** [chinese-poetry-mysql](https://github.com/KomaBeyond/chinese-poetry-mysql) for mysql database format data
 
-### 转换数据库格式工具
+### Convert Database Format Tool
 
-- [chinese-poetry-to-mysql-tool](https://github.com/woodylan/chinese-poetry-to-mysql-tool) 转换成sql文件的脚本
+- [chinese-poetry-to-mysql-tool](https://github.com/woodylan/chinese-poetry-to-mysql-tool) script converted to sql file
 
-### 古诗JSON结构
+### Ancient poetry JSON structure
 
 ```text
 [
-  {
-    "strains": [
-      "平平平仄仄，平仄仄平平。",
-      "仄仄平平仄，平平仄仄平。",
-      "平平平仄仄，平仄仄平平。",
-      "平仄仄平仄，平平仄仄平。"
-    ],
-    "author": "太宗皇帝",
-    "paragraphs": [
-      "秦川雄帝宅，函谷壯皇居。",
-      "綺殿千尋起，離宮百雉餘。",
-      "連甍遙接漢，飛觀迥凌虛。",
-      "雲日隱層闕，風煙出綺疎。"
-    ],
-    "title": "帝京篇十首 一"
-  },
-  ... 每单个JSON文件1000条唐诗记录.
+  {
+    "strains": [
+      "Ping Ping Ping, Ping Ping Ping Ping.",
+      "仄仄平平仄, 平平平平.",
+      "Ping Ping Ping, Ping Ping Ping Ping.",
+      "Ping 仄仄 flat, flat and flat."
+    ],
+    "author": "The Emperor Taizong",
+    "paragraphs": [
+      "Qin Chuan Xiong's house, the letter to the valley of the emperor.",
+      "The temple is looking for a thousand, and it’s a hundred miles away."
+      "Let's get away with Han, fly to see Ling Ling.",
+      "The cloud is hidden, and the wind is blowing out."
+    ],
+    "title": "The Ten Kings of the Imperial Palace"
+  },
+  ... 1000 Tang poem records per single JSON file.
 ]
 ```
-### 作者JSON结构
+### Author JSON Structure
 
 ```json
 [
-  {
-    "name": "太宗皇帝",
-    "desc": "帝姓李氏，諱世民，神堯次子，聰明英武。貞觀之治，庶幾成康，功德兼隆。由漢以來，未之有也。而銳情經術，初建秦邸，即開文學館，召名儒十八人爲學士。既即位，殿左置弘文館，悉引內學士，番宿更休。聽朝之間，則與討論典籍，雜以文詠。或日昃夜艾，未嘗少怠。詩筆草隸，卓越前古。至於天文秀發，沈麗高朗，有唐三百年風雅之盛，帝實有以啓之焉。在位二十四年，諡曰文。集四十卷。館閣書目，詩一卷，六十九首。今編詩一卷。"
-  },
-  ...
+  {
+    "name": "The Emperor Taizong",
+    "desc": "The emperor surnamed Li, the ancestors of the world, the second son of the gods, the wise and the martial arts. The rule of the priests, the martial arts, the merits and the glory. Since the Han, there has been nothing. And the sharp love, the early Qin Hey, that is, open the Literary Museum, and call the Confucian scholars as a bachelor. As a pre-position, the temple will be placed in the Hongwen Museum on the left, and the bachelor will be introduced to the school. The audience will be closed to the audience. Or the day and night, Ai, not a small number. Poetry and grass, excellent ancient. As for the astronomical hair, Shen Ligao Lang, there are three hundred years of elegant elegance, the emperor has a revival. In the twenty-four years, Yan Wen. Set forty volumes. The library catalogue, a volume of poems, sixty-nine. This is a volume of poems."
+  },
+  ...
 ]
 ```
 
-## 案例展示
+## Case show
 
-- [animalize](https://github.com/animalize) **/** [QuanTangshi](https://github.com/animalize/QuanTangshi)  *离线全唐诗 Android*
-- [justdark](https://github.com/justdark) **/** [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen)  *a char-RNN based on pytorch*
-- [Clover27](https://github.com/Clover27) **/** [ancient-Chinese-poem-generator](https://github.com/Clover27/ancient-Chinese-poem-generator)  *Ancient-Chinese-Poem-Generator*
-- [chinese-poetry](https://github.com/chinese-poetry) **/** [poetry-calendar](http://shici.store/poetry-calendar/)  *诗词周历*
-- [chenyuntc](https://github.com/chenyuntc) **/** [pytorch-book](https://github.com/chenyuntc/pytorch-book/blob/master/chapter9-神经网络写诗(CharRNN)/) *简体唐诗生成(char-RNN), 可生成藏头诗,自定义诗歌意境,前缀等*
-- [okcy1016](https://github.com/okcy1016) **/** [poetry-desktop](https://github.com/okcy1016/poetry-desktop/) *诗词桌面*
+- [animalize](https://github.com/animalize) **/** [QuanTangshi](https://github.com/animalize/QuanTangshi) *Offline Full Tang Poetry Android*
+- [justdark](https://github.com/justdark) **/** [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen) *a char-RNN based On pytorch*
+- [Clover27](https://github.com/Clover27) **/** [ancient-Chinese-poem-generator](https://github.com/Clover27/ancient-Chinese-poem-generator) *Ancient -Chinese-Poem-Generator*
+- [chinese-poetry](https://github.com/chinese-poetry) **/** [poetry-calendar](http://shici.store/poetry-calendar/) *Poetry Weekly*
+- [chenyuntc](https://github.com/chenyuntc) **/** [pytorch-book](https://github.com/chenyuntc/pytorch-book/blob/master/chapter9-Neural Network Writing Poetry (CharRNN)/) *Simplified Tang poetry generation (char-RNN), can generate Tibetan poetry, custom poetry mood, prefix, etc.*
+- [okcy1016](https://github.com/okcy1016) **/** [poetry-desktop](https://github.com/okcy1016/poetry-desktop/) *Poetry Desktop*
 
-### 公众号
+### No public
 
 - **PoemSearcher**
 
 
-## 贡献&讨论
+## Contribution & Discussion
 
-提交issue来优化完善此数据库, 你也可以联系我的邮箱 gaojunqi@outlook.com
+Submit an issue to optimize this database, you can also contact my email gaojunqi@outlook.com
 
-创建和维护`chinese-poetry`需要花费很多的时间和资源. 如果此数据库对您有很大的帮助, 请酌情考虑[打赏作者](https://jackeygao.io/donation.html).
+Creating and maintaining `chinese-poetry` takes a lot of time and resources. If this database is very helpful, please consider [rewarding authors] (https://jackeygao.io/donation.html) as appropriate.
 
 <img src="https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/WechatIMG1.jpeg" width="150" height="200" />
 
 
 ## License
 
-[MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) 许可证.
+[MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) License.
