@@ -31,7 +31,7 @@
 
 ## 数据集合
 
-- 全唐诗 [json](https://github.com/chinese-poetry/chinese-poetry/tree/master/wudai)
+- 全唐诗 [json](https://github.com/chinese-poetry/chinese-poetry/tree/master/json)
 - 全宋诗 [json](https://github.com/chinese-poetry/chinese-poetry/tree/master/json)
 - 全宋词 [ci](https://github.com/chinese-poetry/chinese-poetry/tree/master/ci)
 - 五代·花间集 [wudai](https://github.com/chinese-poetry/chinese-poetry/tree/master/wudai/%E8%8A%B1%E9%97%B4%E9%9B%86)
