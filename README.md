@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/chinese-poetry/chinese-poetry.svg?branch=master)](https://travis-ci.org/chinese-poetry/chinese-poetry)
 [![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://github.com/jackeyGao/chinese-poetry/blob/master/LICENSE)
 [![](https://img.shields.io/github/contributors/chinese-poetry/chinese-poetry.svg)](https://github.com/chinese-poetry/chinese-poetry/graphs/contributors)
+[![Backers on Open Collective](https://opencollective.com/chinese-poetry/backers/badge.svg)](#backers) 
+[![Sponsors on Open Collective](https://opencollective.com/chinese-poetry/sponsors/badge.svg)](#sponsors)
 
 [中文诗歌主页](https://shici.store)是一个基于浏览器的诗词网站， 包含唐诗三百首、宋词三百首等文集.
 
@@ -63,6 +65,36 @@
 创建和维护`chinese-poetry`需要花费很多的时间和资源. 如果此数据库对您有很大的帮助, 请酌情考虑[打赏作者](https://jackeygao.io/donation.html).
 
 <img src="https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/WechatIMG1.jpeg" width="150" height="200" />
+
+
+## Contributors
+
+This project exists thanks to all the people who contribute. 
+<a href="https://github.com/chinese-poetry/chinese-poetry/graphs/contributors"><img src="https://opencollective.com/chinese-poetry/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/chinese-poetry#backer)]
+
+<a href="https://opencollective.com/chinese-poetry#backers" target="_blank"><img src="https://opencollective.com/chinese-poetry/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/chinese-poetry#sponsor)]
+
+<a href="https://opencollective.com/chinese-poetry/sponsor/0/website" target="_blank"><img src="https://opencollective.com/chinese-poetry/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/chinese-poetry/sponsor/1/website" target="_blank"><img src="https://opencollective.com/chinese-poetry/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/chinese-poetry/sponsor/2/website" target="_blank"><img src="https://opencollective.com/chinese-poetry/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/chinese-poetry/sponsor/3/website" target="_blank"><img src="https://opencollective.com/chinese-poetry/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/chinese-poetry/sponsor/4/website" target="_blank"><img src="https://opencollective.com/chinese-poetry/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/chinese-poetry/sponsor/5/website" target="_blank"><img src="https://opencollective.com/chinese-poetry/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/chinese-poetry/sponsor/6/website" target="_blank"><img src="https://opencollective.com/chinese-poetry/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/chinese-poetry/sponsor/7/website" target="_blank"><img src="https://opencollective.com/chinese-poetry/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/chinese-poetry/sponsor/8/website" target="_blank"><img src="https://opencollective.com/chinese-poetry/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/chinese-poetry/sponsor/9/website" target="_blank"><img src="https://opencollective.com/chinese-poetry/sponsor/9/avatar.svg"></a>
+
 
 
 ## License
