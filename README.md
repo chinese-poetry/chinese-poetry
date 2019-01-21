@@ -39,6 +39,7 @@
 - 论语 [lunyu](https://github.com/chinese-poetry/chinese-poetry/tree/master/lunyu)
 - 诗经 [shijing](https://github.com/chinese-poetry/chinese-poetry/tree/master/shijing)
 - 幽梦影 [youmengying](https://github.com/chinese-poetry/chinese-poetry/tree/master/youmengying)
+- 四书五经 [sishuwujing](https://github.com/chinese-poetry/chinese-poetry/tree/master/sishuwujing)
 
 **待补充**
 
