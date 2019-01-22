@@ -39,6 +39,7 @@
 - 论语 [lunyu](https://github.com/chinese-poetry/chinese-poetry/tree/master/lunyu)
 - 诗经 [shijing](https://github.com/chinese-poetry/chinese-poetry/tree/master/shijing)
 - 幽梦影 [youmengying](https://github.com/chinese-poetry/chinese-poetry/tree/master/youmengying)
+- 四书五经 [sishuwujing](https://github.com/chinese-poetry/chinese-poetry/tree/master/sishuwujing)
 
 **待补充**
 
@@ -58,7 +59,12 @@
 
 ## 贡献&讨论
 
-提交issue来优化完善此数据库, 你也可以联系我的邮箱 gaojunqi@outlook.com
+<p align="center">
+<img src="https://opencollective.com/chinese-poetry/contributors.svg?width=890&button=false" alt="Contributors">
+</p>
+
+
+提交PR或者通过issue讨论来优化完善此数据库, 你也可以联系我的邮箱 gaojunqi@outlook.com
 
 创建和维护`chinese-poetry`需要花费很多的时间和资源. 如果此数据库对您有很大的帮助, 请酌情考虑[打赏作者](https://jackeygao.io/donation.html).
 
