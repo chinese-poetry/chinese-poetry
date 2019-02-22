@@ -1,34 +1,43 @@
 #! -*- coding: utf-8 -*-
-import os, json, sqlite3
+# import sqlite3
+import os
+import json
+import sys
+import traceback
+import functools
 
-def check_json(f):
-    filepath = os.path.join('./json', f)
+
+def check_json(f, _dir):
+    if not f.endswith('.json'):
+        return True
+
+    filepath = os.path.join(_dir, f)
     with open(filepath) as file:
         try:
             _ = json.loads(file.read())
             return True
         except:
+            sys.stderr.write(traceback.format_exc())            
             assert False, u"校验(%s)失败" % f
 
 
-def test_json():
-    """
-        测试古诗JSON文件是否有效
-    """
-    map(check_json, os.listdir('./json'))
+def __check_path__(path):
+    """校验 指定目录 中的 json 文件"""
+    [ check_json(f, path) for f in os.listdir(path) ]
 
 
+test_shi = functools.partial(__check_path__, './json')
 
-def test_sqlite():
-    """
-        测试ci数据库文件是否有效
-    """
-    conn = sqlite3.connect('./ci/ci.db')
+test_ci = functools.partial(__check_path__, './ci')
 
-    c = conn.cursor()
+test_shijing = functools.partial(__check_path__, './shijing')
 
-    c.execute("SELECT name FROM sqlite_master WHERE type='table'")
+test_lunyu = functools.partial(__check_path__, './lunyu')
 
-    tables = c.fetchall()
-    
-    assert len(tables) == 2, u"Sqlite文件异常"
+test_huajianji = functools.partial(__check_path__, u'./wudai/花间集/')
+
+test_nantang2 = functools.partial(__check_path__, u'./wudai/南唐二主词/')
+
+test_youmengying = functools.partial(__check_path__, u'./youmengying/')
+
+test_sishuwujing = functools.partial(__check_path__, u'./sishuwujing/')
