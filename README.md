@@ -68,7 +68,7 @@
 npm install chinese-poetry --save
 ```
 
-使用 `chinese-poetry` 包中数据。
+使用 [`chinese-poetry`](https://www.npmjs.com/package/chinese-poetry) 包中数据。
 
 ```js
 import poetry from 'chinese-poetry/lunyu/lunyu.json';
