@@ -1,0 +1,30 @@
+{
+  "name": "chinese-poetry",
+  "version": "1.0.0",
+  "description": "最全中华古诗词数据库，唐宋两朝近一万四千古诗人，接近 5.5 万首唐诗加 26 万宋诗. 两宋时期1564位词人，21050首词。",
+  "files": [
+    "json",
+    "ci",
+    "wudai",
+    "lunyu",
+    "shijing",
+    "youmengying",
+    "sishuwujing",
+    "mengxue"
+  ],
+  "keywords": [
+    "chinese-poetry",
+    "chinese",
+    "poetry"
+  ],
+  "author": "JG <gaojunqi@outlook.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinese-poetry/chinese-poetry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chinese-poetry/chinese-poetry/issues"
+  },
+  "homepage": "http://shici.store"
+}

@@ -57,6 +57,22 @@
 - [okcy1016](https://github.com/okcy1016) **/** [poetry-desktop](https://github.com/okcy1016/poetry-desktop/) *诗词桌面*
 - [huangjianke](https://github.com/huangjianke) **/** [weapp-poem](https://github.com/huangjianke/weapp-poem/) *诗词墨客 小程序版*
 
+## NPM
+
+安装《中文诗歌古典文集》包。
+
+> package size:  55.5 MB  
+> unpacked size: 204.6 MB  
+
+```bash
+npm install chinese-poetry --save
+```
+
+使用 `chinese-poetry` 包中数据。
+
+```js
+import poetry from 'chinese-poetry/lunyu/lunyu.json';
+```
 
 ## 贡献&讨论
 
