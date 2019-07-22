@@ -6,7 +6,7 @@
 
 [中文诗歌主页](https://shici.store)是一个基于浏览器的诗词网站， 包含唐诗三百首、宋词三百首等文集.
 
-最全的中华古典文集数据库, 包含5.5万首唐诗、26万首宋诗和2.1万首宋词. 唐宋两朝近1.4万古诗人, 和两宋时期1.5K词人. 数据来源于互联网. 
+最全的中华古典文集数据库, 包含5.5万首唐诗、26万首宋诗和2.1万首宋词. 唐宋两朝近1.4万古诗人, 和两宋时期1.5K词人. 数据来源于互联网.
 
 **为什么要做这个仓库?** 古诗是中华民族乃至全世界的瑰宝, 我们应该传承下去, 虽然有古典文集, 但大多数人并没有拥有这些书籍. 从某种意义上来说, 这些庞大的文集离我们是有一定距离的。而电子版方便拷贝, 所以此开源数据库诞生了. 你可以用此数据做任何有益的事情， 甚至我也可以帮助你.
 
@@ -40,10 +40,11 @@
 - 诗经 [shijing](https://github.com/chinese-poetry/chinese-poetry/tree/master/shijing)
 - 幽梦影 [youmengying](https://github.com/chinese-poetry/chinese-poetry/tree/master/youmengying)
 - 四书五经 [sishuwujing](https://github.com/chinese-poetry/chinese-poetry/tree/master/sishuwujing)
+- 蒙學 [mengxue](./mengxue)
 
 **待补充**
 
-- 清代诗词 
+- 清代诗词
 - 元曲
 
 ## 案例展示
@@ -73,4 +74,4 @@
 
 ## License
 
-[MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) 许可证. 
+[MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) 许可证.
