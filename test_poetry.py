@@ -34,9 +34,9 @@ test_shijing = functools.partial(__check_path__, './shijing')
 
 test_lunyu = functools.partial(__check_path__, './lunyu')
 
-test_huajianji = functools.partial(__check_path__, u'./wudai/花间集/')
+test_huajianji = functools.partial(__check_path__, u'./wudai/huajianji/')
 
-test_nantang2 = functools.partial(__check_path__, u'./wudai/南唐二主词/')
+test_nantang2 = functools.partial(__check_path__, u'./wudai/nantang/')
 
 test_youmengying = functools.partial(__check_path__, u'./youmengying/')
 
