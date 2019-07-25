@@ -10,7 +10,7 @@
 
 **为什么要做这个仓库?** 古诗是中华民族乃至全世界的瑰宝, 我们应该传承下去, 虽然有古典文集, 但大多数人并没有拥有这些书籍. 从某种意义上来说, 这些庞大的文集离我们是有一定距离的。而电子版方便拷贝, 所以此开源数据库诞生了. 你可以用此数据做任何有益的事情， 甚至我也可以帮助你.
 
-古诗采集没有记录过程， 因为古诗数据庞大，目标网站有限制, 采集过程经常中断超过了一个星期.2017年新加入全宋词, [全宋词爬取过程及数据分析](http://jackeygao.io/words/crawl-ci.html).
+古诗采集没有记录过程， 因为古诗数据庞大，目标网站有限制, 采集过程经常中断超过了一个星期.2017年新加入全宋词, [全宋词爬取过程及数据分析](https://ijg.io/r/words/crawl-ci.html).
 
 
 ## 数据分析
@@ -65,9 +65,9 @@
 </p>
 
 
-提交PR或者通过issue讨论来优化完善此数据库, 你也可以联系我的邮箱 gaojunqi@outlook.com
+提交PR或者通过issue讨论来优化完善此数据库, 请[参考贡献规范文档](https://github.com/chinese-poetry/chinese-poetry/wiki/%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE%E8%A7%84%E8%8C%83)。 你也可以联系我的邮箱 gaojunqi@outlook.com
 
-创建和维护`chinese-poetry`需要花费很多的时间和资源. 如果此数据库对您有很大的帮助, 请酌情考虑[打赏作者](https://jackeygao.io/donation.html).
+或者联系我的微信号
 
 <img src="https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/images/WechatIMG1.jpeg" width="150" height="200" />
 
