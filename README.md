@@ -8,16 +8,19 @@
 
 <p align="center">
   <a href="https://travis-ci.org/chinese-poetry/chinese-poetry" rel="nofollow">
-    <img alt="Build Status" src="https://img.shields.io/travis/chinese-poetry/chinese-poetry?style=for-the-badge" style="max-width:100%;">
+    <img height="28px" alt="Build Status" src="https://img.shields.io/travis/chinese-poetry/chinese-poetry?style=for-the-badge" style="max-width:100%;">
   </a>
-  <a href="https://github.com/jackeyGao/chinese-poetry/blob/master/LICENSE">
-    <img alt="License" src="http://img.shields.io/badge/license-mit-blue.svg?style=for-the-badge" style="max-width:100%;">
+  <a href="https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE">
+    <img height="28px" alt="License" src="http://img.shields.io/badge/license-mit-blue.svg?style=for-the-badge" style="max-width:100%;">
   </a>
   <a href="https://github.com/chinese-poetry/chinese-poetry/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/chinese-poetry/chinese-poetry.svg?style=for-the-badge" style="max-width:100%;">
+    <img height="28px" alt="Contributors" src="https://img.shields.io/github/contributors/chinese-poetry/chinese-poetry.svg?style=for-the-badge" style="max-width:100%;">
   </a>
   <a href="https://www.patreon.com/jackeygao" rel="nofollow">
-    <img alt="Patreon" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fjackeygao%2Fpledges&amp;style=for-the-badge" style="max-width:100%;">
+    <img height="28px" alt="Patreon" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fjackeygao%2Fpledges&amp;style=for-the-badge" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/chinese-poetry/chinese-poetry/" rel="nofollow">
+    <img alt="HitCount" height="28px" src="http://hits.dwyl.io/chinese-poetry/chinese-poetry.svg" style="max-width:100%;">
   </a>
 </p>
 
