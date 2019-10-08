@@ -5,23 +5,75 @@ let https = require('https');
 let sep = path.sep;
 let delays = {
     baidu: {
-        base: 2 * 1000,
+        base: 1 * 1000,
         delay: 1 * 1000
     },
     bing: {
-        base: 2 * 1000,
+        base: 1 * 1000,
         delay: 1 * 1000
     },
     so360: {
-        base: 1 * 1000,
+        base: 5 * 1000,
         delay: 1 * 1000
     },
     google: {
-        base: 1 * 1000,
-        delay: 1 * 1000
+        base: 1.2 * 1000,
+        delay: 0.8 * 1000
     }
-}
-let wait = second => new Promise(r => { setTimeout(r, second * 1000); });
+};
+
+let fixLessNums = {
+    baidu: [0, 0],
+    google: [0, 100],
+    bing: [0, 50],//
+    bing_en: [0, 50],
+    so360: [0, 0]
+};
+let bingSpecialNumbers = {
+    // 12300: 1,
+    // 12400: 1,
+    // 12500: 1,
+    // 12600: 1,
+    // 12700: 1,
+    // 12800: 1,
+    // 12900: 1
+};
+let Zeros = {};
+let ZerosFile = {};
+let format = (type, complete, total, zero, tail) => {
+    let diff = 6 - type.length;
+    let pad = '';
+    while (diff--) {
+        pad += ' ';
+    }
+    type = pad + type;
+    diff = 4 - String(complete).length;
+    pad = '';
+    while (diff--) {
+        pad += ' ';
+    }
+    complete = pad + complete;
+    diff = 4 - String(total).length;
+    pad = '';
+    while (diff--) {
+        pad += ' ';
+    }
+    total = pad + total;
+    return `${type}:${complete}/${total} [${zero}]${tail ? ' ' + tail : ''}`;
+};
+
+let canVisitGoogle = false;
+let checkGoogle = async () => {
+    return new Promise(resolve => {
+        setTimeout(resolve, 3000);
+        https.get('https://www.google.com/search?q=xinglie', res => {
+            if (res.statusCode == 200) {
+                canVisitGoogle = true;
+            }
+            resolve();
+        }).on('error', resolve);
+    });
+};
 //使用chrome模拟访问
 let headless = {
     before() {
@@ -47,24 +99,63 @@ let headless = {
             }
         });
     },
-    async toUrl(url, pi) {
+    async toUrl(url, pi, kd) {
         let text = '',
             retry = 3;
+        let sleep = time => {
+            return new Promise(resolve => {
+                setTimeout(resolve, time);
+            });
+        }
         let request = async () => {
             let local = this.$local;
             let pages = await local.pages();
             let page = pages[pi];
             let d = await page.goto(url, {
-                waitUntil: 'networkidle0'
+                waitUntil: 'domcontentloaded',
+                timeout: 10000
             });
-            text = await d.text();
+            //console.log(url)
+            //let cookies = await page.cookies();
+            //await page.deleteCookie(...cookies);
+            if (url.includes('baidu.com')) {
+                if (!headless.$btf) {
+                    await page.bringToFront();
+                    headless.$btf = true;
+                }
+                await page.waitFor('#kw');
+                await page.type('#kw', decodeURIComponent(kd), { delay: 60 });
+                await sleep(1000 + (canVisitGoogle ? 0 : 3000));
+
+                text = await page.$eval('body', e => e.innerHTML);
+                let nums = 0;
+                text = String(text).replace(/<(script|style)[^>]*>[\s\S]*?<\/\1>/g, '');
+                text.replace(/百度为您找到相关结果约([\d,]+)个/, (_, m) => {
+                    nums = parseInt(m.replace(/,/g, ''), 10);
+                });
+                if (nums === 0) {
+                    input = await page.$('#su');
+                    input.click();
+                    await sleep(1000 + (canVisitGoogle ? 0 : 4000));
+                    text = await page.$eval('body', e => e.innerHTML);
+                } else {
+                    //console.log('baidu auto query');
+                }
+                //console.log(text);
+            } else if (url.includes('bing.com')) {
+                await sleep(canVisitGoogle ? 300 : 1000);
+                text = await page.$eval('body', e => e.innerHTML);
+            } else {
+                text = await d.text();
+            }
         };
         do {
             try {
                 await request();
                 break;
-            } catch{
-                console.log('retry', retry);
+            } catch (ex) {
+                await sleep(5000);
+                console.log('retry', retry, ex);
                 retry--;
             }
         } while (retry);
@@ -88,7 +179,7 @@ let rank = {
         return new Promise(async r => {
             let maps = {
                 baidu: {
-                    url: `https://www.baidu.com/s?wd=${kd}&rsv_spt=1&ie=utf-8&f=8`,
+                    url: `https://www.baidu.com/`,
                     reg: /百度为您找到相关结果约([\d,]+)个/,
                     page: 0,
                 },
@@ -99,26 +190,41 @@ let rank = {
                 },
                 google: {
                     url: `https://www.google.com/search?q=${kd}`,
-                    reg: /(?:找到约|About)\s*([\d,]+)\s*(?:条结果|results)/,
+                    reg: /(?:找到约|About)?\s*([\d,]+)\s*(?:条结果|results)/,
                     page: 2
                 },
                 bing: {
-                    url: `https://cn.bing.com/search?q=${kd}&FORM=BESBTB`,
-                    reg: /<span\s+class="sb_count">([\d,]+)\s+(?:results|条结果)<\/span>/,
+                    url: `https://cn.bing.com/search?q=${kd}&FORM=BESBTB&ensearch=0`,
+                    reg: />([\d,]+)\s*(?:results|条结果)<\/span>/i,
                     page: 3
+                },
+                bing_en: {
+                    url: `https://cn.bing.com/search?q=${kd}&FORM=BESBTB&ensearch=1`,
+                    reg: />([\d,]+)\s*(?:results|条结果)<\/span>/i,
+                    page: 4
                 }
             };
             let i = maps[type];
-            let text = await headless.toUrl(i.url, i.page);
+            let ii = maps.bing_en;
+            let [text, newText] = await Promise.all([headless.toUrl(i.url, i.page, kd), type == 'bing' ? headless.toUrl(ii.url, ii.page, kd) : Promise.resolve('')]);
             let nums = 0;
             text = String(text).replace(/<(script|style)[^>]*>[\s\S]*?<\/\1>/g, '');
             text.replace(i.reg, (_, m) => {
-                //console.log(m);
                 nums = parseInt(m.replace(/,/g, ''), 10);
             });
-            r({
+            let enNum = 0;
+            if (type == 'bing') {
+                newText.replace(ii.reg, (_, m) => {
+                    enNum = parseInt(m.replace(/,/g, ''), 10);
+                });
+            }
+            let res = {
                 [type]: nums
-            });
+            };
+            if (type == 'bing') {
+                res.bing_en = enNum;
+            }
+            r(res);
         });
     },
     read(file) {
@@ -151,45 +257,31 @@ let rank = {
         fs.writeFileSync(to, content);
     }
 };
+
+let ciReg = /ci\.song\.\d+y?\.json$/;
 let ciTask = async () => {
     return new Promise(resolve => {
-        let ciReg = /ci\.song\.\d+\.json$/;
-        let ciRankReg = /ci\.song\.rank\.\d+\.json$/;
         let readList = {};
-        let exist = {};
-        rank.list('./ci', f => {
-            if (ciRankReg.test(f)) {
-                exist[path.basename(f).replace('ci.song.rank', 'ci.song')] = 1;
+        let caches = {};
+        let cList = ['baidu', 'so360', 'bing'];
+        if (canVisitGoogle) {
+            cList.push('google');
+        }
+
+        for (let c of cList) {
+            caches[c] = Object.create(null);
+        }
+        for (let c of cList) {
+            if (fs.existsSync('./s.' + c + '.cache')) {
+                let d = rank.read('./s.' + c + '.cache');
+                let j = JSON.parse(d);
+                if (!caches[c]) caches[c] = {};
+                Object.assign(caches[c], j);
             }
-        });
-        rank.list('../ci', f => {
-            if (ciReg.test(f)) {
-                let base = path.basename(f);
-                if (!exist[base]) {
-                    readList[path.resolve(f)] = 1;
-                }
-            }
-        });
-        if (fs.existsSync('./s.cache')) {
-            let c = rank.read('./s.cache');
-            let j = JSON.parse(c);
-            for (let p in j) {
-                let a = j[p];
-                if (a.baidu === 0) {
-                    delete j[p];
-                }
-                // for (let z in a) {
-                //     if (a[z] === 0) {
-                //         delete j[p];
-                //         break;
-                //     }
-                // }
-            }
-            Object.assign(cache, j);
         }
         let loadList = Object.keys(readList);
 
-        let singleWork = file => {
+        let singleWork = (file, type) => {
             let ranks = [];
             let zeros = [];
             return new Promise(resolve => {
@@ -200,89 +292,99 @@ let ciTask = async () => {
                         let r = list[start];
                         let kd = encodeURIComponent(`${r.author} ${r.rhythmic}`);
                         let data,
-                            delay = 0,
-                            zeroRetry = 3;
-                        if (cache[kd]) {
-                            data = cache[kd];
+                            delay = 0;
+                        if (caches[type][kd]) {
+                            data = caches[type][kd];
                         } else {
-                            do {
-                                data = await rank.remote(kd);
-                                let hasZero = false;
-                                for (let p in data) {
-                                    if (data[p] === 0) {
-                                        hasZero = true;
-                                        break;
-                                    }
-                                }
-                                if (!hasZero) {
-                                    zeroRetry = 0;
-                                } else {
-                                    console.log('has zero retry', zeroRetry);
-                                    await wait(3);
-                                    zeroRetry--;
-                                }
-                            } while (zeroRetry);
+                            data = await rank.remote(kd, type);
                             data.author = r.author;
                             data.rhythmic = r.rhythmic;
-                            cache[kd] = data;
-                            //let dl = delays[type];
-                            //delay = dl.base + dl.delay * Math.random();
-                        }
-                        for (let p in data) {
-                            if (data[p] === 0) {
-                                zeros.push(data);
-                                break;
+                            caches[type][kd] = data;
+                            let dl = delays[type];
+                            delay = dl.base + dl.delay * Math.random();
+                            if (start && ((start % 2) === 0)) {
+                                rank.write('./s.' + type + '.cache', JSON.stringify(caches[type]));
                             }
                         }
-                        if (start && ((start % 5) === 0)) {
-                            rank.write('./s.cache', JSON.stringify(cache, null, 4));
+                        let less = fixLessNums[type],
+                            bingEnLess = fixLessNums.bing_en;
+                        if ((data[type] >= less[0] &&
+                            data[type] <= less[1]) ||
+                            (type == 'bing' &&
+                                data.bing_en <= bingEnLess[1] &&
+                                data.bing_en >= bingEnLess[0])) {
+                            zeros.push(data);
+                            Zeros[type]++;
                         }
                         ranks.push(data);
-                        console.log(start + '/' + list.length);
+                        let tail = `(${data[type]}`;
+                        if (type == 'bing') {
+                            tail += `,${data.bing_en}`;
+                        }
+                        tail += ')';
+                        console.log(format(type, start, list.length, Zeros[type], tail));
                         start++;
                         setTimeout(task, delay);
                     } else {
-                        rank.write('./s.cache', JSON.stringify(cache, null, 4));
+                        rank.write('./s.' + type + '.cache', JSON.stringify(caches[type]));
                         resolve([ranks, zeros]);
                     }
                 };
                 task();
             });
         };
-        let work = async list => {
-            let one = list.pop();
-            if (one) {
-                console.log('ci remain ', list.length);
-                let f = path.basename(one);
-                let aim = f.replace('ci.song', 'ci.song.rank');
-                let zeroAim = f.replace('ci.song', 'ci.song.zero');
-                let [ranks, zeros] = await singleWork(one);
-                rank.write('./ci/' + aim, JSON.stringify(ranks, null, 4));
-                if (zeros.length) {
-                    rank.write('./ci/' + zeroAim, JSON.stringify(zeros, null, 4));
+        let finised = {};
+        let check = () => {
+            let all = true;
+            for (let c of cList) {
+                if (finised[c] !== true) {
+                    all = false;
                 }
-                cache = Object.create(null);//文件写入后，清理缓存
-                work(list);
-            } else {
-                console.log('ci complete');
+            }
+            if (all) {
                 resolve();
             }
         };
-        work(loadList);
-    });
-};
-let canVisitGoogle = false;
-let checkGoogle = async () => {
-    return new Promise(resolve => {
-        https.get('https://www.google.com/search?q=xinglie', res => {
-            if (res.statusCode == 200) {
-                canVisitGoogle = true;
+        let work = async (type, index, list) => {
+            let one = list[index];
+            if (one) {
+                console.log(`${type} current ${index} ,total:${list.length}`);
+                let f = path.basename(one);
+                let aim = f.replace('ci.song', 'ci.song.rank.' + type);
+                if (!fs.existsSync('./ci_temp/' + aim)) {
+                    //let zeroAim = f.replace(/poet\.(song|tang)/, 'poet.$1.zero.' + type);
+
+                    Zeros[type] = 0;
+                    let [ranks, zeros] = await singleWork(one, type);
+                    rank.write('./ci_temp/' + aim, JSON.stringify(ranks, null, 4));
+                    // if (zeros.length) {
+                    //     rank.write('./poet/' + zeroAim, JSON.stringify(zeros, null, 4));
+                    // }
+
+                    if (Zeros[type] > 0) {
+                        if (!ZerosFile[type]) {
+                            ZerosFile[type] = {};
+                        }
+                        ZerosFile[type][aim] = Zeros[type];
+                        rank.write('./s.zero.cache', JSON.stringify(ZerosFile, null, 4));
+                    }
+                    caches[type] = Object.create(null);//文件写入后，清理缓存
+                    setTimeout(() => {
+                        work(type, index + 1, list);
+                    }, 2 * 1000);
+                } else {
+                    console.log('ignore ' + aim);
+                    work(type, index + 1, list);
+                }
+            } else {
+                finised[type] = true;
+                check();
             }
-            resolve();
-        }).on('error', e => {
-            console.log(e);
-            resolve();
-        });
+        };
+        for (let c of cList) {
+            work(c, 0, loadList);
+        }
+        check();
     });
 };
 let poetReg = /poet\.(song|tang)\.(\d+)\.json$/;
@@ -290,9 +392,12 @@ let poetTask = async () => {
     return new Promise(resolve => {
         let readList = {};
         let caches = {};
-        let cList = ['baidu', 'so360', 'bing'];
+        let cList = ['so360', 'baidu', 'bing'];
         if (canVisitGoogle) {
             cList.push('google');
+            if (!cList.includes('baidu')) {
+                cList.push('baidu');
+            }
         }
 
         for (let c of cList) {
@@ -308,11 +413,6 @@ let poetTask = async () => {
                 let d = rank.read('./s.' + c + '.cache');
                 let j = JSON.parse(d);
                 if (!caches[c]) caches[c] = {};
-                for (let e in j) {
-                    if (j[e][c] === 0) {
-                        delete j[e];
-                    }
-                }
                 Object.assign(caches[c], j);
             }
         }
@@ -331,6 +431,7 @@ let poetTask = async () => {
                             delay = 0
                         if (caches[type][kd]) {
                             data = caches[type][kd];
+                            //console.log(`${type} from cache`);
                         } else {
                             data = await rank.remote(kd, type);
                             data.author = r.author;
@@ -343,14 +444,23 @@ let poetTask = async () => {
                                 rank.write('./s.' + type + '.cache', JSON.stringify(caches[type]));
                             }
                         }
-                        for (let p in data) {
-                            if (data[p] === 0) {
-                                zeros.push(data);
-                                break;
-                            }
+                        let less = fixLessNums[type],
+                            bingEnLess = fixLessNums.bing_en;
+                        if ((data[type] >= less[0] &&
+                            data[type] <= less[1]) ||
+                            (type == 'bing' &&
+                                data.bing_en <= bingEnLess[1] &&
+                                data.bing_en >= bingEnLess[0])) {
+                            zeros.push(data);
+                            Zeros[type]++;
                         }
                         ranks.push(data);
-                        console.log(type + ':' + start + '/' + list.length);
+                        let tail = `(${data[type]}`;
+                        if (type == 'bing') {
+                            tail += `,${data.bing_en}`;
+                        }
+                        tail += ')';
+                        console.log(format(type, start, list.length, Zeros[type], tail));
                         start++;
                         setTimeout(task, delay);
                     } else {
@@ -380,26 +490,187 @@ let poetTask = async () => {
                 let f = path.basename(one);
                 let aim = f.replace(/poet\.(song|tang)/, 'poet.$1.rank.' + type);
                 if (!fs.existsSync('./poet_temp/' + aim)) {
+                    console.log('dest', aim);
                     //let zeroAim = f.replace(/poet\.(song|tang)/, 'poet.$1.zero.' + type);
+                    Zeros[type] = 0;
                     let [ranks, zeros] = await singleWork(one, type);
                     rank.write('./poet_temp/' + aim, JSON.stringify(ranks, null, 4));
+                    if (Zeros[type] > 0) {
+                        if (!ZerosFile[type]) {
+                            ZerosFile[type] = {};
+                        }
+                        ZerosFile[type][aim] = Zeros[type];
+                        rank.write('./s.zero.cache', JSON.stringify(ZerosFile, null, 4));
+                    }
                     // if (zeros.length) {
                     //     rank.write('./poet/' + zeroAim, JSON.stringify(zeros, null, 4));
                     // }
                     caches[type] = Object.create(null);//文件写入后，清理缓存
                     setTimeout(() => {
                         work(type, index + 1, list);
-                    }, 10 * 1000);
+                    }, 2 * 1000);
                 } else {
                     console.log('ignore ' + aim);
                     work(type, index + 1, list);
                 }
             } else {
                 finised[type] = true;
+                check();
             }
         };
         for (let c of cList) {
             work(c, 0, loadList);
+        }
+        check();
+    });
+};
+
+let runLessNumberTask = async (type = 'poet') => {
+    let caches = Object.create(null);
+    let writeCtrl = 0;
+    return new Promise(resolve => {
+        let cList = ['baidu', 'bing'];//'bing','baidu', 'so360',
+        if (canVisitGoogle) {
+            //cList.push('google');
+        }
+        for (let c of cList) {
+            caches[c] = Object.create(null);
+        }
+        let taskList = {};
+        let taskIndex = {};
+        rank.list(`./${type}_temp`, f => {
+            for (let c of cList) {
+                if (f.includes(`.${c}.`)) {
+                    if (!taskList[c]) {
+                        taskList[c] = [];
+                    }
+                    taskList[c].push(f);
+                }
+            }
+        });
+        for (let c of cList) {
+            if (fs.existsSync('./s.' + c + '.index.cache')) {
+                let d = rank.read('./s.' + c + '.index.cache');
+                let i = d.split(',');
+                taskIndex[c] = [parseInt(i[0], 10), parseInt(i[1], 10)];
+            } else {
+                taskIndex[c] = [0, 0];
+            }
+        }
+        let singleWork = (file, type, start) => {
+            let oldCount = 0;
+            return new Promise(resolve => {
+                let list = JSON.parse(rank.read(file));
+                let task = async () => {
+                    if (start < list.length) {
+                        let r = list[start];
+                        let less = fixLessNums[type],
+                            bingEnLess = fixLessNums.bing_en;
+                        if ((r[type] >= less[0] &&
+                            r[type] <= less[1]) ||
+                            (type == 'bing' &&
+                                ((r.bing_en >= bingEnLess[0] &&
+                                    r.bing_en <= bingEnLess[1]) ||
+                                    bingSpecialNumbers[r[type]] === 1 ||
+                                    bingSpecialNumbers[r.bing_en] === 1)
+                            )
+                        ) {
+                            writeCtrl++;
+                            oldCount++;
+                            //console.log(type, 'checked zero at', start);
+                            let kd = encodeURIComponent(`${r.author} ${r.title}`);
+                            let data,
+                                delay = 0,
+                                old = r[type],
+                                old_en = r.bing_en;
+                            if (caches[type][kd]) {
+                                data = caches[type][kd];
+                            } else {
+                                data = await rank.remote(kd, type);
+                                data.author = r.author;
+                                if (type == 'poet') {
+                                    data.title = r.title;
+                                } else {
+                                    data.rhythmic = r.rhythmic;
+                                }
+                                caches[type][kd] = data;
+                            }
+                            let dl = delays[type];
+                            delay = dl.base + dl.delay * Math.random();
+                            if (data[type] > old) {
+                                r[type] = data[type];
+                            } else if (type != 'bing' ||
+                                data.bing_en <= r.bing_en) {
+                                Zeros[type]++;
+                            }
+                            if (type == 'bing' &&
+                                (data.bing_en > r.bing_en ||
+                                    bingSpecialNumbers[r.bing_en] === 1)) {
+                                r.bing_en = data.bing_en;
+                            }
+                            if (writeCtrl % 3 === 0) {
+                                rank.write(file, JSON.stringify(list, null, 4));
+                                rank.write('./s.' + type + '.index.cache', [taskIndex[type][0], start]);
+                                writeCtrl = 0;
+                            }
+                            let tail = '(' + old + '->' + r[type] + '[' + data[type] + ']';
+                            if (type == 'bing') {
+                                tail += ',' + old_en + '->' + r.bing_en + '[' + data.bing_en + ']';
+                            }
+                            tail += ')';
+                            console.log(format(type, start, list.length, oldCount + '=>' + Zeros[type], tail));
+                            start++;
+                            setTimeout(task, delay);
+                        } else {
+                            start++;
+                            task();
+                        }
+                    } else {
+                        resolve(list);
+                    }
+                };
+                task();
+            });
+        };
+        let finised = {};
+        let check = () => {
+            let all = true;
+            for (let c of cList) {
+                if (finised[c] !== true) {
+                    all = false;
+                }
+            }
+            if (all) {
+                resolve();
+            }
+        };
+        let work = async type => {
+            let list = taskList[type];
+            let index = taskIndex[type];
+            let one = list[index[0]];
+            let start = index[1];
+            if (one) {
+                console.log(one);
+                console.log(`${type} current ${index[0]} ,total:${list.length}`);
+                Zeros[type] = 0;
+                let ranks = await singleWork(one, type, start);
+                rank.write(one, JSON.stringify(ranks, null, 4));
+                //caches[type] = Object.create(null);//文件写入后，清理缓存
+                taskIndex[type][0]++;
+                taskIndex[type][1] = 0;
+                rank.write('./s.' + type + '.index.cache', [taskIndex[type][0], 0]);
+                caches[type] = Object.create(null);
+                setTimeout(() => {
+                    work(type);
+                }, 1000);
+            } else {
+                finised[type] = true;
+                rank.write('./s.' + type + '.index.cache', [taskIndex[type][0], 0]);
+                check();
+            }
+        };
+        for (let c of cList) {
+            work(c);
         }
         check();
     });
@@ -423,7 +694,54 @@ let split = () => {
         }
     });
 };
-let merge = () => {
+let mergeCi = () => {
+    let readList = {};
+    let cList = ['baidu', 'so360', 'bing', 'google'];
+    rank.list('../ci', f => {
+        if (ciReg.test(f)) {
+            readList[path.resolve(f)] = 1;
+        }
+    });
+    let loadList = Object.keys(readList);
+    for (let ll of loadList) {
+        let f = path.basename(ll);
+        let aim = f.replace('ci.song', 'ci.song.rank');
+        let zero = f.replace('ci.song', 'ci.song.zero');
+        let newList = [],
+            zeros = [],
+            canMerge = true;
+        for (let c of cList) {
+            let src = f.replace('ci.song', 'ci.song.rank.' + c);
+            if (fs.existsSync('./ci_temp/' + src)) {
+                let d = rank.read('./ci_temp/' + src);
+                let j = JSON.parse(d);
+                for (let i = j.length; i--;) {
+                    newList[i] = Object.assign(newList[i] || {}, j[i]);
+                }
+            } else {
+                canMerge = false;
+            }
+        }
+        if (canMerge) {
+            rank.write('./ci/' + aim, JSON.stringify(newList, null, 4));
+            for (let e of newList) {
+                let hasZero = false;
+                for (let p in e) {
+                    if (e[p] === 0) {
+                        hasZero = true;
+                    }
+                }
+                if (hasZero) {
+                    zeros.push(e);
+                }
+            }
+            if (zeros.length) {
+                rank.write('./ci/' + zero, JSON.stringify(zeros, null, 4));
+            }
+        }
+    }
+};
+let mergePoet = () => {
     let readList = {};
     let cList = ['baidu', 'so360', 'bing', 'google'];
     rank.list('../json', f => {
@@ -435,14 +753,22 @@ let merge = () => {
     for (let ll of loadList) {
         let f = path.basename(ll);
         let aim = f.replace(/poet\.(song|tang)/, 'poet.$1.rank');
+        let zero = f.replace(/poet\.(song|tang)/, 'poet.$1.zero');
         let newList = [],
-            canMerge = true;
+            canMerge = true,
+            zeros = [];
         for (let c of cList) {
             let src = f.replace(/poet\.(song|tang)/, 'poet.$1.rank.' + c);
             if (fs.existsSync('./poet_temp/' + src)) {
                 let d = rank.read('./poet_temp/' + src);
                 let j = JSON.parse(d);
                 for (let i = j.length; i--;) {
+                    if (newList[i]) {
+                        if (newList[i].author != j[i].author ||
+                            newList[i].title != j[i].title) {
+                            throw new Error(`bad info ${src} at ${i}`);
+                        }
+                    }
                     newList[i] = Object.assign(newList[i] || {}, j[i]);
                 }
             } else {
@@ -451,15 +777,65 @@ let merge = () => {
         }
         if (canMerge) {
             rank.write('./poet/' + aim, JSON.stringify(newList, null, 4));
+            // for (let e of newList) {
+            //     let hasZero = false;
+            //     for (let p in e) {
+            //         if (e[p] === 0) {
+            //             hasZero = true;
+            //         }
+            //     }
+            //     if (hasZero) {
+            //         zeros.push(e);
+            //     }
+            // }
+            // if (zeros.length) {
+            //     rank.write('./poet/' + zero, JSON.stringify(zeros, null, 4));
+            // }
         }
     }
+};
+
+let outputBingNumbers = () => {
+    let numbers = {};
+    let result = [];
+    rank.list('./poet_temp', f => {
+        if (f.includes('rank.bing')) {
+            let list = JSON.parse(rank.read(f));
+            for (let e of list) {
+                if (!numbers[e.bing]) {
+                    numbers[e.bing] = 0;
+                }
+                numbers[e.bing]++;
+                if (!numbers[e.bing_en]) {
+                    numbers[e.bing_en] = 0;
+                }
+                numbers[e.bing_en]++;
+            }
+        }
+    });
+    for (let num in numbers) {
+        if (numbers[num] > 1 && num > 10000) {
+            result.push({
+                num,
+                count: numbers[num]
+            });
+        }
+    }
+    result = result.sort((b, a) => a.count - b.count);
+    console.log(result);
 };
 (async () => {
     //merge();
     //await ciTask();
-    await headless.before();
-    await checkGoogle();
-    await poetTask();
-    headless.after();
-    merge();
+    //mergeCi();
+    //outputBingNumbers();
+    //await headless.before();
+    //console.log('check google.com');
+    //await checkGoogle();
+    //console.log('google.com', canVisitGoogle);
+    //await runLessNumberTask('poet');
+    //await runLessNumberTask();
+    //headless.after();
+    //mergePoet();
+    mergePoet();
 })();
