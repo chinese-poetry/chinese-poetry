@@ -1,4 +1,4 @@
-let puppeteer = require('puppeteer');
+//let puppeteer = require('puppeteer');
 let fs = require('fs');
 let path = require('path');
 let https = require('https');
@@ -13,7 +13,7 @@ let delays = {
         delay: 1 * 1000
     },
     so360: {
-        base: 5 * 1000,
+        base: 3 * 1000,
         delay: 1 * 1000
     },
     google: {
@@ -23,11 +23,11 @@ let delays = {
 };
 
 let fixLessNums = {
-    baidu: [0, 0],
-    google: [0, 100],
-    bing: [0, 50],//
-    bing_en: [0, 50],
-    so360: [0, 0]
+    baidu: [0, 100],
+    google: [0, 500],
+    bing: [0, 200],//
+    bing_en: [0, 200],
+    so360: [0, 200]
 };
 let bingSpecialNumbers = {
     // 12300: 1,
@@ -238,7 +238,7 @@ let rank = {
                 let p = folder + sep + file;
                 let stat = fs.lstatSync(p);
                 if (stat.isDirectory()) {
-                    walk(p, callback);
+                    //walk(p, callback);
                 } else {
                     callback(p);
                 }
@@ -263,14 +263,18 @@ let ciTask = async () => {
     return new Promise(resolve => {
         let readList = {};
         let caches = {};
-        let cList = ['baidu', 'so360', 'bing'];
+        let cList = ['so360', 'baidu'];
         if (canVisitGoogle) {
-            cList.push('google');
+            cList.push('google', 'bing');
         }
-
         for (let c of cList) {
             caches[c] = Object.create(null);
         }
+        rank.list('../ci', f => {
+            if (ciReg.test(f)) {
+                readList[path.resolve(f)] = 1;
+            }
+        });
         for (let c of cList) {
             if (fs.existsSync('./s.' + c + '.cache')) {
                 let d = rank.read('./s.' + c + '.cache');
@@ -280,7 +284,6 @@ let ciTask = async () => {
             }
         }
         let loadList = Object.keys(readList);
-
         let singleWork = (file, type) => {
             let ranks = [];
             let zeros = [];
@@ -525,20 +528,20 @@ let poetTask = async () => {
     });
 };
 
-let runLessNumberTask = async (type = 'poet') => {
+let runLessNumberTask = async (cat = 'poet') => {
     let caches = Object.create(null);
     let writeCtrl = 0;
     return new Promise(resolve => {
-        let cList = ['baidu', 'bing'];//'bing','baidu', 'so360',
+        let cList = ['so360'];//'bing','baidu', 'so360',
         if (canVisitGoogle) {
-            //cList.push('google');
+            cList.push('google', 'baidu', 'bing');
         }
         for (let c of cList) {
             caches[c] = Object.create(null);
         }
         let taskList = {};
         let taskIndex = {};
-        rank.list(`./${type}_temp`, f => {
+        rank.list(`./${cat}_temp`, f => {
             for (let c of cList) {
                 if (f.includes(`.${c}.`)) {
                     if (!taskList[c]) {
@@ -578,7 +581,8 @@ let runLessNumberTask = async (type = 'poet') => {
                             writeCtrl++;
                             oldCount++;
                             //console.log(type, 'checked zero at', start);
-                            let kd = encodeURIComponent(`${r.author} ${r.title}`);
+                            let title = cat == 'ci' ? r.rhythmic : r.title;
+                            let kd = encodeURIComponent(`${r.author} ${title}`);
                             let data,
                                 delay = 0,
                                 old = r[type],
@@ -588,7 +592,7 @@ let runLessNumberTask = async (type = 'poet') => {
                             } else {
                                 data = await rank.remote(kd, type);
                                 data.author = r.author;
-                                if (type == 'poet') {
+                                if (cat == 'poet') {
                                     data.title = r.title;
                                 } else {
                                     data.rhythmic = r.rhythmic;
@@ -666,6 +670,7 @@ let runLessNumberTask = async (type = 'poet') => {
             } else {
                 finised[type] = true;
                 rank.write('./s.' + type + '.index.cache', [taskIndex[type][0], 0]);
+                console.log(`${type} finished`);
                 check();
             }
         };
@@ -824,7 +829,31 @@ let outputBingNumbers = () => {
     result = result.sort((b, a) => a.count - b.count);
     console.log(result);
 };
+
+let splitStrains = () => {
+    rank.list('../json', f => {
+        if (poetReg.test(f)) {
+            let file = path.basename(f);
+            let list = JSON.parse(rank.read(f));
+            let aims = JSON.parse(rank.read(`../strains/json/${file}`));
+            let index = 0;
+            for (let e of list) {
+                let strain = aims[index];
+                aims[index] = {
+                    strains: strain,
+                    id: e.id
+                };
+                index++;
+                //delete e.strains;
+            }
+            //rank.write(`../json/${file}`, JSON.stringify(list, null, 4));
+            rank.write(`../strains/json/${file}`, JSON.stringify(aims, null, 4));
+        }
+    });
+};
 (async () => {
+    splitStrains();
+    //mergeCi();
     //merge();
     //await ciTask();
     //mergeCi();
@@ -833,9 +862,11 @@ let outputBingNumbers = () => {
     //console.log('check google.com');
     //await checkGoogle();
     //console.log('google.com', canVisitGoogle);
-    //await runLessNumberTask('poet');
+    //await ciTask();
+    //await Promise.all([ciTask(), runLessNumberTask('ci')]);
+    //await runLessNumberTask('ci');
     //await runLessNumberTask();
     //headless.after();
     //mergePoet();
-    mergePoet();
+    //mergePoet();
 })();
