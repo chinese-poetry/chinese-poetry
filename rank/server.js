@@ -835,15 +835,18 @@ let splitStrains = () => {
         if (poetReg.test(f)) {
             let file = path.basename(f);
             let list = JSON.parse(rank.read(f));
-            let aims = [];
+            let aims = JSON.parse(rank.read(`../strains/json/${file}`));
+            let index = 0;
             for (let e of list) {
-                if (!e.strains) {
-                    throw new Error(`strains does not exists ${e}`);
-                }
-                aims.push(e.strains);
-                delete e.strains;
+                let strain = aims[index];
+                aims[index] = {
+                    strains: strain,
+                    id: e.id
+                };
+                index++;
+                //delete e.strains;
             }
-            rank.write(`../json/${file}`, JSON.stringify(list, null, 4));
+            //rank.write(`../json/${file}`, JSON.stringify(list, null, 4));
             rank.write(`../strains/json/${file}`, JSON.stringify(aims, null, 4));
         }
     });
