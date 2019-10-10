@@ -1,402 +1,452 @@
 [
     {
-        "baidu": 1050,
-        "so360": 40,
-        "google": 19500,
-        "bing": 510,
+        "baidu": 758,
         "author": "臧馀庆",
-        "rhythmic": "感皇恩"
-    },
-    {
-        "baidu": 1050,
-        "so360": 40,
-        "google": 19500,
-        "bing": 510,
-        "author": "臧馀庆",
-        "rhythmic": "感皇恩"
-    },
-    {
-        "baidu": 1050,
-        "so360": 40,
-        "google": 19500,
-        "bing": 510,
-        "author": "臧馀庆",
-        "rhythmic": "感皇恩"
-    },
-    {
-        "baidu": 382000,
-        "so360": 67,
-        "google": 1210000,
-        "bing": 51900,
-        "author": "胡于",
-        "rhythmic": "鹧鸪天"
-    },
-    {
-        "baidu": 382000,
-        "so360": 67,
-        "google": 1210000,
-        "bing": 51900,
-        "author": "胡于",
-        "rhythmic": "鹧鸪天"
-    },
-    {
-        "baidu": 382000,
-        "so360": 67,
-        "google": 1210000,
-        "bing": 51900,
-        "author": "胡于",
-        "rhythmic": "鹧鸪天"
-    },
-    {
-        "baidu": 382000,
-        "so360": 67,
-        "google": 1210000,
-        "bing": 51900,
-        "author": "胡于",
-        "rhythmic": "鹧鸪天"
-    },
-    {
-        "baidu": 59,
-        "so360": 30,
-        "google": 8,
-        "bing": 886,
-        "author": "申国章",
-        "rhythmic": "鹧鸪天"
-    },
-    {
-        "baidu": 1050,
-        "so360": 45,
-        "google": 27300,
-        "bing": 592,
-        "author": "陈日章",
-        "rhythmic": "鹧鸪天"
-    },
-    {
-        "baidu": 46,
-        "so360": 52,
-        "google": 28100,
-        "bing": 4980,
-        "author": "李景良",
-        "rhythmic": "鹧鸪天"
-    },
-    {
-        "baidu": 90,
-        "so360": 48,
-        "google": 27200,
-        "bing": 525000,
-        "author": "张思济",
-        "rhythmic": "鹧鸪天"
-    },
-    {
-        "baidu": 31300,
-        "so360": 546,
-        "google": 1660000,
-        "bing": 135000,
-        "author": "李夫人",
-        "rhythmic": "减字木兰花"
-    },
-    {
-        "baidu": 75100,
-        "so360": 2370,
-        "google": 5720000,
-        "bing": 27600,
-        "author": "李夫人",
-        "rhythmic": "蝶恋花"
-    },
-    {
-        "baidu": 57,
-        "so360": 68,
-        "google": 230000,
-        "bing": 2170000,
-        "author": "李夫人",
-        "rhythmic": "瑞鹧鸪"
-    },
-    {
-        "baidu": 60,
-        "so360": 55,
-        "google": 116000,
-        "bing": 575,
-        "author": "张藻",
-        "rhythmic": "望海潮"
-    },
-    {
-        "baidu": 4560,
-        "so360": 149,
-        "google": 1400,
-        "bing": 3730,
-        "author": "胡文卿",
-        "rhythmic": "虞美人"
-    },
-    {
-        "baidu": 4560,
-        "so360": 149,
-        "google": 1400,
-        "bing": 3730,
-        "author": "胡文卿",
-        "rhythmic": "虞美人"
-    },
-    {
-        "baidu": 4560,
-        "so360": 149,
-        "google": 1400,
-        "bing": 3730,
-        "author": "胡文卿",
-        "rhythmic": "虞美人"
-    },
-    {
-        "baidu": 4560,
-        "so360": 149,
-        "google": 1400,
-        "bing": 3730,
-        "author": "胡文卿",
-        "rhythmic": "虞美人"
-    },
-    {
-        "baidu": 4560,
-        "so360": 149,
-        "google": 1400,
-        "bing": 3730,
-        "author": "胡文卿",
-        "rhythmic": "虞美人"
-    },
-    {
-        "baidu": 4180,
-        "so360": 77,
-        "google": 2250,
-        "bing": 13300,
-        "author": "胡文卿",
-        "rhythmic": "阮郎归"
-    },
-    {
-        "baidu": 4180,
-        "so360": 77,
-        "google": 2250,
-        "bing": 13300,
-        "author": "胡文卿",
-        "rhythmic": "阮郎归"
-    },
-    {
-        "baidu": 4180,
-        "so360": 77,
-        "google": 2250,
-        "bing": 13300,
-        "author": "胡文卿",
-        "rhythmic": "阮郎归"
-    },
-    {
-        "baidu": 92,
+        "rhythmic": "感皇恩",
         "so360": 44,
-        "google": 27100,
-        "bing": 1320,
-        "author": "杨道居",
-        "rhythmic": "蝶恋花"
+        "bing": 1310,
+        "bing_en": 10600,
+        "google": 9730
     },
     {
-        "baidu": 3220,
-        "so360": 55,
-        "google": 2660,
-        "bing": 1140,
-        "author": "史佐尧",
-        "rhythmic": "苏幕遮"
+        "baidu": 758,
+        "author": "臧馀庆",
+        "rhythmic": "感皇恩",
+        "so360": 44,
+        "bing": 1310,
+        "bing_en": 10600,
+        "google": 9730
     },
     {
-        "baidu": 1070,
-        "so360": 36,
-        "google": 3310000,
-        "bing": 41600,
-        "author": "徐去非",
-        "rhythmic": "满庭芳"
+        "baidu": 758,
+        "author": "臧馀庆",
+        "rhythmic": "感皇恩",
+        "so360": 44,
+        "bing": 1310,
+        "bing_en": 10600,
+        "google": 9730
     },
     {
-        "baidu": 528,
-        "so360": 50,
-        "google": 5260000,
-        "bing": 2460000,
-        "author": "徐去非",
-        "rhythmic": "锦被堆"
+        "baidu": 368000,
+        "author": "胡于",
+        "rhythmic": "鹧鸪天",
+        "so360": 67,
+        "bing": 28000,
+        "bing_en": 39400,
+        "google": 673000
     },
     {
-        "baidu": 59,
-        "so360": 12,
-        "google": 2390000,
-        "bing": 26700,
-        "author": "徐去非",
-        "rhythmic": "卷珠帘・蝶恋花"
+        "baidu": 368000,
+        "author": "胡于",
+        "rhythmic": "鹧鸪天",
+        "so360": 67,
+        "bing": 28000,
+        "bing_en": 39400,
+        "google": 673000
     },
     {
-        "baidu": 8,
-        "so360": 491,
-        "google": 6,
-        "bing": 26,
-        "author": "舒大成",
-        "rhythmic": "点绛唇"
+        "baidu": 368000,
+        "author": "胡于",
+        "rhythmic": "鹧鸪天",
+        "so360": 67,
+        "bing": 28000,
+        "bing_en": 39400,
+        "google": 673000
     },
     {
-        "baidu": 3660,
-        "so360": 35,
-        "google": 12700,
-        "bing": 572,
-        "author": "贾少卿",
-        "rhythmic": "临江仙"
+        "baidu": 368000,
+        "author": "胡于",
+        "rhythmic": "鹧鸪天",
+        "so360": 67,
+        "bing": 28000,
+        "bing_en": 39400,
+        "google": 673000
     },
     {
-        "baidu": 2640,
-        "so360": 77,
-        "google": 1350,
-        "bing": 844000,
-        "author": "陆汉广",
-        "rhythmic": "江城子"
-    },
-    {
-        "baidu": 95,
-        "so360": 39,
-        "google": 1880000,
-        "bing": 581000,
-        "author": "王阜民",
-        "rhythmic": "临江仙"
-    },
-    {
-        "baidu": 61,
-        "so360": 28,
-        "google": 6240000,
-        "bing": 678000,
-        "author": "霍安人",
-        "rhythmic": "感皇恩"
-    },
-    {
-        "baidu": 73,
-        "so360": 57,
-        "google": 2270000,
-        "bing": 16500,
-        "author": "霍安人",
-        "rhythmic": "醉蓬莱"
-    },
-    {
-        "baidu": 86,
-        "so360": 33,
-        "google": 2750000,
-        "bing": 13200,
-        "author": "霍安人",
-        "rhythmic": "满庭芳"
-    },
-    {
-        "baidu": 64,
+        "baidu": 84,
+        "author": "申国章",
+        "rhythmic": "鹧鸪天",
         "so360": 30,
-        "google": 481000,
-        "bing": 7550000,
-        "author": "希叟",
-        "rhythmic": "瑞鹤仙"
+        "bing": 1070,
+        "bing_en": 21300,
+        "google": 27600
     },
     {
-        "baidu": 2040,
-        "so360": 4040000,
-        "google": 27300,
-        "bing": 4930000,
-        "author": "沈元实",
-        "rhythmic": "水调歌头"
+        "baidu": 1080,
+        "author": "陈日章",
+        "rhythmic": "鹧鸪天",
+        "so360": 42,
+        "bing": 579,
+        "bing_en": 30000,
+        "google": 27100
     },
     {
-        "baidu": 79000,
+        "baidu": 35,
+        "author": "李景良",
+        "rhythmic": "鹧鸪天",
+        "so360": 53,
+        "bing": 1620,
+        "bing_en": 25800,
+        "google": 8
+    },
+    {
+        "baidu": 1690,
+        "author": "张思济",
+        "rhythmic": "鹧鸪天",
+        "so360": 49,
+        "bing": 564000,
+        "bing_en": 1480,
+        "google": 27900
+    },
+    {
+        "baidu": 25900,
+        "author": "李夫人",
+        "rhythmic": "减字木兰花",
+        "so360": 549,
+        "bing": 175000,
+        "bing_en": 22800,
+        "google": 1730000
+    },
+    {
+        "baidu": 71000,
+        "author": "李夫人",
+        "rhythmic": "蝶恋花",
+        "so360": 2390,
+        "bing": 24300,
+        "bing_en": 29500,
+        "google": 4340000
+    },
+    {
+        "baidu": 47,
+        "author": "李夫人",
+        "rhythmic": "瑞鹧鸪",
         "so360": 66,
-        "google": 86400,
-        "bing": 14500,
-        "author": "游子蒙",
-        "rhythmic": "满江红"
+        "bing": 2530000,
+        "bing_en": 21900,
+        "google": 730000
     },
     {
-        "baidu": 79000,
+        "baidu": 41,
+        "author": "张藻",
+        "rhythmic": "望海潮",
+        "so360": 52,
+        "bing": 706,
+        "bing_en": 21300,
+        "google": 287000
+    },
+    {
+        "baidu": 7370,
+        "author": "胡文卿",
+        "rhythmic": "虞美人",
+        "so360": 135,
+        "bing": 4720,
+        "bing_en": 26700,
+        "google": 11100
+    },
+    {
+        "baidu": 7370,
+        "author": "胡文卿",
+        "rhythmic": "虞美人",
+        "so360": 135,
+        "bing": 4720,
+        "bing_en": 26700,
+        "google": 11100
+    },
+    {
+        "baidu": 7370,
+        "author": "胡文卿",
+        "rhythmic": "虞美人",
+        "so360": 135,
+        "bing": 4720,
+        "bing_en": 26700,
+        "google": 11100
+    },
+    {
+        "baidu": 7370,
+        "author": "胡文卿",
+        "rhythmic": "虞美人",
+        "so360": 135,
+        "bing": 4720,
+        "bing_en": 26700,
+        "google": 11100
+    },
+    {
+        "baidu": 7370,
+        "author": "胡文卿",
+        "rhythmic": "虞美人",
+        "so360": 135,
+        "bing": 4720,
+        "bing_en": 26700,
+        "google": 11100
+    },
+    {
+        "baidu": 4180,
+        "author": "胡文卿",
+        "rhythmic": "阮郎归",
+        "so360": 68,
+        "bing": 128000,
+        "bing_en": 24600,
+        "google": 491
+    },
+    {
+        "baidu": 4180,
+        "author": "胡文卿",
+        "rhythmic": "阮郎归",
+        "so360": 68,
+        "bing": 128000,
+        "bing_en": 24600,
+        "google": 491
+    },
+    {
+        "baidu": 4180,
+        "author": "胡文卿",
+        "rhythmic": "阮郎归",
+        "so360": 68,
+        "bing": 128000,
+        "bing_en": 24600,
+        "google": 491
+    },
+    {
+        "baidu": 90,
+        "author": "杨道居",
+        "rhythmic": "蝶恋花",
+        "so360": 39,
+        "bing": 2110,
+        "bing_en": 34400,
+        "google": 27800
+    },
+    {
+        "baidu": 1980,
+        "author": "史佐尧",
+        "rhythmic": "苏幕遮",
+        "so360": 60,
+        "bing": 974,
+        "bing_en": 21200,
+        "google": 4400
+    },
+    {
+        "baidu": 1410,
+        "author": "徐去非",
+        "rhythmic": "满庭芳",
+        "so360": 40,
+        "bing": 52800,
+        "bing_en": 24100,
+        "google": 5390000
+    },
+    {
+        "baidu": 1090,
+        "author": "徐去非",
+        "rhythmic": "锦被堆",
+        "so360": 40,
+        "bing": 2820000,
+        "bing_en": 29900,
+        "google": 5380000
+    },
+    {
+        "baidu": 48,
+        "author": "徐去非",
+        "rhythmic": "卷珠帘・蝶恋花",
+        "so360": 14,
+        "bing": 17100,
+        "bing_en": 25700,
+        "google": 2510000
+    },
+    {
+        "baidu": 10,
+        "author": "舒大成",
+        "rhythmic": "点绛唇",
+        "so360": 529,
+        "bing": 29,
+        "bing_en": 21100,
+        "google": 7
+    },
+    {
+        "baidu": 3650,
+        "author": "贾少卿",
+        "rhythmic": "临江仙",
+        "so360": 37,
+        "bing": 218000,
+        "bing_en": 10300,
+        "google": 12400
+    },
+    {
+        "baidu": 1720,
+        "author": "陆汉广",
+        "rhythmic": "江城子",
         "so360": 66,
-        "google": 86400,
-        "bing": 14500,
-        "author": "游子蒙",
-        "rhythmic": "满江红"
+        "bing": 801000,
+        "bing_en": 21800,
+        "google": 1680
     },
     {
-        "baidu": 71,
+        "baidu": 99,
+        "author": "王阜民",
+        "rhythmic": "临江仙",
+        "so360": 40,
+        "bing": 593000,
+        "bing_en": 18200,
+        "google": 3520000
+    },
+    {
+        "baidu": 63,
+        "author": "霍安人",
+        "rhythmic": "感皇恩",
+        "so360": 28,
+        "bing": 786000,
+        "bing_en": 21200,
+        "google": 7250000
+    },
+    {
+        "baidu": 74,
+        "author": "霍安人",
+        "rhythmic": "醉蓬莱",
+        "so360": 55,
+        "bing": 15200,
+        "bing_en": 24100,
+        "google": 2700000
+    },
+    {
+        "baidu": 625,
+        "author": "霍安人",
+        "rhythmic": "满庭芳",
         "so360": 31,
-        "google": 66100,
-        "bing": 402,
+        "bing": 13700,
+        "bing_en": 23900,
+        "google": 3060000
+    },
+    {
+        "baidu": 50,
+        "author": "希叟",
+        "rhythmic": "瑞鹤仙",
+        "so360": 38,
+        "bing": 31700000,
+        "bing_en": 21300,
+        "google": 1560000
+    },
+    {
+        "baidu": 4880,
+        "author": "沈元实",
+        "rhythmic": "水调歌头",
+        "so360": 3900000,
+        "bing": 5790000,
+        "bing_en": 22500,
+        "google": 25600
+    },
+    {
+        "baidu": 61900,
+        "author": "游子蒙",
+        "rhythmic": "满江红",
+        "so360": 79,
+        "bing": 15600,
+        "bing_en": 21400,
+        "google": 1200000
+    },
+    {
+        "baidu": 61900,
+        "author": "游子蒙",
+        "rhythmic": "满江红",
+        "so360": 79,
+        "bing": 15600,
+        "bing_en": 21400,
+        "google": 1200000
+    },
+    {
+        "baidu": 81,
         "author": "贾逋",
-        "rhythmic": "清平乐"
+        "rhythmic": "清平乐",
+        "so360": 42,
+        "bing": 328,
+        "bing_en": 20000,
+        "google": 86000
     },
     {
-        "baidu": 97,
-        "so360": 258,
-        "google": 27700,
-        "bing": 2750,
+        "baidu": 2330,
         "author": "吴文若",
-        "rhythmic": "蝶恋花"
+        "rhythmic": "蝶恋花",
+        "so360": 276,
+        "bing": 1950,
+        "bing_en": 29500,
+        "google": 28000
     },
     {
-        "baidu": 290000,
-        "so360": 508,
-        "google": 7010000,
-        "bing": 25400,
+        "baidu": 259000,
         "author": "去非",
-        "rhythmic": "满庭芳"
+        "rhythmic": "满庭芳",
+        "so360": 539,
+        "bing": 33700,
+        "bing_en": 46200,
+        "google": 7000000
     },
     {
-        "baidu": 853,
-        "so360": 33,
-        "google": 6870000,
-        "bing": 621,
+        "baidu": 76,
         "author": "潘熊飞",
-        "rhythmic": "南乡子"
+        "rhythmic": "南乡子",
+        "so360": 38,
+        "bing": 2880,
+        "bing_en": 16200,
+        "google": 5470000
     },
     {
-        "baidu": 33200,
-        "so360": 73,
-        "google": 26900,
-        "bing": 2350,
+        "baidu": 43000,
         "author": "黄庭佐",
-        "rhythmic": "水调歌头"
+        "rhythmic": "水调歌头",
+        "so360": 81,
+        "bing": 2490,
+        "bing_en": 3470,
+        "google": 25800
     },
     {
-        "baidu": 7100,
-        "so360": 6330,
-        "google": 238000,
-        "bing": 63,
+        "baidu": 9410,
         "author": "赵□",
-        "rhythmic": "失调名"
+        "rhythmic": "失调名",
+        "so360": 5650,
+        "bing": 74,
+        "bing_en": 59400,
+        "google": 202000
     },
     {
-        "baidu": 11,
-        "so360": 32,
-        "google": 455000,
-        "bing": 19400,
+        "baidu": 28,
         "author": "吴氏3",
-        "rhythmic": "失调名"
+        "rhythmic": "失调名",
+        "so360": 30,
+        "bing": 17400,
+        "bing_en": 1700000,
+        "google": 373000
     },
     {
-        "baidu": 90,
-        "so360": 529,
-        "google": 5410000,
-        "bing": 13700,
+        "baidu": 35400,
         "author": "吴氏3",
-        "rhythmic": "南乡子"
+        "rhythmic": "南乡子",
+        "so360": 570,
+        "bing": 15400,
+        "bing_en": 2250000,
+        "google": 5390000
     },
     {
-        "baidu": 90,
-        "so360": 529,
-        "google": 5410000,
-        "bing": 13700,
+        "baidu": 35400,
         "author": "吴氏3",
-        "rhythmic": "南乡子"
+        "rhythmic": "南乡子",
+        "so360": 570,
+        "bing": 15400,
+        "bing_en": 2250000,
+        "google": 5390000
     },
     {
-        "baidu": 176000,
-        "so360": 157,
-        "google": 10500000,
-        "bing": 8820000,
+        "baidu": 241000,
         "author": "吴氏3",
-        "rhythmic": "多丽"
+        "rhythmic": "多丽",
+        "so360": 161,
+        "bing": 1470000,
+        "bing_en": 9180000000,
+        "google": 10400000
     },
     {
-        "baidu": 88,
-        "so360": 604,
-        "google": 344000,
-        "bing": 55200,
+        "baidu": 84,
         "author": "吴氏3",
-        "rhythmic": "渔家傲"
+        "rhythmic": "渔家傲",
+        "so360": 600,
+        "bing": 2080000,
+        "bing_en": 96100,
+        "google": 214000
     }
 ]
