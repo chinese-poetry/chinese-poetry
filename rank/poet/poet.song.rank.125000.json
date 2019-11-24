@@ -1,0 +1,9002 @@
+[
+    {
+        "baidu": 16,
+        "author": "趙不息",
+        "title": "句",
+        "so360": 73,
+        "bing": 189000,
+        "bing_en": 21500,
+        "google": 13600000
+    },
+    {
+        "baidu": 6,
+        "author": "鄭丙",
+        "title": "碧玉軒",
+        "so360": 32,
+        "bing": 7570,
+        "bing_en": 7550,
+        "google": 2750000
+    },
+    {
+        "baidu": 19,
+        "author": "謝諤",
+        "title": "清常寺",
+        "so360": 22,
+        "bing": 193000,
+        "bing_en": 21200,
+        "google": 3320000
+    },
+    {
+        "baidu": 5,
+        "author": "謝諤",
+        "title": "龍回院",
+        "so360": 28,
+        "bing": 509000,
+        "bing_en": 21300,
+        "google": 2860000
+    },
+    {
+        "baidu": 6,
+        "author": "謝諤",
+        "title": "玉山觀",
+        "so360": 52,
+        "bing": 34500,
+        "bing_en": 109,
+        "google": 21500
+    },
+    {
+        "baidu": 13,
+        "author": "謝諤",
+        "title": "鼇溪  其一",
+        "so360": 47,
+        "bing": 74,
+        "bing_en": 74,
+        "google": 5020000
+    },
+    {
+        "baidu": 17,
+        "author": "謝諤",
+        "title": "鼇溪  其二",
+        "so360": 524,
+        "bing": 88,
+        "bing_en": 84,
+        "google": 3050000
+    },
+    {
+        "baidu": 8,
+        "author": "謝諤",
+        "title": "追和邵祭酒柬呂太學",
+        "so360": 13,
+        "bing": 540,
+        "bing_en": 395,
+        "google": 87300
+    },
+    {
+        "baidu": 9,
+        "author": "謝諤",
+        "title": "復朱晦菴",
+        "so360": 28,
+        "bing": 82700,
+        "bing_en": 19900,
+        "google": 5770
+    },
+    {
+        "baidu": 21,
+        "author": "謝諤",
+        "title": "勸農",
+        "so360": 48,
+        "bing": 915000,
+        "bing_en": 3090,
+        "google": 904000
+    },
+    {
+        "baidu": 20,
+        "author": "謝諤",
+        "title": "六瑞堂",
+        "so360": 23,
+        "bing": 423000,
+        "bing_en": 21100,
+        "google": 4550000
+    },
+    {
+        "baidu": 1,
+        "author": "謝諤",
+        "title": "會劉子東夜飲",
+        "so360": 26,
+        "bing": 13000,
+        "bing_en": 20300,
+        "google": 30000
+    },
+    {
+        "baidu": 8,
+        "author": "謝諤",
+        "title": "至曾田市貽管巡檢  其一",
+        "so360": 30,
+        "bing": 12400,
+        "bing_en": 2120,
+        "google": 2130
+    },
+    {
+        "baidu": 8,
+        "author": "謝諤",
+        "title": "至曾田市貽管巡檢  其二",
+        "so360": 30,
+        "bing": 12500,
+        "bing_en": 2090,
+        "google": 2530
+    },
+    {
+        "baidu": 4,
+        "author": "謝諤",
+        "title": "南真觀",
+        "so360": 19,
+        "bing": 413000,
+        "bing_en": 21200,
+        "google": 1960000
+    },
+    {
+        "baidu": 24,
+        "author": "謝諤",
+        "title": "延福寺",
+        "so360": 21,
+        "bing": 13200,
+        "bing_en": 21200,
+        "google": 1910000
+    },
+    {
+        "baidu": 1,
+        "author": "謝諤",
+        "title": "嚴隠君九齡適軒",
+        "so360": 0,
+        "bing": 13100,
+        "bing_en": 100,
+        "google": 26
+    },
+    {
+        "baidu": 13,
+        "author": "謝諤",
+        "title": "讀書臺",
+        "so360": 33,
+        "bing": 2350000,
+        "bing_en": 8920,
+        "google": 94300
+    },
+    {
+        "baidu": 1,
+        "author": "謝諤",
+        "title": "送子峴之官萍鄉  其一",
+        "so360": 39,
+        "bing": 12300,
+        "bing_en": 100,
+        "google": 11500
+    },
+    {
+        "baidu": 1,
+        "author": "謝諤",
+        "title": "送子峴之官萍鄉  其二",
+        "so360": 39,
+        "bing": 12300,
+        "bing_en": 100,
+        "google": 13100
+    },
+    {
+        "baidu": 23,
+        "author": "謝諤",
+        "title": "句",
+        "so360": 234,
+        "bing": 13500,
+        "bing_en": 13500,
+        "google": 1430000
+    },
+    {
+        "baidu": 3,
+        "author": "釋德光",
+        "title": "溈山問仰山臨濟得大愚力得黄蘗力頌",
+        "so360": 8210,
+        "bing": 12300,
+        "bing_en": 100,
+        "google": 3670
+    },
+    {
+        "baidu": 1,
+        "author": "釋德光",
+        "title": "興化打克賓克賓如此答頌",
+        "so360": 622,
+        "bing": 12000,
+        "bing_en": 100,
+        "google": 1930000
+    },
+    {
+        "baidu": 3,
+        "author": "釋德光",
+        "title": "答御製頌",
+        "so360": 21,
+        "bing": 30500,
+        "bing_en": 583,
+        "google": 50800
+    },
+    {
+        "baidu": 8490000,
+        "author": "釋德光",
+        "title": "進即心即佛非心非佛頌",
+        "so360": 13400,
+        "bing": 11000,
+        "bing_en": 261,
+        "google": 2180000
+    },
+    {
+        "baidu": 3,
+        "author": "釋德光",
+        "title": "答御製頌",
+        "so360": 21,
+        "bing": 30500,
+        "bing_en": 583,
+        "google": 50800
+    },
+    {
+        "baidu": 4,
+        "author": "釋德光",
+        "title": "捧賜佛照禪師號敕黄示衆",
+        "so360": 37,
+        "bing": 12400,
+        "bing_en": 51,
+        "google": 54700
+    },
+    {
+        "baidu": 8,
+        "author": "釋德光",
+        "title": "舉船子和尚覆船入水而逝頌",
+        "so360": 17000,
+        "bing": 8570,
+        "bing_en": 8580,
+        "google": 31900
+    },
+    {
+        "baidu": 6,
+        "author": "釋德光",
+        "title": "偈頌十首  其一",
+        "so360": 569,
+        "bing": 18100,
+        "bing_en": 1020,
+        "google": 840000
+    },
+    {
+        "baidu": 7,
+        "author": "釋德光",
+        "title": "偈頌十首  其二",
+        "so360": 7030,
+        "bing": 18100,
+        "bing_en": 1060,
+        "google": 792000
+    },
+    {
+        "baidu": 9,
+        "author": "釋德光",
+        "title": "偈頌十首  其三",
+        "so360": 4440,
+        "bing": 28200,
+        "bing_en": 21100,
+        "google": 875000
+    },
+    {
+        "baidu": 9,
+        "author": "釋德光",
+        "title": "偈頌十首  其四",
+        "so360": 3460,
+        "bing": 26700,
+        "bing_en": 21100,
+        "google": 775000
+    },
+    {
+        "baidu": 7,
+        "author": "釋德光",
+        "title": "偈頌十首  其五",
+        "so360": 618,
+        "bing": 25800,
+        "bing_en": 21100,
+        "google": 614000
+    },
+    {
+        "baidu": 9,
+        "author": "釋德光",
+        "title": "偈頌十首  其六",
+        "so360": 623,
+        "bing": 23400,
+        "bing_en": 21100,
+        "google": 839000
+    },
+    {
+        "baidu": 9,
+        "author": "釋德光",
+        "title": "偈頌十首  其七",
+        "so360": 1460,
+        "bing": 22400,
+        "bing_en": 21100,
+        "google": 772000
+    },
+    {
+        "baidu": 9,
+        "author": "釋德光",
+        "title": "偈頌十首  其八",
+        "so360": 593,
+        "bing": 22600,
+        "bing_en": 21100,
+        "google": 866000
+    },
+    {
+        "baidu": 10,
+        "author": "釋德光",
+        "title": "偈頌十首  其九",
+        "so360": 1090,
+        "bing": 20600,
+        "bing_en": 21100,
+        "google": 757000
+    },
+    {
+        "baidu": 18,
+        "author": "釋德光",
+        "title": "偈頌十首  其一○",
+        "so360": 569,
+        "bing": 18300,
+        "bing_en": 1040,
+        "google": 175000
+    },
+    {
+        "baidu": 7,
+        "author": "釋德光",
+        "title": "偈頌十首  其一一",
+        "so360": 75,
+        "bing": 14300,
+        "bing_en": 21100,
+        "google": 387000
+    },
+    {
+        "baidu": 9,
+        "author": "釋德光",
+        "title": "布袋和尚贊",
+        "so360": 849000,
+        "bing": 4680,
+        "bing_en": 86,
+        "google": 3390000
+    },
+    {
+        "baidu": 3,
+        "author": "釋德光",
+        "title": "圜悟和尚贊",
+        "so360": 30,
+        "bing": 3000,
+        "bing_en": 16300,
+        "google": 12800
+    },
+    {
+        "baidu": 3,
+        "author": "釋德光",
+        "title": "示建彌陀會",
+        "so360": 28,
+        "bing": 17100,
+        "bing_en": 3090,
+        "google": 605000
+    },
+    {
+        "baidu": 26,
+        "author": "釋德光",
+        "title": "示僧鄮郭建接待",
+        "so360": 14,
+        "bing": 12300,
+        "bing_en": 102,
+        "google": 3630
+    },
+    {
+        "baidu": 2,
+        "author": "釋德光",
+        "title": "自贊",
+        "so360": 15,
+        "bing": 15600,
+        "bing_en": 94,
+        "google": 12800000
+    },
+    {
+        "baidu": 18,
+        "author": "釋德光",
+        "title": "偈",
+        "so360": 59,
+        "bing": 14700,
+        "bing_en": 2520,
+        "google": 3330000
+    },
+    {
+        "baidu": 15,
+        "author": "釋德光",
+        "title": "頌古十三首  其一",
+        "so360": 46,
+        "bing": 18600,
+        "bing_en": 12900,
+        "google": 7150000
+    },
+    {
+        "baidu": 14,
+        "author": "釋德光",
+        "title": "頌古十三首  其二",
+        "so360": 44,
+        "bing": 3630,
+        "bing_en": 3630,
+        "google": 5250000
+    },
+    {
+        "baidu": 15,
+        "author": "釋德光",
+        "title": "頌古十三首  其三",
+        "so360": 122,
+        "bing": 8990,
+        "bing_en": 8930,
+        "google": 4480000
+    },
+    {
+        "baidu": 15,
+        "author": "釋德光",
+        "title": "頌古十三首  其四",
+        "so360": 440,
+        "bing": 9030,
+        "bing_en": 8990,
+        "google": 5880000
+    },
+    {
+        "baidu": 12,
+        "author": "釋德光",
+        "title": "頌古十三首  其五",
+        "so360": 441,
+        "bing": 8870,
+        "bing_en": 2800,
+        "google": 4140000
+    },
+    {
+        "baidu": 13,
+        "author": "釋德光",
+        "title": "頌古十三首  其六",
+        "so360": 451,
+        "bing": 8850,
+        "bing_en": 2790,
+        "google": 5650000
+    },
+    {
+        "baidu": 15,
+        "author": "釋德光",
+        "title": "頌古十三首  其七",
+        "so360": 413,
+        "bing": 7760,
+        "bing_en": 2790,
+        "google": 5020000
+    },
+    {
+        "baidu": 15,
+        "author": "釋德光",
+        "title": "頌古十三首  其八",
+        "so360": 491,
+        "bing": 8630,
+        "bing_en": 2780,
+        "google": 4800000
+    },
+    {
+        "baidu": 11,
+        "author": "釋德光",
+        "title": "頌古十三首  其九",
+        "so360": 474,
+        "bing": 7620,
+        "bing_en": 2760,
+        "google": 4360000
+    },
+    {
+        "baidu": 24,
+        "author": "釋德光",
+        "title": "頌古十三首  其一○",
+        "so360": 46,
+        "bing": 1750,
+        "bing_en": 80,
+        "google": 1140000
+    },
+    {
+        "baidu": 10,
+        "author": "釋德光",
+        "title": "頌古十三首  其一一",
+        "so360": 103,
+        "bing": 16900,
+        "bing_en": 21100,
+        "google": 3510000
+    },
+    {
+        "baidu": 5,
+        "author": "釋德光",
+        "title": "頌古十三首  其一二",
+        "so360": 45,
+        "bing": 160000,
+        "bing_en": 20700,
+        "google": 2700000
+    },
+    {
+        "baidu": 12,
+        "author": "釋德光",
+        "title": "頌古十三首  其一三",
+        "so360": 35,
+        "bing": 7890,
+        "bing_en": 451,
+        "google": 2470000
+    },
+    {
+        "baidu": 4,
+        "author": "釋德光",
+        "title": "女真進千手千眼觀音像頌",
+        "so360": 165000,
+        "bing": 256000,
+        "bing_en": 101,
+        "google": 12300
+    },
+    {
+        "baidu": 5,
+        "author": "崔敦禮",
+        "title": "次韵張伯子餉柑",
+        "so360": 20,
+        "bing": 57200,
+        "bing_en": 121,
+        "google": 615
+    },
+    {
+        "baidu": 51,
+        "author": "崔敦禮",
+        "title": "對竹有感",
+        "so360": 462,
+        "bing": 180000,
+        "bing_en": 12800,
+        "google": 22900
+    },
+    {
+        "baidu": 7,
+        "author": "崔敦禮",
+        "title": "還孟郎中詩卷用元韻  其一",
+        "so360": 27,
+        "bing": 691,
+        "bing_en": 690,
+        "google": 7560
+    },
+    {
+        "baidu": 10,
+        "author": "崔敦禮",
+        "title": "還孟郎中詩卷用元韻  其二",
+        "so360": 27,
+        "bing": 651,
+        "bing_en": 656,
+        "google": 7790
+    },
+    {
+        "baidu": 4,
+        "author": "崔敦禮",
+        "title": "嚴子文用范至能韻見贈再和",
+        "so360": 2210,
+        "bing": 12200,
+        "bing_en": 6970,
+        "google": 531
+    },
+    {
+        "baidu": 5,
+        "author": "崔敦禮",
+        "title": "前用吉字韻問嚴子文疾再和問疾之詩不工甚矣既辱和章又承用吉字韻爲貺率爾繼作敬問起居公自謂平生不服溫劑此寡慾之驗也何恙不愈詩以見意",
+        "so360": 10,
+        "bing": 6,
+        "bing_en": 100,
+        "google": 3350
+    },
+    {
+        "baidu": 3,
+        "author": "崔敦禮",
+        "title": "再訊問嚴子文疾",
+        "so360": 18,
+        "bing": 15500,
+        "bing_en": 616,
+        "google": 209
+    },
+    {
+        "baidu": 78,
+        "author": "崔敦禮",
+        "title": "泊福山港",
+        "so360": 30,
+        "bing": 11300,
+        "bing_en": 11300,
+        "google": 833
+    },
+    {
+        "baidu": 15,
+        "author": "崔敦禮",
+        "title": "喜晴",
+        "so360": 52,
+        "bing": 2310,
+        "bing_en": 21600,
+        "google": 8410
+    },
+    {
+        "baidu": 91,
+        "author": "崔敦禮",
+        "title": "九日",
+        "so360": 10,
+        "bing": 14800,
+        "bing_en": 14800,
+        "google": 66400
+    },
+    {
+        "baidu": 49,
+        "author": "崔敦禮",
+        "title": "送梁倅二首  其一",
+        "so360": 93,
+        "bing": 14000,
+        "bing_en": 9050,
+        "google": 48400
+    },
+    {
+        "baidu": 50,
+        "author": "崔敦禮",
+        "title": "送梁倅二首  其二",
+        "so360": 91,
+        "bing": 1430,
+        "bing_en": 1430,
+        "google": 50300
+    },
+    {
+        "baidu": 15,
+        "author": "崔敦禮",
+        "title": "喜晴",
+        "so360": 52,
+        "bing": 2310,
+        "bing_en": 21600,
+        "google": 8410
+    },
+    {
+        "baidu": 6,
+        "author": "崔敦禮",
+        "title": "過三塔",
+        "so360": 24,
+        "bing": 4860,
+        "bing_en": 23000,
+        "google": 81400
+    },
+    {
+        "baidu": 16,
+        "author": "崔敦禮",
+        "title": "固城湖",
+        "so360": 18,
+        "bing": 44,
+        "bing_en": 21600,
+        "google": 23800
+    },
+    {
+        "baidu": 4,
+        "author": "崔敦禮",
+        "title": "東壩",
+        "so360": 12,
+        "bing": 29,
+        "bing_en": 21100,
+        "google": 6020
+    },
+    {
+        "baidu": 1120,
+        "author": "崔敦禮",
+        "title": "客枕",
+        "so360": 17,
+        "bing": 2110,
+        "bing_en": 21700,
+        "google": 12900
+    },
+    {
+        "baidu": 18,
+        "author": "崔敦禮",
+        "title": "邵智卿挽章  其一",
+        "so360": 27,
+        "bing": 3360,
+        "bing_en": 3350,
+        "google": 300
+    },
+    {
+        "baidu": 19,
+        "author": "崔敦禮",
+        "title": "邵智卿挽章  其二",
+        "so360": 28,
+        "bing": 2820,
+        "bing_en": 2820,
+        "google": 291
+    },
+    {
+        "baidu": 3,
+        "author": "崔敦禮",
+        "title": "趙提官挽章  其一",
+        "so360": 52,
+        "bing": 1770,
+        "bing_en": 1770,
+        "google": 10800
+    },
+    {
+        "baidu": 3,
+        "author": "崔敦禮",
+        "title": "趙提官挽章  其二",
+        "so360": 52,
+        "bing": 1530,
+        "bing_en": 1530,
+        "google": 10800
+    },
+    {
+        "baidu": 5,
+        "author": "崔敦禮",
+        "title": "九月二十九日邇英開講忝預末班講退小集玉堂之廬即留宿直因賦唐律呈諸講官",
+        "so360": 12,
+        "bing": 88,
+        "bing_en": 102,
+        "google": 9
+    },
+    {
+        "baidu": 3,
+        "author": "崔敦禮",
+        "title": "殿廬紀懷敬用右史舍人韻",
+        "so360": 18,
+        "bing": 7470,
+        "bing_en": 993,
+        "google": 76
+    },
+    {
+        "baidu": 4,
+        "author": "崔敦禮",
+        "title": "東宮壽章  其一",
+        "so360": 35,
+        "bing": 13100,
+        "bing_en": 15300,
+        "google": 5250
+    },
+    {
+        "baidu": 4,
+        "author": "崔敦禮",
+        "title": "東宮壽章  其二",
+        "so360": 33,
+        "bing": 1470,
+        "bing_en": 59,
+        "google": 5500
+    },
+    {
+        "baidu": 5,
+        "author": "崔敦禮",
+        "title": "至清口聞水閲甚盛邊人言辛巳歲敵騎逼淮劉信叔軍南岸欲載神勁弩至中流射之求數舟不可得今戰艦之盛前未有也因成四韻",
+        "so360": 15,
+        "bing": 38,
+        "bing_en": 100,
+        "google": 9
+    },
+    {
+        "baidu": 8,
+        "author": "崔敦禮",
+        "title": "題婺州仁風堂寄韓侍郎  其一",
+        "so360": 50,
+        "bing": 12300,
+        "bing_en": 1030,
+        "google": 2370
+    },
+    {
+        "baidu": 6,
+        "author": "崔敦禮",
+        "title": "題婺州仁風堂寄韓侍郎  其二",
+        "so360": 53,
+        "bing": 12300,
+        "bing_en": 1010,
+        "google": 1750
+    },
+    {
+        "baidu": 6,
+        "author": "崔敦禮",
+        "title": "江行迓憲使遇風",
+        "so360": 20,
+        "bing": 12800,
+        "bing_en": 110,
+        "google": 516
+    },
+    {
+        "baidu": 2,
+        "author": "崔敦禮",
+        "title": "次韻孫撫幹二首  其一",
+        "so360": 14,
+        "bing": 12300,
+        "bing_en": 5010,
+        "google": 35
+    },
+    {
+        "baidu": 2,
+        "author": "崔敦禮",
+        "title": "次韻孫撫幹二首  其二",
+        "so360": 16,
+        "bing": 12300,
+        "bing_en": 4950,
+        "google": 8
+    },
+    {
+        "baidu": 9,
+        "author": "崔敦禮",
+        "title": "次陸倅韻三首  其一",
+        "so360": 24,
+        "bing": 91,
+        "bing_en": 92,
+        "google": 687
+    },
+    {
+        "baidu": 8,
+        "author": "崔敦禮",
+        "title": "次陸倅韻三首  其二",
+        "so360": 26,
+        "bing": 518,
+        "bing_en": 519,
+        "google": 623
+    },
+    {
+        "baidu": 8,
+        "author": "崔敦禮",
+        "title": "次陸倅韻三首  其三",
+        "so360": 13,
+        "bing": 12300,
+        "bing_en": 20800,
+        "google": 657
+    },
+    {
+        "baidu": 11,
+        "author": "崔敦禮",
+        "title": "再次韻一首",
+        "so360": 8,
+        "bing": 9550,
+        "bing_en": 9550,
+        "google": 25900
+    },
+    {
+        "baidu": 38,
+        "author": "崔敦禮",
+        "title": "和沈商卿",
+        "so360": 18,
+        "bing": 2,
+        "bing_en": 21900,
+        "google": 400
+    },
+    {
+        "baidu": 13,
+        "author": "崔敦禮",
+        "title": "和章冠之",
+        "so360": 20,
+        "bing": 13100,
+        "bing_en": 13100,
+        "google": 389
+    },
+    {
+        "baidu": 101,
+        "author": "崔敦禮",
+        "title": "狼山",
+        "so360": 91,
+        "bing": 97,
+        "bing_en": 21800,
+        "google": 5490
+    },
+    {
+        "baidu": 46,
+        "author": "崔敦禮",
+        "title": "龜山",
+        "so360": 37,
+        "bing": 3970,
+        "bing_en": 16100,
+        "google": 11900
+    },
+    {
+        "baidu": 3,
+        "author": "崔敦禮",
+        "title": "遊龜山",
+        "so360": 19,
+        "bing": 79500,
+        "bing_en": 13900,
+        "google": 31500
+    },
+    {
+        "baidu": 21,
+        "author": "崔敦禮",
+        "title": "何家港捨舟步至新河口",
+        "so360": 51,
+        "bing": 1060,
+        "bing_en": 1060,
+        "google": 1080
+    },
+    {
+        "baidu": 2,
+        "author": "崔敦禮",
+        "title": "聞嚴子文納妾孟守有詩輒次韻",
+        "so360": 568,
+        "bing": 12500,
+        "bing_en": 100,
+        "google": 2950
+    },
+    {
+        "baidu": 3,
+        "author": "崔敦禮",
+        "title": "挽太尉王權章",
+        "so360": 493,
+        "bing": 7280,
+        "bing_en": 520,
+        "google": 320
+    },
+    {
+        "baidu": 4,
+        "author": "崔敦禮",
+        "title": "送芋酥與宿齋三學士",
+        "so360": 21,
+        "bing": 12300,
+        "bing_en": 17200,
+        "google": 22700
+    },
+    {
+        "baidu": 19,
+        "author": "崔敦禮",
+        "title": "何家港捨舟步至新河口  其一",
+        "so360": 50,
+        "bing": 216,
+        "bing_en": 2230,
+        "google": 783
+    },
+    {
+        "baidu": 20,
+        "author": "崔敦禮",
+        "title": "何家港捨舟步至新河口  其二",
+        "so360": 50,
+        "bing": 252,
+        "bing_en": 2120,
+        "google": 832
+    },
+    {
+        "baidu": 18,
+        "author": "崔敦禮",
+        "title": "何家港捨舟步至新河口  其三",
+        "so360": 51,
+        "bing": 1060,
+        "bing_en": 1050,
+        "google": 830
+    },
+    {
+        "baidu": 66,
+        "author": "崔敦禮",
+        "title": "狼山  其一",
+        "so360": 91,
+        "bing": 4530,
+        "bing_en": 4540,
+        "google": 5630
+    },
+    {
+        "baidu": 56,
+        "author": "崔敦禮",
+        "title": "狼山  其二",
+        "so360": 89,
+        "bing": 3660,
+        "bing_en": 3660,
+        "google": 5270
+    },
+    {
+        "baidu": 49,
+        "author": "崔敦禮",
+        "title": "狼山  其三",
+        "so360": 88,
+        "bing": 816000,
+        "bing_en": 21300,
+        "google": 5040
+    },
+    {
+        "baidu": 36,
+        "author": "崔敦禮",
+        "title": "狼山  其四",
+        "so360": 17,
+        "bing": 622000,
+        "bing_en": 21300,
+        "google": 5550
+    },
+    {
+        "baidu": 45,
+        "author": "崔敦禮",
+        "title": "狼山  其五",
+        "so360": 16,
+        "bing": 584000,
+        "bing_en": 21800,
+        "google": 4810
+    },
+    {
+        "baidu": 31,
+        "author": "崔敦禮",
+        "title": "題得妙亭",
+        "so360": 13,
+        "bing": 19100,
+        "bing_en": 21700,
+        "google": 5960
+    },
+    {
+        "baidu": 13,
+        "author": "崔敦禮",
+        "title": "探潮閣",
+        "so360": 27,
+        "bing": 9640,
+        "bing_en": 21200,
+        "google": 12300
+    },
+    {
+        "baidu": 2,
+        "author": "崔敦禮",
+        "title": "題避俗軒",
+        "so360": 18,
+        "bing": 11900,
+        "bing_en": 21200,
+        "google": 6000
+    },
+    {
+        "baidu": 2,
+        "author": "崔敦禮",
+        "title": "題汗青軒",
+        "so360": 7,
+        "bing": 1230,
+        "bing_en": 1230,
+        "google": 989
+    },
+    {
+        "baidu": 6,
+        "author": "崔敦禮",
+        "title": "大閲回馬口號",
+        "so360": 29,
+        "bing": 6540,
+        "bing_en": 102,
+        "google": 7210
+    },
+    {
+        "baidu": 21,
+        "author": "崔敦禮",
+        "title": "芸香亭",
+        "so360": 23,
+        "bing": 2380,
+        "bing_en": 2370,
+        "google": 731
+    },
+    {
+        "baidu": 6,
+        "author": "崔敦禮",
+        "title": "密雲亭",
+        "so360": 30,
+        "bing": 13100,
+        "bing_en": 2480,
+        "google": 1670
+    },
+    {
+        "baidu": 24,
+        "author": "崔敦禮",
+        "title": "傲霜亭",
+        "so360": 25,
+        "bing": 10100,
+        "bing_en": 20900,
+        "google": 12100
+    },
+    {
+        "baidu": 7,
+        "author": "崔敦禮",
+        "title": "丁亥歲予留建康夢登大橋仰視霄漢有金書閣字北斗落落布列其側昨夕夜直坐石渠橋忽見七星低昂正倚秘閣而金書大字儼然夢中所見信知世事皆有定分非偶然也  其一",
+        "so360": 58,
+        "bing": 10,
+        "bing_en": 100,
+        "google": 277
+    },
+    {
+        "baidu": 7,
+        "author": "崔敦禮",
+        "title": "丁亥歲予留建康夢登大橋仰視霄漢有金書閣字北斗落落布列其側昨夕夜直坐石渠橋忽見七星低昂正倚秘閣而金書大字儼然夢中所見信知世事皆有定分非偶然也  其二",
+        "so360": 58,
+        "bing": 10,
+        "bing_en": 100,
+        "google": 277
+    },
+    {
+        "baidu": 33,
+        "author": "崔敦禮",
+        "title": "枕上",
+        "so360": 58,
+        "bing": 674,
+        "bing_en": 21800,
+        "google": 7570
+    },
+    {
+        "baidu": 6,
+        "author": "崔敦禮",
+        "title": "太祖皇帝師次陳橋受天命協人情爲聖皇武",
+        "so360": 18,
+        "bing": 12300,
+        "bing_en": 100,
+        "google": 1260
+    },
+    {
+        "baidu": 3,
+        "author": "崔敦禮",
+        "title": "劉鋹僭號嶺南虐其民潘美伐之俘以獻爲猛虎攫",
+        "so360": 17,
+        "bing": 12300,
+        "bing_en": 100,
+        "google": 240
+    },
+    {
+        "baidu": 43,
+        "author": "崔敦禮",
+        "title": "李煜不朝伐之煜降江南平爲震雷薄矣",
+        "so360": 23,
+        "bing": 1620,
+        "bing_en": 103,
+        "google": 999
+    },
+    {
+        "baidu": 7,
+        "author": "崔敦禮",
+        "title": "太白遠遊",
+        "so360": 56,
+        "bing": 10200,
+        "bing_en": 1670,
+        "google": 5750
+    },
+    {
+        "baidu": 45,
+        "author": "崔敦禮",
+        "title": "太白招魂",
+        "so360": 46,
+        "bing": 3350,
+        "bing_en": 3350,
+        "google": 2580
+    },
+    {
+        "baidu": 95,
+        "author": "崔敦禮",
+        "title": "九序",
+        "so360": 30,
+        "bing": 13200,
+        "bing_en": 13200,
+        "google": 66400
+    },
+    {
+        "baidu": 30,
+        "author": "崔敦禮",
+        "title": "正曜",
+        "so360": 26,
+        "bing": 2070,
+        "bing_en": 21600,
+        "google": 27800
+    },
+    {
+        "baidu": 41,
+        "author": "崔敦禮",
+        "title": "華陽洞天",
+        "so360": 36,
+        "bing": 7320,
+        "bing_en": 2360,
+        "google": 425
+    },
+    {
+        "baidu": 55,
+        "author": "崔敦禮",
+        "title": "中水府",
+        "so360": 30,
+        "bing": 13700,
+        "bing_en": 13700,
+        "google": 29000
+    },
+    {
+        "baidu": 41,
+        "author": "崔敦禮",
+        "title": "下水府",
+        "so360": 36,
+        "bing": 9620,
+        "bing_en": 9610,
+        "google": 5550
+    },
+    {
+        "baidu": 3,
+        "author": "崔敦禮",
+        "title": "田間辭三首  其一",
+        "so360": 534,
+        "bing": 15800,
+        "bing_en": 10600,
+        "google": 8490
+    },
+    {
+        "baidu": 5,
+        "author": "崔敦禮",
+        "title": "田間辭三首  其二",
+        "so360": 8,
+        "bing": 12700,
+        "bing_en": 9600,
+        "google": 9060
+    },
+    {
+        "baidu": 2,
+        "author": "崔敦禮",
+        "title": "田間辭三首  其三",
+        "so360": 28,
+        "bing": 38600,
+        "bing_en": 21100,
+        "google": 8930
+    },
+    {
+        "baidu": 59,
+        "author": "崔敦禮",
+        "title": "北山之英",
+        "so360": 30,
+        "bing": 14000,
+        "bing_en": 14000,
+        "google": 14600
+    },
+    {
+        "baidu": 15,
+        "author": "崔敦禮",
+        "title": "楚州龍廟迎享送神辭  其一",
+        "so360": 24,
+        "bing": 12300,
+        "bing_en": 2530,
+        "google": 25700
+    },
+    {
+        "baidu": 14,
+        "author": "崔敦禮",
+        "title": "楚州龍廟迎享送神辭  其二",
+        "so360": 24,
+        "bing": 12300,
+        "bing_en": 2520,
+        "google": 24900
+    },
+    {
+        "baidu": 14,
+        "author": "崔敦禮",
+        "title": "楚州龍廟迎享送神辭  其三",
+        "so360": 24,
+        "bing": 66,
+        "bing_en": 1290,
+        "google": 26100
+    },
+    {
+        "baidu": 1,
+        "author": "崔敦禮",
+        "title": "擬津人歌",
+        "so360": 15,
+        "bing": 15300,
+        "bing_en": 1150,
+        "google": 47600
+    },
+    {
+        "baidu": 3,
+        "author": "崔敦禮",
+        "title": "平江府餞丘知府致語口號",
+        "so360": 17,
+        "bing": 1300,
+        "bing_en": 106,
+        "google": 975
+    },
+    {
+        "baidu": 7,
+        "author": "趙公碩",
+        "title": "宰餘杭游洞霄",
+        "so360": 12,
+        "bing": 13200,
+        "bing_en": 20400,
+        "google": 331
+    },
+    {
+        "baidu": 6,
+        "author": "趙公碩",
+        "title": "慶元四年五月再游",
+        "so360": 22,
+        "bing": 12200,
+        "bing_en": 3110,
+        "google": 34800
+    },
+    {
+        "baidu": 4,
+        "author": "趙公碩",
+        "title": "積雨初霽乘興邀王和叟趙久成二監郡遊南山飲於雲間閣因成一詩醉書於石壁",
+        "so360": 6,
+        "bing": 1760,
+        "bing_en": 100,
+        "google": 8
+    },
+    {
+        "baidu": 9,
+        "author": "趙公碩",
+        "title": "奉和郭使君遊光福寺雲閒閣二十韻",
+        "so360": 18,
+        "bing": 3820,
+        "bing_en": 3820,
+        "google": 303
+    },
+    {
+        "baidu": 6,
+        "author": "芮煇",
+        "title": "持憲節登戴溪亭賦詩",
+        "so360": 22,
+        "bing": 113000,
+        "bing_en": 106,
+        "google": 442
+    },
+    {
+        "baidu": 1370,
+        "author": "葛郯",
+        "title": "頌",
+        "so360": 136,
+        "bing": 0,
+        "bing_en": 20300,
+        "google": 778000
+    },
+    {
+        "baidu": 3,
+        "author": "葛郯",
+        "title": "臨終偈",
+        "so360": 41,
+        "bing": 1370,
+        "bing_en": 521,
+        "google": 16800
+    },
+    {
+        "baidu": 7,
+        "author": "釋中仁",
+        "title": "偈",
+        "so360": 30,
+        "bing": 14400,
+        "bing_en": 650,
+        "google": 1030000
+    },
+    {
+        "baidu": 3,
+        "author": "釋中仁",
+        "title": "舉狗子無佛性話頌",
+        "so360": 35,
+        "bing": 58400,
+        "bing_en": 323,
+        "google": 3290000
+    },
+    {
+        "baidu": 3,
+        "author": "釋中仁",
+        "title": "舉與萬法爲侶因緣頌",
+        "so360": 217,
+        "bing": 2790000,
+        "bing_en": 100,
+        "google": 3360000
+    },
+    {
+        "baidu": 4,
+        "author": "陳尚文",
+        "title": "題江國錄先生石室",
+        "so360": 46,
+        "bing": 32100,
+        "bing_en": 103,
+        "google": 541
+    },
+    {
+        "baidu": 6,
+        "author": "陳景肅",
+        "title": "試劍石",
+        "so360": 45,
+        "bing": 84800,
+        "bing_en": 1130,
+        "google": 587
+    },
+    {
+        "baidu": 5,
+        "author": "陳景肅",
+        "title": "懷高東溪二首  其一",
+        "so360": 39,
+        "bing": 2600,
+        "bing_en": 2600,
+        "google": 898
+    },
+    {
+        "baidu": 5,
+        "author": "陳景肅",
+        "title": "懷高東溪二首  其二",
+        "so360": 39,
+        "bing": 2270,
+        "bing_en": 2280,
+        "google": 1240
+    },
+    {
+        "baidu": 3,
+        "author": "陳庸",
+        "title": "江左驛舍寄文湖",
+        "so360": 17,
+        "bing": 12300,
+        "bing_en": 8510,
+        "google": 174
+    },
+    {
+        "baidu": 9,
+        "author": "陸楠",
+        "title": "洪氏浴室院",
+        "so360": 17,
+        "bing": 841000,
+        "bing_en": 68000,
+        "google": 3810000
+    },
+    {
+        "baidu": 2,
+        "author": "陸楠",
+        "title": "題妙庭觀",
+        "so360": 16,
+        "bing": 721000,
+        "bing_en": 21000,
+        "google": 2230000
+    },
+    {
+        "baidu": 3,
+        "author": "劉焞",
+        "title": "致爽軒",
+        "so360": 19,
+        "bing": 641000,
+        "bing_en": 16400,
+        "google": 3580000
+    },
+    {
+        "baidu": 493000,
+        "author": "羅杞",
+        "title": "咏家史",
+        "so360": 15,
+        "bing": 96,
+        "bing_en": 95,
+        "google": 2210000
+    },
+    {
+        "baidu": 2,
+        "author": "羅杞",
+        "title": "在金陵宦邸別鄉友宋碧溪司訓",
+        "so360": 18,
+        "bing": 7990,
+        "bing_en": 109,
+        "google": 6960
+    },
+    {
+        "baidu": 9,
+        "author": "林桷",
+        "title": "李白書堂",
+        "so360": 48,
+        "bing": 8800,
+        "bing_en": 1360,
+        "google": 3840
+    },
+    {
+        "baidu": 7,
+        "author": "林桷",
+        "title": "題太白五松書堂  其一",
+        "so360": 54,
+        "bing": 70,
+        "bing_en": 762,
+        "google": 158000
+    },
+    {
+        "baidu": 7,
+        "author": "林桷",
+        "title": "題太白五松書堂  其二",
+        "so360": 54,
+        "bing": 12400,
+        "bing_en": 2050,
+        "google": 167000
+    },
+    {
+        "baidu": 7,
+        "author": "林桷",
+        "title": "題太白五松書堂  其三",
+        "so360": 55,
+        "bing": 4330,
+        "bing_en": 763,
+        "google": 155000
+    },
+    {
+        "baidu": 7,
+        "author": "林桷",
+        "title": "題太白五松書堂  其四",
+        "so360": 474,
+        "bing": 4320,
+        "bing_en": 762,
+        "google": 154000
+    },
+    {
+        "baidu": 3,
+        "author": "林桷",
+        "title": "贈汪孝子",
+        "so360": 22,
+        "bing": 2430,
+        "bing_en": 2430,
+        "google": 42800
+    },
+    {
+        "baidu": 7,
+        "author": "孟益",
+        "title": "贈汪孝子  其一",
+        "so360": 18,
+        "bing": 766,
+        "bing_en": 766,
+        "google": 102000
+    },
+    {
+        "baidu": 8,
+        "author": "孟益",
+        "title": "贈汪孝子  其二",
+        "so360": 18,
+        "bing": 727,
+        "bing_en": 728,
+        "google": 356000
+    },
+    {
+        "baidu": 6,
+        "author": "黄芻",
+        "title": "挽李制幹",
+        "so360": 20,
+        "bing": 58900,
+        "bing_en": 19600,
+        "google": 1030000
+    },
+    {
+        "baidu": 54,
+        "author": "葉群",
+        "title": "南雁西洞",
+        "so360": 4,
+        "bing": 13500,
+        "bing_en": 13500,
+        "google": 245
+    },
+    {
+        "baidu": 4,
+        "author": "查籥",
+        "title": "萬州湖灘寄王夔州",
+        "so360": 291,
+        "bing": 12400,
+        "bing_en": 15200,
+        "google": 799
+    },
+    {
+        "baidu": 39,
+        "author": "查籥",
+        "title": "題卧龍山",
+        "so360": 513,
+        "bing": 1590000,
+        "bing_en": 89,
+        "google": 16600
+    },
+    {
+        "baidu": 2,
+        "author": "查籥",
+        "title": "訪蘇黄遺墨",
+        "so360": 336,
+        "bing": 12400,
+        "bing_en": 100,
+        "google": 997
+    },
+    {
+        "baidu": 34200,
+        "author": "查籥",
+        "title": "句",
+        "so360": 230,
+        "bing": 13100,
+        "bing_en": 13100,
+        "google": 485000
+    },
+    {
+        "baidu": 2,
+        "author": "何伯謹",
+        "title": "挽薛艮齋",
+        "so360": 19,
+        "bing": 0,
+        "bing_en": 20500,
+        "google": 337
+    },
+    {
+        "baidu": 11,
+        "author": "章綸",
+        "title": "庚子冬夜宿郡館懷白從古",
+        "so360": 15,
+        "bing": 10600,
+        "bing_en": 7170,
+        "google": 584000
+    },
+    {
+        "baidu": 44,
+        "author": "廖挺",
+        "title": "句",
+        "so360": 174,
+        "bing": 91000,
+        "bing_en": 90900,
+        "google": 8910000
+    },
+    {
+        "baidu": 86,
+        "author": "沈希尹",
+        "title": "高士峰",
+        "so360": 20,
+        "bing": 5050,
+        "bing_en": 5040,
+        "google": 215
+    },
+    {
+        "baidu": 1,
+        "author": "童宗說",
+        "title": "亦愛堂",
+        "so360": 9,
+        "bing": 8520,
+        "bing_en": 8750,
+        "google": 6370000
+    },
+    {
+        "baidu": 4,
+        "author": "蔣雝",
+        "title": "句",
+        "so360": 3470,
+        "bing": 1700000,
+        "bing_en": 18800,
+        "google": 928000
+    },
+    {
+        "baidu": 6,
+        "author": "任三傑",
+        "title": "姜山",
+        "so360": 27,
+        "bing": 23600,
+        "bing_en": 23600,
+        "google": 27
+    },
+    {
+        "baidu": 31,
+        "author": "蕭德藻",
+        "title": "登岳陽樓  其一",
+        "so360": 492,
+        "bing": 22800,
+        "bing_en": 8310,
+        "google": 15300
+    },
+    {
+        "baidu": 36,
+        "author": "蕭德藻",
+        "title": "登岳陽樓  其二",
+        "so360": 497,
+        "bing": 18000,
+        "bing_en": 7090,
+        "google": 15400
+    },
+    {
+        "baidu": 13,
+        "author": "蕭德藻",
+        "title": "呂公洞",
+        "so360": 47,
+        "bing": 27500,
+        "bing_en": 24500,
+        "google": 719
+    },
+    {
+        "baidu": 74,
+        "author": "蕭德藻",
+        "title": "樵夫",
+        "so360": 626,
+        "bing": 3020,
+        "bing_en": 3020,
+        "google": 3210
+    },
+    {
+        "baidu": 71,
+        "author": "蕭德藻",
+        "title": "立春",
+        "so360": 3140,
+        "bing": 7700,
+        "bing_en": 7700,
+        "google": 9310
+    },
+    {
+        "baidu": 6,
+        "author": "蕭德藻",
+        "title": "古梅二絕  其一",
+        "so360": 61,
+        "bing": 1570,
+        "bing_en": 1570,
+        "google": 6860
+    },
+    {
+        "baidu": 5,
+        "author": "蕭德藻",
+        "title": "古梅二絕  其二",
+        "so360": 59,
+        "bing": 1260,
+        "bing_en": 1260,
+        "google": 6310
+    },
+    {
+        "baidu": 9,
+        "author": "蕭德藻",
+        "title": "采蓮曲二首  其一",
+        "so360": 68,
+        "bing": 1330,
+        "bing_en": 1330,
+        "google": 11500
+    },
+    {
+        "baidu": 9,
+        "author": "蕭德藻",
+        "title": "采蓮曲二首  其二",
+        "so360": 67,
+        "bing": 1120,
+        "bing_en": 1120,
+        "google": 11700
+    },
+    {
+        "baidu": 31,
+        "author": "蕭德藻",
+        "title": "詠虞美人草",
+        "so360": 58,
+        "bing": 10300,
+        "bing_en": 1370,
+        "google": 31200
+    },
+    {
+        "baidu": 9,
+        "author": "蕭德藻",
+        "title": "次韻傅惟肖",
+        "so360": 74,
+        "bing": 15500,
+        "bing_en": 61,
+        "google": 983
+    },
+    {
+        "baidu": 14,
+        "author": "蕭德藻",
+        "title": "臺城",
+        "so360": 41,
+        "bing": 494000,
+        "bing_en": 2620,
+        "google": 26200
+    },
+    {
+        "baidu": 1420,
+        "author": "蕭德藻",
+        "title": "句  其一",
+        "so360": 34,
+        "bing": 5170,
+        "bing_en": 5170,
+        "google": 39200
+    },
+    {
+        "baidu": 1740,
+        "author": "蕭德藻",
+        "title": "句  其二",
+        "so360": 25,
+        "bing": 3800,
+        "bing_en": 3810,
+        "google": 34900
+    },
+    {
+        "baidu": 463,
+        "author": "蕭德藻",
+        "title": "句  其三",
+        "so360": 569,
+        "bing": 13000,
+        "bing_en": 13100,
+        "google": 31700
+    },
+    {
+        "baidu": 187,
+        "author": "蕭德藻",
+        "title": "句  其四",
+        "so360": 442,
+        "bing": 13100,
+        "bing_en": 13100,
+        "google": 8070
+    },
+    {
+        "baidu": 244,
+        "author": "蕭德藻",
+        "title": "句  其五",
+        "so360": 146,
+        "bing": 13000,
+        "bing_en": 13000,
+        "google": 32900
+    },
+    {
+        "baidu": 182,
+        "author": "蕭德藻",
+        "title": "句  其六",
+        "so360": 16400,
+        "bing": 13000,
+        "bing_en": 13000,
+        "google": 28300
+    },
+    {
+        "baidu": 355,
+        "author": "蕭德藻",
+        "title": "句  其七",
+        "so360": 16400,
+        "bing": 118000,
+        "bing_en": 31300,
+        "google": 30100
+    },
+    {
+        "baidu": 111,
+        "author": "蕭德藻",
+        "title": "句  其八",
+        "so360": 554,
+        "bing": 13000,
+        "bing_en": 13000,
+        "google": 24100
+    },
+    {
+        "baidu": 134,
+        "author": "蕭德藻",
+        "title": "句  其九",
+        "so360": 16300,
+        "bing": 100000,
+        "bing_en": 32600,
+        "google": 27500
+    },
+    {
+        "baidu": 813,
+        "author": "蕭德藻",
+        "title": "句  其一○",
+        "so360": 34,
+        "bing": 1600,
+        "bing_en": 513,
+        "google": 556
+    },
+    {
+        "baidu": 7,
+        "author": "蕭德藻",
+        "title": "句  其一一",
+        "so360": 16400,
+        "bing": 93200,
+        "bing_en": 23100,
+        "google": 4110
+    },
+    {
+        "baidu": 789,
+        "author": "蕭德藻",
+        "title": "句  其一二",
+        "so360": 1210,
+        "bing": 185000,
+        "bing_en": 22200,
+        "google": 3390
+    },
+    {
+        "baidu": 38,
+        "author": "蕭德藻",
+        "title": "句  其一三",
+        "so360": 542,
+        "bing": 4870,
+        "bing_en": 4860,
+        "google": 476
+    },
+    {
+        "baidu": 2,
+        "author": "顔發",
+        "title": "待潮顧浦宿耕者張欽舍",
+        "so360": 29,
+        "bing": 12300,
+        "bing_en": 16800,
+        "google": 2370000
+    },
+    {
+        "baidu": 2,
+        "author": "顔發",
+        "title": "和蓋謙老遊馬鞍山",
+        "so360": 37,
+        "bing": 354,
+        "bing_en": 73,
+        "google": 997000
+    },
+    {
+        "baidu": 1,
+        "author": "顔發",
+        "title": "題靈山壁",
+        "so360": 18,
+        "bing": 11200,
+        "bing_en": 4630,
+        "google": 1070000
+    },
+    {
+        "baidu": 3,
+        "author": "顔發",
+        "title": "和山間壁上陳子忠  其一",
+        "so360": 24,
+        "bing": 123000,
+        "bing_en": 101,
+        "google": 9
+    },
+    {
+        "baidu": 2,
+        "author": "顔發",
+        "title": "和山間壁上陳子忠  其二",
+        "so360": 24,
+        "bing": 111000,
+        "bing_en": 101,
+        "google": 8
+    },
+    {
+        "baidu": 2,
+        "author": "顔發",
+        "title": "和陳尉春日行山",
+        "so360": 17,
+        "bing": 7580,
+        "bing_en": 7580,
+        "google": 150000
+    },
+    {
+        "baidu": 93,
+        "author": "黄巨澄",
+        "title": "登四明山",
+        "so360": 31,
+        "bing": 82,
+        "bing_en": 21100,
+        "google": 27200
+    },
+    {
+        "baidu": 2,
+        "author": "劉知過",
+        "title": "題國清寺",
+        "so360": 31,
+        "bing": 818000,
+        "bing_en": 21000,
+        "google": 325000
+    },
+    {
+        "baidu": 15,
+        "author": "劉知過",
+        "title": "春日",
+        "so360": 156,
+        "bing": 14500,
+        "bing_en": 25800,
+        "google": 5050000
+    },
+    {
+        "baidu": 15,
+        "author": "陳夢良",
+        "title": "登泰山  其一",
+        "so360": 55,
+        "bing": 3750,
+        "bing_en": 3750,
+        "google": 427
+    },
+    {
+        "baidu": 16,
+        "author": "陳夢良",
+        "title": "登泰山  其二",
+        "so360": 55,
+        "bing": 3150,
+        "bing_en": 3150,
+        "google": 437
+    },
+    {
+        "baidu": 31500,
+        "author": "陳輝",
+        "title": "句",
+        "so360": 107000,
+        "bing": 45700,
+        "bing_en": 133000,
+        "google": 14800000
+    },
+    {
+        "baidu": 3,
+        "author": "孫祖德",
+        "title": "題琴堂",
+        "so360": 6390,
+        "bing": 9320,
+        "bing_en": 54,
+        "google": 29700
+    },
+    {
+        "baidu": 4,
+        "author": "鄭城某",
+        "title": "絳溪",
+        "so360": 13,
+        "bing": 92600,
+        "bing_en": 21200,
+        "google": 1510000
+    },
+    {
+        "baidu": 3,
+        "author": "陳煥子弟",
+        "title": "碧落洞",
+        "so360": 19,
+        "bing": 11800,
+        "bing_en": 11800,
+        "google": 273000
+    },
+    {
+        "baidu": 13,
+        "author": "劉珙",
+        "title": "帥潭日勸駕詩",
+        "so360": 27,
+        "bing": 794000,
+        "bing_en": 65,
+        "google": 3820000
+    },
+    {
+        "baidu": 17,
+        "author": "劉珙",
+        "title": "送元晦",
+        "so360": 221,
+        "bing": 25700,
+        "bing_en": 18600,
+        "google": 23200
+    },
+    {
+        "baidu": 11,
+        "author": "陳從古",
+        "title": "紹興辛巳秋過浯溪誦簡齋詩因用其韻",
+        "so360": 18,
+        "bing": 1570,
+        "bing_en": 105,
+        "google": 615
+    },
+    {
+        "baidu": 19,
+        "author": "陳從古",
+        "title": "重過浯溪",
+        "so360": 6,
+        "bing": 1710000,
+        "bing_en": 99,
+        "google": 1040000
+    },
+    {
+        "baidu": 58,
+        "author": "陳從古",
+        "title": "句  其一",
+        "so360": 626,
+        "bing": 1610000,
+        "bing_en": 82200,
+        "google": 22900000
+    },
+    {
+        "baidu": 23,
+        "author": "陳從古",
+        "title": "句  其二",
+        "so360": 609,
+        "bing": 11400,
+        "bing_en": 11400,
+        "google": 23500000
+    },
+    {
+        "baidu": 14,
+        "author": "陳從古",
+        "title": "句  其三",
+        "so360": 1450,
+        "bing": 43000,
+        "bing_en": 43100,
+        "google": 19700000
+    },
+    {
+        "baidu": 522000,
+        "author": "葉衡",
+        "title": "詩一首",
+        "so360": 53,
+        "bing": 16800,
+        "bing_en": 34600,
+        "google": 5810000
+    },
+    {
+        "baidu": 2,
+        "author": "葉衡",
+        "title": "寶乘寺",
+        "so360": 17,
+        "bing": 370000,
+        "bing_en": 20300,
+        "google": 890000
+    },
+    {
+        "baidu": 19,
+        "author": "葉衡",
+        "title": "鹿田寺集杜五言",
+        "so360": 23,
+        "bing": 32400,
+        "bing_en": 102,
+        "google": 195
+    },
+    {
+        "baidu": 2,
+        "author": "葉衡",
+        "title": "崑山呂正之三男子連中神童科蓋奇事也次嚴別駕韻",
+        "so360": 17,
+        "bing": 16700,
+        "bing_en": 9,
+        "google": 254
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "題君山愛松軒",
+        "so360": 21,
+        "bing": 8530,
+        "bing_en": 8540,
+        "google": 1220
+    },
+    {
+        "baidu": 7,
+        "author": "李呂",
+        "title": "陪晦翁遊玉澗",
+        "so360": 11,
+        "bing": 12500,
+        "bing_en": 20900,
+        "google": 903000
+    },
+    {
+        "baidu": 19,
+        "author": "李呂",
+        "title": "抱膝庵",
+        "so360": 16,
+        "bing": 65,
+        "bing_en": 21200,
+        "google": 2200000
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "送高丞別",
+        "so360": 24,
+        "bing": 13200,
+        "bing_en": 56,
+        "google": 1710000
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "乙巳四月比屋多疹痘瘧痢間作五月盡猶未已病者延綿在寢治療不獲其法往往失生理殊可憫痛乃作民病書事一首以紀之",
+        "so360": 19,
+        "bing": 242,
+        "bing_en": 102,
+        "google": 493
+    },
+    {
+        "baidu": 58,
+        "author": "李呂",
+        "title": "和許尉仙田舍野老有可憐之態壁間之什",
+        "so360": 35,
+        "bing": 1370,
+        "bing_en": 133,
+        "google": 487
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "喜入杉嶺",
+        "so360": 25,
+        "bing": 0,
+        "bing_en": 9120,
+        "google": 4560000
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "題吳微仲常齋",
+        "so360": 13,
+        "bing": 14400,
+        "bing_en": 21400,
+        "google": 603
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "題伯丈人黄待制歸來堂",
+        "so360": 11,
+        "bing": 4480,
+        "bing_en": 4480,
+        "google": 2320000
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "送吳晦叔赴廷試",
+        "so360": 18,
+        "bing": 12900,
+        "bing_en": 2820,
+        "google": 15300
+    },
+    {
+        "baidu": 23300,
+        "author": "李呂",
+        "title": "勉諸子",
+        "so360": 25,
+        "bing": 14600,
+        "bing_en": 20900,
+        "google": 144000
+    },
+    {
+        "baidu": 13,
+        "author": "李呂",
+        "title": "遣興",
+        "so360": 1060,
+        "bing": 14200,
+        "bing_en": 21100,
+        "google": 4610000
+    },
+    {
+        "baidu": 13,
+        "author": "李呂",
+        "title": "題少室故居",
+        "so360": 34,
+        "bing": 12200,
+        "bing_en": 21100,
+        "google": 1070000
+    },
+    {
+        "baidu": 12,
+        "author": "李呂",
+        "title": "近世飲者尊尚苦味有感成詩",
+        "so360": 30,
+        "bing": 12800,
+        "bing_en": 106,
+        "google": 75500
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "見諸公古風有感而和",
+        "so360": 17,
+        "bing": 3670,
+        "bing_en": 1880,
+        "google": 215000
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "適見諸公詠梅之什因用其韻率作者同賦",
+        "so360": 136,
+        "bing": 7800,
+        "bing_en": 91,
+        "google": 349000
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "復次韻二首  其一",
+        "so360": 523,
+        "bing": 35600,
+        "bing_en": 19200,
+        "google": 121000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "復次韻二首  其二",
+        "so360": 524,
+        "bing": 29400,
+        "bing_en": 19800,
+        "google": 421000
+    },
+    {
+        "baidu": 30,
+        "author": "李呂",
+        "title": "追挽游大夫",
+        "so360": 16,
+        "bing": 13900,
+        "bing_en": 21000,
+        "google": 2030000
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "戒蠅",
+        "so360": 10,
+        "bing": 729,
+        "bing_en": 21200,
+        "google": 5590000
+    },
+    {
+        "baidu": 72,
+        "author": "李呂",
+        "title": "家有含笑花開因成三首  其一",
+        "so360": 38,
+        "bing": 556,
+        "bing_en": 556,
+        "google": 3750000
+    },
+    {
+        "baidu": 72,
+        "author": "李呂",
+        "title": "家有含笑花開因成三首  其二",
+        "so360": 39,
+        "bing": 472,
+        "bing_en": 472,
+        "google": 2930000
+    },
+    {
+        "baidu": 71,
+        "author": "李呂",
+        "title": "家有含笑花開因成三首  其三",
+        "so360": 44,
+        "bing": 63800,
+        "bing_en": 20100,
+        "google": 2220000
+    },
+    {
+        "baidu": 20,
+        "author": "李呂",
+        "title": "送江宰別",
+        "so360": 26,
+        "bing": 72600,
+        "bing_en": 20000,
+        "google": 4920000
+    },
+    {
+        "baidu": 176,
+        "author": "李呂",
+        "title": "丙辰夏和周宰",
+        "so360": 6,
+        "bing": 12200,
+        "bing_en": 12200,
+        "google": 1990000
+    },
+    {
+        "baidu": 26,
+        "author": "李呂",
+        "title": "讀太白集",
+        "so360": 16,
+        "bing": 91,
+        "bing_en": 13900,
+        "google": 230000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "貞婦",
+        "so360": 29,
+        "bing": 14500,
+        "bing_en": 2960,
+        "google": 14700
+    },
+    {
+        "baidu": 23,
+        "author": "李呂",
+        "title": "胡程寺二首  其一",
+        "so360": 27,
+        "bing": 8280,
+        "bing_en": 8290,
+        "google": 5660000
+    },
+    {
+        "baidu": 22,
+        "author": "李呂",
+        "title": "胡程寺二首  其二",
+        "so360": 27,
+        "bing": 6160,
+        "bing_en": 6160,
+        "google": 4610000
+    },
+    {
+        "baidu": 55200,
+        "author": "李呂",
+        "title": "改過",
+        "so360": 25,
+        "bing": 79000,
+        "bing_en": 21200,
+        "google": 301000
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "泊雷公步涉豫章境江流淼漫煙村夾岸景色橫出顧挹不暇舟中偶獲古風一首",
+        "so360": 12,
+        "bing": 16,
+        "bing_en": 101,
+        "google": 169
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "贈上官法師",
+        "so360": 28,
+        "bing": 18100,
+        "bing_en": 103,
+        "google": 1620000
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "題叢碧亭",
+        "so360": 9,
+        "bing": 13700,
+        "bing_en": 13700,
+        "google": 323
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "聳玉亭",
+        "so360": 32,
+        "bing": 420,
+        "bing_en": 100,
+        "google": 1370000
+    },
+    {
+        "baidu": 10,
+        "author": "李呂",
+        "title": "遊青玉峽",
+        "so360": 15,
+        "bing": 21200,
+        "bing_en": 5830,
+        "google": 2680000
+    },
+    {
+        "baidu": 28,
+        "author": "李呂",
+        "title": "答官仲儒",
+        "so360": 21,
+        "bing": 13300,
+        "bing_en": 13900,
+        "google": 3390000
+    },
+    {
+        "baidu": 54,
+        "author": "李呂",
+        "title": "寄題余氏桂亭",
+        "so360": 11,
+        "bing": 40100,
+        "bing_en": 262,
+        "google": 1620000
+    },
+    {
+        "baidu": 42,
+        "author": "李呂",
+        "title": "古意",
+        "so360": 80,
+        "bing": 22,
+        "bing_en": 21800,
+        "google": 9340000
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "某伏蒙丈人僉判出示嘗與侍郎鄭公淺沙泉唱酬詩軸率爾次韻",
+        "so360": 10,
+        "bing": 88,
+        "bing_en": 104,
+        "google": 988
+    },
+    {
+        "baidu": 18,
+        "author": "李呂",
+        "title": "酬令裕見寄之什",
+        "so360": 27,
+        "bing": 7840,
+        "bing_en": 20900,
+        "google": 1130000
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "題焦山寺",
+        "so360": 26,
+        "bing": 80,
+        "bing_en": 1230,
+        "google": 390000
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "題宋德器致爽軒",
+        "so360": 18,
+        "bing": 11900,
+        "bing_en": 11700,
+        "google": 394
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "滄海行",
+        "so360": 12,
+        "bing": 14100,
+        "bing_en": 23900,
+        "google": 3750000
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "宿游伯均裕齋夜無蚊蚋熟寐達旦",
+        "so360": 44,
+        "bing": 978,
+        "bing_en": 102,
+        "google": 3320
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "寄題張道士招真閣",
+        "so360": 21,
+        "bing": 12000,
+        "bing_en": 12000,
+        "google": 1630000
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "寄贈天台石橋京行人",
+        "so360": 10,
+        "bing": 5700,
+        "bing_en": 613,
+        "google": 1770
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "送趙彥修",
+        "so360": 25,
+        "bing": 14100,
+        "bing_en": 566,
+        "google": 3490
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "承德功仙尉出示直翁感興之作輒次其韵",
+        "so360": 14,
+        "bing": 41,
+        "bing_en": 16000,
+        "google": 5670
+    },
+    {
+        "baidu": 7,
+        "author": "李呂",
+        "title": "賀吳守被召",
+        "so360": 20,
+        "bing": 116000,
+        "bing_en": 21200,
+        "google": 5130000
+    },
+    {
+        "baidu": 15,
+        "author": "李呂",
+        "title": "送黄仲甄赴廷試",
+        "so360": 20,
+        "bing": 12900,
+        "bing_en": 19600,
+        "google": 15100
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "和韓羲仲主簿古巖韻",
+        "so360": 10,
+        "bing": 3240,
+        "bing_en": 62,
+        "google": 702
+    },
+    {
+        "baidu": 7,
+        "author": "李呂",
+        "title": "登賦堂",
+        "so360": 17,
+        "bing": 14200,
+        "bing_en": 14300,
+        "google": 5150000
+    },
+    {
+        "baidu": 18,
+        "author": "李呂",
+        "title": "次韻令裕言詩",
+        "so360": 29,
+        "bing": 12700,
+        "bing_en": 3870,
+        "google": 41000
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "自臨州還題杉嶺舖",
+        "so360": 23,
+        "bing": 214000,
+        "bing_en": 103,
+        "google": 2320000
+    },
+    {
+        "baidu": 10,
+        "author": "李呂",
+        "title": "送仲秉赴廷試五首  其一",
+        "so360": 15,
+        "bing": 12700,
+        "bing_en": 100,
+        "google": 1130000
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "送仲秉赴廷試五首  其二",
+        "so360": 12,
+        "bing": 12800,
+        "bing_en": 100,
+        "google": 1110000
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "送仲秉赴廷試五首  其三",
+        "so360": 121,
+        "bing": 12300,
+        "bing_en": 5280,
+        "google": 1100000
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "送仲秉赴廷試五首  其四",
+        "so360": 117,
+        "bing": 12700,
+        "bing_en": 5290,
+        "google": 1100000
+    },
+    {
+        "baidu": 10,
+        "author": "李呂",
+        "title": "送仲秉赴廷試五首  其五",
+        "so360": 50,
+        "bing": 12800,
+        "bing_en": 5300,
+        "google": 1110000
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "挽昭懷皇后詩二首  其一",
+        "so360": 26,
+        "bing": 825,
+        "bing_en": 825,
+        "google": 1400000
+    },
+    {
+        "baidu": 12,
+        "author": "李呂",
+        "title": "挽昭懷皇后詩二首  其二",
+        "so360": 26,
+        "bing": 835,
+        "bing_en": 832,
+        "google": 1410000
+    },
+    {
+        "baidu": 1,
+        "author": "李呂",
+        "title": "次涪陵游北巖寺伊川謫居嘗傳易於此有鈎深堂魯直名且書之故寺有四賢像伊川魯直康節尹和靖",
+        "so360": 31,
+        "bing": 66,
+        "bing_en": 102,
+        "google": 8
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "癸丑季春上洲頹岸出敗冢冢中有磚云元嘉二十二年七月二十六日余功曹冢後世子孫長興富貴宜賒因題數句",
+        "so360": 12,
+        "bing": 3,
+        "bing_en": 100,
+        "google": 4220
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "丁巳三月送周宰行",
+        "so360": 29,
+        "bing": 13600,
+        "bing_en": 100,
+        "google": 5270
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "予一病七十日心事牢落作詩自解",
+        "so360": 28,
+        "bing": 5170,
+        "bing_en": 5170,
+        "google": 17400
+    },
+    {
+        "baidu": 50400,
+        "author": "李呂",
+        "title": "多病",
+        "so360": 95,
+        "bing": 87700,
+        "bing_en": 21500,
+        "google": 12000000
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "遊希夷觀  其一",
+        "so360": 56,
+        "bing": 14300,
+        "bing_en": 14600,
+        "google": 5520000
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "遊希夷觀  其二",
+        "so360": 59,
+        "bing": 14300,
+        "bing_en": 11100,
+        "google": 6060000
+    },
+    {
+        "baidu": 13,
+        "author": "李呂",
+        "title": "遣興",
+        "so360": 1060,
+        "bing": 14200,
+        "bing_en": 21100,
+        "google": 4610000
+    },
+    {
+        "baidu": 2,
+        "author": "李呂",
+        "title": "懷黄令裕二首  其一",
+        "so360": 66,
+        "bing": 218000,
+        "bing_en": 7530,
+        "google": 83400
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "懷黄令裕二首  其二",
+        "so360": 40,
+        "bing": 218000,
+        "bing_en": 4240,
+        "google": 62100
+    },
+    {
+        "baidu": 51700,
+        "author": "李呂",
+        "title": "有感",
+        "so360": 86,
+        "bing": 122000,
+        "bing_en": 248000,
+        "google": 15700000
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "觀荷",
+        "so360": 10,
+        "bing": 16000,
+        "bing_en": 61200,
+        "google": 3250000
+    },
+    {
+        "baidu": 12,
+        "author": "李呂",
+        "title": "對竹次韻",
+        "so360": 11,
+        "bing": 19300,
+        "bing_en": 7190,
+        "google": 364000
+    },
+    {
+        "baidu": 13,
+        "author": "李呂",
+        "title": "挽上官文季直二首  其一",
+        "so360": 18,
+        "bing": 1550,
+        "bing_en": 1550,
+        "google": 908000
+    },
+    {
+        "baidu": 15,
+        "author": "李呂",
+        "title": "挽上官文季直二首  其二",
+        "so360": 20,
+        "bing": 1280,
+        "bing_en": 1270,
+        "google": 929000
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "晚步",
+        "so360": 49,
+        "bing": 18200,
+        "bing_en": 18200,
+        "google": 9880000
+    },
+    {
+        "baidu": 7,
+        "author": "李呂",
+        "title": "代懷祖上舅氏",
+        "so360": 37,
+        "bing": 1550,
+        "bing_en": 1550,
+        "google": 29700
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "絕塵軒",
+        "so360": 22,
+        "bing": 13400,
+        "bing_en": 10600,
+        "google": 2760000
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "歸自南康寄懷朱使君",
+        "so360": 10,
+        "bing": 2910,
+        "bing_en": 87,
+        "google": 2740000
+    },
+    {
+        "baidu": 12,
+        "author": "李呂",
+        "title": "弔霍光",
+        "so360": 41,
+        "bing": 7830,
+        "bing_en": 7850,
+        "google": 293000
+    },
+    {
+        "baidu": 10,
+        "author": "李呂",
+        "title": "七夕次韻",
+        "so360": 18,
+        "bing": 13000,
+        "bing_en": 5820,
+        "google": 114000
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "送雙峰聖僧遺像還山",
+        "so360": 15,
+        "bing": 14400,
+        "bing_en": 111,
+        "google": 47300
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "天章閣成應制次韻",
+        "so360": 16,
+        "bing": 9230,
+        "bing_en": 92,
+        "google": 9130
+    },
+    {
+        "baidu": 10,
+        "author": "李呂",
+        "title": "自題安樂行",
+        "so360": 19,
+        "bing": 136000,
+        "bing_en": 21200,
+        "google": 2960000
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "絕塵軒",
+        "so360": 22,
+        "bing": 13400,
+        "bing_en": 10600,
+        "google": 2760000
+    },
+    {
+        "baidu": 1,
+        "author": "李呂",
+        "title": "送許尉子雲二首  其一",
+        "so360": 9,
+        "bing": 12600,
+        "bing_en": 13300,
+        "google": 431
+    },
+    {
+        "baidu": 1,
+        "author": "李呂",
+        "title": "送許尉子雲二首  其二",
+        "so360": 30,
+        "bing": 12600,
+        "bing_en": 100,
+        "google": 831
+    },
+    {
+        "baidu": 2,
+        "author": "李呂",
+        "title": "送陳尉別二首  其一",
+        "so360": 25,
+        "bing": 2890,
+        "bing_en": 2890,
+        "google": 2900000
+    },
+    {
+        "baidu": 2,
+        "author": "李呂",
+        "title": "送陳尉別二首  其二",
+        "so360": 25,
+        "bing": 2350,
+        "bing_en": 2350,
+        "google": 2730000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "天台石橋設茶供",
+        "so360": 25,
+        "bing": 11700,
+        "bing_en": 19300,
+        "google": 18100
+    },
+    {
+        "baidu": 12,
+        "author": "李呂",
+        "title": "師正堂二首  其一",
+        "so360": 62,
+        "bing": 70,
+        "bing_en": 70,
+        "google": 368000
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "師正堂二首  其二",
+        "so360": 62,
+        "bing": 98,
+        "bing_en": 93,
+        "google": 378000
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "投贈錢侍郎端禮三篇  其一",
+        "so360": 24,
+        "bing": 673,
+        "bing_en": 673,
+        "google": 442000
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "投贈錢侍郎端禮三篇  其二",
+        "so360": 24,
+        "bing": 619,
+        "bing_en": 618,
+        "google": 409000
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "投贈錢侍郎端禮三篇  其三",
+        "so360": 24,
+        "bing": 12300,
+        "bing_en": 20600,
+        "google": 398000
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "上元漫興",
+        "so360": 30,
+        "bing": 1140000,
+        "bing_en": 105,
+        "google": 5260000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "上元應制次韻",
+        "so360": 25,
+        "bing": 14500,
+        "bing_en": 1220,
+        "google": 138000
+    },
+    {
+        "baidu": 13,
+        "author": "李呂",
+        "title": "遣興",
+        "so360": 1060,
+        "bing": 14200,
+        "bing_en": 21100,
+        "google": 4610000
+    },
+    {
+        "baidu": 12,
+        "author": "李呂",
+        "title": "病中遣興",
+        "so360": 17,
+        "bing": 68600,
+        "bing_en": 21100,
+        "google": 2930000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "詩勉粹夫進學兼示諸子",
+        "so360": 12,
+        "bing": 13100,
+        "bing_en": 108,
+        "google": 59400
+    },
+    {
+        "baidu": 1,
+        "author": "李呂",
+        "title": "吉祥寺舊名永壽初李昪爲徐溫養子徐知訓不能容置酒欲殺之行酒吏刁彥能以手爪昪悟而逃伏此寺山谷作記無咎書",
+        "so360": 12,
+        "bing": 4,
+        "bing_en": 100,
+        "google": 6
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "感興",
+        "so360": 45,
+        "bing": 22300,
+        "bing_en": 21100,
+        "google": 32700
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "見菊",
+        "so360": 1010,
+        "bing": 24100,
+        "bing_en": 25300,
+        "google": 6210000
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "庚戌仲春携小子訪別晦翁過親友江清卿之門其嗣子尚幼不果見次早道經江清卿墓下悵然有懷",
+        "so360": 5,
+        "bing": 716,
+        "bing_en": 100,
+        "google": 88
+    },
+    {
+        "baidu": 15,
+        "author": "李呂",
+        "title": "次黄象之韵",
+        "so360": 17,
+        "bing": 284000,
+        "bing_en": 21200,
+        "google": 264
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "借用鄧彥高韻",
+        "so360": 10,
+        "bing": 8050,
+        "bing_en": 21000,
+        "google": 562
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "憂旱",
+        "so360": 30,
+        "bing": 440,
+        "bing_en": 21300,
+        "google": 4910000
+    },
+    {
+        "baidu": 18,
+        "author": "李呂",
+        "title": "送王晉卿赴廷試",
+        "so360": 12,
+        "bing": 14100,
+        "bing_en": 116,
+        "google": 18700
+    },
+    {
+        "baidu": 15,
+        "author": "李呂",
+        "title": "送黄元董赴廷試",
+        "so360": 16,
+        "bing": 5220,
+        "bing_en": 21000,
+        "google": 4080000
+    },
+    {
+        "baidu": 18,
+        "author": "李呂",
+        "title": "送郭順之赴廷試",
+        "so360": 93,
+        "bing": 106000,
+        "bing_en": 123,
+        "google": 14100
+    },
+    {
+        "baidu": 18,
+        "author": "李呂",
+        "title": "送楊文赴廷試",
+        "so360": 12,
+        "bing": 26300,
+        "bing_en": 120,
+        "google": 4460000
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "送楊道父赴廷試",
+        "so360": 16,
+        "bing": 12500,
+        "bing_en": 4620,
+        "google": 3990000
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "送趙勝仲赴廷試",
+        "so360": 29,
+        "bing": 14700,
+        "bing_en": 102,
+        "google": 10400
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "贈畫師郭叔詹",
+        "so360": 26,
+        "bing": 12400,
+        "bing_en": 2480,
+        "google": 39500
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "喜雪應制次韻",
+        "so360": 20,
+        "bing": 65000,
+        "bing_en": 154,
+        "google": 214000
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "追挽劉平父二首  其一",
+        "so360": 16,
+        "bing": 3020,
+        "bing_en": 3020,
+        "google": 2140000
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "追挽劉平父二首  其二",
+        "so360": 18,
+        "bing": 2470,
+        "bing_en": 2470,
+        "google": 2250000
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "登一覽亭有懷亡弟成老下世",
+        "so360": 128,
+        "bing": 2330,
+        "bing_en": 579,
+        "google": 171000
+    },
+    {
+        "baidu": 17,
+        "author": "李呂",
+        "title": "代人次韻",
+        "so360": 30,
+        "bing": 63,
+        "bing_en": 21300,
+        "google": 1500000
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "宣和殿新竹應制次韻",
+        "so360": 30,
+        "bing": 1820,
+        "bing_en": 106,
+        "google": 20500
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "題游少張逸老軒",
+        "so360": 12,
+        "bing": 4720,
+        "bing_en": 4470,
+        "google": 2100000
+    },
+    {
+        "baidu": 57,
+        "author": "李呂",
+        "title": "代人挽妻父號道者",
+        "so360": 37,
+        "bing": 14200,
+        "bing_en": 11200,
+        "google": 1730000
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "癸丑七月十九日以老病分任諸子以家務因爲詩以示戒",
+        "so360": 16,
+        "bing": 24,
+        "bing_en": 101,
+        "google": 547
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "復齋學者",
+        "so360": 11,
+        "bing": 15200,
+        "bing_en": 21300,
+        "google": 1600000
+    },
+    {
+        "baidu": 12,
+        "author": "李呂",
+        "title": "潭溪釣者",
+        "so360": 10,
+        "bing": 75500,
+        "bing_en": 21200,
+        "google": 4200000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "卧雲樵者",
+        "so360": 26,
+        "bing": 0,
+        "bing_en": 664,
+        "google": 1340000
+    },
+    {
+        "baidu": 19,
+        "author": "李呂",
+        "title": "老圃拙者",
+        "so360": 14,
+        "bing": 15800,
+        "bing_en": 21200,
+        "google": 11000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "雲莊耕者",
+        "so360": 20,
+        "bing": 1310,
+        "bing_en": 17200,
+        "google": 3310000
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "題七者寮",
+        "so360": 523,
+        "bing": 13900,
+        "bing_en": 13900,
+        "google": 2110000
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "題東寮",
+        "so360": 10,
+        "bing": 15000,
+        "bing_en": 161,
+        "google": 1920000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "止宿寮",
+        "so360": 30,
+        "bing": 0,
+        "bing_en": 1450,
+        "google": 13300
+    },
+    {
+        "baidu": 48300,
+        "author": "李呂",
+        "title": "山臺",
+        "so360": 14,
+        "bing": 41700,
+        "bing_en": 1950,
+        "google": 14700000
+    },
+    {
+        "baidu": 16,
+        "author": "李呂",
+        "title": "寓齋",
+        "so360": 27,
+        "bing": 14100,
+        "bing_en": 821,
+        "google": 1680000
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "觀善齋",
+        "so360": 10,
+        "bing": 15800,
+        "bing_en": 15800,
+        "google": 4660000
+    },
+    {
+        "baidu": 59,
+        "author": "李呂",
+        "title": "和邑宰張元若酹月亭詩四首  其一",
+        "so360": 37,
+        "bing": 12300,
+        "bing_en": 100,
+        "google": 477
+    },
+    {
+        "baidu": 58,
+        "author": "李呂",
+        "title": "和邑宰張元若酹月亭詩四首  其二",
+        "so360": 37,
+        "bing": 12300,
+        "bing_en": 100,
+        "google": 494
+    },
+    {
+        "baidu": 61,
+        "author": "李呂",
+        "title": "和邑宰張元若酹月亭詩四首  其三",
+        "so360": 36,
+        "bing": 12200,
+        "bing_en": 106,
+        "google": 313
+    },
+    {
+        "baidu": 60,
+        "author": "李呂",
+        "title": "和邑宰張元若酹月亭詩四首  其四",
+        "so360": 35,
+        "bing": 12300,
+        "bing_en": 107,
+        "google": 556
+    },
+    {
+        "baidu": 7540,
+        "author": "李呂",
+        "title": "橘香亭二首  其一",
+        "so360": 16,
+        "bing": 2710,
+        "bing_en": 2710,
+        "google": 2660000
+    },
+    {
+        "baidu": 5790,
+        "author": "李呂",
+        "title": "橘香亭二首  其二",
+        "so360": 16,
+        "bing": 2420,
+        "bing_en": 2420,
+        "google": 5010000
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "鐵笛亭",
+        "so360": 14,
+        "bing": 81,
+        "bing_en": 23700,
+        "google": 4850000
+    },
+    {
+        "baidu": 66,
+        "author": "李呂",
+        "title": "井泉",
+        "so360": 33,
+        "bing": 23700,
+        "bing_en": 7160,
+        "google": 3680000
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "禪友",
+        "so360": 21,
+        "bing": 16200,
+        "bing_en": 27700,
+        "google": 3370000
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "棋友",
+        "so360": 126,
+        "bing": 1930,
+        "bing_en": 1930,
+        "google": 4700000
+    },
+    {
+        "baidu": 9,
+        "author": "李呂",
+        "title": "琴友",
+        "so360": 451,
+        "bing": 24000,
+        "bing_en": 24400,
+        "google": 8010000
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "文友",
+        "so360": 63,
+        "bing": 0,
+        "bing_en": 59400,
+        "google": 13000000
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "題君山觀招真閣六首  其一",
+        "so360": 30,
+        "bing": 12000,
+        "bing_en": 4320,
+        "google": 169000
+    },
+    {
+        "baidu": 7,
+        "author": "李呂",
+        "title": "題君山觀招真閣六首  其二",
+        "so360": 30,
+        "bing": 10900,
+        "bing_en": 3270,
+        "google": 169000
+    },
+    {
+        "baidu": 7,
+        "author": "李呂",
+        "title": "題君山觀招真閣六首  其三",
+        "so360": 30,
+        "bing": 7770,
+        "bing_en": 15000,
+        "google": 160000
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "題君山觀招真閣六首  其四",
+        "so360": 30,
+        "bing": 7770,
+        "bing_en": 15000,
+        "google": 167000
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "題君山觀招真閣六首  其五",
+        "so360": 42,
+        "bing": 7770,
+        "bing_en": 15000,
+        "google": 162000
+    },
+    {
+        "baidu": 1,
+        "author": "李呂",
+        "title": "題君山觀招真閣六首  其六",
+        "so360": 47,
+        "bing": 7770,
+        "bing_en": 15600,
+        "google": 169000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "巢雲",
+        "so360": 20,
+        "bing": 16900,
+        "bing_en": 105000,
+        "google": 3610000
+    },
+    {
+        "baidu": 67,
+        "author": "李呂",
+        "title": "上黄端明壽詩以竚期三入後一品見玄孫爲韻  其一",
+        "so360": 154,
+        "bing": 201,
+        "bing_en": 100,
+        "google": 179
+    },
+    {
+        "baidu": 68,
+        "author": "李呂",
+        "title": "上黄端明壽詩以竚期三入後一品見玄孫爲韻  其二",
+        "so360": 154,
+        "bing": 296,
+        "bing_en": 100,
+        "google": 178
+    },
+    {
+        "baidu": 67,
+        "author": "李呂",
+        "title": "上黄端明壽詩以竚期三入後一品見玄孫爲韻  其三",
+        "so360": 154,
+        "bing": 9900,
+        "bing_en": 101,
+        "google": 128
+    },
+    {
+        "baidu": 67,
+        "author": "李呂",
+        "title": "上黄端明壽詩以竚期三入後一品見玄孫爲韻  其四",
+        "so360": 154,
+        "bing": 10100,
+        "bing_en": 101,
+        "google": 186
+    },
+    {
+        "baidu": 67,
+        "author": "李呂",
+        "title": "上黄端明壽詩以竚期三入後一品見玄孫爲韻  其五",
+        "so360": 63,
+        "bing": 10100,
+        "bing_en": 101,
+        "google": 173
+    },
+    {
+        "baidu": 65,
+        "author": "李呂",
+        "title": "上黄端明壽詩以竚期三入後一品見玄孫爲韻  其六",
+        "so360": 19,
+        "bing": 9990,
+        "bing_en": 101,
+        "google": 146
+    },
+    {
+        "baidu": 66,
+        "author": "李呂",
+        "title": "上黄端明壽詩以竚期三入後一品見玄孫爲韻  其七",
+        "so360": 9,
+        "bing": 10100,
+        "bing_en": 101,
+        "google": 117
+    },
+    {
+        "baidu": 65,
+        "author": "李呂",
+        "title": "上黄端明壽詩以竚期三入後一品見玄孫爲韻  其八",
+        "so360": 47,
+        "bing": 9970,
+        "bing_en": 101,
+        "google": 112
+    },
+    {
+        "baidu": 39,
+        "author": "李呂",
+        "title": "上黄端明壽詩以竚期三入後一品見玄孫爲韻  其九",
+        "so360": 47,
+        "bing": 10000,
+        "bing_en": 101,
+        "google": 113
+    },
+    {
+        "baidu": 68,
+        "author": "李呂",
+        "title": "上黄端明壽詩以竚期三入後一品見玄孫爲韻  其一○",
+        "so360": 154,
+        "bing": 10200,
+        "bing_en": 100,
+        "google": 25
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "瑩心泉",
+        "so360": 569,
+        "bing": 14800,
+        "bing_en": 10500,
+        "google": 2840000
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "漁艇",
+        "so360": 31,
+        "bing": 98,
+        "bing_en": 2670,
+        "google": 2060000
+    },
+    {
+        "baidu": 6840,
+        "author": "李呂",
+        "title": "自警三首  其一",
+        "so360": 8,
+        "bing": 1050,
+        "bing_en": 1050,
+        "google": 262000
+    },
+    {
+        "baidu": 2170,
+        "author": "李呂",
+        "title": "自警三首  其二",
+        "so360": 29,
+        "bing": 836,
+        "bing_en": 835,
+        "google": 264000
+    },
+    {
+        "baidu": 3390,
+        "author": "李呂",
+        "title": "自警三首  其三",
+        "so360": 29,
+        "bing": 4400,
+        "bing_en": 4410,
+        "google": 257000
+    },
+    {
+        "baidu": 55,
+        "author": "李呂",
+        "title": "椿逕",
+        "so360": 92,
+        "bing": 644,
+        "bing_en": 20800,
+        "google": 811000
+    },
+    {
+        "baidu": 10,
+        "author": "李呂",
+        "title": "題破石鋪",
+        "so360": 9,
+        "bing": 13100,
+        "bing_en": 80,
+        "google": 3710000
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "茶竈",
+        "so360": 24,
+        "bing": 37,
+        "bing_en": 21200,
+        "google": 79000
+    },
+    {
+        "baidu": 56900,
+        "author": "李呂",
+        "title": "溫泉  其一",
+        "so360": 163,
+        "bing": 23800,
+        "bing_en": 106000,
+        "google": 2850000
+    },
+    {
+        "baidu": 62300,
+        "author": "李呂",
+        "title": "溫泉  其二",
+        "so360": 184,
+        "bing": 2730,
+        "bing_en": 54,
+        "google": 2800000
+    },
+    {
+        "baidu": 58300,
+        "author": "李呂",
+        "title": "溫泉  其三",
+        "so360": 167,
+        "bing": 15100,
+        "bing_en": 14300,
+        "google": 2660000
+    },
+    {
+        "baidu": 52700,
+        "author": "李呂",
+        "title": "溫泉  其四",
+        "so360": 14,
+        "bing": 14300,
+        "bing_en": 13100,
+        "google": 3100000
+    },
+    {
+        "baidu": 3,
+        "author": "李呂",
+        "title": "題吳仲微常齋",
+        "so360": 30,
+        "bing": 14500,
+        "bing_en": 21300,
+        "google": 223
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "和吳微明疏影橫斜水清淺七詠韻  其一",
+        "so360": 45,
+        "bing": 12200,
+        "bing_en": 52,
+        "google": 799
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "和吳微明疏影橫斜水清淺七詠韻  其二",
+        "so360": 46,
+        "bing": 12300,
+        "bing_en": 54,
+        "google": 772
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "和吳微明疏影橫斜水清淺七詠韻  其三",
+        "so360": 49,
+        "bing": 303,
+        "bing_en": 696,
+        "google": 804
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "和吳微明疏影橫斜水清淺七詠韻  其四",
+        "so360": 42,
+        "bing": 12300,
+        "bing_en": 696,
+        "google": 811
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "和吳微明疏影橫斜水清淺七詠韻  其五",
+        "so360": 43,
+        "bing": 295,
+        "bing_en": 686,
+        "google": 745
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "和吳微明疏影橫斜水清淺七詠韻  其六",
+        "so360": 48,
+        "bing": 303,
+        "bing_en": 647,
+        "google": 741
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "和吳微明疏影橫斜水清淺七詠韻  其七",
+        "so360": 48,
+        "bing": 303,
+        "bing_en": 697,
+        "google": 838
+    },
+    {
+        "baidu": 17,
+        "author": "李呂",
+        "title": "秋旱",
+        "so360": 13,
+        "bing": 2,
+        "bing_en": 21900,
+        "google": 4160000
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "伏承伯丈人待制侍郎九重渙號三聘鼎來促裝戒道即膺爰立謹吟成送行詩五絕句繕寫拜呈  其一",
+        "so360": 17,
+        "bing": 6,
+        "bing_en": 100,
+        "google": 120
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "伏承伯丈人待制侍郎九重渙號三聘鼎來促裝戒道即膺爰立謹吟成送行詩五絕句繕寫拜呈  其二",
+        "so360": 17,
+        "bing": 15,
+        "bing_en": 100,
+        "google": 120
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "伏承伯丈人待制侍郎九重渙號三聘鼎來促裝戒道即膺爰立謹吟成送行詩五絕句繕寫拜呈  其三",
+        "so360": 17,
+        "bing": 47,
+        "bing_en": 100,
+        "google": 120
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "伏承伯丈人待制侍郎九重渙號三聘鼎來促裝戒道即膺爰立謹吟成送行詩五絕句繕寫拜呈  其四",
+        "so360": 17,
+        "bing": 46,
+        "bing_en": 100,
+        "google": 120
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "伏承伯丈人待制侍郎九重渙號三聘鼎來促裝戒道即膺爰立謹吟成送行詩五絕句繕寫拜呈  其五",
+        "so360": 17,
+        "bing": 47,
+        "bing_en": 100,
+        "google": 120
+    },
+    {
+        "baidu": 19,
+        "author": "李呂",
+        "title": "送千二十姪五首  其一",
+        "so360": 26,
+        "bing": 712,
+        "bing_en": 712,
+        "google": 1020000
+    },
+    {
+        "baidu": 19,
+        "author": "李呂",
+        "title": "送千二十姪五首  其二",
+        "so360": 491,
+        "bing": 823,
+        "bing_en": 821,
+        "google": 967000
+    },
+    {
+        "baidu": 19,
+        "author": "李呂",
+        "title": "送千二十姪五首  其三",
+        "so360": 13,
+        "bing": 10700,
+        "bing_en": 10700,
+        "google": 110000
+    },
+    {
+        "baidu": 19,
+        "author": "李呂",
+        "title": "送千二十姪五首  其四",
+        "so360": 11,
+        "bing": 10700,
+        "bing_en": 10700,
+        "google": 1020000
+    },
+    {
+        "baidu": 17,
+        "author": "李呂",
+        "title": "送千二十姪五首  其五",
+        "so360": 10,
+        "bing": 10700,
+        "bing_en": 10700,
+        "google": 1020000
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "和感懷韻",
+        "so360": 127,
+        "bing": 143000,
+        "bing_en": 21100,
+        "google": 415000
+    },
+    {
+        "baidu": 18,
+        "author": "李呂",
+        "title": "象之晚坐有感次韻",
+        "so360": 20,
+        "bing": 10300,
+        "bing_en": 2820,
+        "google": 196000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "題長灘鋪",
+        "so360": 15,
+        "bing": 69600,
+        "bing_en": 2460,
+        "google": 25500
+    },
+    {
+        "baidu": 7,
+        "author": "李呂",
+        "title": "千四一姪見贈筇竹杖以詩謝之",
+        "so360": 9,
+        "bing": 49,
+        "bing_en": 100,
+        "google": 2890
+    },
+    {
+        "baidu": 63,
+        "author": "李呂",
+        "title": "澹軒",
+        "so360": 558,
+        "bing": 14700,
+        "bing_en": 14700,
+        "google": 1880000
+    },
+    {
+        "baidu": 69,
+        "author": "李呂",
+        "title": "代人上建守四首  其一",
+        "so360": 74,
+        "bing": 11600,
+        "bing_en": 11600,
+        "google": 5650000
+    },
+    {
+        "baidu": 23400,
+        "author": "李呂",
+        "title": "代人上建守四首  其二",
+        "so360": 52,
+        "bing": 9160,
+        "bing_en": 9140,
+        "google": 3310000
+    },
+    {
+        "baidu": 92,
+        "author": "李呂",
+        "title": "代人上建守四首  其三",
+        "so360": 560,
+        "bing": 7400,
+        "bing_en": 7410,
+        "google": 4880000
+    },
+    {
+        "baidu": 81,
+        "author": "李呂",
+        "title": "代人上建守四首  其四",
+        "so360": 59,
+        "bing": 7670,
+        "bing_en": 7670,
+        "google": 9520000
+    },
+    {
+        "baidu": 5,
+        "author": "李呂",
+        "title": "題君山愛松軒",
+        "so360": 21,
+        "bing": 8530,
+        "bing_en": 8540,
+        "google": 1220
+    },
+    {
+        "baidu": 4,
+        "author": "李呂",
+        "title": "辨義豐老人師傅聞疑大乾事迹",
+        "so360": 10,
+        "bing": 1420,
+        "bing_en": 1520,
+        "google": 460
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "游鉛山石井",
+        "so360": 36,
+        "bing": 13900,
+        "bing_en": 104,
+        "google": 406000
+    },
+    {
+        "baidu": 51,
+        "author": "李呂",
+        "title": "次蕪徽明諸公韻三首  其一",
+        "so360": 44,
+        "bing": 12300,
+        "bing_en": 6740,
+        "google": 433000
+    },
+    {
+        "baidu": 44,
+        "author": "李呂",
+        "title": "次蕪徽明諸公韻三首  其二",
+        "so360": 44,
+        "bing": 12300,
+        "bing_en": 6750,
+        "google": 405000
+    },
+    {
+        "baidu": 41,
+        "author": "李呂",
+        "title": "次蕪徽明諸公韻三首  其三",
+        "so360": 48,
+        "bing": 12400,
+        "bing_en": 21100,
+        "google": 418000
+    },
+    {
+        "baidu": 8,
+        "author": "李呂",
+        "title": "過孝義亭作詩寄歸代書",
+        "so360": 9,
+        "bing": 120000,
+        "bing_en": 84,
+        "google": 893
+    },
+    {
+        "baidu": 14,
+        "author": "李呂",
+        "title": "登徐孺子亭",
+        "so360": 25,
+        "bing": 10800,
+        "bing_en": 10800,
+        "google": 810000
+    },
+    {
+        "baidu": 15,
+        "author": "李呂",
+        "title": "簡龔令望",
+        "so360": 12,
+        "bing": 15500,
+        "bing_en": 1740,
+        "google": 1120
+    },
+    {
+        "baidu": 19,
+        "author": "李呂",
+        "title": "南康道上",
+        "so360": 55,
+        "bing": 26,
+        "bing_en": 21200,
+        "google": 264000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "復聞杜鵑",
+        "so360": 10,
+        "bing": 0,
+        "bing_en": 21100,
+        "google": 2230000
+    },
+    {
+        "baidu": 12,
+        "author": "李呂",
+        "title": "宿洪氏南軒",
+        "so360": 9,
+        "bing": 1190000,
+        "bing_en": 45100,
+        "google": 3330000
+    },
+    {
+        "baidu": 1,
+        "author": "李呂",
+        "title": "懷烏山柏庭僧宗文",
+        "so360": 19,
+        "bing": 10700,
+        "bing_en": 1380,
+        "google": 2210000
+    },
+    {
+        "baidu": 13,
+        "author": "李呂",
+        "title": "遣興",
+        "so360": 1060,
+        "bing": 14200,
+        "bing_en": 21100,
+        "google": 4610000
+    },
+    {
+        "baidu": 10,
+        "author": "李呂",
+        "title": "贈朱少南別二首  其一",
+        "so360": 28,
+        "bing": 11300,
+        "bing_en": 3840,
+        "google": 524
+    },
+    {
+        "baidu": 10,
+        "author": "李呂",
+        "title": "贈朱少南別二首  其二",
+        "so360": 28,
+        "bing": 9950,
+        "bing_en": 3770,
+        "google": 506
+    },
+    {
+        "baidu": 1,
+        "author": "李呂",
+        "title": "己亥出南康宮伯稱以詩贈行次韻三首  其一",
+        "so360": 9,
+        "bing": 5220,
+        "bing_en": 514,
+        "google": 38600
+    },
+    {
+        "baidu": 1,
+        "author": "李呂",
+        "title": "己亥出南康宮伯稱以詩贈行次韻三首  其二",
+        "so360": 9,
+        "bing": 5200,
+        "bing_en": 553,
+        "google": 39000
+    },
+    {
+        "baidu": 1,
+        "author": "李呂",
+        "title": "己亥出南康宮伯稱以詩贈行次韻三首  其三",
+        "so360": 9,
+        "bing": 1150,
+        "bing_en": 89,
+        "google": 38700
+    },
+    {
+        "baidu": 11,
+        "author": "李呂",
+        "title": "跋晦翁遊大隠屏詩",
+        "so360": 22,
+        "bing": 12300,
+        "bing_en": 17600,
+        "google": 1020000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "以油煙贈許尉因賦長篇",
+        "so360": 34,
+        "bing": 44700,
+        "bing_en": 59,
+        "google": 281000
+    },
+    {
+        "baidu": 6,
+        "author": "李呂",
+        "title": "清友堂爲呂賓峰題",
+        "so360": 21,
+        "bing": 12700,
+        "bing_en": 100,
+        "google": 763
+    },
+    {
+        "baidu": 28,
+        "author": "李呂",
+        "title": "雲際嶺",
+        "so360": 37,
+        "bing": 13800,
+        "bing_en": 3060,
+        "google": 3210000
+    },
+    {
+        "baidu": 2,
+        "author": "劉季裴",
+        "title": "壽鞏守",
+        "so360": 28,
+        "bing": 13100,
+        "bing_en": 21100,
+        "google": 128000
+    },
+    {
+        "baidu": 2,
+        "author": "劉季裴",
+        "title": "壽朱守",
+        "so360": 20,
+        "bing": 13200,
+        "bing_en": 13200,
+        "google": 1920000
+    },
+    {
+        "baidu": 57,
+        "author": "蹇駒",
+        "title": "句",
+        "so360": 50,
+        "bing": 1890000,
+        "bing_en": 21200,
+        "google": 1470000
+    },
+    {
+        "baidu": 23,
+        "author": "王嵎",
+        "title": "登更好堂同景思少卿表丈韻",
+        "so360": 29,
+        "bing": 18900,
+        "bing_en": 18700,
+        "google": 132000
+    },
+    {
+        "baidu": 1,
+        "author": "羅時用",
+        "title": "留藍溪驛",
+        "so360": 13,
+        "bing": 17200,
+        "bing_en": 21100,
+        "google": 1890000
+    },
+    {
+        "baidu": 8,
+        "author": "范季隨",
+        "title": "南源寺",
+        "so360": 16,
+        "bing": 8480,
+        "bing_en": 8450,
+        "google": 13900
+    },
+    {
+        "baidu": 9,
+        "author": "胡溫彥",
+        "title": "句  其一",
+        "so360": 9190000,
+        "bing": 12300,
+        "bing_en": 13600,
+        "google": 10
+    },
+    {
+        "baidu": 9,
+        "author": "胡溫彥",
+        "title": "句  其二",
+        "so360": 9,
+        "bing": 11400,
+        "bing_en": 9390,
+        "google": 50
+    },
+    {
+        "baidu": 8,
+        "author": "胡溫彥",
+        "title": "句  其三",
+        "so360": 5,
+        "bing": 13500,
+        "bing_en": 452,
+        "google": 10
+    },
+    {
+        "baidu": 14,
+        "author": "遇僧",
+        "title": "題來安縣興國寺",
+        "so360": 24,
+        "bing": 371000,
+        "bing_en": 67,
+        "google": 504000
+    },
+    {
+        "baidu": 75,
+        "author": "朱昱",
+        "title": "示江子我",
+        "so360": 31,
+        "bing": 16500,
+        "bing_en": 16400,
+        "google": 170000
+    },
+    {
+        "baidu": 38,
+        "author": "朱昱",
+        "title": "示羅教授楚知監",
+        "so360": 23,
+        "bing": 4920,
+        "bing_en": 4920,
+        "google": 3590000
+    },
+    {
+        "baidu": 4,
+        "author": "朱昱",
+        "title": "示張子昭",
+        "so360": 24,
+        "bing": 0,
+        "bing_en": 113,
+        "google": 106000
+    },
+    {
+        "baidu": 15,
+        "author": "朱昱",
+        "title": "中秋示潘子賤",
+        "so360": 467,
+        "bing": 18000,
+        "bing_en": 18000,
+        "google": 2700000
+    },
+    {
+        "baidu": 2,
+        "author": "朱昱",
+        "title": "競秀閣二首  其一",
+        "so360": 9,
+        "bing": 22800,
+        "bing_en": 3310,
+        "google": 2610000
+    },
+    {
+        "baidu": 3,
+        "author": "朱昱",
+        "title": "競秀閣二首  其二",
+        "so360": 9,
+        "bing": 22800,
+        "bing_en": 3140,
+        "google": 1870000
+    },
+    {
+        "baidu": 12,
+        "author": "鄭裕",
+        "title": "一經堂",
+        "so360": 39,
+        "bing": 67200,
+        "bing_en": 21100,
+        "google": 9550
+    },
+    {
+        "baidu": 47,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一",
+        "so360": 29,
+        "bing": 12800,
+        "bing_en": 3080,
+        "google": 201000
+    },
+    {
+        "baidu": 47,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其二",
+        "so360": 22,
+        "bing": 12800,
+        "bing_en": 2440,
+        "google": 254000
+    },
+    {
+        "baidu": 44,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其三",
+        "so360": 441,
+        "bing": 3460,
+        "bing_en": 630,
+        "google": 220000
+    },
+    {
+        "baidu": 44,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其四",
+        "so360": 21,
+        "bing": 3450,
+        "bing_en": 627,
+        "google": 225000
+    },
+    {
+        "baidu": 46,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其五",
+        "so360": 21,
+        "bing": 3460,
+        "bing_en": 630,
+        "google": 230000
+    },
+    {
+        "baidu": 35,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其六",
+        "so360": 9,
+        "bing": 3450,
+        "bing_en": 630,
+        "google": 251000
+    },
+    {
+        "baidu": 43,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其七",
+        "so360": 18,
+        "bing": 3460,
+        "bing_en": 630,
+        "google": 218000
+    },
+    {
+        "baidu": 35,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其八",
+        "so360": 20,
+        "bing": 3440,
+        "bing_en": 628,
+        "google": 244000
+    },
+    {
+        "baidu": 50,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其九",
+        "so360": 12,
+        "bing": 3420,
+        "bing_en": 620,
+        "google": 250000
+    },
+    {
+        "baidu": 6600,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一○",
+        "so360": 29,
+        "bing": 12600,
+        "bing_en": 3020,
+        "google": 109000
+    },
+    {
+        "baidu": 1050000,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一一",
+        "so360": 29,
+        "bing": 2510,
+        "bing_en": 521,
+        "google": 83100
+    },
+    {
+        "baidu": 1200000,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一二",
+        "so360": 29,
+        "bing": 2240,
+        "bing_en": 424,
+        "google": 92400
+    },
+    {
+        "baidu": 52,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一三",
+        "so360": 382,
+        "bing": 536,
+        "bing_en": 92,
+        "google": 33300
+    },
+    {
+        "baidu": 52,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一四",
+        "so360": 465,
+        "bing": 514,
+        "bing_en": 146,
+        "google": 57000
+    },
+    {
+        "baidu": 40,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一五",
+        "so360": 403,
+        "bing": 455,
+        "bing_en": 69,
+        "google": 27900
+    },
+    {
+        "baidu": 42,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一六",
+        "so360": 63,
+        "bing": 414,
+        "bing_en": 73,
+        "google": 19100
+    },
+    {
+        "baidu": 50,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一七",
+        "so360": 47,
+        "bing": 342,
+        "bing_en": 80,
+        "google": 22900
+    },
+    {
+        "baidu": 36,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一八",
+        "so360": 266,
+        "bing": 326,
+        "bing_en": 57,
+        "google": 25800
+    },
+    {
+        "baidu": 33,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其一九",
+        "so360": 81,
+        "bing": 432,
+        "bing_en": 76,
+        "google": 36000
+    },
+    {
+        "baidu": 6950,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其二○",
+        "so360": 390,
+        "bing": 12600,
+        "bing_en": 2410,
+        "google": 113000
+    },
+    {
+        "baidu": 43,
+        "author": "釋堅璧",
+        "title": "偈頌二十一首  其二一",
+        "so360": 68,
+        "bing": 783,
+        "bing_en": 175,
+        "google": 212000
+    },
+    {
+        "baidu": 12,
+        "author": "釋堅璧",
+        "title": "仰山見東寺索珠",
+        "so360": 16,
+        "bing": 3590,
+        "bing_en": 105,
+        "google": 8510
+    },
+    {
+        "baidu": 27,
+        "author": "釋堅璧",
+        "title": "洞山喫果子",
+        "so360": 17,
+        "bing": 16900,
+        "bing_en": 16900,
+        "google": 18200
+    },
+    {
+        "baidu": 13,
+        "author": "釋堅璧",
+        "title": "化胡椒",
+        "so360": 18,
+        "bing": 3940,
+        "bing_en": 3950,
+        "google": 348000
+    },
+    {
+        "baidu": 73,
+        "author": "釋堅璧",
+        "title": "送人",
+        "so360": 22,
+        "bing": 119000,
+        "bing_en": 21100,
+        "google": 6180000
+    },
+    {
+        "baidu": 2,
+        "author": "釋堅璧",
+        "title": "送堅知庫",
+        "so360": 15,
+        "bing": 18500,
+        "bing_en": 21100,
+        "google": 2330000
+    },
+    {
+        "baidu": 11,
+        "author": "釋堅璧",
+        "title": "送泉州僧",
+        "so360": 11,
+        "bing": 5730,
+        "bing_en": 5730,
+        "google": 2560000
+    },
+    {
+        "baidu": 73,
+        "author": "釋堅璧",
+        "title": "送人",
+        "so360": 22,
+        "bing": 119000,
+        "bing_en": 21100,
+        "google": 6180000
+    },
+    {
+        "baidu": 3,
+        "author": "釋堅璧",
+        "title": "義副寺求",
+        "so360": 33,
+        "bing": 12900,
+        "bing_en": 21300,
+        "google": 4990000
+    },
+    {
+        "baidu": 11,
+        "author": "釋堅璧",
+        "title": "山居二首  其一",
+        "so360": 23,
+        "bing": 3330,
+        "bing_en": 3330,
+        "google": 2830000
+    },
+    {
+        "baidu": 8,
+        "author": "釋堅璧",
+        "title": "山居二首  其二",
+        "so360": 23,
+        "bing": 2530,
+        "bing_en": 2530,
+        "google": 3490000
+    },
+    {
+        "baidu": 7,
+        "author": "釋堅璧",
+        "title": "贊真覺",
+        "so360": 17,
+        "bing": 22100,
+        "bing_en": 20900,
+        "google": 4900000
+    },
+    {
+        "baidu": 2,
+        "author": "釋堅璧",
+        "title": "贊卿老真",
+        "so360": 56,
+        "bing": 16700,
+        "bing_en": 118,
+        "google": 2250000
+    },
+    {
+        "baidu": 6,
+        "author": "釋堅璧",
+        "title": "自贊三首  其一",
+        "so360": 481,
+        "bing": 14700,
+        "bing_en": 6100,
+        "google": 5030000
+    },
+    {
+        "baidu": 20,
+        "author": "釋堅璧",
+        "title": "自贊三首  其二",
+        "so360": 472,
+        "bing": 14500,
+        "bing_en": 4660,
+        "google": 4380000
+    },
+    {
+        "baidu": 5,
+        "author": "釋堅璧",
+        "title": "自贊三首  其三",
+        "so360": 510,
+        "bing": 37400,
+        "bing_en": 21000,
+        "google": 4690000
+    },
+    {
+        "baidu": 5,
+        "author": "王端朝",
+        "title": "金瀨弔貞女",
+        "so360": 26,
+        "bing": 13000,
+        "bing_en": 110,
+        "google": 55
+    },
+    {
+        "baidu": 8,
+        "author": "翁蒙之",
+        "title": "華勝寺題壁",
+        "so360": 27,
+        "bing": 35100,
+        "bing_en": 111,
+        "google": 39800
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "贈別",
+        "so360": 143,
+        "bing": 13200,
+        "bing_en": 1970,
+        "google": 30400
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "送羅制參",
+        "so360": 32,
+        "bing": 229000,
+        "bing_en": 21300,
+        "google": 40300
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "戲貽秋泉子",
+        "so360": 14,
+        "bing": 12600,
+        "bing_en": 21200,
+        "google": 158
+    },
+    {
+        "baidu": 313,
+        "author": "李流謙",
+        "title": "病中作此",
+        "so360": 32,
+        "bing": 8130,
+        "bing_en": 8080,
+        "google": 13300
+    },
+    {
+        "baidu": 300,
+        "author": "李流謙",
+        "title": "秋懷",
+        "so360": 81,
+        "bing": 14400,
+        "bing_en": 14500,
+        "google": 27200
+    },
+    {
+        "baidu": 62,
+        "author": "李流謙",
+        "title": "浴罷",
+        "so360": 297,
+        "bing": 38,
+        "bing_en": 21300,
+        "google": 5450
+    },
+    {
+        "baidu": 18,
+        "author": "李流謙",
+        "title": "鄴守以石刻屈平昭君像見惠因思大夫之忠貫白日而凌秋霜在所不論而昭君以傾國之豔擅天下之色乃不肯自同衆姬貨畫師以求媚此尤爲可感者爲賦此篇",
+        "so360": 28,
+        "bing": 0,
+        "bing_en": 100,
+        "google": 1150
+    },
+    {
+        "baidu": 1970,
+        "author": "李流謙",
+        "title": "即事",
+        "so360": 1460,
+        "bing": 11200,
+        "bing_en": 11200,
+        "google": 46700
+    },
+    {
+        "baidu": 9,
+        "author": "李流謙",
+        "title": "得小麑因戲作",
+        "so360": 18,
+        "bing": 15200,
+        "bing_en": 102,
+        "google": 14500
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "數醉",
+        "so360": 3970,
+        "bing": 299,
+        "bing_en": 21500,
+        "google": 50100
+    },
+    {
+        "baidu": 422,
+        "author": "李流謙",
+        "title": "病中",
+        "so360": 231,
+        "bing": 18400,
+        "bing_en": 18400,
+        "google": 24800
+    },
+    {
+        "baidu": 27,
+        "author": "李流謙",
+        "title": "黄思忠病起作此寄之",
+        "so360": 25,
+        "bing": 1160,
+        "bing_en": 1160,
+        "google": 729
+    },
+    {
+        "baidu": 884,
+        "author": "李流謙",
+        "title": "予游潼川將訪魏城令君李仲明而不果作此寄之",
+        "so360": 14,
+        "bing": 12100,
+        "bing_en": 12100,
+        "google": 534
+    },
+    {
+        "baidu": 531,
+        "author": "李流謙",
+        "title": "送臺石甫出關",
+        "so360": 13,
+        "bing": 30000,
+        "bing_en": 63,
+        "google": 783
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "送覺華巖歸中巖",
+        "so360": 15,
+        "bing": 12400,
+        "bing_en": 21200,
+        "google": 39300
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "元日泛舟分韻得大字",
+        "so360": 1900000,
+        "bing": 694,
+        "bing_en": 694,
+        "google": 9060
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "月夜泛舟",
+        "so360": 40,
+        "bing": 3180,
+        "bing_en": 3180,
+        "google": 13400
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "東巖施頭陀所隠也頭陀唐人初居郡之奉聖寺太守獨孤見之頭陀不加敬獨孤怒既去遣吏捕之頭陀以笠涉江至此山吏隨焉頭陀隠巖間兩虎守之吏駭退即其地爲院昔律今禪予昔侍親守簡數來游再到賦此詩",
+        "so360": 6,
+        "bing": 20,
+        "bing_en": 100,
+        "google": 58
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "從馮黎州飲梅林以山谷舊時愛酒陶彭澤今日梅花樹下僧分韻賦詩得時字",
+        "so360": 27,
+        "bing": 2130,
+        "bing_en": 103,
+        "google": 36
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "用山谷上東坡韻與馮黎州  其一",
+        "so360": 12,
+        "bing": 7920,
+        "bing_en": 125,
+        "google": 697
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "用山谷上東坡韻與馮黎州  其二",
+        "so360": 12,
+        "bing": 5470,
+        "bing_en": 147,
+        "google": 694
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "送孫隆州",
+        "so360": 25,
+        "bing": 9710,
+        "bing_en": 9030,
+        "google": 656
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "上費邛州",
+        "so360": 31,
+        "bing": 20100,
+        "bing_en": 1030,
+        "google": 48400
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "馬德駿微恙既平作此勞之",
+        "so360": 10,
+        "bing": 12500,
+        "bing_en": 102,
+        "google": 5340
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "同游公玉伯氏季氏遊水陸院濯纓閣以清斯濯纓分韻賦詩得斯字",
+        "so360": 48,
+        "bing": 6290,
+        "bing_en": 111,
+        "google": 290
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "送劉文潛司業江西漕二首  其一",
+        "so360": 15,
+        "bing": 521,
+        "bing_en": 521,
+        "google": 27500
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "送劉文潛司業江西漕二首  其二",
+        "so360": 15,
+        "bing": 454,
+        "bing_en": 454,
+        "google": 3110
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "清明日同宋才夫王子友游秦氏園分韻得一字",
+        "so360": 12,
+        "bing": 4470,
+        "bing_en": 4480,
+        "google": 984
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "觀畫文氏園小酌而歸",
+        "so360": 11,
+        "bing": 2280,
+        "bing_en": 2280,
+        "google": 16500
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "劉林夫以諸公送行詩軸見示作此",
+        "so360": 9,
+        "bing": 6120,
+        "bing_en": 100,
+        "google": 22400
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "和林夫讀老泉先生上歐陽公書韻",
+        "so360": 11,
+        "bing": 4850,
+        "bing_en": 1040,
+        "google": 4290
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "送李德明解綿竹尉",
+        "so360": 10,
+        "bing": 4290,
+        "bing_en": 337,
+        "google": 416
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "送楊文起尉溫江",
+        "so360": 9,
+        "bing": 17300,
+        "bing_en": 112,
+        "google": 40
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "六月十四日大雨少頃月如晝",
+        "so360": 11,
+        "bing": 45600,
+        "bing_en": 163,
+        "google": 1020
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "送宣孺攝邑古郫",
+        "so360": 41,
+        "bing": 16200,
+        "bing_en": 103,
+        "google": 3540
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "送宇文德濟解綿竹丞",
+        "so360": 17,
+        "bing": 12400,
+        "bing_en": 103,
+        "google": 1150
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "從人借馬鈍甚戲作",
+        "so360": 324,
+        "bing": 142000,
+        "bing_en": 4870,
+        "google": 3090
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "挽家夫人",
+        "so360": 477,
+        "bing": 52,
+        "bing_en": 21200,
+        "google": 13800
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "挽程子山侍講",
+        "so360": 12,
+        "bing": 4520,
+        "bing_en": 1140,
+        "google": 1190
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "挽黄思忠",
+        "so360": 10,
+        "bing": 96,
+        "bing_en": 97,
+        "google": 696
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "挽沈夫人",
+        "so360": 14,
+        "bing": 56,
+        "bing_en": 20800,
+        "google": 11700
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "元質偶招客飲爲賦此篇",
+        "so360": 15,
+        "bing": 1190,
+        "bing_en": 20400,
+        "google": 37900
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "道中逢牧童跨牛者",
+        "so360": 18,
+        "bing": 2940,
+        "bing_en": 2950,
+        "google": 5720
+    },
+    {
+        "baidu": 9,
+        "author": "李流謙",
+        "title": "予舊服朮迂其效棄去比過臨邛蒙李丈分惠并副以詩次其韻以自警",
+        "so360": 7,
+        "bing": 6810,
+        "bing_en": 100,
+        "google": 546
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "游護聖寺分韻得共字",
+        "so360": 10,
+        "bing": 170000,
+        "bing_en": 102,
+        "google": 7910
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "旅中",
+        "so360": 494,
+        "bing": 14100,
+        "bing_en": 14000,
+        "google": 112000
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "過彌牟有携魚過者買而放之因志以詩",
+        "so360": 24,
+        "bing": 3620,
+        "bing_en": 1090,
+        "google": 3850
+    },
+    {
+        "baidu": 529,
+        "author": "李流謙",
+        "title": "自離蕪湖多阻風是日早次鴈汊風順亟駕帆以行既而稍駛落帆之半晚次雷口舟人以貪風曛暮不得泊幾危",
+        "so360": 11,
+        "bing": 618,
+        "bing_en": 100,
+        "google": 3390
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "過大信口憶西歸錄載大江渺渺忽二石山如伏猊引出水面東西對峙江形若瓢然而山乃其口然相距猶三四里則江之廣狹可見視之信然妙哉寫物之功感而賦此篇",
+        "so360": 7,
+        "bing": 12,
+        "bing_en": 100,
+        "google": 71
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "游無爲寺",
+        "so360": 30,
+        "bing": 16300,
+        "bing_en": 21100,
+        "google": 6950
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "林夫有詩趣歸期次其韻答之",
+        "so360": 13,
+        "bing": 8890,
+        "bing_en": 8890,
+        "google": 483
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "還家",
+        "so360": 87,
+        "bing": 20800,
+        "bing_en": 11400,
+        "google": 32500
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "送李司戶之官臨邛",
+        "so360": 10,
+        "bing": 6750,
+        "bing_en": 414,
+        "google": 5260
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "中秋翫月分韻得一字",
+        "so360": 494,
+        "bing": 3060,
+        "bing_en": 644,
+        "google": 6520
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "累年中秋無月今年凡數夕有之十五日尤佳",
+        "so360": 48,
+        "bing": 1990,
+        "bing_en": 666,
+        "google": 2580
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "蝨嘆",
+        "so360": 20,
+        "bing": 13,
+        "bing_en": 20400,
+        "google": 5180
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "贈聽聲上官術士",
+        "so360": 19,
+        "bing": 9460,
+        "bing_en": 1660,
+        "google": 6320
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "送張時擇從楊茂州之招",
+        "so360": 10,
+        "bing": 8360,
+        "bing_en": 21400,
+        "google": 469
+    },
+    {
+        "baidu": 18,
+        "author": "李流謙",
+        "title": "送無害弟之官并呈使君蹇丈一笑",
+        "so360": 15,
+        "bing": 79,
+        "bing_en": 79,
+        "google": 137
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "一春無日不飲遂作肺嗽效樂天體",
+        "so360": 46,
+        "bing": 12300,
+        "bing_en": 105,
+        "google": 6560
+    },
+    {
+        "baidu": 19,
+        "author": "李流謙",
+        "title": "送樂季和",
+        "so360": 10,
+        "bing": 4800,
+        "bing_en": 4780,
+        "google": 76400
+    },
+    {
+        "baidu": 18,
+        "author": "李流謙",
+        "title": "送李仲信",
+        "so360": 20,
+        "bing": 5560,
+        "bing_en": 5570,
+        "google": 321
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "送仲明赴舉",
+        "so360": 16,
+        "bing": 574000,
+        "bing_en": 119,
+        "google": 21000
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "送呂義甫",
+        "so360": 12,
+        "bing": 28400,
+        "bing_en": 21400,
+        "google": 383
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "憶樂季和",
+        "so360": 17,
+        "bing": 13100,
+        "bing_en": 17500,
+        "google": 19300
+    },
+    {
+        "baidu": 1060,
+        "author": "李流謙",
+        "title": "食藕",
+        "so360": 21,
+        "bing": 21,
+        "bing_en": 21600,
+        "google": 5750
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "送孫賓老宰丹稜",
+        "so360": 21,
+        "bing": 25400,
+        "bing_en": 129,
+        "google": 5500
+    },
+    {
+        "baidu": 37,
+        "author": "李流謙",
+        "title": "苦熱",
+        "so360": 49,
+        "bing": 13300,
+        "bing_en": 2030,
+        "google": 31000
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "遊水陸院",
+        "so360": 27,
+        "bing": 622000,
+        "bing_en": 670,
+        "google": 4940
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "游安樂道院",
+        "so360": 9,
+        "bing": 4020,
+        "bing_en": 1690,
+        "google": 2230
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "袁季海別駕以所藏靈壁石詩軸見示爲此篇",
+        "so360": 17,
+        "bing": 12400,
+        "bing_en": 110,
+        "google": 11100
+    },
+    {
+        "baidu": 0,
+        "author": "李流謙",
+        "title": "峽中賦百韻",
+        "so360": 27,
+        "bing": 15900,
+        "bing_en": 21100,
+        "google": 16600
+    },
+    {
+        "baidu": 17,
+        "author": "李流謙",
+        "title": "中秋月色甚佳病不及觀",
+        "so360": 12,
+        "bing": 9730,
+        "bing_en": 4480,
+        "google": 29500
+    },
+    {
+        "baidu": 99,
+        "author": "李流謙",
+        "title": "失題",
+        "so360": 67,
+        "bing": 13500,
+        "bing_en": 13500,
+        "google": 70400
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "勾龍元應以詩送王子友從譙綿竹之招語多見及次韻奉酬",
+        "so360": 12,
+        "bing": 8910,
+        "bing_en": 100,
+        "google": 680
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "獻萬佛圖爲張雅州壽",
+        "so360": 16,
+        "bing": 12300,
+        "bing_en": 151,
+        "google": 525
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "代上閬中章使君",
+        "so360": 16,
+        "bing": 2350,
+        "bing_en": 2340,
+        "google": 21600
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "鷄冠",
+        "so360": 29,
+        "bing": 28,
+        "bing_en": 21200,
+        "google": 1310
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "憫農",
+        "so360": 54,
+        "bing": 11,
+        "bing_en": 1570,
+        "google": 4090
+    },
+    {
+        "baidu": 19,
+        "author": "李流謙",
+        "title": "木芙蓉",
+        "so360": 994,
+        "bing": 11800,
+        "bing_en": 11800,
+        "google": 6600
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "送薛司直赴行在所供職",
+        "so360": 14,
+        "bing": 10700,
+        "bing_en": 10700,
+        "google": 598
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "送勾龍伯秋出幕守三榮得出字",
+        "so360": 10,
+        "bing": 8520,
+        "bing_en": 103,
+        "google": 1500
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "題宇文叔昭閲齋齋名予所榜也有王正卿畫四時小景",
+        "so360": 9,
+        "bing": 93,
+        "bing_en": 102,
+        "google": 143
+    },
+    {
+        "baidu": 36,
+        "author": "李流謙",
+        "title": "吾友黄仲秉讀枚乘七發至所謂洞房清宮命曰寒熱之媒皓齒蛾眉命曰伐性之斧感而作詩以示予予謂乘嘗事吳已而去之梁斯言也殆爲兩君發歟賢司馬長卿長門遠矣因次韻以申其意",
+        "so360": 242,
+        "bing": 2,
+        "bing_en": 100,
+        "google": 36
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "彥博爲偷兒妄意作詩見貽次韻奉呈",
+        "so360": 13,
+        "bing": 12400,
+        "bing_en": 100,
+        "google": 94
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "彥博見和暑中之作殊有新功復用韻謝",
+        "so360": 14,
+        "bing": 12300,
+        "bing_en": 117,
+        "google": 534
+    },
+    {
+        "baidu": 536,
+        "author": "李流謙",
+        "title": "次韻姚宣孺見寄",
+        "so360": 16,
+        "bing": 769,
+        "bing_en": 103,
+        "google": 12200
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "次韻勾龍元應",
+        "so360": 26,
+        "bing": 45500,
+        "bing_en": 3720,
+        "google": 11700
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "偶連日食鷄夜夢有截一支者頗憐之有謂予言雞之被烹酷過於是驚覺作此詩以自警",
+        "so360": 23,
+        "bing": 638,
+        "bing_en": 105,
+        "google": 554
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "以春草碧色分韻送朱師古知雒縣得色字",
+        "so360": 3,
+        "bing": 12000,
+        "bing_en": 12000,
+        "google": 650
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "海棠未開對酒作此",
+        "so360": 27,
+        "bing": 9870,
+        "bing_en": 2160,
+        "google": 152
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "見蛛絲戲作",
+        "so360": 16,
+        "bing": 16700,
+        "bing_en": 2770,
+        "google": 6100
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "無害弟之官梓林伯氏無虧序送之極兄詔之義予言贅矣姑以其意而申言之",
+        "so360": 21,
+        "bing": 3940,
+        "bing_en": 103,
+        "google": 122
+    },
+    {
+        "baidu": 42,
+        "author": "李流謙",
+        "title": "陳彥博擢第後歸拜先墓作此送之",
+        "so360": 29,
+        "bing": 12200,
+        "bing_en": 136,
+        "google": 513
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "觀小兒甕戲",
+        "so360": 28,
+        "bing": 41600,
+        "bing_en": 7200,
+        "google": 2340
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "文南朱使君葬其故人鈐兵李侯士大夫高其風義作詩美之亦賦一首",
+        "so360": 29,
+        "bing": 6810,
+        "bing_en": 100,
+        "google": 97
+    },
+    {
+        "baidu": 1050,
+        "author": "李流謙",
+        "title": "明月篇",
+        "so360": 23,
+        "bing": 42,
+        "bing_en": 21200,
+        "google": 24000
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "謝宇文正甫惠硯",
+        "so360": 12,
+        "bing": 3250,
+        "bing_en": 4160,
+        "google": 2140
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "題覺庵",
+        "so360": 17,
+        "bing": 319,
+        "bing_en": 21200,
+        "google": 24900
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "張周倚下第作此唁之",
+        "so360": 21,
+        "bing": 12200,
+        "bing_en": 114,
+        "google": 12400
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "送陰次公赴榮州學官",
+        "so360": 19,
+        "bing": 75500,
+        "bing_en": 100,
+        "google": 12200
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "中秋玩月以東坡詩不擇茅簷與市樓况我官居似蓬島爲韻得似字",
+        "so360": 28,
+        "bing": 3530,
+        "bing_en": 100,
+        "google": 1110
+    },
+    {
+        "baidu": 16,
+        "author": "李流謙",
+        "title": "送兄長赴蓬州職官",
+        "so360": 18,
+        "bing": 25300,
+        "bing_en": 344,
+        "google": 2610
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "石鈞父之官火井乞詩贈行",
+        "so360": 30,
+        "bing": 579,
+        "bing_en": 105,
+        "google": 3040
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "送虞提宮",
+        "so360": 17,
+        "bing": 22800,
+        "bing_en": 21100,
+        "google": 34300
+    },
+    {
+        "baidu": 37,
+        "author": "李流謙",
+        "title": "池上",
+        "so360": 139,
+        "bing": 16800,
+        "bing_en": 16800,
+        "google": 12300
+    },
+    {
+        "baidu": 1210,
+        "author": "李流謙",
+        "title": "挽王隠君",
+        "so360": 28,
+        "bing": 12300,
+        "bing_en": 21600,
+        "google": 65
+    },
+    {
+        "baidu": 17,
+        "author": "李流謙",
+        "title": "挽王夫人",
+        "so360": 20,
+        "bing": 55,
+        "bing_en": 21100,
+        "google": 4670
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "寄題天台臨海白鶴廟康濟泉爲顔魯子少卿作",
+        "so360": 27,
+        "bing": 12200,
+        "bing_en": 103,
+        "google": 2180
+    },
+    {
+        "baidu": 22,
+        "author": "李流謙",
+        "title": "雲月篇",
+        "so360": 30,
+        "bing": 13400,
+        "bing_en": 13100,
+        "google": 17500
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "次韻張通甫見貽",
+        "so360": 8,
+        "bing": 12400,
+        "bing_en": 4900,
+        "google": 6840
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "次韻宋才夫",
+        "so360": 46,
+        "bing": 30000,
+        "bing_en": 107,
+        "google": 1250
+    },
+    {
+        "baidu": 33,
+        "author": "李流謙",
+        "title": "王子友示詩次其韻",
+        "so360": 27,
+        "bing": 12100,
+        "bing_en": 12200,
+        "google": 12900
+    },
+    {
+        "baidu": 25,
+        "author": "李流謙",
+        "title": "送黄仲武尉青城",
+        "so360": 16,
+        "bing": 1620,
+        "bing_en": 1620,
+        "google": 280
+    },
+    {
+        "baidu": 99,
+        "author": "李流謙",
+        "title": "失題",
+        "so360": 67,
+        "bing": 13500,
+        "bing_en": 13500,
+        "google": 70400
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "送楊嗣清國錄出倅廣漢",
+        "so360": 20,
+        "bing": 12600,
+        "bing_en": 101,
+        "google": 71
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "書薛公肅山齋",
+        "so360": 10,
+        "bing": 17000,
+        "bing_en": 20600,
+        "google": 456
+    },
+    {
+        "baidu": 9,
+        "author": "李流謙",
+        "title": "送楊元功",
+        "so360": 30,
+        "bing": 384000,
+        "bing_en": 4310,
+        "google": 327
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "送王總卿",
+        "so360": 496,
+        "bing": 242000,
+        "bing_en": 21300,
+        "google": 60000
+    },
+    {
+        "baidu": 39,
+        "author": "李流謙",
+        "title": "送樊漕移帥瀘南",
+        "so360": 40,
+        "bing": 12400,
+        "bing_en": 19100,
+        "google": 765
+    },
+    {
+        "baidu": 23,
+        "author": "李流謙",
+        "title": "王正卿爲作山水小軸作此促之",
+        "so360": 25,
+        "bing": 26,
+        "bing_en": 102,
+        "google": 315
+    },
+    {
+        "baidu": 541,
+        "author": "李流謙",
+        "title": "送丁子昭左司湖南運副",
+        "so360": 14,
+        "bing": 3060,
+        "bing_en": 103,
+        "google": 272
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "送樊眉州",
+        "so360": 34,
+        "bing": 76,
+        "bing_en": 76,
+        "google": 638
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "送蘇給事出知太平州",
+        "so360": 27,
+        "bing": 13800,
+        "bing_en": 107,
+        "google": 47700
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "宣孺斫庭前蘆葦見山有薝蔔入坐中示詩次其韻",
+        "so360": 28,
+        "bing": 12400,
+        "bing_en": 102,
+        "google": 38
+    },
+    {
+        "baidu": 43,
+        "author": "李流謙",
+        "title": "和錢大虛清映亭韻",
+        "so360": 29,
+        "bing": 12200,
+        "bing_en": 21100,
+        "google": 16900
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "送吳志行監稅",
+        "so360": 22,
+        "bing": 2320,
+        "bing_en": 2320,
+        "google": 394
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "送王君弼寺丞出守臨邛",
+        "so360": 25,
+        "bing": 12300,
+        "bing_en": 15100,
+        "google": 2610
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "比觀仲結諸公課會皆勍敵也行就舉南宮作此贈之",
+        "so360": 29,
+        "bing": 4760,
+        "bing_en": 105,
+        "google": 162
+    },
+    {
+        "baidu": 20,
+        "author": "李流謙",
+        "title": "送任漕赴召",
+        "so360": 30,
+        "bing": 19800,
+        "bing_en": 21100,
+        "google": 13400
+    },
+    {
+        "baidu": 458,
+        "author": "李流謙",
+        "title": "代送陳都大赴召",
+        "so360": 68,
+        "bing": 26800,
+        "bing_en": 5470,
+        "google": 22300
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "送張漢州赴召",
+        "so360": 183,
+        "bing": 19700,
+        "bing_en": 21300,
+        "google": 773
+    },
+    {
+        "baidu": 34,
+        "author": "李流謙",
+        "title": "送晁子西提刑赴召",
+        "so360": 30,
+        "bing": 91,
+        "bing_en": 91,
+        "google": 12600
+    },
+    {
+        "baidu": 44,
+        "author": "李流謙",
+        "title": "寄送梁子輔赴召",
+        "so360": 36,
+        "bing": 12700,
+        "bing_en": 104,
+        "google": 1080
+    },
+    {
+        "baidu": 57,
+        "author": "李流謙",
+        "title": "送何子應少卿赴召",
+        "so360": 30,
+        "bing": 12300,
+        "bing_en": 120,
+        "google": 16700
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "挽李子和知縣",
+        "so360": 28,
+        "bing": 2720,
+        "bing_en": 1100,
+        "google": 4010
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "送夔路費漕",
+        "so360": 49,
+        "bing": 12300,
+        "bing_en": 160,
+        "google": 10400
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "代人上李制參生辰",
+        "so360": 17,
+        "bing": 5640,
+        "bing_en": 5620,
+        "google": 19700
+    },
+    {
+        "baidu": 21,
+        "author": "李流謙",
+        "title": "挽安岳李令",
+        "so360": 26,
+        "bing": 481,
+        "bing_en": 485,
+        "google": 30900
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "別臨邛知縣李允成",
+        "so360": 61,
+        "bing": 12300,
+        "bing_en": 105,
+        "google": 2650
+    },
+    {
+        "baidu": 62,
+        "author": "李流謙",
+        "title": "送才夫之成都",
+        "so360": 175,
+        "bing": 2650,
+        "bing_en": 2670,
+        "google": 13700
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "白雲先生魯叶殿丞交之父有隠節其居徽考所賜旁爲魏高士守一庵高士上皇所賓禮庵亦賜地也高士亡矣而白雲之後至食不給過之慨然爲賦此篇",
+        "so360": 15,
+        "bing": 36,
+        "bing_en": 100,
+        "google": 53
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "林夫體中不佳而能不廢翰墨且蒙以文軸見教其天性所嗜如此敬嘆不已既勿藥作詩賀之",
+        "so360": 25,
+        "bing": 625,
+        "bing_en": 100,
+        "google": 50
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "賀王制置敷學之除",
+        "so360": 57,
+        "bing": 12300,
+        "bing_en": 5120,
+        "google": 3780
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "文約用韻請別作此留之并柬簽判李丈",
+        "so360": 48,
+        "bing": 12300,
+        "bing_en": 102,
+        "google": 1770
+    },
+    {
+        "baidu": 21,
+        "author": "李流謙",
+        "title": "留黄思忠",
+        "so360": 19,
+        "bing": 1530,
+        "bing_en": 1540,
+        "google": 742
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "壽仲秉侍郎",
+        "so360": 77,
+        "bing": 12000,
+        "bing_en": 12000,
+        "google": 6420
+    },
+    {
+        "baidu": 20,
+        "author": "李流謙",
+        "title": "挽張主簿",
+        "so360": 112,
+        "bing": 9950,
+        "bing_en": 9950,
+        "google": 12700
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "青樓行",
+        "so360": 24,
+        "bing": 14700,
+        "bing_en": 6610,
+        "google": 5590
+    },
+    {
+        "baidu": 599,
+        "author": "李流謙",
+        "title": "紫薇花",
+        "so360": 113,
+        "bing": 9440,
+        "bing_en": 9460,
+        "google": 12600
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "公歸行送王顯謨",
+        "so360": 29,
+        "bing": 10700,
+        "bing_en": 21200,
+        "google": 9810
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "送孫遠仲知錄解官歸洪雅",
+        "so360": 23,
+        "bing": 11800,
+        "bing_en": 115,
+        "google": 378
+    },
+    {
+        "baidu": 23,
+        "author": "李流謙",
+        "title": "用黎州梅字韻作詩送之",
+        "so360": 16,
+        "bing": 11000,
+        "bing_en": 90,
+        "google": 11100
+    },
+    {
+        "baidu": 99,
+        "author": "李流謙",
+        "title": "文約既行復作此送之",
+        "so360": 26,
+        "bing": 19600,
+        "bing_en": 160,
+        "google": 9120
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "答何積中",
+        "so360": 11,
+        "bing": 301000,
+        "bing_en": 21700,
+        "google": 270
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "宋文約有謁於邡江不遂而歸復用韻見貽以此答之",
+        "so360": 18,
+        "bing": 458,
+        "bing_en": 100,
+        "google": 180
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "宋才夫作詩自言作縣之况以冷官爲可樂戲用韻答之",
+        "so360": 22,
+        "bing": 9480,
+        "bing_en": 100,
+        "google": 3700
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "立春日有感用彥博韻",
+        "so360": 20,
+        "bing": 13200,
+        "bing_en": 176,
+        "google": 27600
+    },
+    {
+        "baidu": 67,
+        "author": "李流謙",
+        "title": "晚春有感答才夫上巳之作二首  其一",
+        "so360": 30,
+        "bing": 12300,
+        "bing_en": 19900,
+        "google": 8450
+    },
+    {
+        "baidu": 64,
+        "author": "李流謙",
+        "title": "晚春有感答才夫上巳之作二首  其二",
+        "so360": 30,
+        "bing": 12300,
+        "bing_en": 19400,
+        "google": 8400
+    },
+    {
+        "baidu": 95,
+        "author": "李流謙",
+        "title": "宋才夫解官作此送之",
+        "so360": 19,
+        "bing": 1980,
+        "bing_en": 1980,
+        "google": 554
+    },
+    {
+        "baidu": 9,
+        "author": "李流謙",
+        "title": "夜飲彥博家歸而作此",
+        "so360": 22,
+        "bing": 12300,
+        "bing_en": 3430,
+        "google": 1990
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "醉時謠",
+        "so360": 89,
+        "bing": 462,
+        "bing_en": 21200,
+        "google": 11800
+    },
+    {
+        "baidu": 52,
+        "author": "李流謙",
+        "title": "七夕",
+        "so360": 107,
+        "bing": 668,
+        "bing_en": 21200,
+        "google": 34100
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "喜仲明西歸",
+        "so360": 20,
+        "bing": 13000,
+        "bing_en": 96,
+        "google": 15600
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "飯客鎮驛見壁間書火池事異甚",
+        "so360": 20,
+        "bing": 29100,
+        "bing_en": 16500,
+        "google": 7960
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "宿永年鎮僧居",
+        "so360": 12,
+        "bing": 4700,
+        "bing_en": 4700,
+        "google": 463
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "錢元質飲客月巖前小亭酒半月上移席坐巖下四顧林塘景氣清絕眉山程進儒謂予不可無詩因作此",
+        "so360": 14,
+        "bing": 934,
+        "bing_en": 100,
+        "google": 86
+    },
+    {
+        "baidu": 20,
+        "author": "李流謙",
+        "title": "拜嵩次山塔",
+        "so360": 23,
+        "bing": 21100,
+        "bing_en": 21200,
+        "google": 11700
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "自登道來馬谿作",
+        "so360": 27,
+        "bing": 12300,
+        "bing_en": 21200,
+        "google": 45100
+    },
+    {
+        "baidu": 53,
+        "author": "李流謙",
+        "title": "游秦園分韻得東字",
+        "so360": 14,
+        "bing": 6000,
+        "bing_en": 2370,
+        "google": 25300
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "安居道中",
+        "so360": 28,
+        "bing": 15,
+        "bing_en": 21100,
+        "google": 1510
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "同常和仲謁照老和仲有詩次其韻",
+        "so360": 534,
+        "bing": 12500,
+        "bing_en": 103,
+        "google": 17800
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "東州行上費檢正",
+        "so360": 21,
+        "bing": 140000,
+        "bing_en": 20200,
+        "google": 2360
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "巖桂堂",
+        "so360": 34,
+        "bing": 95,
+        "bing_en": 2280,
+        "google": 38500
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "歲庚午予過來鳳驛觀壁間碑刻火池事嘗賦詩今歲甲午再過用前韻",
+        "so360": 16,
+        "bing": 2480,
+        "bing_en": 100,
+        "google": 145
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "慈雲壁間有楊皓明叔崇寧甲申所題詩和者甚衆",
+        "so360": 17,
+        "bing": 12000,
+        "bing_en": 103,
+        "google": 2090
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "自拋渡未嘗驚恐次公安舟爲疾風倒吹幾不能返自江行未嘗阻風將次沙市風留三日",
+        "so360": 7,
+        "bing": 16400,
+        "bing_en": 100,
+        "google": 12200
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "劉蛻唐大中時人文塚在兜率寺予嘗讀孫樵自序其作云大中皇帝嘗有詔褒時之藝能凡三人而樵居其一曰孫樵有揚馬之文蛻既同時不應不在褒詔之列士之顯晦固有定分劉君獨未能忘此乎塚其文予蓋疑其有激也作此弔之",
+        "so360": 26,
+        "bing": 7,
+        "bing_en": 100,
+        "google": 2840
+    },
+    {
+        "baidu": 19,
+        "author": "李流謙",
+        "title": "涵翠亭",
+        "so360": 12,
+        "bing": 12200,
+        "bing_en": 12200,
+        "google": 20600
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "弔李允成知縣",
+        "so360": 59,
+        "bing": 1780,
+        "bing_en": 86,
+        "google": 1060
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "飛烏道中",
+        "so360": 23,
+        "bing": 736000,
+        "bing_en": 21100,
+        "google": 11900
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "飛烏與正老相值蓋十月初見之夢兆云",
+        "so360": 10,
+        "bing": 983,
+        "bing_en": 120,
+        "google": 3260
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "山口阻風",
+        "so360": 19,
+        "bing": 8240,
+        "bing_en": 12000,
+        "google": 5470
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "賦壽康海棠",
+        "so360": 27,
+        "bing": 5970,
+        "bing_en": 88,
+        "google": 16800
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "峽中重九以菊有黄華分韻得菊字",
+        "so360": 35,
+        "bing": 3650,
+        "bing_en": 141,
+        "google": 6170
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "枕上聞櫓聲",
+        "so360": 8,
+        "bing": 12800,
+        "bing_en": 2750,
+        "google": 19600
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "晚步江滸有得黿大如箕贖放之鄰叟言此家前數日已嘗得一煮之通夕旦發盎視之黿忽引首以水噴其面茲亦可驚異者作是詩以爲好殺者之戒",
+        "so360": 29,
+        "bing": 794,
+        "bing_en": 796,
+        "google": 532
+    },
+    {
+        "baidu": 35,
+        "author": "李流謙",
+        "title": "放魚",
+        "so360": 64,
+        "bing": 11600,
+        "bing_en": 753,
+        "google": 77300
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "遂寧登舟",
+        "so360": 15,
+        "bing": 22200,
+        "bing_en": 157,
+        "google": 24600
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "舟著淺",
+        "so360": 12,
+        "bing": 45100,
+        "bing_en": 21300,
+        "google": 16700
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "鄂渚大風",
+        "so360": 29,
+        "bing": 32,
+        "bing_en": 5700,
+        "google": 1940
+    },
+    {
+        "baidu": 16,
+        "author": "李流謙",
+        "title": "訪楊少虞得小詩併呈才夫",
+        "so360": 24,
+        "bing": 12700,
+        "bing_en": 103,
+        "google": 3520
+    },
+    {
+        "baidu": 28,
+        "author": "李流謙",
+        "title": "舟中夜讀蟠舟詩",
+        "so360": 14,
+        "bing": 22500,
+        "bing_en": 4490,
+        "google": 5580
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "雜言二首  其一",
+        "so360": 24,
+        "bing": 66500,
+        "bing_en": 15000,
+        "google": 13100
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "雜言二首  其二",
+        "so360": 23,
+        "bing": 4080,
+        "bing_en": 3950,
+        "google": 13900
+    },
+    {
+        "baidu": 18,
+        "author": "李流謙",
+        "title": "十八日同少虞才夫子友子西泛舟",
+        "so360": 17,
+        "bing": 3420,
+        "bing_en": 3420,
+        "google": 394
+    },
+    {
+        "baidu": 36,
+        "author": "李流謙",
+        "title": "次德茂湖中韻",
+        "so360": 12,
+        "bing": 1030,
+        "bing_en": 1030,
+        "google": 4900
+    },
+    {
+        "baidu": 33,
+        "author": "李流謙",
+        "title": "次德茂菱花韻",
+        "so360": 21,
+        "bing": 12500,
+        "bing_en": 120,
+        "google": 1280
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "萬安道上逢牧者",
+        "so360": 14,
+        "bing": 24400,
+        "bing_en": 1300,
+        "google": 3060
+    },
+    {
+        "baidu": 40,
+        "author": "李流謙",
+        "title": "登無爲冠鰲亭分韻得山字",
+        "so360": 17,
+        "bing": 12500,
+        "bing_en": 114,
+        "google": 11300
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "同馮縉雲游無爲以吾獨胡爲在泥滓分韻賦詩得泥字",
+        "so360": 29,
+        "bing": 12400,
+        "bing_en": 100,
+        "google": 6180
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "遊溫湯",
+        "so360": 14,
+        "bing": 58,
+        "bing_en": 2430,
+        "google": 916
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "七月十七日游浮山值夜未快所觀急歸作詩",
+        "so360": 37,
+        "bing": 432,
+        "bing_en": 102,
+        "google": 42
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "寄張珍甫殿院  其一",
+        "so360": 23,
+        "bing": 1720,
+        "bing_en": 1720,
+        "google": 526
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "寄張珍甫殿院  其二",
+        "so360": 23,
+        "bing": 1570,
+        "bing_en": 1570,
+        "google": 535
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "寄張珍甫殿院  其三",
+        "so360": 68,
+        "bing": 7150,
+        "bing_en": 21100,
+        "google": 550
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "寄張珍甫殿院  其四",
+        "so360": 76,
+        "bing": 6910,
+        "bing_en": 21200,
+        "google": 516
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "寄張珍甫殿院  其五",
+        "so360": 56,
+        "bing": 7090,
+        "bing_en": 29200,
+        "google": 536
+    },
+    {
+        "baidu": 17,
+        "author": "李流謙",
+        "title": "宿船家小舟中凡三日夜作此",
+        "so360": 515,
+        "bing": 235,
+        "bing_en": 236,
+        "google": 1420
+    },
+    {
+        "baidu": 17,
+        "author": "李流謙",
+        "title": "遣興七首  其一",
+        "so360": 300,
+        "bing": 17900,
+        "bing_en": 13700,
+        "google": 16200
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "遣興七首  其二",
+        "so360": 262,
+        "bing": 16700,
+        "bing_en": 11100,
+        "google": 16200
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "遣興七首  其三",
+        "so360": 264,
+        "bing": 62300,
+        "bing_en": 7380,
+        "google": 15500
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "遣興七首  其四",
+        "so360": 20,
+        "bing": 57700,
+        "bing_en": 6690,
+        "google": 16200
+    },
+    {
+        "baidu": 16,
+        "author": "李流謙",
+        "title": "遣興七首  其五",
+        "so360": 12,
+        "bing": 56500,
+        "bing_en": 6560,
+        "google": 15000
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "遣興七首  其六",
+        "so360": 9,
+        "bing": 47800,
+        "bing_en": 6240,
+        "google": 14500
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "遣興七首  其七",
+        "so360": 28,
+        "bing": 67300,
+        "bing_en": 8090,
+        "google": 15400
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "山中遣興五首  其一",
+        "so360": 44,
+        "bing": 13100,
+        "bing_en": 13800,
+        "google": 13200
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "山中遣興五首  其二",
+        "so360": 45,
+        "bing": 12700,
+        "bing_en": 11200,
+        "google": 13900
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "山中遣興五首  其三",
+        "so360": 42,
+        "bing": 5500,
+        "bing_en": 2510,
+        "google": 13000
+    },
+    {
+        "baidu": 16,
+        "author": "李流謙",
+        "title": "山中遣興五首  其四",
+        "so360": 43,
+        "bing": 5510,
+        "bing_en": 2500,
+        "google": 13300
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "山中遣興五首  其五",
+        "so360": 468,
+        "bing": 5520,
+        "bing_en": 2520,
+        "google": 14600
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "遣興示彥博  其一",
+        "so360": 22,
+        "bing": 12500,
+        "bing_en": 86,
+        "google": 2010
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "遣興示彥博  其二",
+        "so360": 25,
+        "bing": 12500,
+        "bing_en": 123,
+        "google": 820
+    },
+    {
+        "baidu": 0,
+        "author": "李流謙",
+        "title": "遣興示彥博  其三",
+        "so360": 22,
+        "bing": 13600,
+        "bing_en": 15200,
+        "google": 2200
+    },
+    {
+        "baidu": 76,
+        "author": "李流謙",
+        "title": "雨後有月江上作",
+        "so360": 47,
+        "bing": 4130,
+        "bing_en": 1190,
+        "google": 556
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "游東山  其一",
+        "so360": 27,
+        "bing": 870000,
+        "bing_en": 22800,
+        "google": 14400
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "游東山  其二",
+        "so360": 27,
+        "bing": 4470,
+        "bing_en": 326,
+        "google": 14500
+    },
+    {
+        "baidu": 47,
+        "author": "李流謙",
+        "title": "送五八姪歸二江",
+        "so360": 9,
+        "bing": 1020,
+        "bing_en": 107,
+        "google": 9980
+    },
+    {
+        "baidu": 45,
+        "author": "李流謙",
+        "title": "上牛頭山",
+        "so360": 13,
+        "bing": 5890,
+        "bing_en": 11500,
+        "google": 763
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "次韻朱飾之中秋翫月因以送之",
+        "so360": 519,
+        "bing": 4480,
+        "bing_en": 96,
+        "google": 22000
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "送謝天奇赴淮上之招",
+        "so360": 25,
+        "bing": 520,
+        "bing_en": 522,
+        "google": 667
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "送尹仲求臨邛戶掾",
+        "so360": 10,
+        "bing": 12200,
+        "bing_en": 12200,
+        "google": 1030
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "次韻秋日書懷  其一",
+        "so360": 49,
+        "bing": 13000,
+        "bing_en": 3820,
+        "google": 38500
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "次韻秋日書懷  其二",
+        "so360": 49,
+        "bing": 12900,
+        "bing_en": 3810,
+        "google": 37200
+    },
+    {
+        "baidu": 56,
+        "author": "李流謙",
+        "title": "平都山二首  其一",
+        "so360": 21,
+        "bing": 7450,
+        "bing_en": 7440,
+        "google": 14200
+    },
+    {
+        "baidu": 52,
+        "author": "李流謙",
+        "title": "平都山二首  其二",
+        "so360": 20,
+        "bing": 5500,
+        "bing_en": 5510,
+        "google": 13500
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "過新津游修覺山",
+        "so360": 18,
+        "bing": 766,
+        "bing_en": 768,
+        "google": 2330
+    },
+    {
+        "baidu": 57,
+        "author": "李流謙",
+        "title": "送史唐英二首  其一",
+        "so360": 29,
+        "bing": 4930,
+        "bing_en": 4930,
+        "google": 399
+    },
+    {
+        "baidu": 52,
+        "author": "李流謙",
+        "title": "送史唐英二首  其二",
+        "so360": 29,
+        "bing": 3620,
+        "bing_en": 3620,
+        "google": 407
+    },
+    {
+        "baidu": 44,
+        "author": "李流謙",
+        "title": "送王景文",
+        "so360": 21,
+        "bing": 10100,
+        "bing_en": 10100,
+        "google": 653
+    },
+    {
+        "baidu": 1250,
+        "author": "李流謙",
+        "title": "送楊道父二首  其一",
+        "so360": 11,
+        "bing": 3780,
+        "bing_en": 3780,
+        "google": 44300
+    },
+    {
+        "baidu": 2490,
+        "author": "李流謙",
+        "title": "送楊道父二首  其二",
+        "so360": 11,
+        "bing": 2940,
+        "bing_en": 2940,
+        "google": 44000
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "重陽前一日仲明見過留之以州會辭作此示之",
+        "so360": 10,
+        "bing": 2700,
+        "bing_en": 85,
+        "google": 4190
+    },
+    {
+        "baidu": 17,
+        "author": "李流謙",
+        "title": "允成載酒見過作此示之",
+        "so360": 12,
+        "bing": 6590,
+        "bing_en": 111,
+        "google": 5010
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "離合州驛晚宿茆城驛",
+        "so360": 9,
+        "bing": 12700,
+        "bing_en": 913,
+        "google": 8710
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "寄送石鈞父二首  其一",
+        "so360": 20,
+        "bing": 1630,
+        "bing_en": 1630,
+        "google": 24900
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "寄送石鈞父二首  其二",
+        "so360": 21,
+        "bing": 1220,
+        "bing_en": 1220,
+        "google": 24200
+    },
+    {
+        "baidu": 16,
+        "author": "李流謙",
+        "title": "送程叔虞監稅",
+        "so360": 39,
+        "bing": 12400,
+        "bing_en": 20600,
+        "google": 6360
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "豐都驛呈任子厚詩二首  其一",
+        "so360": 20,
+        "bing": 1860,
+        "bing_en": 100,
+        "google": 937
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "豐都驛呈任子厚詩二首  其二",
+        "so360": 22,
+        "bing": 621,
+        "bing_en": 621,
+        "google": 938
+    },
+    {
+        "baidu": 55,
+        "author": "李流謙",
+        "title": "書事  其一",
+        "so360": 28,
+        "bing": 8830,
+        "bing_en": 8820,
+        "google": 130000
+    },
+    {
+        "baidu": 46,
+        "author": "李流謙",
+        "title": "書事  其二",
+        "so360": 4550,
+        "bing": 6330,
+        "bing_en": 6330,
+        "google": 129000
+    },
+    {
+        "baidu": 54,
+        "author": "李流謙",
+        "title": "書事  其三",
+        "so360": 29800,
+        "bing": 9640,
+        "bing_en": 10600,
+        "google": 18900
+    },
+    {
+        "baidu": 52,
+        "author": "李流謙",
+        "title": "書事  其四",
+        "so360": 130,
+        "bing": 8720,
+        "bing_en": 8730,
+        "google": 130000
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "陸使君祠二首  其一",
+        "so360": 28,
+        "bing": 735,
+        "bing_en": 735,
+        "google": 12100
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "陸使君祠二首  其二",
+        "so360": 28,
+        "bing": 635,
+        "bing_en": 635,
+        "google": 12200
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "出郊",
+        "so360": 39,
+        "bing": 60,
+        "bing_en": 21300,
+        "google": 41400
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "晚泊",
+        "so360": 4110,
+        "bing": 52,
+        "bing_en": 21200,
+        "google": 25300
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "送王伯董入總幕  其一",
+        "so360": 14,
+        "bing": 1450,
+        "bing_en": 1450,
+        "google": 13200
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "送王伯董入總幕  其二",
+        "so360": 14,
+        "bing": 1270,
+        "bing_en": 1270,
+        "google": 12700
+    },
+    {
+        "baidu": 26,
+        "author": "李流謙",
+        "title": "送王景文入制幕二首  其一",
+        "so360": 14,
+        "bing": 74,
+        "bing_en": 74,
+        "google": 476
+    },
+    {
+        "baidu": 23,
+        "author": "李流謙",
+        "title": "送王景文入制幕二首  其二",
+        "so360": 15,
+        "bing": 77,
+        "bing_en": 77,
+        "google": 387
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "入峽聞灘聲",
+        "so360": 12,
+        "bing": 15800,
+        "bing_en": 21100,
+        "google": 8220
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "懷李仲明  其一",
+        "so360": 42,
+        "bing": 3840,
+        "bing_en": 14600,
+        "google": 1160
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "懷李仲明  其二",
+        "so360": 41,
+        "bing": 2950,
+        "bing_en": 12600,
+        "google": 1160
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "謁無盡墓",
+        "so360": 41,
+        "bing": 13900,
+        "bing_en": 21200,
+        "google": 2870
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "五百羅漢洞",
+        "so360": 10,
+        "bing": 0,
+        "bing_en": 18700,
+        "google": 25000
+    },
+    {
+        "baidu": 772,
+        "author": "李流謙",
+        "title": "枕上",
+        "so360": 123,
+        "bing": 13600,
+        "bing_en": 13600,
+        "google": 12400
+    },
+    {
+        "baidu": 51,
+        "author": "李流謙",
+        "title": "射洪道中二首  其一",
+        "so360": 17,
+        "bing": 54,
+        "bing_en": 54,
+        "google": 20900
+    },
+    {
+        "baidu": 24,
+        "author": "李流謙",
+        "title": "射洪道中二首  其二",
+        "so360": 17,
+        "bing": 39700,
+        "bing_en": 18000,
+        "google": 20900
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "仲明兄弟訪別郊居",
+        "so360": 14,
+        "bing": 11200,
+        "bing_en": 554,
+        "google": 9280
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "次懷安骨肉自簡池來會",
+        "so360": 15,
+        "bing": 11100,
+        "bing_en": 825,
+        "google": 28800
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "吳波亭相對數峰極可愛",
+        "so360": 14,
+        "bing": 4950,
+        "bing_en": 6190,
+        "google": 1800
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "寄彥博二首  其一",
+        "so360": 67,
+        "bing": 15000,
+        "bing_en": 16400,
+        "google": 5100
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "寄彥博二首  其二",
+        "so360": 73,
+        "bing": 15000,
+        "bing_en": 15800,
+        "google": 5420
+    },
+    {
+        "baidu": 43,
+        "author": "李流謙",
+        "title": "七曲祠",
+        "so360": 10,
+        "bing": 60,
+        "bing_en": 21200,
+        "google": 24700
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "夔子岸下水作頹沙裂岸轉舟避之",
+        "so360": 7,
+        "bing": 811,
+        "bing_en": 806,
+        "google": 11500
+    },
+    {
+        "baidu": 9,
+        "author": "李流謙",
+        "title": "仲明留少城未還予將歸矣留詩別之",
+        "so360": 7,
+        "bing": 8430,
+        "bing_en": 729,
+        "google": 6000
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "別元質  其一",
+        "so360": 16,
+        "bing": 3290,
+        "bing_en": 3290,
+        "google": 58700
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "別元質  其二",
+        "so360": 16,
+        "bing": 2750,
+        "bing_en": 2740,
+        "google": 60200
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "送錢太虛同年",
+        "so360": 28,
+        "bing": 12200,
+        "bing_en": 16400,
+        "google": 5180
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "次趙惟直韻",
+        "so360": 19,
+        "bing": 24100,
+        "bing_en": 21000,
+        "google": 524
+    },
+    {
+        "baidu": 22,
+        "author": "李流謙",
+        "title": "次韻仲秉見寄二首  其一",
+        "so360": 29,
+        "bing": 12300,
+        "bing_en": 6260,
+        "google": 18700
+    },
+    {
+        "baidu": 21,
+        "author": "李流謙",
+        "title": "次韻仲秉見寄二首  其二",
+        "so360": 29,
+        "bing": 12600,
+        "bing_en": 5930,
+        "google": 8630
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "次仲甄韻二首  其一",
+        "so360": 26,
+        "bing": 1020,
+        "bing_en": 1020,
+        "google": 27800
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "次仲甄韻二首  其二",
+        "so360": 26,
+        "bing": 828,
+        "bing_en": 826,
+        "google": 10400
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "益昌道中次兄長韻二首  其一",
+        "so360": 15,
+        "bing": 12300,
+        "bing_en": 696,
+        "google": 551
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "益昌道中次兄長韻二首  其二",
+        "so360": 15,
+        "bing": 12300,
+        "bing_en": 1000,
+        "google": 928
+    },
+    {
+        "baidu": 28,
+        "author": "李流謙",
+        "title": "投晁子止制置三首  其一",
+        "so360": 21,
+        "bing": 12400,
+        "bing_en": 20900,
+        "google": 11800
+    },
+    {
+        "baidu": 29,
+        "author": "李流謙",
+        "title": "投晁子止制置三首  其二",
+        "so360": 21,
+        "bing": 1160,
+        "bing_en": 1160,
+        "google": 11800
+    },
+    {
+        "baidu": 24,
+        "author": "李流謙",
+        "title": "投晁子止制置三首  其三",
+        "so360": 94,
+        "bing": 7710,
+        "bing_en": 21000,
+        "google": 12200
+    },
+    {
+        "baidu": 51,
+        "author": "李流謙",
+        "title": "送查總卿三首  其一",
+        "so360": 61,
+        "bing": 2160,
+        "bing_en": 2160,
+        "google": 27700
+    },
+    {
+        "baidu": 51,
+        "author": "李流謙",
+        "title": "送查總卿三首  其二",
+        "so360": 63,
+        "bing": 1570,
+        "bing_en": 1570,
+        "google": 26600
+    },
+    {
+        "baidu": 49,
+        "author": "李流謙",
+        "title": "送查總卿三首  其三",
+        "so360": 30,
+        "bing": 10600,
+        "bing_en": 10600,
+        "google": 26600
+    },
+    {
+        "baidu": 19,
+        "author": "李流謙",
+        "title": "夜坐呈王子友  其一",
+        "so360": 97,
+        "bing": 1480,
+        "bing_en": 1480,
+        "google": 12000
+    },
+    {
+        "baidu": 19,
+        "author": "李流謙",
+        "title": "夜坐呈王子友  其二",
+        "so360": 22,
+        "bing": 1330,
+        "bing_en": 1330,
+        "google": 11700
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "晚歸",
+        "so360": 30,
+        "bing": 13100,
+        "bing_en": 13200,
+        "google": 18000
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "宇文氏莊觀海棠時海棠未甚開而余旦夕歸矣賦此",
+        "so360": 10,
+        "bing": 636,
+        "bing_en": 111,
+        "google": 1120
+    },
+    {
+        "baidu": 1970,
+        "author": "李流謙",
+        "title": "即事",
+        "so360": 1460,
+        "bing": 11200,
+        "bing_en": 11200,
+        "google": 46700
+    },
+    {
+        "baidu": 27,
+        "author": "李流謙",
+        "title": "錢氏隠居三首  其一",
+        "so360": 28,
+        "bing": 771,
+        "bing_en": 771,
+        "google": 11800
+    },
+    {
+        "baidu": 26,
+        "author": "李流謙",
+        "title": "錢氏隠居三首  其二",
+        "so360": 28,
+        "bing": 743,
+        "bing_en": 743,
+        "google": 11800
+    },
+    {
+        "baidu": 26,
+        "author": "李流謙",
+        "title": "錢氏隠居三首  其三",
+        "so360": 28,
+        "bing": 12200,
+        "bing_en": 21000,
+        "google": 11900
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "偶失一丹瓢戲書",
+        "so360": 9,
+        "bing": 12400,
+        "bing_en": 92,
+        "google": 1950
+    },
+    {
+        "baidu": 44,
+        "author": "李流謙",
+        "title": "次韻德茂待仲甄巨卿未至",
+        "so360": 20,
+        "bing": 16900,
+        "bing_en": 54,
+        "google": 6920
+    },
+    {
+        "baidu": 44,
+        "author": "李流謙",
+        "title": "抵家",
+        "so360": 28,
+        "bing": 13300,
+        "bing_en": 13300,
+        "google": 4720
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "郭及之僉判招飲雅安同僚也",
+        "so360": 8,
+        "bing": 1240,
+        "bing_en": 105,
+        "google": 2410
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "送牟孔錫之官敘南二首  其一",
+        "so360": 17,
+        "bing": 294,
+        "bing_en": 294,
+        "google": 4430
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "送牟孔錫之官敘南二首  其二",
+        "so360": 17,
+        "bing": 362,
+        "bing_en": 364,
+        "google": 4530
+    },
+    {
+        "baidu": 36,
+        "author": "李流謙",
+        "title": "送李仁甫運判赴召三首  其一",
+        "so360": 23,
+        "bing": 6640,
+        "bing_en": 2670,
+        "google": 660
+    },
+    {
+        "baidu": 20,
+        "author": "李流謙",
+        "title": "送李仁甫運判赴召三首  其二",
+        "so360": 23,
+        "bing": 2560,
+        "bing_en": 2600,
+        "google": 651
+    },
+    {
+        "baidu": 20,
+        "author": "李流謙",
+        "title": "送李仁甫運判赴召三首  其三",
+        "so360": 23,
+        "bing": 836,
+        "bing_en": 836,
+        "google": 665
+    },
+    {
+        "baidu": 61,
+        "author": "李流謙",
+        "title": "江上晚眺書所見",
+        "so360": 27,
+        "bing": 113000,
+        "bing_en": 5000,
+        "google": 392
+    },
+    {
+        "baidu": 24,
+        "author": "李流謙",
+        "title": "舟中",
+        "so360": 348,
+        "bing": 14500,
+        "bing_en": 14500,
+        "google": 34300
+    },
+    {
+        "baidu": 438,
+        "author": "李流謙",
+        "title": "小息",
+        "so360": 9,
+        "bing": 16100,
+        "bing_en": 16100,
+        "google": 7400
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "贈白道人",
+        "so360": 15,
+        "bing": 43,
+        "bing_en": 3410,
+        "google": 812
+    },
+    {
+        "baidu": 22,
+        "author": "李流謙",
+        "title": "贈藍元一道人",
+        "so360": 27,
+        "bing": 9770,
+        "bing_en": 1060,
+        "google": 16200
+    },
+    {
+        "baidu": 45,
+        "author": "李流謙",
+        "title": "次韻宋德器春晚即事五首  其一",
+        "so360": 49,
+        "bing": 2020,
+        "bing_en": 1120,
+        "google": 856
+    },
+    {
+        "baidu": 45,
+        "author": "李流謙",
+        "title": "次韻宋德器春晚即事五首  其二",
+        "so360": 50,
+        "bing": 2020,
+        "bing_en": 892,
+        "google": 865
+    },
+    {
+        "baidu": 21,
+        "author": "李流謙",
+        "title": "次韻宋德器春晚即事五首  其三",
+        "so360": 50,
+        "bing": 349,
+        "bing_en": 9370,
+        "google": 841
+    },
+    {
+        "baidu": 45,
+        "author": "李流謙",
+        "title": "次韻宋德器春晚即事五首  其四",
+        "so360": 49,
+        "bing": 343,
+        "bing_en": 9360,
+        "google": 854
+    },
+    {
+        "baidu": 16,
+        "author": "李流謙",
+        "title": "次韻宋德器春晚即事五首  其五",
+        "so360": 48,
+        "bing": 369,
+        "bing_en": 9390,
+        "google": 881
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "元質苦留過重陽且約泛舟觀泉二首  其一",
+        "so360": 15,
+        "bing": 11500,
+        "bing_en": 100,
+        "google": 7020
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "元質苦留過重陽且約泛舟觀泉二首  其二",
+        "so360": 15,
+        "bing": 11600,
+        "bing_en": 100,
+        "google": 7020
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "早飯白崖鋪凈果院",
+        "so360": 10,
+        "bing": 184000,
+        "bing_en": 102,
+        "google": 1250
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "用仲秉韻貽照老",
+        "so360": 10,
+        "bing": 12500,
+        "bing_en": 21100,
+        "google": 2250
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "贈照老",
+        "so360": 4360,
+        "bing": 79,
+        "bing_en": 21800,
+        "google": 46900
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "照老用韻謝復作",
+        "so360": 8,
+        "bing": 38500,
+        "bing_en": 3350,
+        "google": 23200
+    },
+    {
+        "baidu": 47,
+        "author": "李流謙",
+        "title": "用前韻呈照老",
+        "so360": 5950,
+        "bing": 22400,
+        "bing_en": 21200,
+        "google": 24700
+    },
+    {
+        "baidu": 1150,
+        "author": "李流謙",
+        "title": "泛舟呈元質照老  其一",
+        "so360": 221,
+        "bing": 344,
+        "bing_en": 344,
+        "google": 13300
+    },
+    {
+        "baidu": 534,
+        "author": "李流謙",
+        "title": "泛舟呈元質照老  其二",
+        "so360": 236,
+        "bing": 97,
+        "bing_en": 97,
+        "google": 13400
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "僕盡半月之力僅得五詩而和仲落筆成十章俊哉予所甚畏也勉作二章答和仲三章述懷庶滿其數云  其一",
+        "so360": 21,
+        "bing": 611,
+        "bing_en": 100,
+        "google": 296
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "僕盡半月之力僅得五詩而和仲落筆成十章俊哉予所甚畏也勉作二章答和仲三章述懷庶滿其數云  其二",
+        "so360": 21,
+        "bing": 611,
+        "bing_en": 100,
+        "google": 296
+    },
+    {
+        "baidu": 100,
+        "author": "李流謙",
+        "title": "用韵答王子蒼",
+        "so360": 63,
+        "bing": 2080,
+        "bing_en": 2080,
+        "google": 13700
+    },
+    {
+        "baidu": 26,
+        "author": "李流謙",
+        "title": "答李仲明仍用鋤字韻",
+        "so360": 14,
+        "bing": 12200,
+        "bing_en": 1680,
+        "google": 7320
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "李允成次彥博韻見示仍用韻答之三首  其一",
+        "so360": 47,
+        "bing": 444,
+        "bing_en": 100,
+        "google": 7950
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "李允成次彥博韻見示仍用韻答之三首  其二",
+        "so360": 49,
+        "bing": 442,
+        "bing_en": 100,
+        "google": 128
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "李允成次彥博韻見示仍用韻答之三首  其三",
+        "so360": 46,
+        "bing": 8240,
+        "bing_en": 100,
+        "google": 127
+    },
+    {
+        "baidu": 9,
+        "author": "李流謙",
+        "title": "以雙筆贈照老用前韻",
+        "so360": 16,
+        "bing": 44400,
+        "bing_en": 20800,
+        "google": 16200
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "宿離相院",
+        "so360": 8,
+        "bing": 83200,
+        "bing_en": 21200,
+        "google": 9570
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "遊靈鷲院",
+        "so360": 17,
+        "bing": 7610,
+        "bing_en": 20500,
+        "google": 29300
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "游水東院  其一",
+        "so360": 22,
+        "bing": 22100,
+        "bing_en": 14900,
+        "google": 16300
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "游水東院  其二",
+        "so360": 22,
+        "bing": 20900,
+        "bing_en": 13600,
+        "google": 16400
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "次黄仲甄峽中韻",
+        "so360": 30,
+        "bing": 20000,
+        "bing_en": 58,
+        "google": 2520
+    },
+    {
+        "baidu": 29,
+        "author": "李流謙",
+        "title": "石洞二首  其一",
+        "so360": 34,
+        "bing": 83,
+        "bing_en": 83,
+        "google": 44600
+    },
+    {
+        "baidu": 23,
+        "author": "李流謙",
+        "title": "石洞二首  其二",
+        "so360": 34,
+        "bing": 92,
+        "bing_en": 92,
+        "google": 39200
+    },
+    {
+        "baidu": 21,
+        "author": "李流謙",
+        "title": "送何子聞使君之行在",
+        "so360": 1140,
+        "bing": 12100,
+        "bing_en": 3510,
+        "google": 444
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "挽費檢正  其一",
+        "so360": 34,
+        "bing": 602,
+        "bing_en": 602,
+        "google": 2160
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "挽費檢正  其二",
+        "so360": 42,
+        "bing": 661,
+        "bing_en": 660,
+        "google": 1690
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "挽費檢正  其三",
+        "so360": 32,
+        "bing": 12100,
+        "bing_en": 21100,
+        "google": 1730
+    },
+    {
+        "baidu": 36,
+        "author": "李流謙",
+        "title": "挽張主簿  其一",
+        "so360": 29,
+        "bing": 841,
+        "bing_en": 841,
+        "google": 11400
+    },
+    {
+        "baidu": 22,
+        "author": "李流謙",
+        "title": "挽張主簿  其二",
+        "so360": 28,
+        "bing": 795,
+        "bing_en": 794,
+        "google": 11800
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "挽秦國夫人  其一",
+        "so360": 28,
+        "bing": 12700,
+        "bing_en": 5010,
+        "google": 31000
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "挽秦國夫人  其二",
+        "so360": 28,
+        "bing": 12600,
+        "bing_en": 4580,
+        "google": 30000
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "挽秦國夫人  其三",
+        "so360": 28,
+        "bing": 14100,
+        "bing_en": 21100,
+        "google": 30500
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "挽秦國夫人  其四",
+        "so360": 472,
+        "bing": 12300,
+        "bing_en": 21100,
+        "google": 31000
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "挽秦國夫人  其五",
+        "so360": 556,
+        "bing": 12300,
+        "bing_en": 21100,
+        "google": 31000
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "挽秦國夫人  其六",
+        "so360": 532,
+        "bing": 12300,
+        "bing_en": 21100,
+        "google": 30900
+    },
+    {
+        "baidu": 100,
+        "author": "李流謙",
+        "title": "杜少陵祠",
+        "so360": 27,
+        "bing": 1640,
+        "bing_en": 1640,
+        "google": 1420
+    },
+    {
+        "baidu": 422,
+        "author": "李流謙",
+        "title": "草堂",
+        "so360": 454,
+        "bing": 67,
+        "bing_en": 21300,
+        "google": 19900
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "宿魏城驛用羅江東韻懷李仲明",
+        "so360": 16,
+        "bing": 433,
+        "bing_en": 107,
+        "google": 333
+    },
+    {
+        "baidu": 8,
+        "author": "李流謙",
+        "title": "題重興寺",
+        "so360": 12,
+        "bing": 112000,
+        "bing_en": 22100,
+        "google": 255
+    },
+    {
+        "baidu": 9,
+        "author": "李流謙",
+        "title": "游龍角山福志院",
+        "so360": 9,
+        "bing": 1460,
+        "bing_en": 2030,
+        "google": 29100
+    },
+    {
+        "baidu": 26,
+        "author": "李流謙",
+        "title": "忠州",
+        "so360": 34,
+        "bing": 14200,
+        "bing_en": 14200,
+        "google": 24800
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "自三池一日過靈池十五里頭宿山險盡矣",
+        "so360": 7,
+        "bing": 10400,
+        "bing_en": 100,
+        "google": 3810
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "抵簡池呈元質進孺二首  其一",
+        "so360": 18,
+        "bing": 12300,
+        "bing_en": 1070,
+        "google": 7910
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "抵簡池呈元質進孺二首  其二",
+        "so360": 18,
+        "bing": 12300,
+        "bing_en": 982,
+        "google": 7780
+    },
+    {
+        "baidu": 40,
+        "author": "李流謙",
+        "title": "呈德茂",
+        "so360": 103,
+        "bing": 1460,
+        "bing_en": 1460,
+        "google": 4390
+    },
+    {
+        "baidu": 16,
+        "author": "李流謙",
+        "title": "十月十五日同黄大博出城",
+        "so360": 10,
+        "bing": 10100,
+        "bing_en": 10100,
+        "google": 282
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "送張仲山守唐安二首  其一",
+        "so360": 14,
+        "bing": 6640,
+        "bing_en": 10900,
+        "google": 426
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "送張仲山守唐安二首  其二",
+        "so360": 14,
+        "bing": 2950,
+        "bing_en": 2940,
+        "google": 2890
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "送崔子淵祕丞出守小益二首  其一",
+        "so360": 26,
+        "bing": 391,
+        "bing_en": 392,
+        "google": 366
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "送崔子淵祕丞出守小益二首  其二",
+        "so360": 26,
+        "bing": 363,
+        "bing_en": 359,
+        "google": 489
+    },
+    {
+        "baidu": 9,
+        "author": "李流謙",
+        "title": "送孫賓老守三池二首  其一",
+        "so360": 23,
+        "bing": 1540,
+        "bing_en": 1530,
+        "google": 3970
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "送孫賓老守三池二首  其二",
+        "so360": 23,
+        "bing": 1360,
+        "bing_en": 1370,
+        "google": 3970
+    },
+    {
+        "baidu": 16,
+        "author": "李流謙",
+        "title": "送魏德源守普慈二首  其一",
+        "so360": 12,
+        "bing": 1940,
+        "bing_en": 1930,
+        "google": 316
+    },
+    {
+        "baidu": 17,
+        "author": "李流謙",
+        "title": "送魏德源守普慈二首  其二",
+        "so360": 12,
+        "bing": 1590,
+        "bing_en": 1590,
+        "google": 333
+    },
+    {
+        "baidu": 30,
+        "author": "李流謙",
+        "title": "送黄仲秉侍郎出守鎮江  其一",
+        "so360": 22,
+        "bing": 664,
+        "bing_en": 663,
+        "google": 2660
+    },
+    {
+        "baidu": 29,
+        "author": "李流謙",
+        "title": "送黄仲秉侍郎出守鎮江  其二",
+        "so360": 22,
+        "bing": 518,
+        "bing_en": 518,
+        "google": 2670
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "次黄仲甄峽中韻",
+        "so360": 30,
+        "bing": 20000,
+        "bing_en": 58,
+        "google": 2520
+    },
+    {
+        "baidu": 19,
+        "author": "李流謙",
+        "title": "十月二十五日失舟",
+        "so360": 505,
+        "bing": 12100,
+        "bing_en": 12200,
+        "google": 1680
+    },
+    {
+        "baidu": 14,
+        "author": "李流謙",
+        "title": "泊采石二首  其一",
+        "so360": 30,
+        "bing": 71,
+        "bing_en": 71,
+        "google": 7680
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "泊采石二首  其二",
+        "so360": 30,
+        "bing": 67,
+        "bing_en": 67,
+        "google": 7930
+    },
+    {
+        "baidu": 24,
+        "author": "李流謙",
+        "title": "舟中",
+        "so360": 348,
+        "bing": 14500,
+        "bing_en": 14500,
+        "google": 34300
+    },
+    {
+        "baidu": 29,
+        "author": "李流謙",
+        "title": "月夜江上作",
+        "so360": 33,
+        "bing": 12200,
+        "bing_en": 12200,
+        "google": 22000
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "水後過淮安金堂皆非舊路",
+        "so360": 16,
+        "bing": 452,
+        "bing_en": 452,
+        "google": 27200
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "焦山漢末焦光隠於此是日乃其生日土人會者甚衆",
+        "so360": 10,
+        "bing": 85,
+        "bing_en": 103,
+        "google": 376
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "連日陰雨未及一到金焦二山病中得梁文佳句枕上吟哦不能自已復次韻",
+        "so360": 11,
+        "bing": 756,
+        "bing_en": 101,
+        "google": 60
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "再遊蔣山  其一",
+        "so360": 35,
+        "bing": 2330,
+        "bing_en": 2330,
+        "google": 27100
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "再遊蔣山  其二",
+        "so360": 35,
+        "bing": 1670,
+        "bing_en": 1670,
+        "google": 25800
+    },
+    {
+        "baidu": 22,
+        "author": "李流謙",
+        "title": "久留蕪湖待巨卿仲甄不至",
+        "so360": 10,
+        "bing": 1140,
+        "bing_en": 98,
+        "google": 27300
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "蕪湖晚步",
+        "so360": 16,
+        "bing": 42100,
+        "bing_en": 6080,
+        "google": 30200
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "遊長蘆",
+        "so360": 34,
+        "bing": 68,
+        "bing_en": 21700,
+        "google": 15500
+    },
+    {
+        "baidu": 1040,
+        "author": "李流謙",
+        "title": "金陵二首  其一",
+        "so360": 193,
+        "bing": 2380,
+        "bing_en": 2380,
+        "google": 20100
+    },
+    {
+        "baidu": 93,
+        "author": "李流謙",
+        "title": "金陵二首  其二",
+        "so360": 152,
+        "bing": 1870,
+        "bing_en": 1880,
+        "google": 20400
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "午飯高橋院",
+        "so360": 15,
+        "bing": 12300,
+        "bing_en": 15900,
+        "google": 9
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "游虎丘次仲甄韻",
+        "so360": 10,
+        "bing": 1330,
+        "bing_en": 1330,
+        "google": 231
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "人日同諸公自馬谿登道宿無爲",
+        "so360": 108,
+        "bing": 1210,
+        "bing_en": 102,
+        "google": 12100
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "次韻彥博游無爲馬谿併呈孫隆州",
+        "so360": 16,
+        "bing": 12400,
+        "bing_en": 111,
+        "google": 8280
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "又次韻彥博游無爲寺二首  其一",
+        "so360": 19,
+        "bing": 12300,
+        "bing_en": 54,
+        "google": 10500
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "又次韻彥博游無爲寺二首  其二",
+        "so360": 19,
+        "bing": 12300,
+        "bing_en": 67,
+        "google": 1600
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "游長松聞捷音",
+        "so360": 19,
+        "bing": 12000,
+        "bing_en": 57,
+        "google": 27800
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "次韻何子聞安靜觀  其一",
+        "so360": 28,
+        "bing": 11300,
+        "bing_en": 100,
+        "google": 7020
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "次韻何子聞安靜觀  其二",
+        "so360": 28,
+        "bing": 8650,
+        "bing_en": 100,
+        "google": 7190
+    },
+    {
+        "baidu": 16,
+        "author": "李流謙",
+        "title": "郊行至天王院",
+        "so360": 53,
+        "bing": 9170,
+        "bing_en": 9200,
+        "google": 1720
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "挽張雅州  其一",
+        "so360": 58,
+        "bing": 1850,
+        "bing_en": 1850,
+        "google": 2110
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "挽張雅州  其二",
+        "so360": 676000,
+        "bing": 1650,
+        "bing_en": 1650,
+        "google": 2920
+    },
+    {
+        "baidu": 18,
+        "author": "李流謙",
+        "title": "自少城解職事還邑二首  其一",
+        "so360": 20,
+        "bing": 1530,
+        "bing_en": 1530,
+        "google": 852
+    },
+    {
+        "baidu": 15,
+        "author": "李流謙",
+        "title": "自少城解職事還邑二首  其二",
+        "so360": 20,
+        "bing": 1500,
+        "bing_en": 1500,
+        "google": 872
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "送劉元圭",
+        "so360": 12,
+        "bing": 12200,
+        "bing_en": 12200,
+        "google": 346
+    },
+    {
+        "baidu": 24,
+        "author": "李流謙",
+        "title": "弔無爲照老三首  其一",
+        "so360": 19,
+        "bing": 12300,
+        "bing_en": 1430,
+        "google": 2540
+    },
+    {
+        "baidu": 17,
+        "author": "李流謙",
+        "title": "弔無爲照老三首  其二",
+        "so360": 19,
+        "bing": 452,
+        "bing_en": 454,
+        "google": 2070
+    },
+    {
+        "baidu": 18,
+        "author": "李流謙",
+        "title": "弔無爲照老三首  其三",
+        "so360": 19,
+        "bing": 12600,
+        "bing_en": 20200,
+        "google": 1970
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "和葉六舅",
+        "so360": 14100,
+        "bing": 63400,
+        "bing_en": 16000,
+        "google": 36400
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "費文達除夔漕作此賀之三首  其一",
+        "so360": 41,
+        "bing": 12200,
+        "bing_en": 955,
+        "google": 1920
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "費文達除夔漕作此賀之三首  其二",
+        "so360": 41,
+        "bing": 12300,
+        "bing_en": 823,
+        "google": 1910
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "費文達除夔漕作此賀之三首  其三",
+        "so360": 152,
+        "bing": 12200,
+        "bing_en": 369,
+        "google": 1930
+    },
+    {
+        "baidu": 17,
+        "author": "李流謙",
+        "title": "同邑寮飲望錦亭",
+        "so360": 7,
+        "bing": 17200,
+        "bing_en": 836,
+        "google": 9870
+    },
+    {
+        "baidu": 9,
+        "author": "李流謙",
+        "title": "獨步",
+        "so360": 126,
+        "bing": 13500,
+        "bing_en": 11900,
+        "google": 5930
+    },
+    {
+        "baidu": 100,
+        "author": "李流謙",
+        "title": "書事",
+        "so360": 103,
+        "bing": 19100,
+        "bing_en": 23500,
+        "google": 152000
+    },
+    {
+        "baidu": 787,
+        "author": "李流謙",
+        "title": "偶成  其一",
+        "so360": 58,
+        "bing": 5690,
+        "bing_en": 5680,
+        "google": 19500
+    },
+    {
+        "baidu": 475,
+        "author": "李流謙",
+        "title": "偶成  其二",
+        "so360": 447,
+        "bing": 4060,
+        "bing_en": 4060,
+        "google": 19600
+    },
+    {
+        "baidu": 94,
+        "author": "李流謙",
+        "title": "偶成  其三",
+        "so360": 26,
+        "bing": 82,
+        "bing_en": 146000,
+        "google": 19900
+    },
+    {
+        "baidu": 82,
+        "author": "李流謙",
+        "title": "偶成  其四",
+        "so360": 24,
+        "bing": 782000,
+        "bing_en": 119000,
+        "google": 19000
+    },
+    {
+        "baidu": 1090,
+        "author": "李流謙",
+        "title": "即事  其一",
+        "so360": 165,
+        "bing": 980,
+        "bing_en": 982,
+        "google": 40800
+    },
+    {
+        "baidu": 1410,
+        "author": "李流謙",
+        "title": "即事  其二",
+        "so360": 48,
+        "bing": 939,
+        "bing_en": 937,
+        "google": 37800
+    },
+    {
+        "baidu": 1420,
+        "author": "李流謙",
+        "title": "即事  其三",
+        "so360": 77,
+        "bing": 11000,
+        "bing_en": 11000,
+        "google": 39500
+    },
+    {
+        "baidu": 27,
+        "author": "李流謙",
+        "title": "仲甄見和復用韻",
+        "so360": 15,
+        "bing": 14000,
+        "bing_en": 931,
+        "google": 30600
+    },
+    {
+        "baidu": 1970,
+        "author": "李流謙",
+        "title": "即事",
+        "so360": 1460,
+        "bing": 11200,
+        "bing_en": 11200,
+        "google": 46700
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "次韻楊文甫監茶名山新建學橋二首  其一",
+        "so360": 29,
+        "bing": 45,
+        "bing_en": 100,
+        "google": 111
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "次韻楊文甫監茶名山新建學橋二首  其二",
+        "so360": 28,
+        "bing": 32,
+        "bing_en": 100,
+        "google": 88
+    },
+    {
+        "baidu": 5,
+        "author": "李流謙",
+        "title": "元質携客渡江飲於村店",
+        "so360": 24,
+        "bing": 3640,
+        "bing_en": 100,
+        "google": 16100
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "招黄太博飲",
+        "so360": 28,
+        "bing": 12000,
+        "bing_en": 12000,
+        "google": 257
+    },
+    {
+        "baidu": 26,
+        "author": "李流謙",
+        "title": "夜興",
+        "so360": 23,
+        "bing": 13800,
+        "bing_en": 13900,
+        "google": 84000
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "次韻大人江上秋興",
+        "so360": 48,
+        "bing": 126000,
+        "bing_en": 2890,
+        "google": 171
+    },
+    {
+        "baidu": 13,
+        "author": "李流謙",
+        "title": "書懷  其一",
+        "so360": 37,
+        "bing": 5080,
+        "bing_en": 5080,
+        "google": 29100
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "書懷  其二",
+        "so360": 30,
+        "bing": 3760,
+        "bing_en": 3760,
+        "google": 29600
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "次韻大人書懷  其一",
+        "so360": 279,
+        "bing": 12300,
+        "bing_en": 4470,
+        "google": 30700
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "次韻大人書懷  其二",
+        "so360": 288,
+        "bing": 12400,
+        "bing_en": 4250,
+        "google": 30700
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "次韻大人書懷  其三",
+        "so360": 214,
+        "bing": 9140,
+        "bing_en": 20100,
+        "google": 4130
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "次韻程進孺書懷",
+        "so360": 19,
+        "bing": 13400,
+        "bing_en": 101,
+        "google": 6670
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "次韻樞相雪中之什",
+        "so360": 10,
+        "bing": 13900,
+        "bing_en": 3000,
+        "google": 13300
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "譙允蹈知縣和予所作二詩復用韻答之  其一",
+        "so360": 19,
+        "bing": 12200,
+        "bing_en": 100,
+        "google": 228
+    },
+    {
+        "baidu": 7,
+        "author": "李流謙",
+        "title": "譙允蹈知縣和予所作二詩復用韻答之  其二",
+        "so360": 19,
+        "bing": 12200,
+        "bing_en": 100,
+        "google": 211
+    },
+    {
+        "baidu": 18,
+        "author": "李流謙",
+        "title": "次大人韻二首  其一",
+        "so360": 12,
+        "bing": 1360,
+        "bing_en": 1360,
+        "google": 6630
+    },
+    {
+        "baidu": 18,
+        "author": "李流謙",
+        "title": "次大人韻二首  其二",
+        "so360": 12,
+        "bing": 1340,
+        "bing_en": 1340,
+        "google": 7100
+    },
+    {
+        "baidu": 6,
+        "author": "李流謙",
+        "title": "又次大人韻",
+        "so360": 16,
+        "bing": 61000,
+        "bing_en": 21200,
+        "google": 6220
+    },
+    {
+        "baidu": 1,
+        "author": "李流謙",
+        "title": "遊安樂次句龍元應韻",
+        "so360": 9,
+        "bing": 11700,
+        "bing_en": 7810,
+        "google": 27300
+    },
+    {
+        "baidu": 28,
+        "author": "李流謙",
+        "title": "次元尉伯言韻",
+        "so360": 22,
+        "bing": 276000,
+        "bing_en": 21000,
+        "google": 333
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "譙丈復見貽仍次韻答之二首  其一",
+        "so360": 487,
+        "bing": 12300,
+        "bing_en": 1460,
+        "google": 8760
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "譙丈復見貽仍次韻答之二首  其二",
+        "so360": 569,
+        "bing": 12300,
+        "bing_en": 1500,
+        "google": 1430
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "再賡佳什已致牽羊之請又辱不鄙垂教蓋大巫困小巫欲眎其顛踣爲戲耳輒作二章以足小成之數  其一",
+        "so360": 12,
+        "bing": 1660,
+        "bing_en": 100,
+        "google": 41
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "再賡佳什已致牽羊之請又辱不鄙垂教蓋大巫困小巫欲眎其顛踣爲戲耳輒作二章以足小成之數  其二",
+        "so360": 12,
+        "bing": 1670,
+        "bing_en": 100,
+        "google": 41
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "宇文德濟約游崇慶值客不果從德濟有詩次韻二首  其一",
+        "so360": 19,
+        "bing": 4390,
+        "bing_en": 100,
+        "google": 27700
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "宇文德濟約游崇慶值客不果從德濟有詩次韻二首  其二",
+        "so360": 19,
+        "bing": 4410,
+        "bing_en": 100,
+        "google": 27700
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "次韻楊師仁見贈",
+        "so360": 14,
+        "bing": 1200,
+        "bing_en": 6630,
+        "google": 6520
+    },
+    {
+        "baidu": 29,
+        "author": "李流謙",
+        "title": "師仁再用韻復作一首",
+        "so360": 12,
+        "bing": 80900,
+        "bing_en": 3150,
+        "google": 23400
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "王正卿何道夫和嘉字韻詩至數十道夫贈予數篇晉卿亦贈一篇因次其韻凡六首  其一",
+        "so360": 30,
+        "bing": 334,
+        "bing_en": 100,
+        "google": 520
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "王正卿何道夫和嘉字韻詩至數十道夫贈予數篇晉卿亦贈一篇因次其韻凡六首  其二",
+        "so360": 30,
+        "bing": 275,
+        "bing_en": 100,
+        "google": 525
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "王正卿何道夫和嘉字韻詩至數十道夫贈予數篇晉卿亦贈一篇因次其韻凡六首  其三",
+        "so360": 30,
+        "bing": 488,
+        "bing_en": 103,
+        "google": 555
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "王正卿何道夫和嘉字韻詩至數十道夫贈予數篇晉卿亦贈一篇因次其韻凡六首  其四",
+        "so360": 30,
+        "bing": 490,
+        "bing_en": 103,
+        "google": 507
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "王正卿何道夫和嘉字韻詩至數十道夫贈予數篇晉卿亦贈一篇因次其韻凡六首  其五",
+        "so360": 30,
+        "bing": 489,
+        "bing_en": 103,
+        "google": 561
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "王正卿何道夫和嘉字韻詩至數十道夫贈予數篇晉卿亦贈一篇因次其韻凡六首  其六",
+        "so360": 30,
+        "bing": 488,
+        "bing_en": 103,
+        "google": 6120
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "樞相游吳園再用前韻",
+        "so360": 14,
+        "bing": 12100,
+        "bing_en": 12100,
+        "google": 24100
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "任德廣通判拉游長松以詩見貽次其韻  其一",
+        "so360": 23,
+        "bing": 286,
+        "bing_en": 100,
+        "google": 35
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "任德廣通判拉游長松以詩見貽次其韻  其二",
+        "so360": 22,
+        "bing": 388,
+        "bing_en": 100,
+        "google": 34
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "任德廣通判拉游長松以詩見貽次其韻  其三",
+        "so360": 22,
+        "bing": 11400,
+        "bing_en": 846,
+        "google": 37
+    },
+    {
+        "baidu": 25,
+        "author": "李流謙",
+        "title": "德廣至中途再示詩次其韻",
+        "so360": 12,
+        "bing": 5770,
+        "bing_en": 77,
+        "google": 1730
+    },
+    {
+        "baidu": 35,
+        "author": "李流謙",
+        "title": "次子友竿字韻",
+        "so360": 166,
+        "bing": 12400,
+        "bing_en": 100,
+        "google": 17700
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "次韻仲甄見貽",
+        "so360": 15,
+        "bing": 891,
+        "bing_en": 1910,
+        "google": 9430
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "長蘆次德茂韻",
+        "so360": 42,
+        "bing": 630,
+        "bing_en": 629,
+        "google": 2200
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "送馮夏卿",
+        "so360": 18,
+        "bing": 37700,
+        "bing_en": 20900,
+        "google": 241
+    },
+    {
+        "baidu": 451,
+        "author": "李流謙",
+        "title": "有感",
+        "so360": 40,
+        "bing": 19000,
+        "bing_en": 19800,
+        "google": 128000
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "飲文氏園是日鵲噪于庭坐上燭花無數就試者凡五人",
+        "so360": 12,
+        "bing": 12300,
+        "bing_en": 113,
+        "google": 510
+    },
+    {
+        "baidu": 2,
+        "author": "李流謙",
+        "title": "次韻陳彥博梅飲之什",
+        "so360": 27,
+        "bing": 12000,
+        "bing_en": 90,
+        "google": 4270
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "送李閬州二首  其一",
+        "so360": 51,
+        "bing": 443,
+        "bing_en": 443,
+        "google": 496
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "送李閬州二首  其二",
+        "so360": 51,
+        "bing": 359,
+        "bing_en": 360,
+        "google": 511
+    },
+    {
+        "baidu": 4,
+        "author": "李流謙",
+        "title": "再用魏城驛韻貽白綿州",
+        "so360": 10,
+        "bing": 12300,
+        "bing_en": 90,
+        "google": 60
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "貽白綿州",
+        "so360": 35,
+        "bing": 13800,
+        "bing_en": 20900,
+        "google": 107
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "寄送張雅州二首  其一",
+        "so360": 18,
+        "bing": 3120,
+        "bing_en": 3110,
+        "google": 3310
+    },
+    {
+        "baidu": 12,
+        "author": "李流謙",
+        "title": "寄送張雅州二首  其二",
+        "so360": 15,
+        "bing": 2460,
+        "bing_en": 2460,
+        "google": 3500
+    },
+    {
+        "baidu": 3,
+        "author": "李流謙",
+        "title": "七夕馬逸已而獲之",
+        "so360": 10,
+        "bing": 1900,
+        "bing_en": 1900,
+        "google": 31500
+    },
+    {
+        "baidu": 20,
+        "author": "李流謙",
+        "title": "送魏德源倅永康",
+        "so360": 15,
+        "bing": 1020,
+        "bing_en": 100,
+        "google": 261
+    },
+    {
+        "baidu": 11,
+        "author": "李流謙",
+        "title": "別趙惟直",
+        "so360": 12,
+        "bing": 208000,
+        "bing_en": 21300,
+        "google": 525
+    },
+    {
+        "baidu": 10,
+        "author": "李流謙",
+        "title": "秋懷次黄仲甄韻  其一",
+        "so360": 14,
+        "bing": 13100,
+        "bing_en": 1040,
+        "google": 568
+    }
+]
