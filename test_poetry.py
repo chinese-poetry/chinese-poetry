@@ -15,6 +15,7 @@ def check_json(f, _dir):
     with open(filepath) as file:
         try:
             _ = json.loads(file.read())
+            print(u"%s 校验成功" % _dir)
             return True
         except:
             sys.stderr.write(traceback.format_exc())            
@@ -41,3 +42,5 @@ test_nantang2 = functools.partial(__check_path__, u'./wudai/nantang/')
 test_youmengying = functools.partial(__check_path__, u'./youmengying/')
 
 test_sishuwujing = functools.partial(__check_path__, u'./sishuwujing/')
+
+test_yuanqu = functools.partial(__check_path__, u'./yuanqu/')
