@@ -1,5 +1,4 @@
-#! -*- coding: utf-8 -*-
-# import sqlite3
+# -*- coding: utf-8 -*-
 import os
 import json
 import sys
@@ -15,11 +14,11 @@ def check_json(f, _dir):
     with open(filepath) as file:
         try:
             _ = json.loads(file.read())
-            print(u"%s 校验成功" % _dir)
+            sys.stdout.write(f"{filepath} 校验成功")
             return True
         except:
-            sys.stderr.write(traceback.format_exc())            
-            assert False, u"校验(%s)失败" % f
+            sys.stderr.write(traceback.format_exc())
+            assert False, f"{filepath} 校验失败"
 
 
 def __check_path__(path):
@@ -44,3 +43,6 @@ test_youmengying = functools.partial(__check_path__, u'./youmengying/')
 test_sishuwujing = functools.partial(__check_path__, u'./sishuwujing/')
 
 test_yuanqu = functools.partial(__check_path__, u'./yuanqu/')
+
+test_mengxue = functools.partial(__check_path__, u'./mengxue')
+
