@@ -17,9 +17,9 @@
 
 ## 数据形式
 
-*poet.tang.[0-99000].json*
+*poet.tang.[0-57000].json*
 
-*poet.song.[0-57000].json*
+*poet.song.[0-254000].json*
 
 每个 JSON 文件有1000条诗.
 
