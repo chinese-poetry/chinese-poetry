@@ -1,0 +1,9002 @@
+[
+    {
+        "baidu": 92,
+        "author": "韩绛",
+        "rhythmic": "踏莎行",
+        "so360": 96,
+        "bing": 1720,
+        "bing_en": 22600,
+        "google": 1410000
+    },
+    {
+        "baidu": 51400,
+        "author": "李师中",
+        "rhythmic": "菩萨蛮",
+        "so360": 579,
+        "bing": 11600,
+        "bing_en": 37200,
+        "google": 5910
+    },
+    {
+        "baidu": 32800,
+        "author": "蔡挺",
+        "rhythmic": "喜迁莺",
+        "so360": 2690,
+        "bing": 1830,
+        "bing_en": 21300,
+        "google": 1660000
+    },
+    {
+        "baidu": 9660,
+        "author": "王益柔",
+        "rhythmic": "喜长新",
+        "so360": 47,
+        "bing": 226000,
+        "bing_en": 21200,
+        "google": 81000
+    },
+    {
+        "baidu": 23500,
+        "author": "韩维",
+        "rhythmic": "西江月",
+        "so360": 334,
+        "bing": 5670,
+        "bing_en": 25400,
+        "google": 2850000
+    },
+    {
+        "baidu": 16500,
+        "author": "韩维",
+        "rhythmic": "踏莎行",
+        "so360": 348,
+        "bing": 9240,
+        "bing_en": 26200,
+        "google": 3420000
+    },
+    {
+        "baidu": 15500,
+        "author": "韩维",
+        "rhythmic": "减字木兰花",
+        "so360": 230,
+        "bing": 121000,
+        "bing_en": 22900,
+        "google": 2880000
+    },
+    {
+        "baidu": 17100,
+        "author": "韩维",
+        "rhythmic": "浪淘沙",
+        "so360": 269,
+        "bing": 4680,
+        "bing_en": 27800,
+        "google": 4360000
+    },
+    {
+        "baidu": 1150,
+        "author": "韩维",
+        "rhythmic": "胡捣练令・胡捣练",
+        "so360": 118,
+        "bing": 199000,
+        "bing_en": 16100,
+        "google": 681000
+    },
+    {
+        "baidu": 3490,
+        "author": "韩维",
+        "rhythmic": "失调名",
+        "so360": 56,
+        "bing": 2660,
+        "bing_en": 27400,
+        "google": 2110000
+    },
+    {
+        "baidu": 3490,
+        "author": "韩维",
+        "rhythmic": "失调名",
+        "so360": 56,
+        "bing": 2660,
+        "bing_en": 27400,
+        "google": 2110000
+    },
+    {
+        "baidu": 20500,
+        "author": "曾巩",
+        "rhythmic": "赏南枝",
+        "so360": 539,
+        "bing": 14200,
+        "bing_en": 23700,
+        "google": 600000
+    },
+    {
+        "baidu": 116000,
+        "author": "司马光",
+        "rhythmic": "阮郎归",
+        "so360": 7230,
+        "bing": 17300,
+        "bing_en": 25800,
+        "google": 469000
+    },
+    {
+        "baidu": 867000,
+        "author": "司马光",
+        "rhythmic": "西江月",
+        "so360": 130000,
+        "bing": 19700,
+        "bing_en": 31300,
+        "google": 1230000
+    },
+    {
+        "baidu": 929,
+        "author": "司马光",
+        "rhythmic": "锦堂春・锦堂春慢",
+        "so360": 388,
+        "bing": 22600,
+        "bing_en": 23000,
+        "google": 1890000
+    },
+    {
+        "baidu": 53200,
+        "author": "苏氏",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 59300,
+        "bing_en": 30200,
+        "google": 7660000
+    },
+    {
+        "baidu": 30,
+        "author": "苏氏",
+        "rhythmic": "更漏子",
+        "so360": 20,
+        "bing": 580000,
+        "bing_en": 22000,
+        "google": 112000
+    },
+    {
+        "baidu": 63,
+        "author": "苏氏",
+        "rhythmic": "鹊桥仙",
+        "so360": 430000,
+        "bing": 487000,
+        "bing_en": 26400,
+        "google": 428000
+    },
+    {
+        "baidu": 63,
+        "author": "苏氏",
+        "rhythmic": "踏莎行",
+        "so360": 1100,
+        "bing": 330000,
+        "bing_en": 26500,
+        "google": 4210000
+    },
+    {
+        "baidu": 24900,
+        "author": "刘敞",
+        "rhythmic": "清平乐",
+        "so360": 1020,
+        "bing": 5250,
+        "bing_en": 20400,
+        "google": 119000
+    },
+    {
+        "baidu": 14100,
+        "author": "刘敞",
+        "rhythmic": "踏莎行",
+        "so360": 428,
+        "bing": 4310,
+        "bing_en": 21400,
+        "google": 1470000
+    },
+    {
+        "baidu": 5470000,
+        "author": "王",
+        "rhythmic": "导引",
+        "so360": 1770000,
+        "bing": 147000,
+        "bing_en": 182000,
+        "google": 36900000
+    },
+    {
+        "baidu": 76800000,
+        "author": "王",
+        "rhythmic": "发引",
+        "so360": 21200,
+        "bing": 73900000,
+        "bing_en": 2110000,
+        "google": 153000000
+    },
+    {
+        "baidu": 76800000,
+        "author": "王",
+        "rhythmic": "发引",
+        "so360": 21200,
+        "bing": 73900000,
+        "bing_en": 2110000,
+        "google": 153000000
+    },
+    {
+        "baidu": 1440,
+        "author": "韩缜",
+        "rhythmic": "凤箫吟・芳草",
+        "so360": 3400,
+        "bing": 14100,
+        "bing_en": 21500,
+        "google": 2320000
+    },
+    {
+        "baidu": 46,
+        "author": "韩缜姬",
+        "rhythmic": "蝶恋花",
+        "so360": 39,
+        "bing": 1020,
+        "bing_en": 3710,
+        "google": 3820000
+    },
+    {
+        "baidu": 9850,
+        "author": "裴湘",
+        "rhythmic": "浪淘沙",
+        "so360": 907,
+        "bing": 1260,
+        "bing_en": 21800,
+        "google": 2560000
+    },
+    {
+        "baidu": 9850,
+        "author": "裴湘",
+        "rhythmic": "浪淘沙",
+        "so360": 907,
+        "bing": 1260,
+        "bing_en": 21800,
+        "google": 2560000
+    },
+    {
+        "baidu": 21300,
+        "author": "阮逸女",
+        "rhythmic": "花心动",
+        "so360": 2210,
+        "bing": 3550,
+        "bing_en": 22700,
+        "google": 1410000
+    },
+    {
+        "baidu": 4930,
+        "author": "滕甫",
+        "rhythmic": "蝶恋花",
+        "so360": 104,
+        "bing": 2510,
+        "bing_en": 21400,
+        "google": 1600000
+    },
+    {
+        "baidu": 4930,
+        "author": "滕甫",
+        "rhythmic": "蝶恋花",
+        "so360": 104,
+        "bing": 2510,
+        "bing_en": 21400,
+        "google": 1600000
+    },
+    {
+        "baidu": 1010000,
+        "author": "王安石",
+        "rhythmic": "桂枝香",
+        "so360": 147000,
+        "bing": 20100,
+        "bing_en": 31600,
+        "google": 341000
+    },
+    {
+        "baidu": 58900,
+        "author": "王安石",
+        "rhythmic": "甘露歌",
+        "so360": 8160,
+        "bing": 16800,
+        "bing_en": 23400,
+        "google": 76700
+    },
+    {
+        "baidu": 58900,
+        "author": "王安石",
+        "rhythmic": "甘露歌",
+        "so360": 8160,
+        "bing": 16800,
+        "bing_en": 23400,
+        "google": 76700
+    },
+    {
+        "baidu": 58900,
+        "author": "王安石",
+        "rhythmic": "甘露歌",
+        "so360": 8160,
+        "bing": 16800,
+        "bing_en": 23400,
+        "google": 76700
+    },
+    {
+        "baidu": 3300000,
+        "author": "王安石",
+        "rhythmic": "菩萨蛮",
+        "so360": 263000,
+        "bing": 374000,
+        "bing_en": 40300,
+        "google": 161000
+    },
+    {
+        "baidu": 2020000,
+        "author": "王安石",
+        "rhythmic": "渔家傲",
+        "so360": 256000,
+        "bing": 490000,
+        "bing_en": 40600,
+        "google": 199000
+    },
+    {
+        "baidu": 2020000,
+        "author": "王安石",
+        "rhythmic": "渔家傲",
+        "so360": 256000,
+        "bing": 490000,
+        "bing_en": 40600,
+        "google": 199000
+    },
+    {
+        "baidu": 1010000,
+        "author": "王安石",
+        "rhythmic": "雨霖铃",
+        "so360": 143000,
+        "bing": 19500,
+        "bing_en": 30200,
+        "google": 975000
+    },
+    {
+        "baidu": 2690000,
+        "author": "王安石",
+        "rhythmic": "清平乐",
+        "so360": 119000,
+        "bing": 373000,
+        "bing_en": 38700,
+        "google": 482000
+    },
+    {
+        "baidu": 3450000,
+        "author": "王安石",
+        "rhythmic": "浣溪沙",
+        "so360": 378000,
+        "bing": 373000,
+        "bing_en": 50000,
+        "google": 169000
+    },
+    {
+        "baidu": 825000,
+        "author": "王安石",
+        "rhythmic": "诉衷情",
+        "so360": 37900,
+        "bing": 19200,
+        "bing_en": 29900,
+        "google": 52400
+    },
+    {
+        "baidu": 825000,
+        "author": "王安石",
+        "rhythmic": "诉衷情",
+        "so360": 37900,
+        "bing": 19200,
+        "bing_en": 29900,
+        "google": 52400
+    },
+    {
+        "baidu": 825000,
+        "author": "王安石",
+        "rhythmic": "诉衷情",
+        "so360": 37900,
+        "bing": 19200,
+        "bing_en": 29900,
+        "google": 52400
+    },
+    {
+        "baidu": 825000,
+        "author": "王安石",
+        "rhythmic": "诉衷情",
+        "so360": 37900,
+        "bing": 19200,
+        "bing_en": 29900,
+        "google": 52400
+    },
+    {
+        "baidu": 825000,
+        "author": "王安石",
+        "rhythmic": "诉衷情",
+        "so360": 37900,
+        "bing": 19200,
+        "bing_en": 29900,
+        "google": 52400
+    },
+    {
+        "baidu": 1920000,
+        "author": "王安石",
+        "rhythmic": "南乡子",
+        "so360": 99900,
+        "bing": 25200,
+        "bing_en": 36600,
+        "google": 2020000
+    },
+    {
+        "baidu": 1920000,
+        "author": "王安石",
+        "rhythmic": "南乡子",
+        "so360": 99900,
+        "bing": 25200,
+        "bing_en": 36600,
+        "google": 2020000
+    },
+    {
+        "baidu": 630000,
+        "author": "王安石",
+        "rhythmic": "浪淘沙令",
+        "so360": 90000,
+        "bing": 18800,
+        "bing_en": 29600,
+        "google": 281000
+    },
+    {
+        "baidu": 7880,
+        "author": "王安石",
+        "rhythmic": "望江南・忆江南",
+        "so360": 7190,
+        "bing": 128000,
+        "bing_en": 159000,
+        "google": 377000
+    },
+    {
+        "baidu": 7880,
+        "author": "王安石",
+        "rhythmic": "望江南・忆江南",
+        "so360": 7190,
+        "bing": 128000,
+        "bing_en": 159000,
+        "google": 377000
+    },
+    {
+        "baidu": 7880,
+        "author": "王安石",
+        "rhythmic": "望江南・忆江南",
+        "so360": 7190,
+        "bing": 128000,
+        "bing_en": 159000,
+        "google": 377000
+    },
+    {
+        "baidu": 7880,
+        "author": "王安石",
+        "rhythmic": "望江南・忆江南",
+        "so360": 7190,
+        "bing": 128000,
+        "bing_en": 159000,
+        "google": 377000
+    },
+    {
+        "baidu": 2340000,
+        "author": "王安石",
+        "rhythmic": "西江月",
+        "so360": 225000,
+        "bing": 376000,
+        "bing_en": 38400,
+        "google": 604000
+    },
+    {
+        "baidu": 2020000,
+        "author": "王安石",
+        "rhythmic": "渔家傲",
+        "so360": 256000,
+        "bing": 490000,
+        "bing_en": 40600,
+        "google": 199000
+    },
+    {
+        "baidu": 2690000,
+        "author": "王安石",
+        "rhythmic": "清平乐",
+        "so360": 119000,
+        "bing": 373000,
+        "bing_en": 38700,
+        "google": 482000
+    },
+    {
+        "baidu": 1200000,
+        "author": "王安石",
+        "rhythmic": "生查子",
+        "so360": 86800,
+        "bing": 174000,
+        "bing_en": 54500,
+        "google": 4920000
+    },
+    {
+        "baidu": 512000,
+        "author": "王安石",
+        "rhythmic": "谒金门",
+        "so360": 15200,
+        "bing": 18200,
+        "bing_en": 26100,
+        "google": 38500
+    },
+    {
+        "baidu": 3300000,
+        "author": "王安石",
+        "rhythmic": "菩萨蛮",
+        "so360": 263000,
+        "bing": 374000,
+        "bing_en": 40300,
+        "google": 161000
+    },
+    {
+        "baidu": 111000,
+        "author": "王安石",
+        "rhythmic": "千秋岁引",
+        "so360": 14400,
+        "bing": 14300,
+        "bing_en": 23300,
+        "google": 335000
+    },
+    {
+        "baidu": 32900,
+        "author": "吴氏1",
+        "rhythmic": "定风波",
+        "so360": 581,
+        "bing": 1420000,
+        "bing_en": 894000,
+        "google": 3690000
+    },
+    {
+        "baidu": 5480,
+        "author": "吴师孟",
+        "rhythmic": "蜡梅香",
+        "so360": 77,
+        "bing": 1790,
+        "bing_en": 20800,
+        "google": 472
+    },
+    {
+        "baidu": 7990,
+        "author": "俞紫芝",
+        "rhythmic": "阮郎归",
+        "so360": 267,
+        "bing": 6070,
+        "bing_en": 21800,
+        "google": 74900
+    },
+    {
+        "baidu": 12600,
+        "author": "俞紫芝",
+        "rhythmic": "临江仙",
+        "so360": 291,
+        "bing": 2270,
+        "bing_en": 20400,
+        "google": 86400
+    },
+    {
+        "baidu": 78,
+        "author": "俞紫芝",
+        "rhythmic": "苏幕遮",
+        "so360": 164,
+        "bing": 2230,
+        "bing_en": 11600,
+        "google": 62300
+    },
+    {
+        "baidu": 3220,
+        "author": "郑獬",
+        "rhythmic": "失调名",
+        "so360": 50,
+        "bing": 1090,
+        "bing_en": 4590,
+        "google": 30000
+    },
+    {
+        "baidu": 14600,
+        "author": "郑獬",
+        "rhythmic": "好事近",
+        "so360": 442,
+        "bing": 4800,
+        "bing_en": 18000,
+        "google": 30700
+    },
+    {
+        "baidu": 14600,
+        "author": "郑獬",
+        "rhythmic": "好事近",
+        "so360": 442,
+        "bing": 4800,
+        "bing_en": 18000,
+        "google": 30700
+    },
+    {
+        "baidu": 46900,
+        "author": "强至",
+        "rhythmic": "渔家傲",
+        "so360": 218,
+        "bing": 15500000,
+        "bing_en": 31700,
+        "google": 1940000
+    },
+    {
+        "baidu": 95,
+        "author": "沈注",
+        "rhythmic": "踏莎行",
+        "so360": 952000,
+        "bing": 330000,
+        "bing_en": 9910,
+        "google": 4900000
+    },
+    {
+        "baidu": 7030,
+        "author": "蒲宗孟",
+        "rhythmic": "望梅花",
+        "so360": 281,
+        "bing": 11800,
+        "bing_en": 23700,
+        "google": 9680
+    },
+    {
+        "baidu": 3580,
+        "author": "陈汝羲",
+        "rhythmic": "减字木兰花",
+        "so360": 239,
+        "bing": 85300,
+        "bing_en": 21000,
+        "google": 2840
+    },
+    {
+        "baidu": 85,
+        "author": "汪辅之",
+        "rhythmic": "行香子",
+        "so360": 61,
+        "bing": 143000,
+        "bing_en": 30600,
+        "google": 1050
+    },
+    {
+        "baidu": 19700,
+        "author": "范纯仁",
+        "rhythmic": "鹧鸪天",
+        "so360": 1280,
+        "bing": 3780,
+        "bing_en": 4790,
+        "google": 52800
+    },
+    {
+        "baidu": 68,
+        "author": "张才翁",
+        "rhythmic": "雨中花・夜行船",
+        "so360": 29,
+        "bing": 17800,
+        "bing_en": 26500,
+        "google": 255
+    },
+    {
+        "baidu": 25700,
+        "author": "寿涯禅师",
+        "rhythmic": "渔家傲",
+        "so360": 86,
+        "bing": 31600,
+        "bing_en": 13200,
+        "google": 492000
+    },
+    {
+        "baidu": 4430000,
+        "author": "章",
+        "rhythmic": "水龙吟",
+        "so360": 249000,
+        "bing": 59700000,
+        "bing_en": 90900,
+        "google": 2670000
+    },
+    {
+        "baidu": 825000,
+        "author": "章",
+        "rhythmic": "声声令・胜胜令",
+        "so360": 7890,
+        "bing": 1740000,
+        "bing_en": 473000,
+        "google": 20200000
+    },
+    {
+        "baidu": 975,
+        "author": "徐积",
+        "rhythmic": "渔父乐・渔歌子",
+        "so360": 21600,
+        "bing": 12800,
+        "bing_en": 22000,
+        "google": 193000
+    },
+    {
+        "baidu": 975,
+        "author": "徐积",
+        "rhythmic": "渔父乐・渔歌子",
+        "so360": 21600,
+        "bing": 12800,
+        "bing_en": 22000,
+        "google": 193000
+    },
+    {
+        "baidu": 975,
+        "author": "徐积",
+        "rhythmic": "渔父乐・渔歌子",
+        "so360": 21600,
+        "bing": 12800,
+        "bing_en": 22000,
+        "google": 193000
+    },
+    {
+        "baidu": 975,
+        "author": "徐积",
+        "rhythmic": "渔父乐・渔歌子",
+        "so360": 21600,
+        "bing": 12800,
+        "bing_en": 22000,
+        "google": 193000
+    },
+    {
+        "baidu": 975,
+        "author": "徐积",
+        "rhythmic": "渔父乐・渔歌子",
+        "so360": 21600,
+        "bing": 12800,
+        "bing_en": 22000,
+        "google": 193000
+    },
+    {
+        "baidu": 975,
+        "author": "徐积",
+        "rhythmic": "渔父乐・渔歌子",
+        "so360": 21600,
+        "bing": 12800,
+        "bing_en": 22000,
+        "google": 193000
+    },
+    {
+        "baidu": 287,
+        "author": "沈括",
+        "rhythmic": "开元乐・三台",
+        "so360": 44,
+        "bing": 14800,
+        "bing_en": 32000,
+        "google": 37100
+    },
+    {
+        "baidu": 287,
+        "author": "沈括",
+        "rhythmic": "开元乐・三台",
+        "so360": 44,
+        "bing": 14800,
+        "bing_en": 32000,
+        "google": 37100
+    },
+    {
+        "baidu": 287,
+        "author": "沈括",
+        "rhythmic": "开元乐・三台",
+        "so360": 44,
+        "bing": 14800,
+        "bing_en": 32000,
+        "google": 37100
+    },
+    {
+        "baidu": 287,
+        "author": "沈括",
+        "rhythmic": "开元乐・三台",
+        "so360": 44,
+        "bing": 14800,
+        "bing_en": 32000,
+        "google": 37100
+    },
+    {
+        "baidu": 43,
+        "author": "范宽之",
+        "rhythmic": "失调名",
+        "so360": 23,
+        "bing": 28300,
+        "bing_en": 23000,
+        "google": 257000
+    },
+    {
+        "baidu": 18400,
+        "author": "方资",
+        "rhythmic": "黄鹤引",
+        "so360": 78,
+        "bing": 4570000,
+        "bing_en": 21300,
+        "google": 9560000
+    },
+    {
+        "baidu": 63300,
+        "author": "王安国",
+        "rhythmic": "点绛唇",
+        "so360": 4860,
+        "bing": 11200,
+        "bing_en": 21200,
+        "google": 207000
+    },
+    {
+        "baidu": 126000,
+        "author": "王安国",
+        "rhythmic": "清平乐",
+        "so360": 22600,
+        "bing": 12300,
+        "bing_en": 21800,
+        "google": 180000
+    },
+    {
+        "baidu": 68700,
+        "author": "王安国",
+        "rhythmic": "减字木兰花",
+        "so360": 8500,
+        "bing": 85100,
+        "bing_en": 21200,
+        "google": 231000
+    },
+    {
+        "baidu": 27000,
+        "author": "孙洙",
+        "rhythmic": "菩萨蛮",
+        "so360": 549,
+        "bing": 3670,
+        "bing_en": 13600,
+        "google": 33900
+    },
+    {
+        "baidu": 22300,
+        "author": "孙洙",
+        "rhythmic": "河满子",
+        "so360": 2230,
+        "bing": 1150000,
+        "bing_en": 25400,
+        "google": 1830000
+    },
+    {
+        "baidu": 69,
+        "author": "李清臣",
+        "rhythmic": "失调名",
+        "so360": 60,
+        "bing": 525,
+        "bing_en": 25000,
+        "google": 655
+    },
+    {
+        "baidu": 12900,
+        "author": "韦骧",
+        "rhythmic": "减字木兰花",
+        "so360": 963,
+        "bing": 4750,
+        "bing_en": 18700,
+        "google": 36000
+    },
+    {
+        "baidu": 12900,
+        "author": "韦骧",
+        "rhythmic": "减字木兰花",
+        "so360": 963,
+        "bing": 4750,
+        "bing_en": 18700,
+        "google": 36000
+    },
+    {
+        "baidu": 12900,
+        "author": "韦骧",
+        "rhythmic": "减字木兰花",
+        "so360": 963,
+        "bing": 4750,
+        "bing_en": 18700,
+        "google": 36000
+    },
+    {
+        "baidu": 12900,
+        "author": "韦骧",
+        "rhythmic": "减字木兰花",
+        "so360": 963,
+        "bing": 4750,
+        "bing_en": 18700,
+        "google": 36000
+    },
+    {
+        "baidu": 12900,
+        "author": "韦骧",
+        "rhythmic": "减字木兰花",
+        "so360": 963,
+        "bing": 4750,
+        "bing_en": 18700,
+        "google": 36000
+    },
+    {
+        "baidu": 23100,
+        "author": "韦骧",
+        "rhythmic": "菩萨蛮",
+        "so360": 1040,
+        "bing": 4510,
+        "bing_en": 12200,
+        "google": 25200
+    },
+    {
+        "baidu": 89,
+        "author": "韦骧",
+        "rhythmic": "鹊桥仙",
+        "so360": 117,
+        "bing": 2350,
+        "bing_en": 7630,
+        "google": 15200
+    },
+    {
+        "baidu": 12900,
+        "author": "韦骧",
+        "rhythmic": "减字木兰花",
+        "so360": 963,
+        "bing": 4750,
+        "bing_en": 18700,
+        "google": 36000
+    },
+    {
+        "baidu": 738,
+        "author": "韦骧",
+        "rhythmic": "洛阳春・一落萦",
+        "so360": 8,
+        "bing": 13400,
+        "bing_en": 21100,
+        "google": 32900
+    },
+    {
+        "baidu": 7990,
+        "author": "韦骧",
+        "rhythmic": "醉蓬莱",
+        "so360": 431,
+        "bing": 4750,
+        "bing_en": 20900,
+        "google": 327000
+    },
+    {
+        "baidu": 11700,
+        "author": "韦骧",
+        "rhythmic": "沁园春",
+        "so360": 419,
+        "bing": 3810,
+        "bing_en": 21200,
+        "google": 970000
+    },
+    {
+        "baidu": 44900,
+        "author": "圆禅师",
+        "rhythmic": "渔家傲",
+        "so360": 2050,
+        "bing": 361000,
+        "bing_en": 17200,
+        "google": 505000
+    },
+    {
+        "baidu": 93200,
+        "author": "则禅师",
+        "rhythmic": "满庭芳",
+        "so360": 85,
+        "bing": 12200,
+        "bing_en": 20900,
+        "google": 227000
+    },
+    {
+        "baidu": 6410,
+        "author": "陈偕",
+        "rhythmic": "八声甘州",
+        "so360": 114,
+        "bing": 1070,
+        "bing_en": 20800,
+        "google": 1840000
+    },
+    {
+        "baidu": 15400,
+        "author": "陈偕",
+        "rhythmic": "满庭芳",
+        "so360": 411,
+        "bing": 2970,
+        "bing_en": 21700,
+        "google": 684000
+    },
+    {
+        "baidu": 15400,
+        "author": "陈偕",
+        "rhythmic": "满庭芳",
+        "so360": 411,
+        "bing": 2970,
+        "bing_en": 21700,
+        "google": 684000
+    },
+    {
+        "baidu": 1980000,
+        "author": "晏几道",
+        "rhythmic": "临江仙",
+        "so360": 169000,
+        "bing": 31900,
+        "bing_en": 48300,
+        "google": 162000
+    },
+    {
+        "baidu": 1980000,
+        "author": "晏几道",
+        "rhythmic": "临江仙",
+        "so360": 169000,
+        "bing": 31900,
+        "bing_en": 48300,
+        "google": 162000
+    },
+    {
+        "baidu": 1980000,
+        "author": "晏几道",
+        "rhythmic": "临江仙",
+        "so360": 169000,
+        "bing": 31900,
+        "bing_en": 48300,
+        "google": 162000
+    },
+    {
+        "baidu": 1980000,
+        "author": "晏几道",
+        "rhythmic": "临江仙",
+        "so360": 169000,
+        "bing": 31900,
+        "bing_en": 48300,
+        "google": 162000
+    },
+    {
+        "baidu": 1980000,
+        "author": "晏几道",
+        "rhythmic": "临江仙",
+        "so360": 169000,
+        "bing": 31900,
+        "bing_en": 48300,
+        "google": 162000
+    },
+    {
+        "baidu": 1980000,
+        "author": "晏几道",
+        "rhythmic": "临江仙",
+        "so360": 169000,
+        "bing": 31900,
+        "bing_en": 48300,
+        "google": 162000
+    },
+    {
+        "baidu": 1980000,
+        "author": "晏几道",
+        "rhythmic": "临江仙",
+        "so360": 169000,
+        "bing": 31900,
+        "bing_en": 48300,
+        "google": 162000
+    },
+    {
+        "baidu": 1980000,
+        "author": "晏几道",
+        "rhythmic": "临江仙",
+        "so360": 169000,
+        "bing": 31900,
+        "bing_en": 48300,
+        "google": 162000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1970000,
+        "author": "晏几道",
+        "rhythmic": "蝶恋花",
+        "so360": 299000,
+        "bing": 29000,
+        "bing_en": 41900,
+        "google": 116000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 1930000,
+        "author": "晏几道",
+        "rhythmic": "鹧鸪天",
+        "so360": 302000,
+        "bing": 30000,
+        "bing_en": 46600,
+        "google": 161000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 867000,
+        "author": "晏几道",
+        "rhythmic": "生查子",
+        "so360": 99500,
+        "bing": 26700,
+        "bing_en": 38400,
+        "google": 344000
+    },
+    {
+        "baidu": 575000,
+        "author": "晏几道",
+        "rhythmic": "南乡子",
+        "so360": 34600,
+        "bing": 17700,
+        "bing_en": 27100,
+        "google": 154000
+    },
+    {
+        "baidu": 575000,
+        "author": "晏几道",
+        "rhythmic": "南乡子",
+        "so360": 34600,
+        "bing": 17700,
+        "bing_en": 27100,
+        "google": 154000
+    },
+    {
+        "baidu": 575000,
+        "author": "晏几道",
+        "rhythmic": "南乡子",
+        "so360": 34600,
+        "bing": 17700,
+        "bing_en": 27100,
+        "google": 154000
+    },
+    {
+        "baidu": 575000,
+        "author": "晏几道",
+        "rhythmic": "南乡子",
+        "so360": 34600,
+        "bing": 17700,
+        "bing_en": 27100,
+        "google": 154000
+    },
+    {
+        "baidu": 575000,
+        "author": "晏几道",
+        "rhythmic": "南乡子",
+        "so360": 34600,
+        "bing": 17700,
+        "bing_en": 27100,
+        "google": 154000
+    },
+    {
+        "baidu": 575000,
+        "author": "晏几道",
+        "rhythmic": "南乡子",
+        "so360": 34600,
+        "bing": 17700,
+        "bing_en": 27100,
+        "google": 154000
+    },
+    {
+        "baidu": 575000,
+        "author": "晏几道",
+        "rhythmic": "南乡子",
+        "so360": 34600,
+        "bing": 17700,
+        "bing_en": 27100,
+        "google": 154000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 1080000,
+        "author": "晏几道",
+        "rhythmic": "清平乐",
+        "so360": 135000,
+        "bing": 22100,
+        "bing_en": 35200,
+        "google": 111000
+    },
+    {
+        "baidu": 14800,
+        "author": "晏几道",
+        "rhythmic": "木兰花・玉楼春",
+        "so360": 21000,
+        "bing": 27400,
+        "bing_en": 55800,
+        "google": 101000
+    },
+    {
+        "baidu": 14800,
+        "author": "晏几道",
+        "rhythmic": "木兰花・玉楼春",
+        "so360": 21000,
+        "bing": 27400,
+        "bing_en": 55800,
+        "google": 101000
+    },
+    {
+        "baidu": 14800,
+        "author": "晏几道",
+        "rhythmic": "木兰花・玉楼春",
+        "so360": 21000,
+        "bing": 27400,
+        "bing_en": 55800,
+        "google": 101000
+    },
+    {
+        "baidu": 14800,
+        "author": "晏几道",
+        "rhythmic": "木兰花・玉楼春",
+        "so360": 21000,
+        "bing": 27400,
+        "bing_en": 55800,
+        "google": 101000
+    },
+    {
+        "baidu": 14800,
+        "author": "晏几道",
+        "rhythmic": "木兰花・玉楼春",
+        "so360": 21000,
+        "bing": 27400,
+        "bing_en": 55800,
+        "google": 101000
+    },
+    {
+        "baidu": 14800,
+        "author": "晏几道",
+        "rhythmic": "木兰花・玉楼春",
+        "so360": 21000,
+        "bing": 27400,
+        "bing_en": 55800,
+        "google": 101000
+    },
+    {
+        "baidu": 14800,
+        "author": "晏几道",
+        "rhythmic": "木兰花・玉楼春",
+        "so360": 21000,
+        "bing": 27400,
+        "bing_en": 55800,
+        "google": 101000
+    },
+    {
+        "baidu": 14800,
+        "author": "晏几道",
+        "rhythmic": "木兰花・玉楼春",
+        "so360": 21000,
+        "bing": 27400,
+        "bing_en": 55800,
+        "google": 101000
+    },
+    {
+        "baidu": 392000,
+        "author": "晏几道",
+        "rhythmic": "减字木兰花",
+        "so360": 22000,
+        "bing": 34900,
+        "bing_en": 26800,
+        "google": 164000
+    },
+    {
+        "baidu": 392000,
+        "author": "晏几道",
+        "rhythmic": "减字木兰花",
+        "so360": 22000,
+        "bing": 34900,
+        "bing_en": 26800,
+        "google": 164000
+    },
+    {
+        "baidu": 392000,
+        "author": "晏几道",
+        "rhythmic": "减字木兰花",
+        "so360": 22000,
+        "bing": 34900,
+        "bing_en": 26800,
+        "google": 164000
+    },
+    {
+        "baidu": 35400,
+        "author": "晏几道",
+        "rhythmic": "泛清波摘遍",
+        "so360": 373,
+        "bing": 80400,
+        "bing_en": 21700,
+        "google": 79400
+    },
+    {
+        "baidu": 195000,
+        "author": "晏几道",
+        "rhythmic": "洞仙歌",
+        "so360": 10800,
+        "bing": 405000,
+        "bing_en": 25100,
+        "google": 194000
+    },
+    {
+        "baidu": 1300000,
+        "author": "晏几道",
+        "rhythmic": "菩萨蛮",
+        "so360": 153000,
+        "bing": 22400,
+        "bing_en": 34500,
+        "google": 101000
+    },
+    {
+        "baidu": 1300000,
+        "author": "晏几道",
+        "rhythmic": "菩萨蛮",
+        "so360": 153000,
+        "bing": 22400,
+        "bing_en": 34500,
+        "google": 101000
+    },
+    {
+        "baidu": 1300000,
+        "author": "晏几道",
+        "rhythmic": "菩萨蛮",
+        "so360": 153000,
+        "bing": 22400,
+        "bing_en": 34500,
+        "google": 101000
+    },
+    {
+        "baidu": 1300000,
+        "author": "晏几道",
+        "rhythmic": "菩萨蛮",
+        "so360": 153000,
+        "bing": 22400,
+        "bing_en": 34500,
+        "google": 101000
+    },
+    {
+        "baidu": 1300000,
+        "author": "晏几道",
+        "rhythmic": "菩萨蛮",
+        "so360": 153000,
+        "bing": 22400,
+        "bing_en": 34500,
+        "google": 101000
+    },
+    {
+        "baidu": 1300000,
+        "author": "晏几道",
+        "rhythmic": "菩萨蛮",
+        "so360": 153000,
+        "bing": 22400,
+        "bing_en": 34500,
+        "google": 101000
+    },
+    {
+        "baidu": 1300000,
+        "author": "晏几道",
+        "rhythmic": "菩萨蛮",
+        "so360": 153000,
+        "bing": 22400,
+        "bing_en": 34500,
+        "google": 101000
+    },
+    {
+        "baidu": 1300000,
+        "author": "晏几道",
+        "rhythmic": "菩萨蛮",
+        "so360": 153000,
+        "bing": 22400,
+        "bing_en": 34500,
+        "google": 101000
+    },
+    {
+        "baidu": 1300000,
+        "author": "晏几道",
+        "rhythmic": "菩萨蛮",
+        "so360": 153000,
+        "bing": 22400,
+        "bing_en": 34500,
+        "google": 101000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 1060000,
+        "author": "晏几道",
+        "rhythmic": "玉楼春",
+        "so360": 155000,
+        "bing": 804000,
+        "bing_en": 53400,
+        "google": 279000
+    },
+    {
+        "baidu": 400000,
+        "author": "晏几道",
+        "rhythmic": "阮郎归",
+        "so360": 50700,
+        "bing": 17200,
+        "bing_en": 25500,
+        "google": 38100
+    },
+    {
+        "baidu": 400000,
+        "author": "晏几道",
+        "rhythmic": "阮郎归",
+        "so360": 50700,
+        "bing": 17200,
+        "bing_en": 25500,
+        "google": 38100
+    },
+    {
+        "baidu": 400000,
+        "author": "晏几道",
+        "rhythmic": "阮郎归",
+        "so360": 50700,
+        "bing": 17200,
+        "bing_en": 25500,
+        "google": 38100
+    },
+    {
+        "baidu": 400000,
+        "author": "晏几道",
+        "rhythmic": "阮郎归",
+        "so360": 50700,
+        "bing": 17200,
+        "bing_en": 25500,
+        "google": 38100
+    },
+    {
+        "baidu": 400000,
+        "author": "晏几道",
+        "rhythmic": "阮郎归",
+        "so360": 50700,
+        "bing": 17200,
+        "bing_en": 25500,
+        "google": 38100
+    },
+    {
+        "baidu": 65000,
+        "author": "晏几道",
+        "rhythmic": "归田乐",
+        "so360": 1410,
+        "bing": 12500,
+        "bing_en": 21300,
+        "google": 9110
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 1740000,
+        "author": "晏几道",
+        "rhythmic": "浣溪沙",
+        "so360": 252000,
+        "bing": 29000,
+        "bing_en": 42100,
+        "google": 137000
+    },
+    {
+        "baidu": 67500,
+        "author": "晏几道",
+        "rhythmic": "六么令",
+        "so360": 5050,
+        "bing": 256000,
+        "bing_en": 20100,
+        "google": 1080000
+    },
+    {
+        "baidu": 67500,
+        "author": "晏几道",
+        "rhythmic": "六么令",
+        "so360": 5050,
+        "bing": 256000,
+        "bing_en": 20100,
+        "google": 1080000
+    },
+    {
+        "baidu": 67500,
+        "author": "晏几道",
+        "rhythmic": "六么令",
+        "so360": 5050,
+        "bing": 256000,
+        "bing_en": 20100,
+        "google": 1080000
+    },
+    {
+        "baidu": 469000,
+        "author": "晏几道",
+        "rhythmic": "更漏子",
+        "so360": 477,
+        "bing": 15100,
+        "bing_en": 24400,
+        "google": 130000
+    },
+    {
+        "baidu": 469000,
+        "author": "晏几道",
+        "rhythmic": "更漏子",
+        "so360": 477,
+        "bing": 15100,
+        "bing_en": 24400,
+        "google": 130000
+    },
+    {
+        "baidu": 469000,
+        "author": "晏几道",
+        "rhythmic": "更漏子",
+        "so360": 477,
+        "bing": 15100,
+        "bing_en": 24400,
+        "google": 130000
+    },
+    {
+        "baidu": 469000,
+        "author": "晏几道",
+        "rhythmic": "更漏子",
+        "so360": 477,
+        "bing": 15100,
+        "bing_en": 24400,
+        "google": 130000
+    },
+    {
+        "baidu": 469000,
+        "author": "晏几道",
+        "rhythmic": "更漏子",
+        "so360": 477,
+        "bing": 15100,
+        "bing_en": 24400,
+        "google": 130000
+    },
+    {
+        "baidu": 469000,
+        "author": "晏几道",
+        "rhythmic": "更漏子",
+        "so360": 477,
+        "bing": 15100,
+        "bing_en": 24400,
+        "google": 130000
+    },
+    {
+        "baidu": 43900,
+        "author": "晏几道",
+        "rhythmic": "河满子",
+        "so360": 2430,
+        "bing": 590000,
+        "bing_en": 32600,
+        "google": 356000
+    },
+    {
+        "baidu": 43900,
+        "author": "晏几道",
+        "rhythmic": "河满子",
+        "so360": 2430,
+        "bing": 590000,
+        "bing_en": 32600,
+        "google": 356000
+    },
+    {
+        "baidu": 11000,
+        "author": "晏几道",
+        "rhythmic": "于飞乐",
+        "so360": 58,
+        "bing": 1180000,
+        "bing_en": 47400,
+        "google": 188000
+    },
+    {
+        "baidu": 1310,
+        "author": "晏几道",
+        "rhythmic": "愁倚阑令・春光好",
+        "so360": 110,
+        "bing": 16300,
+        "bing_en": 23700,
+        "google": 44200
+    },
+    {
+        "baidu": 1310,
+        "author": "晏几道",
+        "rhythmic": "愁倚阑令・春光好",
+        "so360": 110,
+        "bing": 16300,
+        "bing_en": 23700,
+        "google": 44200
+    },
+    {
+        "baidu": 1310,
+        "author": "晏几道",
+        "rhythmic": "愁倚阑令・春光好",
+        "so360": 110,
+        "bing": 16300,
+        "bing_en": 23700,
+        "google": 44200
+    },
+    {
+        "baidu": 256000,
+        "author": "晏几道",
+        "rhythmic": "御街行",
+        "so360": 17800,
+        "bing": 284000,
+        "bing_en": 16000,
+        "google": 107000
+    },
+    {
+        "baidu": 256000,
+        "author": "晏几道",
+        "rhythmic": "御街行",
+        "so360": 17800,
+        "bing": 284000,
+        "bing_en": 16000,
+        "google": 107000
+    },
+    {
+        "baidu": 906000,
+        "author": "晏几道",
+        "rhythmic": "浪淘沙",
+        "so360": 77800,
+        "bing": 18900,
+        "bing_en": 28800,
+        "google": 84600
+    },
+    {
+        "baidu": 906000,
+        "author": "晏几道",
+        "rhythmic": "浪淘沙",
+        "so360": 77800,
+        "bing": 18900,
+        "bing_en": 28800,
+        "google": 84600
+    },
+    {
+        "baidu": 906000,
+        "author": "晏几道",
+        "rhythmic": "浪淘沙",
+        "so360": 77800,
+        "bing": 18900,
+        "bing_en": 28800,
+        "google": 84600
+    },
+    {
+        "baidu": 906000,
+        "author": "晏几道",
+        "rhythmic": "浪淘沙",
+        "so360": 77800,
+        "bing": 18900,
+        "bing_en": 28800,
+        "google": 84600
+    },
+    {
+        "baidu": 9570,
+        "author": "晏几道",
+        "rhythmic": "丑奴儿・采桑子",
+        "so360": 5430,
+        "bing": 14900,
+        "bing_en": 21700,
+        "google": 39000
+    },
+    {
+        "baidu": 9570,
+        "author": "晏几道",
+        "rhythmic": "丑奴儿・采桑子",
+        "so360": 5430,
+        "bing": 14900,
+        "bing_en": 21700,
+        "google": 39000
+    },
+    {
+        "baidu": 683000,
+        "author": "晏几道",
+        "rhythmic": "诉衷情",
+        "so360": 57200,
+        "bing": 17300,
+        "bing_en": 26700,
+        "google": 62800
+    },
+    {
+        "baidu": 683000,
+        "author": "晏几道",
+        "rhythmic": "诉衷情",
+        "so360": 57200,
+        "bing": 17300,
+        "bing_en": 26700,
+        "google": 62800
+    },
+    {
+        "baidu": 683000,
+        "author": "晏几道",
+        "rhythmic": "诉衷情",
+        "so360": 57200,
+        "bing": 17300,
+        "bing_en": 26700,
+        "google": 62800
+    },
+    {
+        "baidu": 683000,
+        "author": "晏几道",
+        "rhythmic": "诉衷情",
+        "so360": 57200,
+        "bing": 17300,
+        "bing_en": 26700,
+        "google": 62800
+    },
+    {
+        "baidu": 683000,
+        "author": "晏几道",
+        "rhythmic": "诉衷情",
+        "so360": 57200,
+        "bing": 17300,
+        "bing_en": 26700,
+        "google": 62800
+    },
+    {
+        "baidu": 683000,
+        "author": "晏几道",
+        "rhythmic": "诉衷情",
+        "so360": 57200,
+        "bing": 17300,
+        "bing_en": 26700,
+        "google": 62800
+    },
+    {
+        "baidu": 683000,
+        "author": "晏几道",
+        "rhythmic": "诉衷情",
+        "so360": 57200,
+        "bing": 17300,
+        "bing_en": 26700,
+        "google": 62800
+    },
+    {
+        "baidu": 683000,
+        "author": "晏几道",
+        "rhythmic": "诉衷情",
+        "so360": 57200,
+        "bing": 17300,
+        "bing_en": 26700,
+        "google": 62800
+    },
+    {
+        "baidu": 423000,
+        "author": "晏几道",
+        "rhythmic": "破阵子",
+        "so360": 29700,
+        "bing": 22500,
+        "bing_en": 33100,
+        "google": 33400
+    },
+    {
+        "baidu": 99,
+        "author": "晏几道",
+        "rhythmic": "好女儿",
+        "so360": 15700,
+        "bing": 97000,
+        "bing_en": 7370,
+        "google": 468000
+    },
+    {
+        "baidu": 99,
+        "author": "晏几道",
+        "rhythmic": "好女儿",
+        "so360": 15700,
+        "bing": 97000,
+        "bing_en": 7370,
+        "google": 468000
+    },
+    {
+        "baidu": 624000,
+        "author": "晏几道",
+        "rhythmic": "点绛唇",
+        "so360": 36000,
+        "bing": 177000,
+        "bing_en": 28100,
+        "google": 205000
+    },
+    {
+        "baidu": 624000,
+        "author": "晏几道",
+        "rhythmic": "点绛唇",
+        "so360": 36000,
+        "bing": 177000,
+        "bing_en": 28100,
+        "google": 205000
+    },
+    {
+        "baidu": 624000,
+        "author": "晏几道",
+        "rhythmic": "点绛唇",
+        "so360": 36000,
+        "bing": 177000,
+        "bing_en": 28100,
+        "google": 205000
+    },
+    {
+        "baidu": 624000,
+        "author": "晏几道",
+        "rhythmic": "点绛唇",
+        "so360": 36000,
+        "bing": 177000,
+        "bing_en": 28100,
+        "google": 205000
+    },
+    {
+        "baidu": 624000,
+        "author": "晏几道",
+        "rhythmic": "点绛唇",
+        "so360": 36000,
+        "bing": 177000,
+        "bing_en": 28100,
+        "google": 205000
+    },
+    {
+        "baidu": 263000,
+        "author": "晏几道",
+        "rhythmic": "两同心",
+        "so360": 1390,
+        "bing": 283000,
+        "bing_en": 24500,
+        "google": 52000
+    },
+    {
+        "baidu": 450000,
+        "author": "晏几道",
+        "rhythmic": "少年游",
+        "so360": 28300,
+        "bing": 28400,
+        "bing_en": 40600,
+        "google": 96700
+    },
+    {
+        "baidu": 450000,
+        "author": "晏几道",
+        "rhythmic": "少年游",
+        "so360": 28300,
+        "bing": 28400,
+        "bing_en": 40600,
+        "google": 96700
+    },
+    {
+        "baidu": 450000,
+        "author": "晏几道",
+        "rhythmic": "少年游",
+        "so360": 28300,
+        "bing": 28400,
+        "bing_en": 40600,
+        "google": 96700
+    },
+    {
+        "baidu": 450000,
+        "author": "晏几道",
+        "rhythmic": "少年游",
+        "so360": 28300,
+        "bing": 28400,
+        "bing_en": 40600,
+        "google": 96700
+    },
+    {
+        "baidu": 450000,
+        "author": "晏几道",
+        "rhythmic": "少年游",
+        "so360": 28300,
+        "bing": 28400,
+        "bing_en": 40600,
+        "google": 96700
+    },
+    {
+        "baidu": 1250000,
+        "author": "晏几道",
+        "rhythmic": "虞美人",
+        "so360": 161000,
+        "bing": 22000,
+        "bing_en": 33400,
+        "google": 123000
+    },
+    {
+        "baidu": 1250000,
+        "author": "晏几道",
+        "rhythmic": "虞美人",
+        "so360": 161000,
+        "bing": 22000,
+        "bing_en": 33400,
+        "google": 123000
+    },
+    {
+        "baidu": 1250000,
+        "author": "晏几道",
+        "rhythmic": "虞美人",
+        "so360": 161000,
+        "bing": 22000,
+        "bing_en": 33400,
+        "google": 123000
+    },
+    {
+        "baidu": 1250000,
+        "author": "晏几道",
+        "rhythmic": "虞美人",
+        "so360": 161000,
+        "bing": 22000,
+        "bing_en": 33400,
+        "google": 123000
+    },
+    {
+        "baidu": 1250000,
+        "author": "晏几道",
+        "rhythmic": "虞美人",
+        "so360": 161000,
+        "bing": 22000,
+        "bing_en": 33400,
+        "google": 123000
+    },
+    {
+        "baidu": 1250000,
+        "author": "晏几道",
+        "rhythmic": "虞美人",
+        "so360": 161000,
+        "bing": 22000,
+        "bing_en": 33400,
+        "google": 123000
+    },
+    {
+        "baidu": 1250000,
+        "author": "晏几道",
+        "rhythmic": "虞美人",
+        "so360": 161000,
+        "bing": 22000,
+        "bing_en": 33400,
+        "google": 123000
+    },
+    {
+        "baidu": 1250000,
+        "author": "晏几道",
+        "rhythmic": "虞美人",
+        "so360": 161000,
+        "bing": 22000,
+        "bing_en": 33400,
+        "google": 123000
+    },
+    {
+        "baidu": 1250000,
+        "author": "晏几道",
+        "rhythmic": "虞美人",
+        "so360": 161000,
+        "bing": 22000,
+        "bing_en": 33400,
+        "google": 123000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 869000,
+        "author": "晏几道",
+        "rhythmic": "采桑子",
+        "so360": 99100,
+        "bing": 21800,
+        "bing_en": 35200,
+        "google": 202000
+    },
+    {
+        "baidu": 902000,
+        "author": "晏几道",
+        "rhythmic": "踏莎行",
+        "so360": 74200,
+        "bing": 7620000,
+        "bing_en": 29400,
+        "google": 220000
+    },
+    {
+        "baidu": 902000,
+        "author": "晏几道",
+        "rhythmic": "踏莎行",
+        "so360": 74200,
+        "bing": 7620000,
+        "bing_en": 29400,
+        "google": 220000
+    },
+    {
+        "baidu": 902000,
+        "author": "晏几道",
+        "rhythmic": "踏莎行",
+        "so360": 74200,
+        "bing": 7620000,
+        "bing_en": 29400,
+        "google": 220000
+    },
+    {
+        "baidu": 902000,
+        "author": "晏几道",
+        "rhythmic": "踏莎行",
+        "so360": 74200,
+        "bing": 7620000,
+        "bing_en": 29400,
+        "google": 220000
+    },
+    {
+        "baidu": 620000,
+        "author": "晏几道",
+        "rhythmic": "满庭芳",
+        "so360": 33200,
+        "bing": 18100,
+        "bing_en": 27400,
+        "google": 121000
+    },
+    {
+        "baidu": 70700,
+        "author": "晏几道",
+        "rhythmic": "留春令",
+        "so360": 5200,
+        "bing": 12300,
+        "bing_en": 18900,
+        "google": 33300
+    },
+    {
+        "baidu": 70700,
+        "author": "晏几道",
+        "rhythmic": "留春令",
+        "so360": 5200,
+        "bing": 12300,
+        "bing_en": 18900,
+        "google": 33300
+    },
+    {
+        "baidu": 70700,
+        "author": "晏几道",
+        "rhythmic": "留春令",
+        "so360": 5200,
+        "bing": 12300,
+        "bing_en": 18900,
+        "google": 33300
+    },
+    {
+        "baidu": 204000,
+        "author": "晏几道",
+        "rhythmic": "风入松",
+        "so360": 13200,
+        "bing": 3790000,
+        "bing_en": 33700,
+        "google": 366000
+    },
+    {
+        "baidu": 204000,
+        "author": "晏几道",
+        "rhythmic": "风入松",
+        "so360": 13200,
+        "bing": 3790000,
+        "bing_en": 33700,
+        "google": 366000
+    },
+    {
+        "baidu": 44700,
+        "author": "晏几道",
+        "rhythmic": "清商怨",
+        "so360": 1810,
+        "bing": 3040000,
+        "bing_en": 31100,
+        "google": 160000
+    },
+    {
+        "baidu": 108000,
+        "author": "晏几道",
+        "rhythmic": "秋蕊香",
+        "so360": 337,
+        "bing": 17300,
+        "bing_en": 26600,
+        "google": 180000
+    },
+    {
+        "baidu": 108000,
+        "author": "晏几道",
+        "rhythmic": "秋蕊香",
+        "so360": 337,
+        "bing": 17300,
+        "bing_en": 26600,
+        "google": 180000
+    },
+    {
+        "baidu": 156000,
+        "author": "晏几道",
+        "rhythmic": "思远人",
+        "so360": 29300,
+        "bing": 14100,
+        "bing_en": 23000,
+        "google": 169000
+    },
+    {
+        "baidu": 17100,
+        "author": "晏几道",
+        "rhythmic": "碧牡丹",
+        "so360": 975,
+        "bing": 884000,
+        "bing_en": 24200,
+        "google": 130000
+    },
+    {
+        "baidu": 1020000,
+        "author": "晏几道",
+        "rhythmic": "长相思",
+        "so360": 82700,
+        "bing": 34000,
+        "bing_en": 47300,
+        "google": 327000
+    },
+    {
+        "baidu": 1000,
+        "author": "晏几道",
+        "rhythmic": "醉落魄・一斛珠",
+        "so360": 446,
+        "bing": 13300,
+        "bing_en": 22300,
+        "google": 14200
+    },
+    {
+        "baidu": 1000,
+        "author": "晏几道",
+        "rhythmic": "醉落魄・一斛珠",
+        "so360": 446,
+        "bing": 13300,
+        "bing_en": 22300,
+        "google": 14200
+    },
+    {
+        "baidu": 1000,
+        "author": "晏几道",
+        "rhythmic": "醉落魄・一斛珠",
+        "so360": 446,
+        "bing": 13300,
+        "bing_en": 22300,
+        "google": 14200
+    },
+    {
+        "baidu": 1000,
+        "author": "晏几道",
+        "rhythmic": "醉落魄・一斛珠",
+        "so360": 446,
+        "bing": 13300,
+        "bing_en": 22300,
+        "google": 14200
+    },
+    {
+        "baidu": 21,
+        "author": "晏几道",
+        "rhythmic": "望仙楼・胡捣练",
+        "so360": 34,
+        "bing": 13900,
+        "bing_en": 21200,
+        "google": 20900
+    },
+    {
+        "baidu": 18500,
+        "author": "晏几道",
+        "rhythmic": "凤孤飞",
+        "so360": 332,
+        "bing": 1200000,
+        "bing_en": 26400,
+        "google": 273000
+    },
+    {
+        "baidu": 946000,
+        "author": "晏几道",
+        "rhythmic": "西江月",
+        "so360": 66400,
+        "bing": 19900,
+        "bing_en": 29900,
+        "google": 80500
+    },
+    {
+        "baidu": 946000,
+        "author": "晏几道",
+        "rhythmic": "西江月",
+        "so360": 66400,
+        "bing": 19900,
+        "bing_en": 29900,
+        "google": 80500
+    },
+    {
+        "baidu": 221000,
+        "author": "晏几道",
+        "rhythmic": "武陵春",
+        "so360": 17100,
+        "bing": 297000,
+        "bing_en": 24800,
+        "google": 109000
+    },
+    {
+        "baidu": 221000,
+        "author": "晏几道",
+        "rhythmic": "武陵春",
+        "so360": 17100,
+        "bing": 297000,
+        "bing_en": 24800,
+        "google": 109000
+    },
+    {
+        "baidu": 221000,
+        "author": "晏几道",
+        "rhythmic": "武陵春",
+        "so360": 17100,
+        "bing": 297000,
+        "bing_en": 24800,
+        "google": 109000
+    },
+    {
+        "baidu": 29400,
+        "author": "晏几道",
+        "rhythmic": "解佩令",
+        "so360": 1080,
+        "bing": 145000,
+        "bing_en": 24500,
+        "google": 11400
+    },
+    {
+        "baidu": 196000,
+        "author": "晏几道",
+        "rhythmic": "行香子",
+        "so360": 15700,
+        "bing": 41000,
+        "bing_en": 54800,
+        "google": 66100
+    },
+    {
+        "baidu": 8510,
+        "author": "晏几道",
+        "rhythmic": "庆春时",
+        "so360": 304,
+        "bing": 513000,
+        "bing_en": 31100,
+        "google": 175000
+    },
+    {
+        "baidu": 8510,
+        "author": "晏几道",
+        "rhythmic": "庆春时",
+        "so360": 304,
+        "bing": 513000,
+        "bing_en": 31100,
+        "google": 175000
+    },
+    {
+        "baidu": 9960,
+        "author": "晏几道",
+        "rhythmic": "喜团圆",
+        "so360": 276,
+        "bing": 129000,
+        "bing_en": 22500,
+        "google": 59200
+    },
+    {
+        "baidu": 8820,
+        "author": "晏几道",
+        "rhythmic": "忆闷令",
+        "so360": 233,
+        "bing": 12900,
+        "bing_en": 21500,
+        "google": 60300
+    },
+    {
+        "baidu": 24100,
+        "author": "晏几道",
+        "rhythmic": "梁州令",
+        "so360": 6650,
+        "bing": 534000,
+        "bing_en": 29500,
+        "google": 7430
+    },
+    {
+        "baidu": 72800,
+        "author": "晏几道",
+        "rhythmic": "燕归梁",
+        "so360": 2300,
+        "bing": 180000,
+        "bing_en": 29000,
+        "google": 216000
+    },
+    {
+        "baidu": 11600,
+        "author": "晏几道",
+        "rhythmic": "胡捣练",
+        "so360": 99,
+        "bing": 100000,
+        "bing_en": 21400,
+        "google": 39300
+    },
+    {
+        "baidu": 11700,
+        "author": "晏几道",
+        "rhythmic": "扑蝴蝶",
+        "so360": 270,
+        "bing": 923000,
+        "bing_en": 22100,
+        "google": 75000
+    },
+    {
+        "baidu": 9570,
+        "author": "晏几道",
+        "rhythmic": "丑奴儿・采桑子",
+        "so360": 5430,
+        "bing": 14900,
+        "bing_en": 21700,
+        "google": 39000
+    },
+    {
+        "baidu": 287000,
+        "author": "晏几道",
+        "rhythmic": "谒金门",
+        "so360": 13300,
+        "bing": 309000,
+        "bing_en": 23000,
+        "google": 28100
+    },
+    {
+        "baidu": 4480,
+        "author": "王观",
+        "rhythmic": "忆黄梅",
+        "so360": 182,
+        "bing": 17500,
+        "bing_en": 24400,
+        "google": 1300000
+    },
+    {
+        "baidu": 163000,
+        "author": "王观",
+        "rhythmic": "浪淘沙",
+        "so360": 11600,
+        "bing": 33700,
+        "bing_en": 48600,
+        "google": 4270000
+    },
+    {
+        "baidu": 40800,
+        "author": "王观",
+        "rhythmic": "天香",
+        "so360": 1830,
+        "bing": 80,
+        "bing_en": 40700,
+        "google": 3500000
+    },
+    {
+        "baidu": 1320000,
+        "author": "王观",
+        "rhythmic": "卜算子",
+        "so360": 123000,
+        "bing": 41900,
+        "bing_en": 61500,
+        "google": 1380000
+    },
+    {
+        "baidu": 272000,
+        "author": "王观",
+        "rhythmic": "清平乐",
+        "so360": 22100,
+        "bing": 9720000,
+        "bing_en": 48000,
+        "google": 1990000
+    },
+    {
+        "baidu": 10100,
+        "author": "王观",
+        "rhythmic": "雨中花令",
+        "so360": 290,
+        "bing": 3710000,
+        "bing_en": 353000,
+        "google": 5310000
+    },
+    {
+        "baidu": 822,
+        "author": "王观",
+        "rhythmic": "庆清朝慢・庆清朝",
+        "so360": 305,
+        "bing": 34000,
+        "bing_en": 107000,
+        "google": 14700000
+    },
+    {
+        "baidu": 272000,
+        "author": "王观",
+        "rhythmic": "清平乐",
+        "so360": 22100,
+        "bing": 9720000,
+        "bing_en": 48000,
+        "google": 1990000
+    },
+    {
+        "baidu": 79900,
+        "author": "王观",
+        "rhythmic": "木兰花令",
+        "so360": 1750,
+        "bing": 3390000,
+        "bing_en": 39300,
+        "google": 6090000
+    },
+    {
+        "baidu": 94100,
+        "author": "王观",
+        "rhythmic": "生查子",
+        "so360": 7770,
+        "bing": 9720000,
+        "bing_en": 629000,
+        "google": 66500000
+    },
+    {
+        "baidu": 182000,
+        "author": "王观",
+        "rhythmic": "菩萨蛮",
+        "so360": 14800,
+        "bing": 9720000,
+        "bing_en": 48000,
+        "google": 3600000
+    },
+    {
+        "baidu": 9860,
+        "author": "王观",
+        "rhythmic": "江城梅花引",
+        "so360": 631,
+        "bing": 41000,
+        "bing_en": 22000,
+        "google": 1490000
+    },
+    {
+        "baidu": 46900,
+        "author": "王观",
+        "rhythmic": "高阳台",
+        "so360": 2010,
+        "bing": 127000,
+        "bing_en": 149000,
+        "google": 8940000
+    },
+    {
+        "baidu": 76900,
+        "author": "王观",
+        "rhythmic": "减字木兰花",
+        "so360": 5200,
+        "bing": 336000,
+        "bing_en": 33700,
+        "google": 2590000
+    },
+    {
+        "baidu": 17100,
+        "author": "王观",
+        "rhythmic": "红芍药",
+        "so360": 1790,
+        "bing": 9720000,
+        "bing_en": 34600,
+        "google": 4350000
+    },
+    {
+        "baidu": 6660,
+        "author": "王观",
+        "rhythmic": "失调名",
+        "so360": 112,
+        "bing": 9700000,
+        "bing_en": 34500,
+        "google": 3200000
+    },
+    {
+        "baidu": 158000,
+        "author": "王观",
+        "rhythmic": "临江仙",
+        "so360": 13600,
+        "bing": 43400,
+        "bing_en": 57700,
+        "google": 12500000
+    },
+    {
+        "baidu": 5730,
+        "author": "王安礼",
+        "rhythmic": "万年欢",
+        "so360": 182,
+        "bing": 4730,
+        "bing_en": 27700,
+        "google": 42800
+    },
+    {
+        "baidu": 3560,
+        "author": "王安礼",
+        "rhythmic": "潇湘忆故人慢",
+        "so360": 29,
+        "bing": 15100,
+        "bing_en": 21100,
+        "google": 5510
+    },
+    {
+        "baidu": 94,
+        "author": "王安礼",
+        "rhythmic": "点绛唇",
+        "so360": 133,
+        "bing": 5760,
+        "bing_en": 24000,
+        "google": 14700
+    },
+    {
+        "baidu": 2340,
+        "author": "张舜民",
+        "rhythmic": "江神子・江城子",
+        "so360": 459,
+        "bing": 22200,
+        "bing_en": 23800,
+        "google": 13900
+    },
+    {
+        "baidu": 16600,
+        "author": "张舜民",
+        "rhythmic": "朝中措",
+        "so360": 513,
+        "bing": 6530,
+        "bing_en": 23100,
+        "google": 42400
+    },
+    {
+        "baidu": 64300,
+        "author": "张舜民",
+        "rhythmic": "卖花声",
+        "so360": 10500,
+        "bing": 11500,
+        "bing_en": 15800,
+        "google": 15600
+    },
+    {
+        "baidu": 64300,
+        "author": "张舜民",
+        "rhythmic": "卖花声",
+        "so360": 10500,
+        "bing": 11500,
+        "bing_en": 15800,
+        "google": 15600
+    },
+    {
+        "baidu": 459,
+        "author": "曾布",
+        "rhythmic": "江南好・忆江南",
+        "so360": 71,
+        "bing": 390000,
+        "bing_en": 329000,
+        "google": 250000
+    },
+    {
+        "baidu": 39400,
+        "author": "曾布",
+        "rhythmic": "水调歌头",
+        "so360": 2140,
+        "bing": 6120,
+        "bing_en": 26800,
+        "google": 9320000
+    },
+    {
+        "baidu": 39400,
+        "author": "曾布",
+        "rhythmic": "水调歌头",
+        "so360": 2140,
+        "bing": 6120,
+        "bing_en": 26800,
+        "google": 9320000
+    },
+    {
+        "baidu": 39400,
+        "author": "曾布",
+        "rhythmic": "水调歌头",
+        "so360": 2140,
+        "bing": 6120,
+        "bing_en": 26800,
+        "google": 9320000
+    },
+    {
+        "baidu": 39400,
+        "author": "曾布",
+        "rhythmic": "水调歌头",
+        "so360": 2140,
+        "bing": 6120,
+        "bing_en": 26800,
+        "google": 9320000
+    },
+    {
+        "baidu": 39400,
+        "author": "曾布",
+        "rhythmic": "水调歌头",
+        "so360": 2140,
+        "bing": 6120,
+        "bing_en": 26800,
+        "google": 9320000
+    },
+    {
+        "baidu": 39400,
+        "author": "曾布",
+        "rhythmic": "水调歌头",
+        "so360": 2140,
+        "bing": 6120,
+        "bing_en": 26800,
+        "google": 9320000
+    },
+    {
+        "baidu": 39400,
+        "author": "曾布",
+        "rhythmic": "水调歌头",
+        "so360": 2140,
+        "bing": 6120,
+        "bing_en": 26800,
+        "google": 9320000
+    },
+    {
+        "baidu": 101000,
+        "author": "魏夫人",
+        "rhythmic": "临江仙",
+        "so360": 5150,
+        "bing": 14100,
+        "bing_en": 22400,
+        "google": 2170000
+    },
+    {
+        "baidu": 50000,
+        "author": "魏夫人",
+        "rhythmic": "好事近",
+        "so360": 2520,
+        "bing": 22000,
+        "bing_en": 26700,
+        "google": 3150000
+    },
+    {
+        "baidu": 51800,
+        "author": "魏夫人",
+        "rhythmic": "阮郎归",
+        "so360": 2630,
+        "bing": 16500,
+        "bing_en": 23900,
+        "google": 1560000
+    },
+    {
+        "baidu": 53400,
+        "author": "魏夫人",
+        "rhythmic": "减字木兰花",
+        "so360": 4740,
+        "bing": 12400,
+        "bing_en": 21600,
+        "google": 583000
+    },
+    {
+        "baidu": 53400,
+        "author": "魏夫人",
+        "rhythmic": "减字木兰花",
+        "so360": 4740,
+        "bing": 12400,
+        "bing_en": 21600,
+        "google": 583000
+    },
+    {
+        "baidu": 133000,
+        "author": "魏夫人",
+        "rhythmic": "菩萨蛮",
+        "so360": 17800,
+        "bing": 15200,
+        "bing_en": 23500,
+        "google": 250000
+    },
+    {
+        "baidu": 133000,
+        "author": "魏夫人",
+        "rhythmic": "菩萨蛮",
+        "so360": 17800,
+        "bing": 15200,
+        "bing_en": 23500,
+        "google": 250000
+    },
+    {
+        "baidu": 133000,
+        "author": "魏夫人",
+        "rhythmic": "菩萨蛮",
+        "so360": 17800,
+        "bing": 15200,
+        "bing_en": 23500,
+        "google": 250000
+    },
+    {
+        "baidu": 50300,
+        "author": "魏夫人",
+        "rhythmic": "定风波",
+        "so360": 3820,
+        "bing": 21000,
+        "bing_en": 25400,
+        "google": 1590000
+    },
+    {
+        "baidu": 120000,
+        "author": "魏夫人",
+        "rhythmic": "点绛唇",
+        "so360": 4800,
+        "bing": 13800,
+        "bing_en": 22100,
+        "google": 318000
+    },
+    {
+        "baidu": 29800,
+        "author": "魏夫人",
+        "rhythmic": "武陵春",
+        "so360": 1470,
+        "bing": 19700,
+        "bing_en": 22400,
+        "google": 320000
+    },
+    {
+        "baidu": 66100,
+        "author": "魏夫人",
+        "rhythmic": "江城子",
+        "so360": 4010,
+        "bing": 13500,
+        "bing_en": 21800,
+        "google": 687000
+    },
+    {
+        "baidu": 1510,
+        "author": "魏夫人",
+        "rhythmic": "卷珠帘・蝶恋花",
+        "so360": 554,
+        "bing": 258000,
+        "bing_en": 23800,
+        "google": 1130000
+    },
+    {
+        "baidu": 11500,
+        "author": "魏夫人",
+        "rhythmic": "系裙腰",
+        "so360": 379,
+        "bing": 134000,
+        "bing_en": 7070,
+        "google": 2390000
+    },
+    {
+        "baidu": 9920,
+        "author": "王仲甫",
+        "rhythmic": "清平乐",
+        "so360": 69,
+        "bing": 3070,
+        "bing_en": 29400,
+        "google": 2410
+    },
+    {
+        "baidu": 72,
+        "author": "王仲甫",
+        "rhythmic": "满朝欢",
+        "so360": 58,
+        "bing": 213000,
+        "bing_en": 27300,
+        "google": 3710
+    },
+    {
+        "baidu": 273,
+        "author": "王仲甫",
+        "rhythmic": "丑奴儿・采桑子",
+        "so360": 43,
+        "bing": 19700,
+        "bing_en": 20400,
+        "google": 8370
+    },
+    {
+        "baidu": 5150,
+        "author": "王仲甫",
+        "rhythmic": "永遇乐",
+        "so360": 55,
+        "bing": 11400,
+        "bing_en": 30100,
+        "google": 3790
+    },
+    {
+        "baidu": 13000,
+        "author": "王仲甫",
+        "rhythmic": "浪淘沙",
+        "so360": 63,
+        "bing": 3240,
+        "bing_en": 28700,
+        "google": 20200
+    },
+    {
+        "baidu": 255,
+        "author": "王仲甫",
+        "rhythmic": "醉落魄・一斛珠",
+        "so360": 31,
+        "bing": 15500,
+        "bing_en": 22500,
+        "google": 944
+    },
+    {
+        "baidu": 77,
+        "author": "王仲甫",
+        "rhythmic": "蓦山溪",
+        "so360": 76,
+        "bing": 48700,
+        "bing_en": 21800,
+        "google": 3090
+    },
+    {
+        "baidu": 251,
+        "author": "孙浩然",
+        "rhythmic": "离亭燕・离亭宴",
+        "so360": 33,
+        "bing": 18600,
+        "bing_en": 21500,
+        "google": 17300
+    },
+    {
+        "baidu": 79,
+        "author": "孙浩然",
+        "rhythmic": "夜行船",
+        "so360": 80,
+        "bing": 1990,
+        "bing_en": 21600,
+        "google": 465000
+    },
+    {
+        "baidu": 57700,
+        "author": "王诜",
+        "rhythmic": "鹧鸪天",
+        "so360": 5060,
+        "bing": 18100,
+        "bing_en": 22300,
+        "google": 1940000
+    },
+    {
+        "baidu": 8070,
+        "author": "王诜",
+        "rhythmic": "花心动",
+        "so360": 449,
+        "bing": 1850000,
+        "bing_en": 19600,
+        "google": 441000
+    },
+    {
+        "baidu": 328,
+        "author": "王诜",
+        "rhythmic": "落梅花・落梅",
+        "so360": 50,
+        "bing": 73000,
+        "bing_en": 115000,
+        "google": 16000
+    },
+    {
+        "baidu": 5820,
+        "author": "王诜",
+        "rhythmic": "黄莺儿",
+        "so360": 187,
+        "bing": 18600,
+        "bing_en": 4560,
+        "google": 23900
+    },
+    {
+        "baidu": 30500,
+        "author": "王诜",
+        "rhythmic": "踏青游",
+        "so360": 398,
+        "bing": 11200,
+        "bing_en": 17000,
+        "google": 67300
+    },
+    {
+        "baidu": 798,
+        "author": "王诜",
+        "rhythmic": "忆故人・烛影摇红",
+        "so360": 2660,
+        "bing": 13500,
+        "bing_en": 22300,
+        "google": 396000
+    },
+    {
+        "baidu": 19000,
+        "author": "王诜",
+        "rhythmic": "行香子",
+        "so360": 1530,
+        "bing": 2410000,
+        "bing_en": 26900,
+        "google": 5360
+    },
+    {
+        "baidu": 94800,
+        "author": "王诜",
+        "rhythmic": "蝶恋花",
+        "so360": 10400,
+        "bing": 18700,
+        "bing_en": 22900,
+        "google": 168000
+    },
+    {
+        "baidu": 58800,
+        "author": "王诜",
+        "rhythmic": "玉楼春",
+        "so360": 5910,
+        "bing": 9250,
+        "bing_en": 23600,
+        "google": 55100
+    },
+    {
+        "baidu": 29600,
+        "author": "王诜",
+        "rhythmic": "花发沁园春",
+        "so360": 152,
+        "bing": 426,
+        "bing_en": 21100,
+        "google": 5100000
+    },
+    {
+        "baidu": 39500,
+        "author": "王诜",
+        "rhythmic": "人月圆",
+        "so360": 540,
+        "bing": 4400,
+        "bing_en": 13400,
+        "google": 342000
+    },
+    {
+        "baidu": 35600,
+        "author": "王诜",
+        "rhythmic": "换遍歌头",
+        "so360": 4760,
+        "bing": 102000,
+        "bing_en": 21200,
+        "google": 223000
+    },
+    {
+        "baidu": 67,
+        "author": "王诜",
+        "rhythmic": "失调名",
+        "so360": 68,
+        "bing": 18100,
+        "bing_en": 11000,
+        "google": 48100
+    },
+    {
+        "baidu": 67,
+        "author": "王诜",
+        "rhythmic": "失调名",
+        "so360": 68,
+        "bing": 18100,
+        "bing_en": 11000,
+        "google": 48100
+    },
+    {
+        "baidu": 67,
+        "author": "王诜",
+        "rhythmic": "失调名",
+        "so360": 68,
+        "bing": 18100,
+        "bing_en": 11000,
+        "google": 48100
+    },
+    {
+        "baidu": 3440,
+        "author": "王诜",
+        "rhythmic": "画堂春令・画堂春",
+        "so360": 1080,
+        "bing": 11800,
+        "bing_en": 255000,
+        "google": 10900
+    },
+    {
+        "baidu": 1430,
+        "author": "王诜",
+        "rhythmic": "撼庭竹",
+        "so360": 164,
+        "bing": 50,
+        "bing_en": 21100,
+        "google": 2180000
+    },
+    {
+        "baidu": 94800,
+        "author": "王诜",
+        "rhythmic": "蝶恋花",
+        "so360": 10400,
+        "bing": 18700,
+        "bing_en": 22900,
+        "google": 168000
+    },
+    {
+        "baidu": 55,
+        "author": "陈济翁",
+        "rhythmic": "蓦山溪",
+        "so360": 137,
+        "bing": 1090,
+        "bing_en": 21200,
+        "google": 3190
+    },
+    {
+        "baidu": 55,
+        "author": "陈济翁",
+        "rhythmic": "蓦山溪",
+        "so360": 137,
+        "bing": 1090,
+        "bing_en": 21200,
+        "google": 3190
+    },
+    {
+        "baidu": 2630,
+        "author": "陈济翁",
+        "rhythmic": "踏青游",
+        "so360": 75,
+        "bing": 1040,
+        "bing_en": 21200,
+        "google": 576
+    },
+    {
+        "baidu": 2840000,
+        "author": "苏轼",
+        "rhythmic": "水龙吟",
+        "so360": 428000,
+        "bing": 39800,
+        "bing_en": 60400,
+        "google": 171000
+    },
+    {
+        "baidu": 2840000,
+        "author": "苏轼",
+        "rhythmic": "水龙吟",
+        "so360": 428000,
+        "bing": 39800,
+        "bing_en": 60400,
+        "google": 171000
+    },
+    {
+        "baidu": 2840000,
+        "author": "苏轼",
+        "rhythmic": "水龙吟",
+        "so360": 428000,
+        "bing": 39800,
+        "bing_en": 60400,
+        "google": 171000
+    },
+    {
+        "baidu": 2840000,
+        "author": "苏轼",
+        "rhythmic": "水龙吟",
+        "so360": 428000,
+        "bing": 39800,
+        "bing_en": 60400,
+        "google": 171000
+    },
+    {
+        "baidu": 2830000,
+        "author": "苏轼",
+        "rhythmic": "满庭芳",
+        "so360": 244000,
+        "bing": 27000,
+        "bing_en": 39700,
+        "google": 692000
+    },
+    {
+        "baidu": 2830000,
+        "author": "苏轼",
+        "rhythmic": "满庭芳",
+        "so360": 244000,
+        "bing": 27000,
+        "bing_en": 39700,
+        "google": 692000
+    },
+    {
+        "baidu": 2830000,
+        "author": "苏轼",
+        "rhythmic": "满庭芳",
+        "so360": 244000,
+        "bing": 27000,
+        "bing_en": 39700,
+        "google": 692000
+    },
+    {
+        "baidu": 2830000,
+        "author": "苏轼",
+        "rhythmic": "满庭芳",
+        "so360": 244000,
+        "bing": 27000,
+        "bing_en": 39700,
+        "google": 692000
+    },
+    {
+        "baidu": 2830000,
+        "author": "苏轼",
+        "rhythmic": "满庭芳",
+        "so360": 244000,
+        "bing": 27000,
+        "bing_en": 39700,
+        "google": 692000
+    },
+    {
+        "baidu": 8250000,
+        "author": "苏轼",
+        "rhythmic": "水调歌头",
+        "so360": 2150000,
+        "bing": 1060000,
+        "bing_en": 174000,
+        "google": 2390000
+    },
+    {
+        "baidu": 8250000,
+        "author": "苏轼",
+        "rhythmic": "水调歌头",
+        "so360": 2150000,
+        "bing": 1060000,
+        "bing_en": 174000,
+        "google": 2390000
+    },
+    {
+        "baidu": 8250000,
+        "author": "苏轼",
+        "rhythmic": "水调歌头",
+        "so360": 2150000,
+        "bing": 1060000,
+        "bing_en": 174000,
+        "google": 2390000
+    },
+    {
+        "baidu": 8250000,
+        "author": "苏轼",
+        "rhythmic": "水调歌头",
+        "so360": 2150000,
+        "bing": 1060000,
+        "bing_en": 174000,
+        "google": 2390000
+    },
+    {
+        "baidu": 5080000,
+        "author": "苏轼",
+        "rhythmic": "满江红",
+        "so360": 574000,
+        "bing": 1050000,
+        "bing_en": 74500,
+        "google": 1190000
+    },
+    {
+        "baidu": 5080000,
+        "author": "苏轼",
+        "rhythmic": "满江红",
+        "so360": 574000,
+        "bing": 1050000,
+        "bing_en": 74500,
+        "google": 1190000
+    },
+    {
+        "baidu": 5080000,
+        "author": "苏轼",
+        "rhythmic": "满江红",
+        "so360": 574000,
+        "bing": 1050000,
+        "bing_en": 74500,
+        "google": 1190000
+    },
+    {
+        "baidu": 5080000,
+        "author": "苏轼",
+        "rhythmic": "满江红",
+        "so360": 574000,
+        "bing": 1050000,
+        "bing_en": 74500,
+        "google": 1190000
+    },
+    {
+        "baidu": 5080000,
+        "author": "苏轼",
+        "rhythmic": "满江红",
+        "so360": 574000,
+        "bing": 1050000,
+        "bing_en": 74500,
+        "google": 1190000
+    },
+    {
+        "baidu": 136000,
+        "author": "苏轼",
+        "rhythmic": "归朝欢",
+        "so360": 7080,
+        "bing": 112000,
+        "bing_en": 44900,
+        "google": 2520000
+    },
+    {
+        "baidu": 6720000,
+        "author": "苏轼",
+        "rhythmic": "念奴娇",
+        "so360": 1490000,
+        "bing": 95600,
+        "bing_en": 129000,
+        "google": 590000
+    },
+    {
+        "baidu": 1070,
+        "author": "苏轼",
+        "rhythmic": "雨中花・夜行船",
+        "so360": 558,
+        "bing": 22200,
+        "bing_en": 80000,
+        "google": 119000
+    },
+    {
+        "baidu": 4160000,
+        "author": "苏轼",
+        "rhythmic": "沁园春",
+        "so360": 605000,
+        "bing": 44700,
+        "bing_en": 65800,
+        "google": 417000
+    },
+    {
+        "baidu": 1610000,
+        "author": "苏轼",
+        "rhythmic": "劝金船",
+        "so360": 1690,
+        "bing": 18600,
+        "bing_en": 28400,
+        "google": 1650000
+    },
+    {
+        "baidu": 329000,
+        "author": "苏轼",
+        "rhythmic": "一丛花",
+        "so360": 18600,
+        "bing": 64100,
+        "bing_en": 57500,
+        "google": 2360000
+    },
+    {
+        "baidu": 318000,
+        "author": "苏轼",
+        "rhythmic": "木兰花令",
+        "so360": 40000,
+        "bing": 46800,
+        "bing_en": 41900,
+        "google": 325000
+    },
+    {
+        "baidu": 318000,
+        "author": "苏轼",
+        "rhythmic": "木兰花令",
+        "so360": 40000,
+        "bing": 46800,
+        "bing_en": 41900,
+        "google": 325000
+    },
+    {
+        "baidu": 318000,
+        "author": "苏轼",
+        "rhythmic": "木兰花令",
+        "so360": 40000,
+        "bing": 46800,
+        "bing_en": 41900,
+        "google": 325000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 3780000,
+        "author": "苏轼",
+        "rhythmic": "渔家傲",
+        "so360": 635000,
+        "bing": 177000,
+        "bing_en": 64000,
+        "google": 251000
+    },
+    {
+        "baidu": 3780000,
+        "author": "苏轼",
+        "rhythmic": "渔家傲",
+        "so360": 635000,
+        "bing": 177000,
+        "bing_en": 64000,
+        "google": 251000
+    },
+    {
+        "baidu": 3780000,
+        "author": "苏轼",
+        "rhythmic": "渔家傲",
+        "so360": 635000,
+        "bing": 177000,
+        "bing_en": 64000,
+        "google": 251000
+    },
+    {
+        "baidu": 3780000,
+        "author": "苏轼",
+        "rhythmic": "渔家傲",
+        "so360": 635000,
+        "bing": 177000,
+        "bing_en": 64000,
+        "google": 251000
+    },
+    {
+        "baidu": 4720000,
+        "author": "苏轼",
+        "rhythmic": "鹧鸪天",
+        "so360": 557000,
+        "bing": 53800,
+        "bing_en": 69800,
+        "google": 370000
+    },
+    {
+        "baidu": 4720000,
+        "author": "苏轼",
+        "rhythmic": "鹧鸪天",
+        "so360": 557000,
+        "bing": 53800,
+        "bing_en": 69800,
+        "google": 370000
+    },
+    {
+        "baidu": 1310000,
+        "author": "苏轼",
+        "rhythmic": "少年游",
+        "so360": 148000,
+        "bing": 1400000,
+        "bing_en": 116000,
+        "google": 1490000
+    },
+    {
+        "baidu": 1310000,
+        "author": "苏轼",
+        "rhythmic": "少年游",
+        "so360": 148000,
+        "bing": 1400000,
+        "bing_en": 116000,
+        "google": 1490000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 1310000,
+        "author": "苏轼",
+        "rhythmic": "少年游",
+        "so360": 148000,
+        "bing": 1400000,
+        "bing_en": 116000,
+        "google": 1490000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 1760000,
+        "author": "苏轼",
+        "rhythmic": "好事近",
+        "so360": 51500,
+        "bing": 26300,
+        "bing_en": 38300,
+        "google": 1700000
+    },
+    {
+        "baidu": 1760000,
+        "author": "苏轼",
+        "rhythmic": "好事近",
+        "so360": 51500,
+        "bing": 26300,
+        "bing_en": 38300,
+        "google": 1700000
+    },
+    {
+        "baidu": 2390000,
+        "author": "苏轼",
+        "rhythmic": "鹊桥仙",
+        "so360": 430000,
+        "bing": 32800,
+        "bing_en": 46900,
+        "google": 314000
+    },
+    {
+        "baidu": 2390000,
+        "author": "苏轼",
+        "rhythmic": "鹊桥仙",
+        "so360": 430000,
+        "bing": 32800,
+        "bing_en": 46900,
+        "google": 314000
+    },
+    {
+        "baidu": 10700,
+        "author": "苏轼",
+        "rhythmic": "望江南・忆江南",
+        "so360": 24200,
+        "bing": 190000,
+        "bing_en": 166000,
+        "google": 1080000
+    },
+    {
+        "baidu": 10700,
+        "author": "苏轼",
+        "rhythmic": "望江南・忆江南",
+        "so360": 24200,
+        "bing": 190000,
+        "bing_en": 166000,
+        "google": 1080000
+    },
+    {
+        "baidu": 5780000,
+        "author": "苏轼",
+        "rhythmic": "卜算子",
+        "so360": 843000,
+        "bing": 242000,
+        "bing_en": 86200,
+        "google": 295000
+    },
+    {
+        "baidu": 5780000,
+        "author": "苏轼",
+        "rhythmic": "卜算子",
+        "so360": 843000,
+        "bing": 242000,
+        "bing_en": 86200,
+        "google": 295000
+    },
+    {
+        "baidu": 200000,
+        "author": "苏轼",
+        "rhythmic": "瑞鹧鸪",
+        "so360": 7200,
+        "bing": 1330000,
+        "bing_en": 30100,
+        "google": 139000
+    },
+    {
+        "baidu": 911,
+        "author": "苏轼",
+        "rhythmic": "十拍子・破阵子",
+        "so360": 1570,
+        "bing": 43500,
+        "bing_en": 32900,
+        "google": 568000
+    },
+    {
+        "baidu": 4770000,
+        "author": "苏轼",
+        "rhythmic": "清平乐",
+        "so360": 275000,
+        "bing": 1040000,
+        "bing_en": 58900,
+        "google": 1110000
+    },
+    {
+        "baidu": 1220000,
+        "author": "苏轼",
+        "rhythmic": "昭君怨",
+        "so360": 51500,
+        "bing": 1300000,
+        "bing_en": 27300,
+        "google": 74900
+    },
+    {
+        "baidu": 177000,
+        "author": "苏轼",
+        "rhythmic": "戚氏",
+        "so360": 11600,
+        "bing": 18200,
+        "bing_en": 27600,
+        "google": 1080000
+    },
+    {
+        "baidu": 251000,
+        "author": "苏轼",
+        "rhythmic": "醉蓬莱",
+        "so360": 9110,
+        "bing": 22800,
+        "bing_en": 32700,
+        "google": 215000
+    },
+    {
+        "baidu": 1800000,
+        "author": "苏轼",
+        "rhythmic": "贺新郎",
+        "so360": 221000,
+        "bing": 31500,
+        "bing_en": 40200,
+        "google": 169000
+    },
+    {
+        "baidu": 734000,
+        "author": "苏轼",
+        "rhythmic": "洞仙歌",
+        "so360": 89700,
+        "bing": 33700,
+        "bing_en": 41500,
+        "google": 560000
+    },
+    {
+        "baidu": 734000,
+        "author": "苏轼",
+        "rhythmic": "洞仙歌",
+        "so360": 89700,
+        "bing": 33700,
+        "bing_en": 41500,
+        "google": 560000
+    },
+    {
+        "baidu": 1700000,
+        "author": "苏轼",
+        "rhythmic": "八声甘州",
+        "so360": 203000,
+        "bing": 24700,
+        "bing_en": 37100,
+        "google": 454000
+    },
+    {
+        "baidu": 1170000,
+        "author": "苏轼",
+        "rhythmic": "三部乐",
+        "so360": 2370,
+        "bing": 252000,
+        "bing_en": 107000,
+        "google": 8530000
+    },
+    {
+        "baidu": 832000,
+        "author": "苏轼",
+        "rhythmic": "阮郎归",
+        "so360": 117000,
+        "bing": 23800,
+        "bing_en": 34100,
+        "google": 253000
+    },
+    {
+        "baidu": 832000,
+        "author": "苏轼",
+        "rhythmic": "阮郎归",
+        "so360": 117000,
+        "bing": 23800,
+        "bing_en": 34100,
+        "google": 253000
+    },
+    {
+        "baidu": 832000,
+        "author": "苏轼",
+        "rhythmic": "阮郎归",
+        "so360": 117000,
+        "bing": 23800,
+        "bing_en": 34100,
+        "google": 253000
+    },
+    {
+        "baidu": 3200,
+        "author": "苏轼",
+        "rhythmic": "江神子・江城子",
+        "so360": 982000,
+        "bing": 59900,
+        "bing_en": 93100,
+        "google": 57300
+    },
+    {
+        "baidu": 3200,
+        "author": "苏轼",
+        "rhythmic": "江神子・江城子",
+        "so360": 982000,
+        "bing": 59900,
+        "bing_en": 93100,
+        "google": 57300
+    },
+    {
+        "baidu": 3200,
+        "author": "苏轼",
+        "rhythmic": "江神子・江城子",
+        "so360": 982000,
+        "bing": 59900,
+        "bing_en": 93100,
+        "google": 57300
+    },
+    {
+        "baidu": 3200,
+        "author": "苏轼",
+        "rhythmic": "江神子・江城子",
+        "so360": 982000,
+        "bing": 59900,
+        "bing_en": 93100,
+        "google": 57300
+    },
+    {
+        "baidu": 3200,
+        "author": "苏轼",
+        "rhythmic": "江神子・江城子",
+        "so360": 982000,
+        "bing": 59900,
+        "bing_en": 93100,
+        "google": 57300
+    },
+    {
+        "baidu": 3200,
+        "author": "苏轼",
+        "rhythmic": "江神子・江城子",
+        "so360": 982000,
+        "bing": 59900,
+        "bing_en": 93100,
+        "google": 57300
+    },
+    {
+        "baidu": 3200,
+        "author": "苏轼",
+        "rhythmic": "江神子・江城子",
+        "so360": 982000,
+        "bing": 59900,
+        "bing_en": 93100,
+        "google": 57300
+    },
+    {
+        "baidu": 3200,
+        "author": "苏轼",
+        "rhythmic": "江神子・江城子",
+        "so360": 982000,
+        "bing": 59900,
+        "bing_en": 93100,
+        "google": 57300
+    },
+    {
+        "baidu": 3200,
+        "author": "苏轼",
+        "rhythmic": "江神子・江城子",
+        "so360": 982000,
+        "bing": 59900,
+        "bing_en": 93100,
+        "google": 57300
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 2950000,
+        "author": "苏轼",
+        "rhythmic": "采桑子",
+        "so360": 309000,
+        "bing": 37500,
+        "bing_en": 61800,
+        "google": 166000
+    },
+    {
+        "baidu": 906000,
+        "author": "苏轼",
+        "rhythmic": "千秋岁",
+        "so360": 82800,
+        "bing": 23900,
+        "bing_en": 35000,
+        "google": 650000
+    },
+    {
+        "baidu": 1740000,
+        "author": "苏轼",
+        "rhythmic": "苏幕遮",
+        "so360": 197000,
+        "bing": 1980000,
+        "bing_en": 42400,
+        "google": 1340000
+    },
+    {
+        "baidu": 2920000,
+        "author": "苏轼",
+        "rhythmic": "永遇乐",
+        "so360": 505000,
+        "bing": 44600,
+        "bing_en": 63500,
+        "google": 1080000
+    },
+    {
+        "baidu": 2920000,
+        "author": "苏轼",
+        "rhythmic": "永遇乐",
+        "so360": 505000,
+        "bing": 44600,
+        "bing_en": 63500,
+        "google": 1080000
+    },
+    {
+        "baidu": 1130000,
+        "author": "苏轼",
+        "rhythmic": "行香子",
+        "so360": 75900,
+        "bing": 111000,
+        "bing_en": 133000,
+        "google": 129000
+    },
+    {
+        "baidu": 1130000,
+        "author": "苏轼",
+        "rhythmic": "行香子",
+        "so360": 75900,
+        "bing": 111000,
+        "bing_en": 133000,
+        "google": 129000
+    },
+    {
+        "baidu": 1130000,
+        "author": "苏轼",
+        "rhythmic": "行香子",
+        "so360": 75900,
+        "bing": 111000,
+        "bing_en": 133000,
+        "google": 129000
+    },
+    {
+        "baidu": 1130000,
+        "author": "苏轼",
+        "rhythmic": "行香子",
+        "so360": 75900,
+        "bing": 111000,
+        "bing_en": 133000,
+        "google": 129000
+    },
+    {
+        "baidu": 1130000,
+        "author": "苏轼",
+        "rhythmic": "行香子",
+        "so360": 75900,
+        "bing": 111000,
+        "bing_en": 133000,
+        "google": 129000
+    },
+    {
+        "baidu": 1130000,
+        "author": "苏轼",
+        "rhythmic": "行香子",
+        "so360": 75900,
+        "bing": 111000,
+        "bing_en": 133000,
+        "google": 129000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 2110000,
+        "author": "苏轼",
+        "rhythmic": "生查子",
+        "so360": 125000,
+        "bing": 33100,
+        "bing_en": 83000,
+        "google": 8000000
+    },
+    {
+        "baidu": 29400,
+        "author": "苏轼",
+        "rhythmic": "翻香令",
+        "so360": 1370,
+        "bing": 37700,
+        "bing_en": 31800,
+        "google": 2470000
+    },
+    {
+        "baidu": 2570000,
+        "author": "苏轼",
+        "rhythmic": "乌夜啼",
+        "so360": 45900,
+        "bing": 2200000,
+        "bing_en": 34000,
+        "google": 780000
+    },
+    {
+        "baidu": 5370000,
+        "author": "苏轼",
+        "rhythmic": "虞美人",
+        "so360": 761000,
+        "bing": 49600,
+        "bing_en": 72800,
+        "google": 610000
+    },
+    {
+        "baidu": 5370000,
+        "author": "苏轼",
+        "rhythmic": "虞美人",
+        "so360": 761000,
+        "bing": 49600,
+        "bing_en": 72800,
+        "google": 610000
+    },
+    {
+        "baidu": 5370000,
+        "author": "苏轼",
+        "rhythmic": "虞美人",
+        "so360": 761000,
+        "bing": 49600,
+        "bing_en": 72800,
+        "google": 610000
+    },
+    {
+        "baidu": 5370000,
+        "author": "苏轼",
+        "rhythmic": "虞美人",
+        "so360": 761000,
+        "bing": 49600,
+        "bing_en": 72800,
+        "google": 610000
+    },
+    {
+        "baidu": 96300,
+        "author": "苏轼",
+        "rhythmic": "河满子",
+        "so360": 4290,
+        "bing": 1510000,
+        "bing_en": 54000,
+        "google": 3670000
+    },
+    {
+        "baidu": 282000,
+        "author": "苏轼",
+        "rhythmic": "哨遍",
+        "so360": 17300,
+        "bing": 15800,
+        "bing_en": 25300,
+        "google": 446000
+    },
+    {
+        "baidu": 282000,
+        "author": "苏轼",
+        "rhythmic": "哨遍",
+        "so360": 17300,
+        "bing": 15800,
+        "bing_en": 25300,
+        "google": 446000
+    },
+    {
+        "baidu": 2250000,
+        "author": "苏轼",
+        "rhythmic": "点绛唇",
+        "so360": 202000,
+        "bing": 29900,
+        "bing_en": 40000,
+        "google": 248000
+    },
+    {
+        "baidu": 2250000,
+        "author": "苏轼",
+        "rhythmic": "点绛唇",
+        "so360": 202000,
+        "bing": 29900,
+        "bing_en": 40000,
+        "google": 248000
+    },
+    {
+        "baidu": 2250000,
+        "author": "苏轼",
+        "rhythmic": "点绛唇",
+        "so360": 202000,
+        "bing": 29900,
+        "bing_en": 40000,
+        "google": 248000
+    },
+    {
+        "baidu": 2250000,
+        "author": "苏轼",
+        "rhythmic": "点绛唇",
+        "so360": 202000,
+        "bing": 29900,
+        "bing_en": 40000,
+        "google": 248000
+    },
+    {
+        "baidu": 2250000,
+        "author": "苏轼",
+        "rhythmic": "点绛唇",
+        "so360": 202000,
+        "bing": 29900,
+        "bing_en": 40000,
+        "google": 248000
+    },
+    {
+        "baidu": 4200000,
+        "author": "苏轼",
+        "rhythmic": "人娇",
+        "so360": 6320,
+        "bing": 60400,
+        "bing_en": 83400,
+        "google": 3450000
+    },
+    {
+        "baidu": 4200000,
+        "author": "苏轼",
+        "rhythmic": "人娇",
+        "so360": 6320,
+        "bing": 60400,
+        "bing_en": 83400,
+        "google": 3450000
+    },
+    {
+        "baidu": 4200000,
+        "author": "苏轼",
+        "rhythmic": "人娇",
+        "so360": 6320,
+        "bing": 60400,
+        "bing_en": 83400,
+        "google": 3450000
+    },
+    {
+        "baidu": 2310000,
+        "author": "苏轼",
+        "rhythmic": "诉衷情",
+        "so360": 123000,
+        "bing": 1280000,
+        "bing_en": 38500,
+        "google": 133000
+    },
+    {
+        "baidu": 2310000,
+        "author": "苏轼",
+        "rhythmic": "诉衷情",
+        "so360": 123000,
+        "bing": 1280000,
+        "bing_en": 38500,
+        "google": 133000
+    },
+    {
+        "baidu": 2310000,
+        "author": "苏轼",
+        "rhythmic": "诉衷情",
+        "so360": 123000,
+        "bing": 1280000,
+        "bing_en": 38500,
+        "google": 133000
+    },
+    {
+        "baidu": 922000,
+        "author": "苏轼",
+        "rhythmic": "更漏子",
+        "so360": 518,
+        "bing": 17500,
+        "bing_en": 27000,
+        "google": 222000
+    },
+    {
+        "baidu": 23900,
+        "author": "苏轼",
+        "rhythmic": "华清引",
+        "so360": 1010,
+        "bing": 12500,
+        "bing_en": 21300,
+        "google": 5120000
+    },
+    {
+        "baidu": 136000,
+        "author": "苏轼",
+        "rhythmic": "桃源忆故人",
+        "so360": 6270,
+        "bing": 22800,
+        "bing_en": 23200,
+        "google": 200000
+    },
+    {
+        "baidu": 1550,
+        "author": "苏轼",
+        "rhythmic": "醉落魄・一斛珠",
+        "so360": 3460,
+        "bing": 18000,
+        "bing_en": 25200,
+        "google": 35400
+    },
+    {
+        "baidu": 1550,
+        "author": "苏轼",
+        "rhythmic": "醉落魄・一斛珠",
+        "so360": 3460,
+        "bing": 18000,
+        "bing_en": 25200,
+        "google": 35400
+    },
+    {
+        "baidu": 1550,
+        "author": "苏轼",
+        "rhythmic": "醉落魄・一斛珠",
+        "so360": 3460,
+        "bing": 18000,
+        "bing_en": 25200,
+        "google": 35400
+    },
+    {
+        "baidu": 1550,
+        "author": "苏轼",
+        "rhythmic": "醉落魄・一斛珠",
+        "so360": 3460,
+        "bing": 18000,
+        "bing_en": 25200,
+        "google": 35400
+    },
+    {
+        "baidu": 966000,
+        "author": "苏轼",
+        "rhythmic": "谒金门",
+        "so360": 34400,
+        "bing": 1490,
+        "bing_en": 30000,
+        "google": 66100
+    },
+    {
+        "baidu": 966000,
+        "author": "苏轼",
+        "rhythmic": "谒金门",
+        "so360": 34400,
+        "bing": 1490,
+        "bing_en": 30000,
+        "google": 66100
+    },
+    {
+        "baidu": 966000,
+        "author": "苏轼",
+        "rhythmic": "谒金门",
+        "so360": 34400,
+        "bing": 1490,
+        "bing_en": 30000,
+        "google": 66100
+    },
+    {
+        "baidu": 3250000,
+        "author": "苏轼",
+        "rhythmic": "如梦令",
+        "so360": 413000,
+        "bing": 43300,
+        "bing_en": 61700,
+        "google": 3920000
+    },
+    {
+        "baidu": 3250000,
+        "author": "苏轼",
+        "rhythmic": "如梦令",
+        "so360": 413000,
+        "bing": 43300,
+        "bing_en": 61700,
+        "google": 3920000
+    },
+    {
+        "baidu": 3250000,
+        "author": "苏轼",
+        "rhythmic": "如梦令",
+        "so360": 413000,
+        "bing": 43300,
+        "bing_en": 61700,
+        "google": 3920000
+    },
+    {
+        "baidu": 3250000,
+        "author": "苏轼",
+        "rhythmic": "如梦令",
+        "so360": 413000,
+        "bing": 43300,
+        "bing_en": 61700,
+        "google": 3920000
+    },
+    {
+        "baidu": 587000,
+        "author": "苏轼",
+        "rhythmic": "阳关曲",
+        "so360": 80600,
+        "bing": 41500,
+        "bing_en": 41500,
+        "google": 1690000
+    },
+    {
+        "baidu": 587000,
+        "author": "苏轼",
+        "rhythmic": "阳关曲",
+        "so360": 80600,
+        "bing": 41500,
+        "bing_en": 41500,
+        "google": 1690000
+    },
+    {
+        "baidu": 587000,
+        "author": "苏轼",
+        "rhythmic": "阳关曲",
+        "so360": 80600,
+        "bing": 41500,
+        "bing_en": 41500,
+        "google": 1690000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 694,
+        "author": "苏轼",
+        "rhythmic": "双荷叶・忆秦娥",
+        "so360": 1280,
+        "bing": 137000,
+        "bing_en": 25100,
+        "google": 465000
+    },
+    {
+        "baidu": 20600,
+        "author": "苏轼",
+        "rhythmic": "皂罗特髻",
+        "so360": 287,
+        "bing": 55600,
+        "bing_en": 21100,
+        "google": 33200
+    },
+    {
+        "baidu": 255000,
+        "author": "苏轼",
+        "rhythmic": "调笑令",
+        "so360": 16700,
+        "bing": 13800,
+        "bing_en": 22900,
+        "google": 178000
+    },
+    {
+        "baidu": 255000,
+        "author": "苏轼",
+        "rhythmic": "调笑令",
+        "so360": 16700,
+        "bing": 13800,
+        "bing_en": 22900,
+        "google": 178000
+    },
+    {
+        "baidu": 22100,
+        "author": "苏轼",
+        "rhythmic": "荷华媚",
+        "so360": 556,
+        "bing": 3480,
+        "bing_en": 23600,
+        "google": 230000
+    },
+    {
+        "baidu": 2830000,
+        "author": "苏轼",
+        "rhythmic": "青玉案",
+        "so360": 418000,
+        "bing": 31000,
+        "bing_en": 53500,
+        "google": 308000
+    },
+    {
+        "baidu": 3780000,
+        "author": "苏轼",
+        "rhythmic": "渔家傲",
+        "so360": 635000,
+        "bing": 177000,
+        "bing_en": 64000,
+        "google": 251000
+    },
+    {
+        "baidu": 7410000,
+        "author": "苏轼",
+        "rhythmic": "江城子",
+        "so360": 1470000,
+        "bing": 73100,
+        "bing_en": 104000,
+        "google": 893000
+    },
+    {
+        "baidu": 7410000,
+        "author": "苏轼",
+        "rhythmic": "江城子",
+        "so360": 1470000,
+        "bing": 73100,
+        "bing_en": 104000,
+        "google": 893000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 3250000,
+        "author": "苏轼",
+        "rhythmic": "如梦令",
+        "so360": 413000,
+        "bing": 43300,
+        "bing_en": 61700,
+        "google": 3920000
+    },
+    {
+        "baidu": 200000,
+        "author": "苏轼",
+        "rhythmic": "瑞鹧鸪",
+        "so360": 7200,
+        "bing": 1330000,
+        "bing_en": 30100,
+        "google": 139000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 1310000,
+        "author": "苏轼",
+        "rhythmic": "少年游",
+        "so360": 148000,
+        "bing": 1400000,
+        "bing_en": 116000,
+        "google": 1490000
+    },
+    {
+        "baidu": 249000,
+        "author": "苏轼",
+        "rhythmic": "一斛珠",
+        "so360": 11300,
+        "bing": 16300,
+        "bing_en": 25500,
+        "google": 387000
+    },
+    {
+        "baidu": 2250000,
+        "author": "苏轼",
+        "rhythmic": "点绛唇",
+        "so360": 202000,
+        "bing": 29900,
+        "bing_en": 40000,
+        "google": 248000
+    },
+    {
+        "baidu": 2250000,
+        "author": "苏轼",
+        "rhythmic": "点绛唇",
+        "so360": 202000,
+        "bing": 29900,
+        "bing_en": 40000,
+        "google": 248000
+    },
+    {
+        "baidu": 5370000,
+        "author": "苏轼",
+        "rhythmic": "虞美人",
+        "so360": 761000,
+        "bing": 49600,
+        "bing_en": 72800,
+        "google": 610000
+    },
+    {
+        "baidu": 584000,
+        "author": "苏轼",
+        "rhythmic": "天仙子",
+        "so360": 48400,
+        "bing": 19700,
+        "bing_en": 29400,
+        "google": 341000
+    },
+    {
+        "baidu": 2830000,
+        "author": "苏轼",
+        "rhythmic": "满庭芳",
+        "so360": 244000,
+        "bing": 27000,
+        "bing_en": 39700,
+        "google": 692000
+    },
+    {
+        "baidu": 3220000,
+        "author": "苏轼",
+        "rhythmic": "南乡子",
+        "so360": 313000,
+        "bing": 36800,
+        "bing_en": 52000,
+        "google": 1270000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 1130000,
+        "author": "苏轼",
+        "rhythmic": "行香子",
+        "so360": 75900,
+        "bing": 111000,
+        "bing_en": 133000,
+        "google": 129000
+    },
+    {
+        "baidu": 382000,
+        "author": "苏轼",
+        "rhythmic": "画堂春",
+        "so360": 26700,
+        "bing": 67900,
+        "bing_en": 57500,
+        "google": 1980000
+    },
+    {
+        "baidu": 7000000,
+        "author": "苏轼",
+        "rhythmic": "浣溪沙",
+        "so360": 1430000,
+        "bing": 1030000,
+        "bing_en": 128000,
+        "google": 649000
+    },
+    {
+        "baidu": 1760000,
+        "author": "苏轼",
+        "rhythmic": "好事近",
+        "so360": 51500,
+        "bing": 26300,
+        "bing_en": 38300,
+        "google": 1700000
+    },
+    {
+        "baidu": 28900,
+        "author": "苏轼",
+        "rhythmic": "占春芳",
+        "so360": 1120,
+        "bing": 5760,
+        "bing_en": 31900,
+        "google": 27200
+    },
+    {
+        "baidu": 1480000,
+        "author": "苏轼",
+        "rhythmic": "南歌子",
+        "so360": 213000,
+        "bing": 23400,
+        "bing_en": 34600,
+        "google": 117000
+    },
+    {
+        "baidu": 4800000,
+        "author": "苏轼",
+        "rhythmic": "浪淘沙",
+        "so360": 502000,
+        "bing": 36800,
+        "bing_en": 51300,
+        "google": 432000
+    },
+    {
+        "baidu": 318000,
+        "author": "苏轼",
+        "rhythmic": "木兰花令",
+        "so360": 40000,
+        "bing": 46800,
+        "bing_en": 41900,
+        "google": 325000
+    },
+    {
+        "baidu": 318000,
+        "author": "苏轼",
+        "rhythmic": "木兰花令",
+        "so360": 40000,
+        "bing": 46800,
+        "bing_en": 41900,
+        "google": 325000
+    },
+    {
+        "baidu": 318000,
+        "author": "苏轼",
+        "rhythmic": "木兰花令",
+        "so360": 40000,
+        "bing": 46800,
+        "bing_en": 41900,
+        "google": 325000
+    },
+    {
+        "baidu": 5370000,
+        "author": "苏轼",
+        "rhythmic": "虞美人",
+        "so360": 761000,
+        "bing": 49600,
+        "bing_en": 72800,
+        "google": 610000
+    },
+    {
+        "baidu": 5370000,
+        "author": "苏轼",
+        "rhythmic": "虞美人",
+        "so360": 761000,
+        "bing": 49600,
+        "bing_en": 72800,
+        "google": 610000
+    },
+    {
+        "baidu": 5220000,
+        "author": "苏轼",
+        "rhythmic": "临江仙",
+        "so360": 717000,
+        "bing": 57200,
+        "bing_en": 84400,
+        "google": 1280000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 6010000,
+        "author": "苏轼",
+        "rhythmic": "蝶恋花",
+        "so360": 968000,
+        "bing": 1070000,
+        "bing_en": 97300,
+        "google": 899000
+    },
+    {
+        "baidu": 3780000,
+        "author": "苏轼",
+        "rhythmic": "渔家傲",
+        "so360": 635000,
+        "bing": 177000,
+        "bing_en": 64000,
+        "google": 251000
+    },
+    {
+        "baidu": 7410000,
+        "author": "苏轼",
+        "rhythmic": "江城子",
+        "so360": 1470000,
+        "bing": 73100,
+        "bing_en": 104000,
+        "google": 893000
+    },
+    {
+        "baidu": 970000,
+        "author": "苏轼",
+        "rhythmic": "祝英台近",
+        "so360": 18300,
+        "bing": 1410000,
+        "bing_en": 27400,
+        "google": 548000
+    },
+    {
+        "baidu": 118000,
+        "author": "苏轼",
+        "rhythmic": "雨中花慢",
+        "so360": 9200,
+        "bing": 26000,
+        "bing_en": 58000,
+        "google": 162000
+    },
+    {
+        "baidu": 118000,
+        "author": "苏轼",
+        "rhythmic": "雨中花慢",
+        "so360": 9200,
+        "bing": 26000,
+        "bing_en": 58000,
+        "google": 162000
+    },
+    {
+        "baidu": 6720000,
+        "author": "苏轼",
+        "rhythmic": "念奴娇",
+        "so360": 1490000,
+        "bing": 95600,
+        "bing_en": 129000,
+        "google": 590000
+    },
+    {
+        "baidu": 2840000,
+        "author": "苏轼",
+        "rhythmic": "水龙吟",
+        "so360": 428000,
+        "bing": 39800,
+        "bing_en": 60400,
+        "google": 171000
+    },
+    {
+        "baidu": 2840000,
+        "author": "苏轼",
+        "rhythmic": "水龙吟",
+        "so360": 428000,
+        "bing": 39800,
+        "bing_en": 60400,
+        "google": 171000
+    },
+    {
+        "baidu": 4500,
+        "author": "苏轼",
+        "rhythmic": "渔父・渔歌子",
+        "so360": 11800,
+        "bing": 29300,
+        "bing_en": 48600,
+        "google": 135000
+    },
+    {
+        "baidu": 4500,
+        "author": "苏轼",
+        "rhythmic": "渔父・渔歌子",
+        "so360": 11800,
+        "bing": 29300,
+        "bing_en": 48600,
+        "google": 135000
+    },
+    {
+        "baidu": 4500,
+        "author": "苏轼",
+        "rhythmic": "渔父・渔歌子",
+        "so360": 11800,
+        "bing": 29300,
+        "bing_en": 48600,
+        "google": 135000
+    },
+    {
+        "baidu": 4500,
+        "author": "苏轼",
+        "rhythmic": "渔父・渔歌子",
+        "so360": 11800,
+        "bing": 29300,
+        "bing_en": 48600,
+        "google": 135000
+    },
+    {
+        "baidu": 147000,
+        "author": "苏轼",
+        "rhythmic": "醉翁操",
+        "so360": 19200,
+        "bing": 17500,
+        "bing_en": 27900,
+        "google": 236000
+    },
+    {
+        "baidu": 719000,
+        "author": "苏轼",
+        "rhythmic": "导引",
+        "so360": 57100,
+        "bing": 1060000,
+        "bing_en": 25900,
+        "google": 2260000
+    },
+    {
+        "baidu": 719000,
+        "author": "苏轼",
+        "rhythmic": "导引",
+        "so360": 57100,
+        "bing": 1060000,
+        "bing_en": 25900,
+        "google": 2260000
+    },
+    {
+        "baidu": 76400,
+        "author": "苏轼",
+        "rhythmic": "瑶池燕",
+        "so360": 10900,
+        "bing": 28600,
+        "bing_en": 22500,
+        "google": 161000
+    },
+    {
+        "baidu": 906000,
+        "author": "苏轼",
+        "rhythmic": "千秋岁",
+        "so360": 82800,
+        "bing": 23900,
+        "bing_en": 35000,
+        "google": 650000
+    },
+    {
+        "baidu": 1470000,
+        "author": "苏轼",
+        "rhythmic": "减字木兰花",
+        "so360": 172000,
+        "bing": 27900,
+        "bing_en": 40600,
+        "google": 310000
+    },
+    {
+        "baidu": 90500,
+        "author": "苏轼",
+        "rhythmic": "失调名",
+        "so360": 5350,
+        "bing": 14400,
+        "bing_en": 23600,
+        "google": 109000
+    },
+    {
+        "baidu": 90500,
+        "author": "苏轼",
+        "rhythmic": "失调名",
+        "so360": 5350,
+        "bing": 14400,
+        "bing_en": 23600,
+        "google": 109000
+    },
+    {
+        "baidu": 90500,
+        "author": "苏轼",
+        "rhythmic": "失调名",
+        "so360": 5350,
+        "bing": 14400,
+        "bing_en": 23600,
+        "google": 109000
+    },
+    {
+        "baidu": 5520000,
+        "author": "苏轼",
+        "rhythmic": "菩萨蛮",
+        "so360": 692000,
+        "bing": 48200,
+        "bing_en": 67900,
+        "google": 440000
+    },
+    {
+        "baidu": 811000,
+        "author": "苏轼",
+        "rhythmic": "踏青游",
+        "so360": 2420,
+        "bing": 18100,
+        "bing_en": 27600,
+        "google": 551000
+    },
+    {
+        "baidu": 832000,
+        "author": "苏轼",
+        "rhythmic": "阮郎归",
+        "so360": 117000,
+        "bing": 23800,
+        "bing_en": 34100,
+        "google": 253000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 90500,
+        "author": "苏轼",
+        "rhythmic": "失调名",
+        "so360": 5350,
+        "bing": 14400,
+        "bing_en": 23600,
+        "google": 109000
+    },
+    {
+        "baidu": 2500000,
+        "author": "苏轼",
+        "rhythmic": "踏莎行",
+        "so360": 183000,
+        "bing": 27500,
+        "bing_en": 40300,
+        "google": 1320000
+    },
+    {
+        "baidu": 2500000,
+        "author": "苏轼",
+        "rhythmic": "踏莎行",
+        "so360": 183000,
+        "bing": 27500,
+        "bing_en": 40300,
+        "google": 1320000
+    },
+    {
+        "baidu": 90500,
+        "author": "苏轼",
+        "rhythmic": "失调名",
+        "so360": 5350,
+        "bing": 14400,
+        "bing_en": 23600,
+        "google": 109000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 4880000,
+        "author": "苏轼",
+        "rhythmic": "定风波",
+        "so360": 606000,
+        "bing": 57800,
+        "bing_en": 82800,
+        "google": 643000
+    },
+    {
+        "baidu": 90500,
+        "author": "苏轼",
+        "rhythmic": "失调名",
+        "so360": 5350,
+        "bing": 14400,
+        "bing_en": 23600,
+        "google": 109000
+    },
+    {
+        "baidu": 90500,
+        "author": "苏轼",
+        "rhythmic": "失调名",
+        "so360": 5350,
+        "bing": 14400,
+        "bing_en": 23600,
+        "google": 109000
+    },
+    {
+        "baidu": 3960,
+        "author": "苏轼",
+        "rhythmic": "水调歌・水调",
+        "so360": 2100000,
+        "bing": 1220000,
+        "bing_en": 388000,
+        "google": 2700000
+    },
+    {
+        "baidu": 90500,
+        "author": "苏轼",
+        "rhythmic": "失调名",
+        "so360": 5350,
+        "bing": 14400,
+        "bing_en": 23600,
+        "google": 109000
+    },
+    {
+        "baidu": 4720000,
+        "author": "苏轼",
+        "rhythmic": "鹧鸪天",
+        "so360": 557000,
+        "bing": 53800,
+        "bing_en": 69800,
+        "google": 370000
+    },
+    {
+        "baidu": 4840000,
+        "author": "苏轼",
+        "rhythmic": "西江月",
+        "so360": 709000,
+        "bing": 56200,
+        "bing_en": 80000,
+        "google": 342000
+    },
+    {
+        "baidu": 221000,
+        "author": "赵",
+        "rhythmic": "夜行船",
+        "so360": 12000,
+        "bing": 19700,
+        "bing_en": 30200,
+        "google": 2120000
+    },
+    {
+        "baidu": 67,
+        "author": "郭讵",
+        "rhythmic": "河传",
+        "so360": 58,
+        "bing": 1430000,
+        "bing_en": 23300,
+        "google": 1430000
+    },
+    {
+        "baidu": 216000,
+        "author": "李之仪",
+        "rhythmic": "水龙吟",
+        "so360": 440,
+        "bing": 14700,
+        "bing_en": 33600,
+        "google": 69400
+    },
+    {
+        "baidu": 56300,
+        "author": "李之仪",
+        "rhythmic": "蓦山溪",
+        "so360": 3090,
+        "bing": 10800,
+        "bing_en": 22000,
+        "google": 28200
+    },
+    {
+        "baidu": 56300,
+        "author": "李之仪",
+        "rhythmic": "蓦山溪",
+        "so360": 3090,
+        "bing": 10800,
+        "bing_en": 22000,
+        "google": 28200
+    },
+    {
+        "baidu": 56300,
+        "author": "李之仪",
+        "rhythmic": "蓦山溪",
+        "so360": 3090,
+        "bing": 10800,
+        "bing_en": 22000,
+        "google": 28200
+    },
+    {
+        "baidu": 56300,
+        "author": "李之仪",
+        "rhythmic": "蓦山溪",
+        "so360": 3090,
+        "bing": 10800,
+        "bing_en": 22000,
+        "google": 28200
+    },
+    {
+        "baidu": 195000,
+        "author": "李之仪",
+        "rhythmic": "满庭芳",
+        "so360": 10300,
+        "bing": 39800,
+        "bing_en": 27100,
+        "google": 135000
+    },
+    {
+        "baidu": 195000,
+        "author": "李之仪",
+        "rhythmic": "满庭芳",
+        "so360": 10300,
+        "bing": 39800,
+        "bing_en": 27100,
+        "google": 135000
+    },
+    {
+        "baidu": 45000,
+        "author": "李之仪",
+        "rhythmic": "玉蝴蝶",
+        "so360": 4620,
+        "bing": 16800,
+        "bing_en": 39500,
+        "google": 46800
+    },
+    {
+        "baidu": 874,
+        "author": "李之仪",
+        "rhythmic": "早梅芳・喜迁莺",
+        "so360": 44,
+        "bing": 13900,
+        "bing_en": 19800,
+        "google": 669
+    },
+    {
+        "baidu": 64700,
+        "author": "李之仪",
+        "rhythmic": "谢池春",
+        "so360": 5160,
+        "bing": 16000,
+        "bing_en": 40300,
+        "google": 8840
+    },
+    {
+        "baidu": 7560,
+        "author": "李之仪",
+        "rhythmic": "怨三三",
+        "so360": 405,
+        "bing": 3120,
+        "bing_en": 21200,
+        "google": 14900
+    },
+    {
+        "baidu": 39400,
+        "author": "李之仪",
+        "rhythmic": "春光好",
+        "so360": 2710,
+        "bing": 15700,
+        "bing_en": 34600,
+        "google": 71200
+    },
+    {
+        "baidu": 341000,
+        "author": "李之仪",
+        "rhythmic": "千秋岁",
+        "so360": 44600,
+        "bing": 16500,
+        "bing_en": 30300,
+        "google": 129000
+    },
+    {
+        "baidu": 341000,
+        "author": "李之仪",
+        "rhythmic": "千秋岁",
+        "so360": 44600,
+        "bing": 16500,
+        "bing_en": 30300,
+        "google": 129000
+    },
+    {
+        "baidu": 341000,
+        "author": "李之仪",
+        "rhythmic": "千秋岁",
+        "so360": 44600,
+        "bing": 16500,
+        "bing_en": 30300,
+        "google": 129000
+    },
+    {
+        "baidu": 341000,
+        "author": "李之仪",
+        "rhythmic": "千秋岁",
+        "so360": 44600,
+        "bing": 16500,
+        "bing_en": 30300,
+        "google": 129000
+    },
+    {
+        "baidu": 341000,
+        "author": "李之仪",
+        "rhythmic": "千秋岁",
+        "so360": 44600,
+        "bing": 16500,
+        "bing_en": 30300,
+        "google": 129000
+    },
+    {
+        "baidu": 341000,
+        "author": "李之仪",
+        "rhythmic": "千秋岁",
+        "so360": 44600,
+        "bing": 16500,
+        "bing_en": 30300,
+        "google": 129000
+    },
+    {
+        "baidu": 711000,
+        "author": "李之仪",
+        "rhythmic": "临江仙",
+        "so360": 95400,
+        "bing": 18100,
+        "bing_en": 30200,
+        "google": 226000
+    },
+    {
+        "baidu": 711000,
+        "author": "李之仪",
+        "rhythmic": "临江仙",
+        "so360": 95400,
+        "bing": 18100,
+        "bing_en": 30200,
+        "google": 226000
+    },
+    {
+        "baidu": 2710,
+        "author": "李之仪",
+        "rhythmic": "江神子・江城子",
+        "so360": 3670,
+        "bing": 40700,
+        "bing_en": 221000,
+        "google": 18200
+    },
+    {
+        "baidu": 2710,
+        "author": "李之仪",
+        "rhythmic": "江神子・江城子",
+        "so360": 3670,
+        "bing": 40700,
+        "bing_en": 221000,
+        "google": 18200
+    },
+    {
+        "baidu": 2710,
+        "author": "李之仪",
+        "rhythmic": "江神子・江城子",
+        "so360": 3670,
+        "bing": 40700,
+        "bing_en": 221000,
+        "google": 18200
+    },
+    {
+        "baidu": 376000,
+        "author": "李之仪",
+        "rhythmic": "清平乐",
+        "so360": 29000,
+        "bing": 39800,
+        "bing_en": 28800,
+        "google": 141000
+    },
+    {
+        "baidu": 376000,
+        "author": "李之仪",
+        "rhythmic": "清平乐",
+        "so360": 29000,
+        "bing": 39800,
+        "bing_en": 28800,
+        "google": 141000
+    },
+    {
+        "baidu": 376000,
+        "author": "李之仪",
+        "rhythmic": "清平乐",
+        "so360": 29000,
+        "bing": 39800,
+        "bing_en": 28800,
+        "google": 141000
+    },
+    {
+        "baidu": 376000,
+        "author": "李之仪",
+        "rhythmic": "清平乐",
+        "so360": 29000,
+        "bing": 39800,
+        "bing_en": 28800,
+        "google": 141000
+    },
+    {
+        "baidu": 376000,
+        "author": "李之仪",
+        "rhythmic": "清平乐",
+        "so360": 29000,
+        "bing": 39800,
+        "bing_en": 28800,
+        "google": 141000
+    },
+    {
+        "baidu": 460000,
+        "author": "李之仪",
+        "rhythmic": "浪淘沙",
+        "so360": 45500,
+        "bing": 51500,
+        "bing_en": 28400,
+        "google": 140000
+    },
+    {
+        "baidu": 1380000,
+        "author": "李之仪",
+        "rhythmic": "卜算子",
+        "so360": 332000,
+        "bing": 28300,
+        "bing_en": 46700,
+        "google": 128000
+    },
+    {
+        "baidu": 137000,
+        "author": "李之仪",
+        "rhythmic": "忆秦娥",
+        "so360": 9300,
+        "bing": 14100,
+        "bing_en": 26300,
+        "google": 53700
+    },
+    {
+        "baidu": 828000,
+        "author": "李之仪",
+        "rhythmic": "蝶恋花",
+        "so360": 121000,
+        "bing": 50900,
+        "bing_en": 33000,
+        "google": 249000
+    },
+    {
+        "baidu": 828000,
+        "author": "李之仪",
+        "rhythmic": "蝶恋花",
+        "so360": 121000,
+        "bing": 50900,
+        "bing_en": 33000,
+        "google": 249000
+    },
+    {
+        "baidu": 828000,
+        "author": "李之仪",
+        "rhythmic": "蝶恋花",
+        "so360": 121000,
+        "bing": 50900,
+        "bing_en": 33000,
+        "google": 249000
+    },
+    {
+        "baidu": 828000,
+        "author": "李之仪",
+        "rhythmic": "蝶恋花",
+        "so360": 121000,
+        "bing": 50900,
+        "bing_en": 33000,
+        "google": 249000
+    },
+    {
+        "baidu": 719000,
+        "author": "李之仪",
+        "rhythmic": "浣溪沙",
+        "so360": 95300,
+        "bing": 51300,
+        "bing_en": 33200,
+        "google": 204000
+    },
+    {
+        "baidu": 719000,
+        "author": "李之仪",
+        "rhythmic": "浣溪沙",
+        "so360": 95300,
+        "bing": 51300,
+        "bing_en": 33200,
+        "google": 204000
+    },
+    {
+        "baidu": 719000,
+        "author": "李之仪",
+        "rhythmic": "浣溪沙",
+        "so360": 95300,
+        "bing": 51300,
+        "bing_en": 33200,
+        "google": 204000
+    },
+    {
+        "baidu": 719000,
+        "author": "李之仪",
+        "rhythmic": "浣溪沙",
+        "so360": 95300,
+        "bing": 51300,
+        "bing_en": 33200,
+        "google": 204000
+    },
+    {
+        "baidu": 384000,
+        "author": "李之仪",
+        "rhythmic": "西江月",
+        "so360": 38600,
+        "bing": 51500,
+        "bing_en": 27900,
+        "google": 143000
+    },
+    {
+        "baidu": 384000,
+        "author": "李之仪",
+        "rhythmic": "西江月",
+        "so360": 38600,
+        "bing": 51500,
+        "bing_en": 27900,
+        "google": 143000
+    },
+    {
+        "baidu": 384000,
+        "author": "李之仪",
+        "rhythmic": "西江月",
+        "so360": 38600,
+        "bing": 51500,
+        "bing_en": 27900,
+        "google": 143000
+    },
+    {
+        "baidu": 628000,
+        "author": "李之仪",
+        "rhythmic": "鹊桥仙",
+        "so360": 106000,
+        "bing": 15700,
+        "bing_en": 27400,
+        "google": 72700
+    },
+    {
+        "baidu": 384000,
+        "author": "李之仪",
+        "rhythmic": "西江月",
+        "so360": 38600,
+        "bing": 51500,
+        "bing_en": 27900,
+        "google": 143000
+    },
+    {
+        "baidu": 315000,
+        "author": "李之仪",
+        "rhythmic": "踏莎行",
+        "so360": 33000,
+        "bing": 16300,
+        "bing_en": 26700,
+        "google": 115000
+    },
+    {
+        "baidu": 315000,
+        "author": "李之仪",
+        "rhythmic": "踏莎行",
+        "so360": 33000,
+        "bing": 16300,
+        "bing_en": 26700,
+        "google": 115000
+    },
+    {
+        "baidu": 569000,
+        "author": "李之仪",
+        "rhythmic": "鹧鸪天",
+        "so360": 54900,
+        "bing": 18400,
+        "bing_en": 31200,
+        "google": 191000
+    },
+    {
+        "baidu": 569000,
+        "author": "李之仪",
+        "rhythmic": "鹧鸪天",
+        "so360": 54900,
+        "bing": 18400,
+        "bing_en": 31200,
+        "google": 191000
+    },
+    {
+        "baidu": 569000,
+        "author": "李之仪",
+        "rhythmic": "鹧鸪天",
+        "so360": 54900,
+        "bing": 18400,
+        "bing_en": 31200,
+        "google": 191000
+    },
+    {
+        "baidu": 569000,
+        "author": "李之仪",
+        "rhythmic": "鹧鸪天",
+        "so360": 54900,
+        "bing": 18400,
+        "bing_en": 31200,
+        "google": 191000
+    },
+    {
+        "baidu": 88700,
+        "author": "李之仪",
+        "rhythmic": "朝中措",
+        "so360": 5240,
+        "bing": 17500,
+        "bing_en": 31700,
+        "google": 96800
+    },
+    {
+        "baidu": 88700,
+        "author": "李之仪",
+        "rhythmic": "朝中措",
+        "so360": 5240,
+        "bing": 17500,
+        "bing_en": 31700,
+        "google": 96800
+    },
+    {
+        "baidu": 88700,
+        "author": "李之仪",
+        "rhythmic": "朝中措",
+        "so360": 5240,
+        "bing": 17500,
+        "bing_en": 31700,
+        "google": 96800
+    },
+    {
+        "baidu": 85200,
+        "author": "李之仪",
+        "rhythmic": "阮郎归",
+        "so360": 5820,
+        "bing": 16600,
+        "bing_en": 29900,
+        "google": 61300
+    },
+    {
+        "baidu": 358000,
+        "author": "李之仪",
+        "rhythmic": "采桑子",
+        "so360": 46900,
+        "bing": 22500,
+        "bing_en": 48800,
+        "google": 77300
+    },
+    {
+        "baidu": 174000,
+        "author": "李之仪",
+        "rhythmic": "如梦令",
+        "so360": 12300,
+        "bing": 15700,
+        "bing_en": 31700,
+        "google": 198000
+    },
+    {
+        "baidu": 711000,
+        "author": "李之仪",
+        "rhythmic": "临江仙",
+        "so360": 95400,
+        "bing": 18100,
+        "bing_en": 30200,
+        "google": 226000
+    },
+    {
+        "baidu": 711000,
+        "author": "李之仪",
+        "rhythmic": "临江仙",
+        "so360": 95400,
+        "bing": 18100,
+        "bing_en": 30200,
+        "google": 226000
+    },
+    {
+        "baidu": 8260,
+        "author": "李之仪",
+        "rhythmic": "丑奴儿・采桑子",
+        "so360": 30900,
+        "bing": 21300,
+        "bing_en": 24700,
+        "google": 24700
+    },
+    {
+        "baidu": 317000,
+        "author": "李之仪",
+        "rhythmic": "青玉案",
+        "so360": 27100,
+        "bing": 124000,
+        "bing_en": 53400,
+        "google": 88200
+    },
+    {
+        "baidu": 237000,
+        "author": "李之仪",
+        "rhythmic": "更漏子",
+        "so360": 56,
+        "bing": 12900,
+        "bing_en": 22400,
+        "google": 91500
+    },
+    {
+        "baidu": 227000,
+        "author": "李之仪",
+        "rhythmic": "渔家傲",
+        "so360": 18200,
+        "bing": 15500,
+        "bing_en": 27300,
+        "google": 84200
+    },
+    {
+        "baidu": 251000,
+        "author": "李之仪",
+        "rhythmic": "南乡子",
+        "so360": 18800,
+        "bing": 39400,
+        "bing_en": 28300,
+        "google": 266000
+    },
+    {
+        "baidu": 251000,
+        "author": "李之仪",
+        "rhythmic": "南乡子",
+        "so360": 18800,
+        "bing": 39400,
+        "bing_en": 28300,
+        "google": 266000
+    },
+    {
+        "baidu": 251000,
+        "author": "李之仪",
+        "rhythmic": "南乡子",
+        "so360": 18800,
+        "bing": 39400,
+        "bing_en": 28300,
+        "google": 266000
+    },
+    {
+        "baidu": 251000,
+        "author": "李之仪",
+        "rhythmic": "南乡子",
+        "so360": 18800,
+        "bing": 39400,
+        "bing_en": 28300,
+        "google": 266000
+    },
+    {
+        "baidu": 251000,
+        "author": "李之仪",
+        "rhythmic": "南乡子",
+        "so360": 18800,
+        "bing": 39400,
+        "bing_en": 28300,
+        "google": 266000
+    },
+    {
+        "baidu": 56300,
+        "author": "李之仪",
+        "rhythmic": "蓦山溪",
+        "so360": 3090,
+        "bing": 10800,
+        "bing_en": 22000,
+        "google": 28200
+    },
+    {
+        "baidu": 148000,
+        "author": "李之仪",
+        "rhythmic": "减字木兰花",
+        "so360": 8480,
+        "bing": 86800,
+        "bing_en": 25300,
+        "google": 18200
+    },
+    {
+        "baidu": 148000,
+        "author": "李之仪",
+        "rhythmic": "减字木兰花",
+        "so360": 8480,
+        "bing": 86800,
+        "bing_en": 25300,
+        "google": 18200
+    },
+    {
+        "baidu": 148000,
+        "author": "李之仪",
+        "rhythmic": "减字木兰花",
+        "so360": 8480,
+        "bing": 86800,
+        "bing_en": 25300,
+        "google": 18200
+    },
+    {
+        "baidu": 148000,
+        "author": "李之仪",
+        "rhythmic": "减字木兰花",
+        "so360": 8480,
+        "bing": 86800,
+        "bing_en": 25300,
+        "google": 18200
+    },
+    {
+        "baidu": 148000,
+        "author": "李之仪",
+        "rhythmic": "减字木兰花",
+        "so360": 8480,
+        "bing": 86800,
+        "bing_en": 25300,
+        "google": 18200
+    },
+    {
+        "baidu": 18000,
+        "author": "李之仪",
+        "rhythmic": "天门谣",
+        "so360": 1920,
+        "bing": 80500,
+        "bing_en": 21100,
+        "google": 17000
+    },
+    {
+        "baidu": 116000,
+        "author": "李之仪",
+        "rhythmic": "好事近",
+        "so360": 7240,
+        "bing": 19500,
+        "bing_en": 37300,
+        "google": 73400
+    },
+    {
+        "baidu": 148000,
+        "author": "李之仪",
+        "rhythmic": "减字木兰花",
+        "so360": 8480,
+        "bing": 86800,
+        "bing_en": 25300,
+        "google": 18200
+    },
+    {
+        "baidu": 148000,
+        "author": "李之仪",
+        "rhythmic": "减字木兰花",
+        "so360": 8480,
+        "bing": 86800,
+        "bing_en": 25300,
+        "google": 18200
+    },
+    {
+        "baidu": 719000,
+        "author": "李之仪",
+        "rhythmic": "浣溪沙",
+        "so360": 95300,
+        "bing": 51300,
+        "bing_en": 33200,
+        "google": 204000
+    },
+    {
+        "baidu": 719000,
+        "author": "李之仪",
+        "rhythmic": "浣溪沙",
+        "so360": 95300,
+        "bing": 51300,
+        "bing_en": 33200,
+        "google": 204000
+    },
+    {
+        "baidu": 719000,
+        "author": "李之仪",
+        "rhythmic": "浣溪沙",
+        "so360": 95300,
+        "bing": 51300,
+        "bing_en": 33200,
+        "google": 204000
+    },
+    {
+        "baidu": 384000,
+        "author": "李之仪",
+        "rhythmic": "菩萨蛮",
+        "so360": 29600,
+        "bing": 40100,
+        "bing_en": 29100,
+        "google": 44400
+    },
+    {
+        "baidu": 384000,
+        "author": "李之仪",
+        "rhythmic": "菩萨蛮",
+        "so360": 29600,
+        "bing": 40100,
+        "bing_en": 29100,
+        "google": 44400
+    },
+    {
+        "baidu": 18400,
+        "author": "李之仪",
+        "rhythmic": "雨中花令",
+        "so360": 284,
+        "bing": 126000,
+        "bing_en": 130000,
+        "google": 14600
+    },
+    {
+        "baidu": 18400,
+        "author": "李之仪",
+        "rhythmic": "雨中花令",
+        "so360": 284,
+        "bing": 126000,
+        "bing_en": 130000,
+        "google": 14600
+    },
+    {
+        "baidu": 22300,
+        "author": "李之仪",
+        "rhythmic": "留春令",
+        "so360": 1860,
+        "bing": 4150,
+        "bing_en": 19500,
+        "google": 13300
+    },
+    {
+        "baidu": 315000,
+        "author": "李之仪",
+        "rhythmic": "踏莎行",
+        "so360": 33000,
+        "bing": 16300,
+        "bing_en": 26700,
+        "google": 115000
+    },
+    {
+        "baidu": 315000,
+        "author": "李之仪",
+        "rhythmic": "踏莎行",
+        "so360": 33000,
+        "bing": 16300,
+        "bing_en": 26700,
+        "google": 115000
+    },
+    {
+        "baidu": 251000,
+        "author": "李之仪",
+        "rhythmic": "南乡子",
+        "so360": 18800,
+        "bing": 39400,
+        "bing_en": 28300,
+        "google": 266000
+    },
+    {
+        "baidu": 12600,
+        "author": "李之仪",
+        "rhythmic": "万年欢",
+        "so360": 179,
+        "bing": 10700,
+        "bing_en": 22700,
+        "google": 234000
+    },
+    {
+        "baidu": 88700,
+        "author": "李之仪",
+        "rhythmic": "朝中措",
+        "so360": 5240,
+        "bing": 17500,
+        "bing_en": 31700,
+        "google": 96800
+    },
+    {
+        "baidu": 88700,
+        "author": "李之仪",
+        "rhythmic": "朝中措",
+        "so360": 5240,
+        "bing": 17500,
+        "bing_en": 31700,
+        "google": 96800
+    },
+    {
+        "baidu": 711000,
+        "author": "李之仪",
+        "rhythmic": "临江仙",
+        "so360": 95400,
+        "bing": 18100,
+        "bing_en": 30200,
+        "google": 226000
+    },
+    {
+        "baidu": 711000,
+        "author": "李之仪",
+        "rhythmic": "临江仙",
+        "so360": 95400,
+        "bing": 18100,
+        "bing_en": 30200,
+        "google": 226000
+    },
+    {
+        "baidu": 828000,
+        "author": "李之仪",
+        "rhythmic": "蝶恋花",
+        "so360": 121000,
+        "bing": 50900,
+        "bing_en": 33000,
+        "google": 249000
+    },
+    {
+        "baidu": 94,
+        "author": "蔡确",
+        "rhythmic": "失调名",
+        "so360": 57,
+        "bing": 7360,
+        "bing_en": 21700,
+        "google": 993000
+    },
+    {
+        "baidu": 77,
+        "author": "许将",
+        "rhythmic": "惜黄花",
+        "so360": 67,
+        "bing": 16300,
+        "bing_en": 25700,
+        "google": 2050000
+    },
+    {
+        "baidu": 20200,
+        "author": "许将",
+        "rhythmic": "临江仙",
+        "so360": 353,
+        "bing": 20600,
+        "bing_en": 32000,
+        "google": 14100000
+    },
+    {
+        "baidu": 2620,
+        "author": "郑无党",
+        "rhythmic": "临江仙",
+        "so360": 56,
+        "bing": 12400,
+        "bing_en": 21100,
+        "google": 4000000
+    },
+    {
+        "baidu": 87,
+        "author": "陈",
+        "rhythmic": "无愁可解",
+        "so360": 4220,
+        "bing": 147000,
+        "bing_en": 163000,
+        "google": 20600000
+    },
+    {
+        "baidu": 959,
+        "author": "苏辙",
+        "rhythmic": "调啸・调笑令",
+        "so360": 43,
+        "bing": 19700,
+        "bing_en": 21300,
+        "google": 10900
+    },
+    {
+        "baidu": 959,
+        "author": "苏辙",
+        "rhythmic": "调啸・调笑令",
+        "so360": 43,
+        "bing": 19700,
+        "bing_en": 21300,
+        "google": 10900
+    },
+    {
+        "baidu": 1540000,
+        "author": "苏辙",
+        "rhythmic": "水调歌头",
+        "so360": 211000,
+        "bing": 25400,
+        "bing_en": 39400,
+        "google": 710000
+    },
+    {
+        "baidu": 504000,
+        "author": "苏辙",
+        "rhythmic": "渔家傲",
+        "so360": 25700,
+        "bing": 493000,
+        "bing_en": 26500,
+        "google": 192000
+    },
+    {
+        "baidu": 13700,
+        "author": "陈睦",
+        "rhythmic": "沁园春",
+        "so360": 1600,
+        "bing": 3930,
+        "bing_en": 22600,
+        "google": 1460000
+    },
+    {
+        "baidu": 12300,
+        "author": "陈睦",
+        "rhythmic": "清平乐",
+        "so360": 221,
+        "bing": 6760,
+        "bing_en": 19600,
+        "google": 69100
+    },
+    {
+        "baidu": 37,
+        "author": "马成",
+        "rhythmic": "玉楼春",
+        "so360": 111,
+        "bing": 7730000,
+        "bing_en": 519000,
+        "google": 584000
+    },
+    {
+        "baidu": 78,
+        "author": "李婴",
+        "rhythmic": "满江红",
+        "so360": 131,
+        "bing": 1800,
+        "bing_en": 22700,
+        "google": 930000
+    },
+    {
+        "baidu": 12600,
+        "author": "王齐愈",
+        "rhythmic": "菩萨蛮",
+        "so360": 503,
+        "bing": 166000,
+        "bing_en": 21200,
+        "google": 4560
+    },
+    {
+        "baidu": 12600,
+        "author": "王齐愈",
+        "rhythmic": "菩萨蛮",
+        "so360": 503,
+        "bing": 166000,
+        "bing_en": 21200,
+        "google": 4560
+    },
+    {
+        "baidu": 12600,
+        "author": "王齐愈",
+        "rhythmic": "菩萨蛮",
+        "so360": 503,
+        "bing": 166000,
+        "bing_en": 21200,
+        "google": 4560
+    },
+    {
+        "baidu": 12600,
+        "author": "王齐愈",
+        "rhythmic": "菩萨蛮",
+        "so360": 503,
+        "bing": 166000,
+        "bing_en": 21200,
+        "google": 4560
+    },
+    {
+        "baidu": 12600,
+        "author": "王齐愈",
+        "rhythmic": "菩萨蛮",
+        "so360": 503,
+        "bing": 166000,
+        "bing_en": 21200,
+        "google": 4560
+    },
+    {
+        "baidu": 12600,
+        "author": "王齐愈",
+        "rhythmic": "菩萨蛮",
+        "so360": 503,
+        "bing": 166000,
+        "bing_en": 21200,
+        "google": 4560
+    },
+    {
+        "baidu": 12600,
+        "author": "王齐愈",
+        "rhythmic": "菩萨蛮",
+        "so360": 503,
+        "bing": 166000,
+        "bing_en": 21200,
+        "google": 4560
+    },
+    {
+        "baidu": 3680,
+        "author": "王齐愈",
+        "rhythmic": "虞美人",
+        "so360": 93,
+        "bing": 1740,
+        "bing_en": 22100,
+        "google": 19000
+    },
+    {
+        "baidu": 228,
+        "author": "王齐叟",
+        "rhythmic": "望江南・忆江南",
+        "so360": 25,
+        "bing": 19600,
+        "bing_en": 37800,
+        "google": 335000
+    },
+    {
+        "baidu": 73,
+        "author": "王齐叟",
+        "rhythmic": "失调名",
+        "so360": 93,
+        "bing": 15900,
+        "bing_en": 15300,
+        "google": 295000
+    },
+    {
+        "baidu": 74,
+        "author": "舒氏",
+        "rhythmic": "点绛唇",
+        "so360": 171,
+        "bing": 465000,
+        "bing_en": 22100,
+        "google": 1980000
+    },
+    {
+        "baidu": 50800,
+        "author": "琴操",
+        "rhythmic": "满庭芳",
+        "so360": 3530,
+        "bing": 5740,
+        "bing_en": 21200,
+        "google": 1930000
+    },
+    {
+        "baidu": 25700,
+        "author": "琴操",
+        "rhythmic": "卜算子",
+        "so360": 1100,
+        "bing": 13200,
+        "bing_en": 22000,
+        "google": 52400
+    },
+    {
+        "baidu": 57,
+        "author": "舒づ",
+        "rhythmic": "临江仙",
+        "so360": 515,
+        "bing": 45,
+        "bing_en": 53200,
+        "google": 414000
+    },
+    {
+        "baidu": 89,
+        "author": "舒づ",
+        "rhythmic": "点绛唇",
+        "so360": 585,
+        "bing": 205,
+        "bing_en": 28700,
+        "google": 453000
+    },
+    {
+        "baidu": 45,
+        "author": "舒づ",
+        "rhythmic": "散天花",
+        "so360": 598,
+        "bing": 68,
+        "bing_en": 23800,
+        "google": 2300
+    },
+    {
+        "baidu": 744,
+        "author": "舒づ",
+        "rhythmic": "醉花阴",
+        "so360": 507,
+        "bing": 56,
+        "bing_en": 37400,
+        "google": 3880
+    },
+    {
+        "baidu": 744,
+        "author": "舒づ",
+        "rhythmic": "醉花阴",
+        "so360": 507,
+        "bing": 56,
+        "bing_en": 37400,
+        "google": 5
+    },
+    {
+        "baidu": 30,
+        "author": "舒づ",
+        "rhythmic": "虞美人",
+        "so360": 3410000,
+        "bing": 24300,
+        "bing_en": 125000,
+        "google": 15800
+    },
+    {
+        "baidu": 30,
+        "author": "舒づ",
+        "rhythmic": "虞美人",
+        "so360": 3410000,
+        "bing": 24300,
+        "bing_en": 125000,
+        "google": 15800
+    },
+    {
+        "baidu": 30,
+        "author": "舒づ",
+        "rhythmic": "虞美人",
+        "so360": 3410000,
+        "bing": 24300,
+        "bing_en": 125000,
+        "google": 15800
+    },
+    {
+        "baidu": 1640,
+        "author": "舒づ",
+        "rhythmic": "丑奴儿・采桑子",
+        "so360": 59300,
+        "bing": 45100,
+        "bing_en": 9850,
+        "google": 962
+    },
+    {
+        "baidu": 48,
+        "author": "舒づ",
+        "rhythmic": "一落索",
+        "so360": 497,
+        "bing": 57,
+        "bing_en": 97200,
+        "google": 310000
+    },
+    {
+        "baidu": 48,
+        "author": "舒づ",
+        "rhythmic": "一落索",
+        "so360": 497,
+        "bing": 57,
+        "bing_en": 97200,
+        "google": 310000
+    },
+    {
+        "baidu": 70,
+        "author": "舒づ",
+        "rhythmic": "满庭芳",
+        "so360": 1090000,
+        "bing": 43,
+        "bing_en": 51100,
+        "google": 94700
+    },
+    {
+        "baidu": 70,
+        "author": "舒づ",
+        "rhythmic": "满庭芳",
+        "so360": 1090000,
+        "bing": 43,
+        "bing_en": 51100,
+        "google": 94700
+    },
+    {
+        "baidu": 70,
+        "author": "舒づ",
+        "rhythmic": "满庭芳",
+        "so360": 1090000,
+        "bing": 43,
+        "bing_en": 51100,
+        "google": 94700
+    },
+    {
+        "baidu": 58,
+        "author": "舒づ",
+        "rhythmic": "卜算子",
+        "so360": 516,
+        "bing": 56,
+        "bing_en": 30600,
+        "google": 2630
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 44,
+        "author": "舒づ",
+        "rhythmic": "蝶恋花",
+        "so360": 580,
+        "bing": 43,
+        "bing_en": 70000,
+        "google": 901000
+    },
+    {
+        "baidu": 44,
+        "author": "舒づ",
+        "rhythmic": "蝶恋花",
+        "so360": 580,
+        "bing": 43,
+        "bing_en": 70000,
+        "google": 901000
+    },
+    {
+        "baidu": 65,
+        "author": "舒づ",
+        "rhythmic": "减字木兰花",
+        "so360": 534000,
+        "bing": 82500,
+        "bing_en": 26000,
+        "google": 5
+    },
+    {
+        "baidu": 65,
+        "author": "舒づ",
+        "rhythmic": "减字木兰花",
+        "so360": 534000,
+        "bing": 82500,
+        "bing_en": 26000,
+        "google": 5
+    },
+    {
+        "baidu": 878,
+        "author": "舒づ",
+        "rhythmic": "木兰花",
+        "so360": 1400000,
+        "bing": 0,
+        "bing_en": 109000,
+        "google": 5780
+    },
+    {
+        "baidu": 878,
+        "author": "舒づ",
+        "rhythmic": "木兰花",
+        "so360": 1400000,
+        "bing": 0,
+        "bing_en": 109000,
+        "google": 5780
+    },
+    {
+        "baidu": 878,
+        "author": "舒づ",
+        "rhythmic": "木兰花",
+        "so360": 1400000,
+        "bing": 0,
+        "bing_en": 109000,
+        "google": 5780
+    },
+    {
+        "baidu": 74,
+        "author": "舒づ",
+        "rhythmic": "浣溪沙",
+        "so360": 2240000,
+        "bing": 52,
+        "bing_en": 57200,
+        "google": 3450
+    },
+    {
+        "baidu": 74,
+        "author": "舒づ",
+        "rhythmic": "浣溪沙",
+        "so360": 2240000,
+        "bing": 52,
+        "bing_en": 57200,
+        "google": 3450
+    },
+    {
+        "baidu": 74,
+        "author": "舒づ",
+        "rhythmic": "浣溪沙",
+        "so360": 2240000,
+        "bing": 52,
+        "bing_en": 57200,
+        "google": 3450
+    },
+    {
+        "baidu": 74,
+        "author": "舒づ",
+        "rhythmic": "浣溪沙",
+        "so360": 2240000,
+        "bing": 52,
+        "bing_en": 57200,
+        "google": 3450
+    },
+    {
+        "baidu": 74,
+        "author": "舒づ",
+        "rhythmic": "浣溪沙",
+        "so360": 2240000,
+        "bing": 52,
+        "bing_en": 57200,
+        "google": 3450
+    },
+    {
+        "baidu": 99,
+        "author": "舒づ",
+        "rhythmic": "鹊桥仙",
+        "so360": 513,
+        "bing": 813,
+        "bing_en": 28400,
+        "google": 2050
+    },
+    {
+        "baidu": 2040,
+        "author": "舒づ",
+        "rhythmic": "菩萨蛮",
+        "so360": 28,
+        "bing": 51,
+        "bing_en": 53800,
+        "google": 5110
+    },
+    {
+        "baidu": 36,
+        "author": "舒づ",
+        "rhythmic": "好事近",
+        "so360": 536,
+        "bing": 815,
+        "bing_en": 51000,
+        "google": 168000
+    },
+    {
+        "baidu": 41,
+        "author": "舒づ",
+        "rhythmic": "失调名",
+        "so360": 585,
+        "bing": 815,
+        "bing_en": 55000,
+        "google": 3220
+    },
+    {
+        "baidu": 17600,
+        "author": "范祖禹",
+        "rhythmic": "导引",
+        "so360": 175,
+        "bing": 2670,
+        "bing_en": 21200,
+        "google": 18400
+    },
+    {
+        "baidu": 99100,
+        "author": "范祖禹",
+        "rhythmic": "六州",
+        "so360": 190,
+        "bing": 20700,
+        "bing_en": 37400,
+        "google": 265000
+    },
+    {
+        "baidu": 385,
+        "author": "范祖禹",
+        "rhythmic": "十二时・忆少年",
+        "so360": 42,
+        "bing": 1080000,
+        "bing_en": 18600,
+        "google": 45500
+    },
+    {
+        "baidu": 2100,
+        "author": "范祖禹",
+        "rhythmic": "虞神歌",
+        "so360": 60,
+        "bing": 12200,
+        "bing_en": 24200,
+        "google": 57400
+    },
+    {
+        "baidu": 17600,
+        "author": "范祖禹",
+        "rhythmic": "导引",
+        "so360": 175,
+        "bing": 2670,
+        "bing_en": 21200,
+        "google": 18400
+    },
+    {
+        "baidu": 15400,
+        "author": "孔平仲",
+        "rhythmic": "千秋岁",
+        "so360": 544,
+        "bing": 8830,
+        "bing_en": 22700,
+        "google": 7030
+    },
+    {
+        "baidu": 328000,
+        "author": "了元",
+        "rhythmic": "满庭芳",
+        "so360": 1110000,
+        "bing": 74100000,
+        "bing_en": 61600,
+        "google": 12800000
+    },
+    {
+        "baidu": 261,
+        "author": "太尉夫人",
+        "rhythmic": "极相思令・极相思",
+        "so360": 6140,
+        "bing": 24200,
+        "bing_en": 26200,
+        "google": 389000
+    },
+    {
+        "baidu": 9940,
+        "author": "郭祥正",
+        "rhythmic": "醉翁操",
+        "so360": 147,
+        "bing": 4270,
+        "bing_en": 21200,
+        "google": 13500
+    },
+    {
+        "baidu": 5420,
+        "author": "董",
+        "rhythmic": "望江南・忆江南",
+        "so360": 54600,
+        "bing": 294000,
+        "bing_en": 351000,
+        "google": 3050000
+    },
+    {
+        "baidu": 5420,
+        "author": "董",
+        "rhythmic": "望江南・忆江南",
+        "so360": 54600,
+        "bing": 294000,
+        "bing_en": 351000,
+        "google": 3050000
+    },
+    {
+        "baidu": 1360,
+        "author": "丁仙现",
+        "rhythmic": "绛都春",
+        "so360": 162,
+        "bing": 35500,
+        "bing_en": 15000,
+        "google": 6750000
+    },
+    {
+        "baidu": 46,
+        "author": "刘泾",
+        "rhythmic": "减字木兰花",
+        "so360": 81,
+        "bing": 85300,
+        "bing_en": 21100,
+        "google": 479000
+    },
+    {
+        "baidu": 96,
+        "author": "刘泾",
+        "rhythmic": "夏初临",
+        "so360": 105,
+        "bing": 21300,
+        "bing_en": 14900,
+        "google": 2820000
+    },
+    {
+        "baidu": 32900,
+        "author": "黄裳",
+        "rhythmic": "桂枝香",
+        "so360": 1990,
+        "bing": 7880,
+        "bing_en": 21300,
+        "google": 2060000
+    },
+    {
+        "baidu": 32900,
+        "author": "黄裳",
+        "rhythmic": "桂枝香",
+        "so360": 1990,
+        "bing": 7880,
+        "bing_en": 21300,
+        "google": 2060000
+    },
+    {
+        "baidu": 7950,
+        "author": "黄裳",
+        "rhythmic": "新荷叶",
+        "so360": 207,
+        "bing": 10800,
+        "bing_en": 26600,
+        "google": 3920000
+    },
+    {
+        "baidu": 109000,
+        "author": "黄裳",
+        "rhythmic": "渔家傲",
+        "so360": 8490,
+        "bing": 12600,
+        "bing_en": 23100,
+        "google": 289000
+    }
+]

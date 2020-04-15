@@ -1,0 +1,29 @@
+[
+    {
+        "baidu": 221000,
+        "author": "李从周",
+        "rhythmic": "清平乐",
+        "so360": 375,
+        "bing": 1790,
+        "bing_en": 32500,
+        "google": 2350
+    },
+    {
+        "baidu": 76600,
+        "author": "无名氏",
+        "rhythmic": "九张机",
+        "so360": 8160,
+        "bing": 116000,
+        "bing_en": 52700,
+        "google": 1460000
+    },
+    {
+        "baidu": 704000,
+        "author": "张孝祥",
+        "rhythmic": "浣溪沙",
+        "so360": 40600,
+        "bing": 19200,
+        "bing_en": 29000,
+        "google": 193000
+    }
+]
