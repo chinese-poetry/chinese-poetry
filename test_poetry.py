@@ -46,3 +46,5 @@ test_yuanqu = functools.partial(__check_path__, u'./yuanqu/')
 
 test_mengxue = functools.partial(__check_path__, u'./mengxue')
 
+caocaoshiji = functools.partial(__check_path__, u'./caocaoshiji')
+
