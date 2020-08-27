@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<p align="center">阿里招p6/p7 <a href="https://thoughts.teambition.com/share/5e3d0aab1efaee001b8bbe9e#title=nodejs_%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6">nodejs</a> / <a href="https://thoughts.teambition.com/share/5e3d0aab1efaee001b8bbe9e#title=Python_%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6">Python</a>，支持远程面试 | gaojunqi@outlook.com </p>
+
 <h2 align="center">chinese-poetry: 最全中文诗歌古典文集数据库</h2>
 
 <p align="center">
