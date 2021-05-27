@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<p align="center">阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江 </p>
-
 <h2 align="center">chinese-poetry: 最全中文诗歌古典文集数据库</h2>
 
 <p align="center">
@@ -101,7 +99,7 @@
 
 ### 赞助者
 
-[上海逆行信息科技](http://www.desmix.com/)
+无
 
 ### 贡献者
 
