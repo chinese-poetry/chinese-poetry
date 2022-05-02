@@ -122,15 +122,15 @@ if __name__ == '__main__':
     with open("all.json", "r", encoding="utf-8") as f:
         all_data = json.load(f)
     # 遍历当前目录
-    for file_name in os.listdir("./"):
+    for file_name in os.listdir("./ci/"):
         if re.match(r"ci\.song\.\d+\.json", file_name):
             # 每个文件开始的数据索引
             start = int(file_name.split(".")[2])
-            with open(file_name, "r", encoding="utf-8") as f:
+            with open("./ci/" + file_name, "r", encoding="utf-8") as f:
                 file_data = json.load(f)
-            update_file_data(file_data, all_data)
+            # update_file_data(file_data, all_data)
             correct(file_data)
             # 保存数据，原文件中逗号后有空格，这里保持一致
-            with open(file_name, "w", encoding="utf-8") as f:
+            with open("./ci/" + file_name, "w", encoding="utf-8") as f:
                 f.write(json.dumps(file_data, indent=2, ensure_ascii=False).replace(",", ", "))
                 logging.info("Save " + file_name)
