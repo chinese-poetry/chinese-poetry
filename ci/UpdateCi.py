@@ -63,6 +63,54 @@ def only_text(text: str):
     return re.sub(r"[，。、《》…（）·・\s]", "", text)
 
 
+def update_file_data(old_data: list, new_data: list):
+    for i in range(len(old_data)):
+        old_text = only_text("".join(old_data[i]["paragraphs"]))
+        new_text = only_text("".join(new_data[start + i]["paragraphs"]))
+        # 计算纯文字的相似度
+        ratio = SequenceMatcher(a=old_text, b=new_text).quick_ratio()
+        if 0.9 <= ratio < 1.0:
+            # 假定此范围内说明缺字，需要更新
+            old_data[i]["author"] = new_data[start + i]["author"]
+            old_data[i]["paragraphs"] = new_data[start + i]["paragraphs"]
+        elif ratio < 0.9:
+            # 异常情况warning输出，不更新
+            logging.warning(old_text)
+            logging.warning(new_text)
+        else:
+            old_data[i]["author"] = new_data[start + i]["author"]
+
+
+char_dict = {
+    "鵷": "鹓",
+    "颭": "飐",
+    "鷁": "鹢",
+    "鴞": "鸮",
+    "餖": "饾",
+    "飣": "饤",
+    "舃": "舄",
+    "駸": "骎",
+    "薄倖": "薄幸",
+    "赬": "赪",
+    "鷫鸘": "鹔鹴",
+    "嶮": "崄",
+    "後": "后",
+    "纇": "颣",
+    "颸": "飔",
+    "崑崙": "昆仑",
+    "曨": "昽"
+}
+
+
+def correct(old_data: list):
+    """ 部分繁体转为简体 """
+    for i in range(len(old_data)):
+        for j in range(len(old_data[i]["paragraphs"])):
+            for k, v in char_dict.items():
+                if k in old_data[i]["paragraphs"][j]:
+                    old_data[i]["paragraphs"][j] = old_data[i]["paragraphs"][j].replace(k, v)
+
+
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO,
                         format="%(asctime)s - %(levelname)-9s %(filename)-15s[:%(lineno)d]\t%(message)s")
@@ -73,8 +121,6 @@ if __name__ == '__main__':
     # 读取临时文件
     with open("all.json", "r", encoding="utf-8") as f:
         all_data = json.load(f)
-    # 统计更正的数目
-    diff_num = 0
     # 遍历当前目录
     for file_name in os.listdir("./"):
         if re.match(r"ci\.song\.\d+\.json", file_name):
@@ -82,22 +128,9 @@ if __name__ == '__main__':
             start = int(file_name.split(".")[2])
             with open(file_name, "r", encoding="utf-8") as f:
                 file_data = json.load(f)
-            for i in range(len(file_data)):
-                old_text = only_text("".join(file_data[i]["paragraphs"]))
-                new_text = only_text("".join(all_data[start + i]["paragraphs"]))
-                # 计算纯文字的相似度
-                ratio = SequenceMatcher(a=old_text, b=new_text).quick_ratio()
-                if 0.9 <= ratio < 1.0:
-                    # 假定此范围内说明缺字，需要更新
-                    diff_num += 1
-                    file_data[i]["author"] = all_data[start + i]["author"]
-                    file_data[i]["paragraphs"] = all_data[start + i]["paragraphs"]
-                elif ratio < 0.9:
-                    # 异常情况warning输出，不更新
-                    logging.warning(old_text)
-                    logging.warning(new_text)
+            update_file_data(file_data, all_data)
+            correct(file_data)
             # 保存数据，原文件中逗号后有空格，这里保持一致
             with open(file_name, "w", encoding="utf-8") as f:
                 f.write(json.dumps(file_data, indent=2, ensure_ascii=False).replace(",", ", "))
                 logging.info("Save " + file_name)
-    logging.info("Change {0} items".format(diff_num))
