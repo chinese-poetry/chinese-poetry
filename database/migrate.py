@@ -88,7 +88,7 @@ def huajian(path,besides,_session:Session):
 
 def quantangshi(path,besides,_session:Session,is_simplified=False):
     datas = JsonData(path, besides=besides).run()
-    converter = opencc.OpenCC('t2s.json')
+    converter = opencc.OpenCC('t2s')
     for data in datas:
         author = data.get("author", "None")
         paragraphs = data.get("paragraphs", "None")
