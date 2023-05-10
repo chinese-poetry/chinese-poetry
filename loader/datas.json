@@ -1,5 +1,5 @@
 {
-    "cp_path": "./data/chinese-poetry/", 
+    "cp_path": "./", 
     "datasets": {
         "wudai-huajianji": {
             "name": "五代-花间集",
