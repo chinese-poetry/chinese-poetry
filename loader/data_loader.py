@@ -5,7 +5,7 @@ import os
 DATAS_CONFIG = "./loader/datas.json"
 
 
-class INGDataLoader():
+class PlainDataLoader():
     def __init__(self, config_path: str=DATAS_CONFIG) -> None:
         self._path = config_path
         with open(config_path, 'r', encoding='utf-8') as config:
@@ -58,7 +58,7 @@ class INGDataLoader():
 
 
 if __name__ == "__main__":
-    loader = INGDataLoader()
+    loader = PlainDataLoader()
     print(loader.id_table)
     print(
         loader.body_extractor("wudai-huajianji")[-1]
