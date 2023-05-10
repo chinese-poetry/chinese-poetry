@@ -2,7 +2,7 @@ import json
 import os
 
 
-DATAS_CONFIG = "./datas.json"
+DATAS_CONFIG = "./loader/datas.json"
 
 
 class INGDataLoader():
