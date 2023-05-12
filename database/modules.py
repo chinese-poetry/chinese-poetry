@@ -1,8 +1,9 @@
 from sqlalchemy import Column, Integer, Text
 from sqlalchemy import String
 from sqlalchemy.orm import declarative_base
+from sqlalchemy_repr import RepresentableBase
 
-Base = declarative_base()
+Base = declarative_base(cls=RepresentableBase)
 
 class YuanQu(Base):
     __tablename__ = "YuanQu"
