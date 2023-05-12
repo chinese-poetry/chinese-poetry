@@ -5,9 +5,9 @@ from os.path import join
 
 import opencc
 from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker, Session
+from sqlalchemy.orm import Session
 
-from modules import Base, YuanQu, HuaJianJi, ChuCi, ShiJing, LunYu, SiShuWuJing, SongCi, TangShi, TangShi_Simple
+from modules import *
 
 
 def create_table(is_force=False):
@@ -183,8 +183,7 @@ if __name__ == '__main__':
     s = time.time()
     url = f"""sqlite:///{os.path.join(os.path.dirname(__file__), "culture.db")}"""
     engine = create_engine(url)
-    Session = sessionmaker(engine)
-    session = Session()
+    session = Session(engine)
     create_table(is_force=True)
     core(_session=session)
     session.commit()
