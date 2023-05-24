@@ -1,0 +1,94 @@
+{
+    "cp_path": "./", 
+    "datasets": {
+        "wudai-huajianji": {
+            "name": "五代-花间集",
+            "id": 0,
+            "path": "五代诗词/huajianji/", 
+            "excludes": ["README.md"],
+            "tag": "paragraphs"
+        },
+        "wudai-nantang": {
+            "name": "五代-南唐",
+            "id": 1, 
+            "path": "五代诗词/nantang/poetrys.json",
+            "tag": "paragraphs"
+        },
+        "yuanqu": {
+            "name": "元曲",
+            "id": 2,
+            "path": "元曲/yuanqu.json",
+            "tag": "paragraphs"
+        },
+        "tangsong": {
+            "name": "全唐诗全宋诗",
+            "id": 3,
+            "path": "全唐诗/",
+            "excludes": ["README.md", "表面结构字.json", "error/", "authors.song.json", "authors.tang.json"],
+            "tag": "paragraphs"
+        },
+        "mengzi": {
+            "name": "四书五经-孟子", 
+            "id": 4,
+            "path": "四书五经/mengzi.json",
+            "tag": "paragraphs",
+            "comments": "四书五经的其他文件不符合两层结构, 以后再想办法处理吧."
+        },
+        "songci": {
+            "name": "宋词",
+            "id": 5,
+            "path": "宋词/",
+            "excludes": ["authors.song.json", "ci.db", "main.py", "README.md", "UpdateCi.py"],
+            "tag": "paragraphs"
+        },
+        "youmengying": {
+            "name": "幽梦影-张潮文集",
+            "id": 6,
+            "path": "幽梦影/youmengying.json",
+            "tag": "content"
+        },
+        "yudingquantangshi": {
+            "name": "御定全唐诗",
+            "id": 7,
+            "path": "御定全唐诗/json/",
+            "tag": "paragraphs"
+        },
+        "caocao": {
+            "name": "曹操诗集",
+            "id": 8,
+            "path": "曹操诗集/caocao.json",
+            "tag": "paragraphs"
+        },
+        "chuci": {
+            "name": "楚辞",
+            "id": 9,
+            "path": "楚辞/chuci.json",
+            "tag": "content"
+        },
+        "shuimotangshi": {
+            "name": "水墨唐诗",
+            "id": 10,
+            "path": "水墨唐诗/shuimotangshi.json",
+            "tag": "paragraphs"
+        },
+        "nalanxingde": {
+            "name": "纳兰性德",
+            "id": 11,
+            "path": "纳兰性德/纳兰性德诗集.json",
+            "tag": "para",
+            "comments": "蒙学文件夹下的非常规格式文件没有包括在这个json中"
+        },
+        "lunyu": {
+            "name": "论语",
+            "id": 12,
+            "path": "论语/lunyu.json",
+            "tag": "paragraphs"
+        },
+        "shijing": {
+            "name": "诗经",
+            "id": 13,
+            "path": "诗经/shijing.json",
+            "tag": "content"
+        }
+    }
+}
