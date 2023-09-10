@@ -74,7 +74,7 @@ def update_file_data(old_data: list, new_data: list):
             old_data[i]["author"] = new_data[start + i]["author"]
             old_data[i]["paragraphs"] = new_data[start + i]["paragraphs"]
         elif ratio < 0.9:
-            # 异常情况warning输出，不更新
+            # 异常情况 warning 输出，不更新
             logging.warning(old_text)
             logging.warning(new_text)
         else:
