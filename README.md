@@ -70,17 +70,16 @@
 
 ## 数据集
 
-- 全唐诗 [json](./json)
-- 全宋诗 [json](./json)
-- 全宋词 [ci](./ci)
-- 五代·花间集 [wudai/huajianji](./wudai/huajianji)
-- 五代·南唐二主词 [wudai/nantan](./wudai/nantang)
-- 论语 [lunyu](./lunyu)
-- 诗经 [shijing](./shijing)
-- 幽梦影 [youmengying](./youmengying)
-- 四书五经 [sishuwujing](./sishuwujing)
-- 蒙學 [mengxue](./mengxue)
-- 纳兰性德诗集 [nalanxingde](./nalanxingde)
+- [唐诗宋诗](./全唐诗)
+- [全宋词](./宋词)
+- [五代·花间集](./五代诗词/huajianji)
+- [五代·南唐二主词](./五代诗词/nantang)
+- [论语](./论语)
+- [诗经](./诗经)
+- [幽梦影](./幽梦影)
+- [四书五经](./四书五经)
+- [蒙學](./蒙学)
+- [纳兰性德诗集](./纳兰性德)
 
 
 ## 贡献
