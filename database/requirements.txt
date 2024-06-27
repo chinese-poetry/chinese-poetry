@@ -1,0 +1,3 @@
+sqlalchemy == 2.0.12
+opencc == 1.1.1
+sqlalchemy-repr == 0.1.0
