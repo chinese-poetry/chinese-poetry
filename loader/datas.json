@@ -48,9 +48,9 @@
             "tag": "content"
         },
         "yudingquantangshi": {
-            "name": "御定全唐诗",
+            "name": "御定全唐詩",
             "id": 7,
-            "path": "御定全唐诗/json/",
+            "path": "御定全唐詩/json/",
             "tag": "paragraphs"
         },
         "caocao": {
