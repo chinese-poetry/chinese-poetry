@@ -1,0 +1,9002 @@
+[
+  {
+    "baidu": 1380,
+    "author": "杨冠卿",
+    "title": "即事  其三",
+    "so360": 2980,
+    "bing": 93700,
+    "bing_en": 26000,
+    "google": 24100
+  },
+  {
+    "baidu": 60,
+    "author": "杨冠卿",
+    "title": "读书",
+    "so360": 158,
+    "bing": 708000,
+    "bing_en": 21900,
+    "google": 42100
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "题凌波采莲图",
+    "so360": 15,
+    "bing": 12200,
+    "bing_en": 5360,
+    "google": 14900
+  },
+  {
+    "baidu": 8,
+    "author": "杨冠卿",
+    "title": "归涂春晚  其一",
+    "so360": 37,
+    "bing": 36500,
+    "bing_en": 21100,
+    "google": 33000
+  },
+  {
+    "baidu": 4,
+    "author": "杨冠卿",
+    "title": "归涂春晚  其二",
+    "so360": 37,
+    "bing": 36500,
+    "bing_en": 21100,
+    "google": 30500
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "归涂春晚  其三",
+    "so360": 37,
+    "bing": 12300,
+    "bing_en": 21400,
+    "google": 32900
+  },
+  {
+    "baidu": 14,
+    "author": "杨冠卿",
+    "title": "山茶",
+    "so360": 33,
+    "bing": 222000,
+    "bing_en": 18500,
+    "google": 1640
+  },
+  {
+    "baidu": 4,
+    "author": "杨冠卿",
+    "title": "道间所见",
+    "so360": 20,
+    "bing": 403000,
+    "bing_en": 21100,
+    "google": 539
+  },
+  {
+    "baidu": 9,
+    "author": "杨冠卿",
+    "title": "夹江  其一",
+    "so360": 516,
+    "bing": 33400,
+    "bing_en": 16400,
+    "google": 22000
+  },
+  {
+    "baidu": 8,
+    "author": "杨冠卿",
+    "title": "夹江  其二",
+    "so360": 19,
+    "bing": 30800,
+    "bing_en": 14600,
+    "google": 3930
+  },
+  {
+    "baidu": 29,
+    "author": "杨冠卿",
+    "title": "漫题",
+    "so360": 577,
+    "bing": 25000,
+    "bing_en": 20500,
+    "google": 36400
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "适安旅次  其一",
+    "so360": 27,
+    "bing": 25200,
+    "bing_en": 11400,
+    "google": 23400
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "适安旅次  其二",
+    "so360": 27,
+    "bing": 25200,
+    "bing_en": 9810,
+    "google": 23800
+  },
+  {
+    "baidu": 14,
+    "author": "杨冠卿",
+    "title": "晓思",
+    "so360": 1850,
+    "bing": 25000,
+    "bing_en": 815,
+    "google": 257000
+  },
+  {
+    "baidu": 27,
+    "author": "杨冠卿",
+    "title": "雪后",
+    "so360": 156,
+    "bing": 25000,
+    "bing_en": 25600,
+    "google": 127000
+  },
+  {
+    "baidu": 6,
+    "author": "杨冠卿",
+    "title": "观诸园接花果",
+    "so360": 10,
+    "bing": 10300,
+    "bing_en": 21100,
+    "google": 28100
+  },
+  {
+    "baidu": 41,
+    "author": "杨冠卿",
+    "title": "寒食雨中  其一",
+    "so360": 51,
+    "bing": 13700,
+    "bing_en": 21100,
+    "google": 34500
+  },
+  {
+    "baidu": 67,
+    "author": "杨冠卿",
+    "title": "寒食雨中  其二",
+    "so360": 51,
+    "bing": 13300,
+    "bing_en": 21100,
+    "google": 34400
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "渡口",
+    "so360": 165,
+    "bing": 209000,
+    "bing_en": 15100,
+    "google": 4730
+  },
+  {
+    "baidu": 28,
+    "author": "杨冠卿",
+    "title": "绝句  其一",
+    "so360": 11,
+    "bing": 33400,
+    "bing_en": 21100,
+    "google": 17300
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "绝句  其二",
+    "so360": 526,
+    "bing": 30800,
+    "bing_en": 21100,
+    "google": 43600
+  },
+  {
+    "baidu": 4,
+    "author": "杨冠卿",
+    "title": "始觉",
+    "so360": 29,
+    "bing": 119000,
+    "bing_en": 21900,
+    "google": 6550
+  },
+  {
+    "baidu": 6,
+    "author": "杨冠卿",
+    "title": "自檇李至毗陵道中  其一",
+    "so360": 2,
+    "bing": 12300,
+    "bing_en": 101,
+    "google": 2450
+  },
+  {
+    "baidu": 7,
+    "author": "杨冠卿",
+    "title": "自檇李至毗陵道中  其二",
+    "so360": 2,
+    "bing": 12300,
+    "bing_en": 15300,
+    "google": 2460
+  },
+  {
+    "baidu": 6,
+    "author": "杨冠卿",
+    "title": "自檇李至毗陵道中  其三",
+    "so360": 55,
+    "bing": 12600,
+    "bing_en": 21100,
+    "google": 575
+  },
+  {
+    "baidu": 5,
+    "author": "杨冠卿",
+    "title": "自檇李至毗陵道中  其四",
+    "so360": 2,
+    "bing": 12600,
+    "bing_en": 21000,
+    "google": 2460
+  },
+  {
+    "baidu": 6,
+    "author": "杨冠卿",
+    "title": "自檇李至毗陵道中  其五",
+    "so360": 51,
+    "bing": 12600,
+    "bing_en": 3800,
+    "google": 2460
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "癸卯春杂用古语继吴监簿水月即事",
+    "so360": 11,
+    "bing": 6110,
+    "bing_en": 103,
+    "google": 585
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "为谷隠和虞参议韵",
+    "so360": 14,
+    "bing": 57,
+    "bing_en": 100,
+    "google": 9100
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "谷隠之东芍药酴醾涉夏尚有存者箨龙头角且森列于前次前韵呈九江赵使君",
+    "so360": 18,
+    "bing": 35,
+    "bing_en": 101,
+    "google": 10
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "归自淮右读楚辞有感",
+    "so360": 21,
+    "bing": 7570,
+    "bing_en": 3200,
+    "google": 4670
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "顷岁如番禺与庆传十六兄遇上饶后五年胥会于霅时太学增置生试竟不遂志将别去理朱方棹因咏昔人风雨对床之语慨然有感作是诗",
+    "so360": 17,
+    "bing": 93,
+    "bing_en": 100,
+    "google": 39
+  },
+  {
+    "baidu": 8,
+    "author": "杨冠卿",
+    "title": "继诗社诸友韵",
+    "so360": 35,
+    "bing": 19100,
+    "bing_en": 4490,
+    "google": 32900
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "复用前韵且约携琴寻花下之盟",
+    "so360": 18,
+    "bing": 44600,
+    "bing_en": 102,
+    "google": 1070
+  },
+  {
+    "baidu": 8,
+    "author": "杨冠卿",
+    "title": "淮楚春晚病中",
+    "so360": 13,
+    "bing": 23700,
+    "bing_en": 956,
+    "google": 29600
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "游交广用帐干赵德纵韵",
+    "so360": 21,
+    "bing": 8870,
+    "bing_en": 20800,
+    "google": 337
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "琴久不作客问其故戏为说偈",
+    "so360": 11,
+    "bing": 12300,
+    "bing_en": 114,
+    "google": 27700
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "代秦干上刑部张尚书  其一",
+    "so360": 32,
+    "bing": 2740,
+    "bing_en": 1220,
+    "google": 4850
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "代秦干上刑部张尚书  其二",
+    "so360": 30,
+    "bing": 2240,
+    "bing_en": 1570,
+    "google": 522
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "继朱叔谦所寄韵",
+    "so360": 10,
+    "bing": 42700,
+    "bing_en": 21300,
+    "google": 270
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "王鸥盟别去久之有诗继韵",
+    "so360": 73,
+    "bing": 8480,
+    "bing_en": 94,
+    "google": 226
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "秋日怀松竹旧友  其一",
+    "so360": 1120,
+    "bing": 12100,
+    "bing_en": 100,
+    "google": 2050
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "秋日怀松竹旧友  其二",
+    "so360": 1120,
+    "bing": 12100,
+    "bing_en": 100,
+    "google": 2150
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "倦游",
+    "so360": 63,
+    "bing": 325000,
+    "bing_en": 4130,
+    "google": 3520
+  },
+  {
+    "baidu": 4,
+    "author": "杨冠卿",
+    "title": "水亭晚坐",
+    "so360": 32,
+    "bing": 160000,
+    "bing_en": 20700,
+    "google": 7430
+  },
+  {
+    "baidu": 27,
+    "author": "杨冠卿",
+    "title": "诗僧常不轻以梅花句得名于时雪后踏月相过论诗终夕退得二绝以谢  其一",
+    "so360": 156,
+    "bing": 210,
+    "bing_en": 100,
+    "google": 1130
+  },
+  {
+    "baidu": 32,
+    "author": "杨冠卿",
+    "title": "诗僧常不轻以梅花句得名于时雪后踏月相过论诗终夕退得二绝以谢  其二",
+    "so360": 156,
+    "bing": 233,
+    "bing_en": 100,
+    "google": 999
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "题张安国舍人平沙落雁图",
+    "so360": 20,
+    "bing": 330,
+    "bing_en": 106,
+    "google": 2210
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "九江春半雨中寒甚忽见梨花",
+    "so360": 23,
+    "bing": 56100,
+    "bing_en": 117,
+    "google": 2870
+  },
+  {
+    "baidu": 9,
+    "author": "杨冠卿",
+    "title": "乙未秋赋不遂志归寓水村",
+    "so360": 12,
+    "bing": 12500,
+    "bing_en": 1450,
+    "google": 1800
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "自仙潭治归舟呈王鸥盟  其一",
+    "so360": 32,
+    "bing": 3970,
+    "bing_en": 2240,
+    "google": 362
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "自仙潭治归舟呈王鸥盟  其二",
+    "so360": 32,
+    "bing": 27900,
+    "bing_en": 2120,
+    "google": 326
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "自仙潭治归舟呈王鸥盟  其三",
+    "so360": 34,
+    "bing": 39000,
+    "bing_en": 21100,
+    "google": 368
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "自仙潭治归舟呈王鸥盟  其四",
+    "so360": 32,
+    "bing": 12100,
+    "bing_en": 21100,
+    "google": 320
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "次韵王鸥盟秋日郊居即事  其一",
+    "so360": 30,
+    "bing": 12700,
+    "bing_en": 119,
+    "google": 9040
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "次韵王鸥盟秋日郊居即事  其二",
+    "so360": 30,
+    "bing": 12800,
+    "bing_en": 120,
+    "google": 895
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "次韵王鸥盟秋日郊居即事  其三",
+    "so360": 31,
+    "bing": 12200,
+    "bing_en": 3650,
+    "google": 900
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "次李提举桂花韵  其一",
+    "so360": 30,
+    "bing": 14200,
+    "bing_en": 2240,
+    "google": 1380
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "次李提举桂花韵  其二",
+    "so360": 32,
+    "bing": 14200,
+    "bing_en": 2130,
+    "google": 1460
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "春雨未霁有载歌姬游道场山者",
+    "so360": 19,
+    "bing": 9800,
+    "bing_en": 63,
+    "google": 14100
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "塞上与郑将夜饮  其一",
+    "so360": 23,
+    "bing": 17800,
+    "bing_en": 4190,
+    "google": 16800
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "塞上与郑将夜饮  其二",
+    "so360": 23,
+    "bing": 17800,
+    "bing_en": 5760,
+    "google": 16800
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "次韵李提举秋日杂咏",
+    "so360": 30,
+    "bing": 12600,
+    "bing_en": 593,
+    "google": 2020
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "次归耕堂稀字韵  其一",
+    "so360": 56,
+    "bing": 49500,
+    "bing_en": 5980,
+    "google": 5450
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "次归耕堂稀字韵  其二",
+    "so360": 56,
+    "bing": 13100,
+    "bing_en": 5650,
+    "google": 5120
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "次归耕堂稀字韵  其三",
+    "so360": 57,
+    "bing": 13200,
+    "bing_en": 21100,
+    "google": 5450
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "次归耕堂稀字韵  其四",
+    "so360": 23,
+    "bing": 13200,
+    "bing_en": 21100,
+    "google": 5260
+  },
+  {
+    "baidu": 6,
+    "author": "杨冠卿",
+    "title": "又用韵  其一",
+    "so360": 39,
+    "bing": 25400,
+    "bing_en": 17500,
+    "google": 46100
+  },
+  {
+    "baidu": 6,
+    "author": "杨冠卿",
+    "title": "又用韵  其二",
+    "so360": 172,
+    "bing": 24000,
+    "bing_en": 16400,
+    "google": 45900
+  },
+  {
+    "baidu": 6,
+    "author": "杨冠卿",
+    "title": "又用韵  其三",
+    "so360": 513,
+    "bing": 190000,
+    "bing_en": 22900,
+    "google": 19400
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "乙巳春次中隠先生韵  其一",
+    "so360": 1690,
+    "bing": 12300,
+    "bing_en": 2750,
+    "google": 1030
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "乙巳春次中隠先生韵  其二",
+    "so360": 1120,
+    "bing": 12300,
+    "bing_en": 100,
+    "google": 10
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "挽叶南仲",
+    "so360": 544,
+    "bing": 25500,
+    "bing_en": 135,
+    "google": 2040
+  },
+  {
+    "baidu": 10,
+    "author": "杨冠卿",
+    "title": "次韵王宣干秋怀",
+    "so360": 22,
+    "bing": 31000,
+    "bing_en": 5960,
+    "google": 18400
+  },
+  {
+    "baidu": 6,
+    "author": "杨冠卿",
+    "title": "送堵修远归湖城  其一",
+    "so360": 22,
+    "bing": 11600,
+    "bing_en": 28000,
+    "google": 27000
+  },
+  {
+    "baidu": 6,
+    "author": "杨冠卿",
+    "title": "送堵修远归湖城  其二",
+    "so360": 22,
+    "bing": 12200,
+    "bing_en": 20000,
+    "google": 27000
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "西楼",
+    "so360": 361,
+    "bing": 25000,
+    "bing_en": 28800,
+    "google": 15800
+  },
+  {
+    "baidu": 10,
+    "author": "杨冠卿",
+    "title": "次韵叶无咎栀子花",
+    "so360": 28,
+    "bing": 12300,
+    "bing_en": 73,
+    "google": 2360
+  },
+  {
+    "baidu": 19,
+    "author": "杨冠卿",
+    "title": "从郭中隠觅酒并呈张君量",
+    "so360": 18,
+    "bing": 12300,
+    "bing_en": 200,
+    "google": 32000
+  },
+  {
+    "baidu": 8,
+    "author": "杨冠卿",
+    "title": "又示同志",
+    "so360": 10,
+    "bing": 44400,
+    "bing_en": 18000,
+    "google": 46800
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "归途用李泉野韵",
+    "so360": 27,
+    "bing": 55800,
+    "bing_en": 6180,
+    "google": 274
+  },
+  {
+    "baidu": 4,
+    "author": "杨冠卿",
+    "title": "癸丑生朝舟行有感",
+    "so360": 56,
+    "bing": 12700,
+    "bing_en": 16900,
+    "google": 28600
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "题画扇",
+    "so360": 570,
+    "bing": 43800,
+    "bing_en": 4750,
+    "google": 5220
+  },
+  {
+    "baidu": 0,
+    "author": "杨冠卿",
+    "title": "与金陵傅漕余预乡荐时傅兄持文衡  其一",
+    "so360": 30,
+    "bing": 12300,
+    "bing_en": 100,
+    "google": 326
+  },
+  {
+    "baidu": 0,
+    "author": "杨冠卿",
+    "title": "与金陵傅漕余预乡荐时傅兄持文衡  其二",
+    "so360": 30,
+    "bing": 12300,
+    "bing_en": 100,
+    "google": 328
+  },
+  {
+    "baidu": 0,
+    "author": "杨冠卿",
+    "title": "继韩尚书春日舟行韵  其一",
+    "so360": 21,
+    "bing": 29200,
+    "bing_en": 10500,
+    "google": 20900
+  },
+  {
+    "baidu": 0,
+    "author": "杨冠卿",
+    "title": "继韩尚书春日舟行韵  其二",
+    "so360": 21,
+    "bing": 29200,
+    "bing_en": 10600,
+    "google": 20900
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "与鄂州都统张提刑  其一",
+    "so360": 50,
+    "bing": 93,
+    "bing_en": 27000,
+    "google": 1350
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "与鄂州都统张提刑  其二",
+    "so360": 50,
+    "bing": 74,
+    "bing_en": 1050,
+    "google": 1300
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "与鄂州都统张提刑  其三",
+    "so360": 50,
+    "bing": 1000,
+    "bing_en": 15100,
+    "google": 1340
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "和京尚书上元日同禁从游凤山韵",
+    "so360": 12,
+    "bing": 5940,
+    "bing_en": 877,
+    "google": 29900
+  },
+  {
+    "baidu": 4,
+    "author": "杨冠卿",
+    "title": "洪溪口",
+    "so360": 11,
+    "bing": 25000,
+    "bing_en": 1600,
+    "google": 15400
+  },
+  {
+    "baidu": 5,
+    "author": "杨冠卿",
+    "title": "蜡梅四绝  其一",
+    "so360": 43,
+    "bing": 12300,
+    "bing_en": 77,
+    "google": 20100
+  },
+  {
+    "baidu": 5,
+    "author": "杨冠卿",
+    "title": "蜡梅四绝  其二",
+    "so360": 42,
+    "bing": 12300,
+    "bing_en": 83,
+    "google": 20000
+  },
+  {
+    "baidu": 5,
+    "author": "杨冠卿",
+    "title": "蜡梅四绝  其三",
+    "so360": 40,
+    "bing": 12300,
+    "bing_en": 5070,
+    "google": 8450
+  },
+  {
+    "baidu": 5,
+    "author": "杨冠卿",
+    "title": "蜡梅四绝  其四",
+    "so360": 8,
+    "bing": 12300,
+    "bing_en": 5060,
+    "google": 20100
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "同韩吴二寺丞饮西湖梅花下酒酣继韩韵",
+    "so360": 11,
+    "bing": 6350,
+    "bing_en": 16700,
+    "google": 2130
+  },
+  {
+    "baidu": 6,
+    "author": "杨冠卿",
+    "title": "港口",
+    "so360": 34,
+    "bing": 1210000,
+    "bing_en": 25000,
+    "google": 162000
+  },
+  {
+    "baidu": 3,
+    "author": "杨冠卿",
+    "title": "古梅",
+    "so360": 39,
+    "bing": 1060000,
+    "bing_en": 23700,
+    "google": 572
+  },
+  {
+    "baidu": 4,
+    "author": "杨冠卿",
+    "title": "美人隔秋水",
+    "so360": 106,
+    "bing": 25000,
+    "bing_en": 20300,
+    "google": 4260
+  },
+  {
+    "baidu": 2,
+    "author": "杨冠卿",
+    "title": "麻姑之东涉千堆垅至射亭宿黄氏新馆",
+    "so360": 2,
+    "bing": 12300,
+    "bing_en": 102,
+    "google": 477
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "同张帅出郊客有欲别去者作诗留之",
+    "so360": 13,
+    "bing": 3450,
+    "bing_en": 8730,
+    "google": 27500
+  },
+  {
+    "baidu": 1,
+    "author": "杨冠卿",
+    "title": "春江极目",
+    "so360": 50,
+    "bing": 25000,
+    "bing_en": 2980,
+    "google": 470
+  },
+  {
+    "baidu": 3,
+    "author": "常不轻",
+    "title": "次杨梦锡雪后古梅正芳韵兼呈李史君",
+    "so360": 27,
+    "bing": 11800,
+    "bing_en": 101,
+    "google": 304
+  },
+  {
+    "baidu": 58,
+    "author": "胡泳",
+    "title": "句",
+    "so360": 10500,
+    "bing": 29800,
+    "bing_en": 64600,
+    "google": 3790000
+  },
+  {
+    "baidu": 2,
+    "author": "王卿月",
+    "title": "长淮晚望",
+    "so360": 16,
+    "bing": 48300,
+    "bing_en": 16100,
+    "google": 7270000
+  },
+  {
+    "baidu": 4,
+    "author": "赵烨",
+    "title": "挽吕东莱  其一",
+    "so360": 20,
+    "bing": 13000,
+    "bing_en": 18700,
+    "google": 375000
+  },
+  {
+    "baidu": 4,
+    "author": "赵烨",
+    "title": "挽吕东莱  其二",
+    "so360": 20,
+    "bing": 13000,
+    "bing_en": 18400,
+    "google": 350000
+  },
+  {
+    "baidu": 29,
+    "author": "刘玶",
+    "title": "句",
+    "so360": 13,
+    "bing": 75300,
+    "bing_en": 18300,
+    "google": 523000
+  },
+  {
+    "baidu": 24,
+    "author": "马登",
+    "title": "今日",
+    "so360": 1880,
+    "bing": 1530000,
+    "bing_en": 20000,
+    "google": 36400000
+  },
+  {
+    "baidu": 2,
+    "author": "京镗",
+    "title": "留金馆作",
+    "so360": 18,
+    "bing": 851000,
+    "bing_en": 101,
+    "google": 426000
+  },
+  {
+    "baidu": 2,
+    "author": "京镗",
+    "title": "漳河疑冢",
+    "so360": 63,
+    "bing": 12400,
+    "bing_en": 112,
+    "google": 389000
+  },
+  {
+    "baidu": 345,
+    "author": "京镗",
+    "title": "句  其一",
+    "so360": 11,
+    "bing": 744000,
+    "bing_en": 435000,
+    "google": 968000
+  },
+  {
+    "baidu": 269,
+    "author": "京镗",
+    "title": "句  其二",
+    "so360": 513,
+    "bing": 1490000,
+    "bing_en": 110000,
+    "google": 981000
+  },
+  {
+    "baidu": 4,
+    "author": "释达观",
+    "title": "为李端愿居士说偈",
+    "so360": 48,
+    "bing": 5410,
+    "bing_en": 105,
+    "google": 24000
+  },
+  {
+    "baidu": 2,
+    "author": "释达观",
+    "title": "颂古五首  其一",
+    "so360": 36,
+    "bing": 35700,
+    "bing_en": 18000,
+    "google": 173000
+  },
+  {
+    "baidu": 2,
+    "author": "释达观",
+    "title": "颂古五首  其二",
+    "so360": 36,
+    "bing": 35700,
+    "bing_en": 15700,
+    "google": 53500
+  },
+  {
+    "baidu": 2,
+    "author": "释达观",
+    "title": "颂古五首  其三",
+    "so360": 558,
+    "bing": 1140000,
+    "bing_en": 29700,
+    "google": 175000
+  },
+  {
+    "baidu": 2,
+    "author": "释达观",
+    "title": "颂古五首  其四",
+    "so360": 567,
+    "bing": 1030000,
+    "bing_en": 23500,
+    "google": 178000
+  },
+  {
+    "baidu": 2,
+    "author": "释达观",
+    "title": "颂古五首  其五",
+    "so360": 10,
+    "bing": 1020000,
+    "bing_en": 30200,
+    "google": 183000
+  },
+  {
+    "baidu": 2,
+    "author": "黄度",
+    "title": "梅岭冈",
+    "so360": 21,
+    "bing": 5,
+    "bing_en": 1620,
+    "google": 244000
+  },
+  {
+    "baidu": 13,
+    "author": "黄度",
+    "title": "玄武湖  其一",
+    "so360": 498,
+    "bing": 9050,
+    "bing_en": 43800,
+    "google": 5670000
+  },
+  {
+    "baidu": 14,
+    "author": "黄度",
+    "title": "玄武湖  其二",
+    "so360": 508,
+    "bing": 560000,
+    "bing_en": 38400,
+    "google": 3410000
+  },
+  {
+    "baidu": 1,
+    "author": "黄度",
+    "title": "冶城楼  其一",
+    "so360": 522,
+    "bing": 4410000,
+    "bing_en": 18200,
+    "google": 73700
+  },
+  {
+    "baidu": 1,
+    "author": "黄度",
+    "title": "冶城楼  其二",
+    "so360": 525,
+    "bing": 4410000,
+    "bing_en": 21300,
+    "google": 505000
+  },
+  {
+    "baidu": 3,
+    "author": "黄度",
+    "title": "青溪阁",
+    "so360": 23,
+    "bing": 1040000,
+    "bing_en": 18900,
+    "google": 8060000
+  },
+  {
+    "baidu": 2,
+    "author": "黄度",
+    "title": "白鹭亭",
+    "so360": 27,
+    "bing": 19000,
+    "bing_en": 31200,
+    "google": 97400
+  },
+  {
+    "baidu": 3,
+    "author": "黄度",
+    "title": "凤凰台",
+    "so360": 29,
+    "bing": 0,
+    "bing_en": 21500,
+    "google": 22500000
+  },
+  {
+    "baidu": 2,
+    "author": "黄度",
+    "title": "隆荫堂",
+    "so360": 11,
+    "bing": 819000,
+    "bing_en": 22200,
+    "google": 371000
+  },
+  {
+    "baidu": 6,
+    "author": "章天与",
+    "title": "醴泉",
+    "so360": 30,
+    "bing": 58900000,
+    "bing_en": 21300,
+    "google": 1280000
+  },
+  {
+    "baidu": 4,
+    "author": "邓远举",
+    "title": "句",
+    "so360": 7390,
+    "bing": 68600,
+    "bing_en": 24000,
+    "google": 333
+  },
+  {
+    "baidu": 1,
+    "author": "吴端",
+    "title": "山居漫兴",
+    "so360": 12,
+    "bing": 521000,
+    "bing_en": 21100,
+    "google": 3290000
+  },
+  {
+    "baidu": 4,
+    "author": "吴端",
+    "title": "草堂",
+    "so360": 78,
+    "bing": 38700,
+    "bing_en": 26100,
+    "google": 3180000
+  },
+  {
+    "baidu": 4,
+    "author": "吴端",
+    "title": "春怀",
+    "so360": 13,
+    "bing": 370000,
+    "bing_en": 2610,
+    "google": 7980000
+  },
+  {
+    "baidu": 2,
+    "author": "吴端",
+    "title": "春日山行",
+    "so360": 18,
+    "bing": 8610000,
+    "bing_en": 37800,
+    "google": 2060000
+  },
+  {
+    "baidu": 7,
+    "author": "释了悟",
+    "title": "偈颂五首  其一",
+    "so360": 23,
+    "bing": 16500,
+    "bing_en": 5200,
+    "google": 85500
+  },
+  {
+    "baidu": 7,
+    "author": "释了悟",
+    "title": "偈颂五首  其二",
+    "so360": 546,
+    "bing": 15300,
+    "bing_en": 5290,
+    "google": 73100
+  },
+  {
+    "baidu": 7,
+    "author": "释了悟",
+    "title": "偈颂五首  其三",
+    "so360": 27,
+    "bing": 26100,
+    "bing_en": 21100,
+    "google": 88500
+  },
+  {
+    "baidu": 7,
+    "author": "释了悟",
+    "title": "偈颂五首  其四",
+    "so360": 24,
+    "bing": 24800,
+    "bing_en": 21100,
+    "google": 71500
+  },
+  {
+    "baidu": 7,
+    "author": "释了悟",
+    "title": "偈颂五首  其五",
+    "so360": 19,
+    "bing": 26700,
+    "bing_en": 21100,
+    "google": 90200
+  },
+  {
+    "baidu": 3,
+    "author": "释了悟",
+    "title": "读政黄牛",
+    "so360": 15,
+    "bing": 58200,
+    "bing_en": 1600,
+    "google": 26900
+  },
+  {
+    "baidu": 1,
+    "author": "释了悟",
+    "title": "颂古",
+    "so360": 109,
+    "bing": 209000,
+    "bing_en": 14900,
+    "google": 129000
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一",
+    "so360": 230,
+    "bing": 32200,
+    "bing_en": 1150,
+    "google": 49600
+  },
+  {
+    "baidu": 16,
+    "author": "释道生",
+    "title": "偈颂二十二首  其二",
+    "so360": 215,
+    "bing": 32200,
+    "bing_en": 1160,
+    "google": 46200
+  },
+  {
+    "baidu": 16,
+    "author": "释道生",
+    "title": "偈颂二十二首  其三",
+    "so360": 221,
+    "bing": 19100,
+    "bing_en": 17300,
+    "google": 36000
+  },
+  {
+    "baidu": 16,
+    "author": "释道生",
+    "title": "偈颂二十二首  其四",
+    "so360": 19,
+    "bing": 18300,
+    "bing_en": 17300,
+    "google": 35400
+  },
+  {
+    "baidu": 16,
+    "author": "释道生",
+    "title": "偈颂二十二首  其五",
+    "so360": 17,
+    "bing": 18100,
+    "bing_en": 17300,
+    "google": 42100
+  },
+  {
+    "baidu": 16,
+    "author": "释道生",
+    "title": "偈颂二十二首  其六",
+    "so360": 17,
+    "bing": 17000,
+    "bing_en": 17100,
+    "google": 42800
+  },
+  {
+    "baidu": 16,
+    "author": "释道生",
+    "title": "偈颂二十二首  其七",
+    "so360": 11,
+    "bing": 16400,
+    "bing_en": 16900,
+    "google": 38000
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其八",
+    "so360": 38,
+    "bing": 16900,
+    "bing_en": 16900,
+    "google": 29900
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其九",
+    "so360": 36,
+    "bing": 16600,
+    "bing_en": 16600,
+    "google": 42100
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一○",
+    "so360": 230,
+    "bing": 32200,
+    "bing_en": 1150,
+    "google": 15700
+  },
+  {
+    "baidu": 2,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一一",
+    "so360": 349,
+    "bing": 13900,
+    "bing_en": 11900,
+    "google": 20700
+  },
+  {
+    "baidu": 2,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一二",
+    "so360": 230,
+    "bing": 17900,
+    "bing_en": 7480,
+    "google": 26500
+  },
+  {
+    "baidu": 16,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一三",
+    "so360": 40,
+    "bing": 32200,
+    "bing_en": 3760,
+    "google": 14000
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一四",
+    "so360": 36,
+    "bing": 13500,
+    "bing_en": 3930,
+    "google": 26000
+  },
+  {
+    "baidu": 16,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一五",
+    "so360": 473,
+    "bing": 13500,
+    "bing_en": 3000,
+    "google": 11300
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一六",
+    "so360": 233,
+    "bing": 13500,
+    "bing_en": 2910,
+    "google": 10600
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一七",
+    "so360": 70,
+    "bing": 13500,
+    "bing_en": 2650,
+    "google": 10700
+  },
+  {
+    "baidu": 16,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一八",
+    "so360": 233,
+    "bing": 13500,
+    "bing_en": 2530,
+    "google": 10200
+  },
+  {
+    "baidu": 16,
+    "author": "释道生",
+    "title": "偈颂二十二首  其一九",
+    "so360": 450,
+    "bing": 13500,
+    "bing_en": 2740,
+    "google": 11000
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其二○",
+    "so360": 215,
+    "bing": 32200,
+    "bing_en": 1160,
+    "google": 13700
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其二一",
+    "so360": 234,
+    "bing": 13500,
+    "bing_en": 4140,
+    "google": 26700
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其二二",
+    "so360": 228,
+    "bing": 13500,
+    "bing_en": 3550,
+    "google": 16300
+  },
+  {
+    "baidu": 15,
+    "author": "释道生",
+    "title": "偈颂二十二首  其二三",
+    "so360": 346,
+    "bing": 13500,
+    "bing_en": 6690,
+    "google": 25400
+  },
+  {
+    "baidu": 3,
+    "author": "释道生",
+    "title": "赞密庵禅师",
+    "so360": 541,
+    "bing": 17200,
+    "bing_en": 2600,
+    "google": 42500
+  },
+  {
+    "baidu": 2,
+    "author": "释道生",
+    "title": "题庐山楞伽院",
+    "so360": 23,
+    "bing": 347000,
+    "bing_en": 1310,
+    "google": 5070
+  },
+  {
+    "baidu": 1,
+    "author": "释道生",
+    "title": "题庐山圆通",
+    "so360": 62,
+    "bing": 347000,
+    "bing_en": 1690,
+    "google": 20300
+  },
+  {
+    "baidu": 2,
+    "author": "释道生",
+    "title": "题烈山",
+    "so360": 26,
+    "bing": 809000,
+    "bing_en": 428,
+    "google": 262000
+  },
+  {
+    "baidu": 1,
+    "author": "释道生",
+    "title": "题长干塔",
+    "so360": 28,
+    "bing": 1350000,
+    "bing_en": 5560,
+    "google": 57500
+  },
+  {
+    "baidu": 2,
+    "author": "释道生",
+    "title": "送雪峰化主",
+    "so360": 26,
+    "bing": 140000,
+    "bing_en": 1150,
+    "google": 85600
+  },
+  {
+    "baidu": 3,
+    "author": "释道生",
+    "title": "送闻兄持钵",
+    "so360": 30,
+    "bing": 25200,
+    "bing_en": 2600,
+    "google": 480000
+  },
+  {
+    "baidu": 1,
+    "author": "释道生",
+    "title": "送观禅客",
+    "so360": 30,
+    "bing": 275000,
+    "bing_en": 571,
+    "google": 272000
+  },
+  {
+    "baidu": 4,
+    "author": "释道生",
+    "title": "送道者干澜溪桥",
+    "so360": 22,
+    "bing": 37100,
+    "bing_en": 883,
+    "google": 17600
+  },
+  {
+    "baidu": 1,
+    "author": "释道生",
+    "title": "赠不欺信公监总余杭建接待",
+    "so360": 647000,
+    "bing": 12300,
+    "bing_en": 435,
+    "google": 1740
+  },
+  {
+    "baidu": 6,
+    "author": "释允韶",
+    "title": "偈七首  其一",
+    "so360": 15,
+    "bing": 668000,
+    "bing_en": 21100,
+    "google": 877000
+  },
+  {
+    "baidu": 6,
+    "author": "释允韶",
+    "title": "偈七首  其二",
+    "so360": 10,
+    "bing": 668000,
+    "bing_en": 21100,
+    "google": 899000
+  },
+  {
+    "baidu": 6,
+    "author": "释允韶",
+    "title": "偈七首  其三",
+    "so360": 32,
+    "bing": 17800,
+    "bing_en": 21100,
+    "google": 872000
+  },
+  {
+    "baidu": 6,
+    "author": "释允韶",
+    "title": "偈七首  其四",
+    "so360": 503,
+    "bing": 17800,
+    "bing_en": 21100,
+    "google": 895000
+  },
+  {
+    "baidu": 6,
+    "author": "释允韶",
+    "title": "偈七首  其五",
+    "so360": 14,
+    "bing": 17800,
+    "bing_en": 21100,
+    "google": 873000
+  },
+  {
+    "baidu": 6,
+    "author": "释允韶",
+    "title": "偈七首  其六",
+    "so360": 12,
+    "bing": 17800,
+    "bing_en": 21100,
+    "google": 889000
+  },
+  {
+    "baidu": 6,
+    "author": "释允韶",
+    "title": "偈七首  其七",
+    "so360": 10,
+    "bing": 17800,
+    "bing_en": 21100,
+    "google": 909000
+  },
+  {
+    "baidu": 4,
+    "author": "吕元锡",
+    "title": "南山留题",
+    "so360": 29,
+    "bing": 59900,
+    "bing_en": 21800,
+    "google": 6590
+  },
+  {
+    "baidu": 12,
+    "author": "赵善括",
+    "title": "和邦承所赠中隠古风",
+    "so360": 29,
+    "bing": 12300,
+    "bing_en": 176,
+    "google": 279
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "和罗倅竹园唱和之什",
+    "so360": 28,
+    "bing": 12500,
+    "bing_en": 152,
+    "google": 45
+  },
+  {
+    "baidu": 49,
+    "author": "赵善括",
+    "title": "清明后一日泛湖游园联句",
+    "so360": 23,
+    "bing": 92000,
+    "bing_en": 73,
+    "google": 2120
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "和浙宪同诸公游梅园  其一",
+    "so360": 45,
+    "bing": 15600,
+    "bing_en": 6860,
+    "google": 2170
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "和浙宪同诸公游梅园  其二",
+    "so360": 45,
+    "bing": 15600,
+    "bing_en": 6730,
+    "google": 2170
+  },
+  {
+    "baidu": 7,
+    "author": "赵善括",
+    "title": "和伍解元喜祈雨有感",
+    "so360": 40,
+    "bing": 5000,
+    "bing_en": 21300,
+    "google": 2760
+  },
+  {
+    "baidu": 4,
+    "author": "赵善括",
+    "title": "过金陵有感和韵",
+    "so360": 48,
+    "bing": 137000,
+    "bing_en": 723,
+    "google": 11300
+  },
+  {
+    "baidu": 4,
+    "author": "赵善括",
+    "title": "纪游",
+    "so360": 34,
+    "bing": 791,
+    "bing_en": 22200,
+    "google": 21800
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "乐塘铺和周师禹韵",
+    "so360": 22,
+    "bing": 212000,
+    "bing_en": 21300,
+    "google": 27000
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "奉和章冠之长芦壁间韵",
+    "so360": 35,
+    "bing": 11900,
+    "bing_en": 21200,
+    "google": 365
+  },
+  {
+    "baidu": 5,
+    "author": "赵善括",
+    "title": "追和外舅郭倅定香院题诗",
+    "so360": 39,
+    "bing": 5980,
+    "bing_en": 103,
+    "google": 3550
+  },
+  {
+    "baidu": 12,
+    "author": "赵善括",
+    "title": "和张尉食字韵",
+    "so360": 30,
+    "bing": 20000,
+    "bing_en": 21300,
+    "google": 17600
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "谢葛守诗轴",
+    "so360": 33,
+    "bing": 79200,
+    "bing_en": 21300,
+    "google": 552
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "送外舅杜侍御使陕西",
+    "so360": 41,
+    "bing": 12300,
+    "bing_en": 90,
+    "google": 13600
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "真妃祠",
+    "so360": 31,
+    "bing": 17300,
+    "bing_en": 21300,
+    "google": 1340
+  },
+  {
+    "baidu": 4,
+    "author": "赵善括",
+    "title": "上王右司三十韵",
+    "so360": 36,
+    "bing": 672000,
+    "bing_en": 21100,
+    "google": 13900
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "题古圳铺",
+    "so360": 23,
+    "bing": 96100,
+    "bing_en": 15800,
+    "google": 5100
+  },
+  {
+    "baidu": 26,
+    "author": "赵善括",
+    "title": "结茅守冢偶携子弟散策郊游有感借用壁间韵  其一",
+    "so360": 24,
+    "bing": 2590,
+    "bing_en": 100,
+    "google": 536
+  },
+  {
+    "baidu": 26,
+    "author": "赵善括",
+    "title": "结茅守冢偶携子弟散策郊游有感借用壁间韵  其二",
+    "so360": 23,
+    "bing": 2590,
+    "bing_en": 100,
+    "google": 527
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "题定光壁",
+    "so360": 25,
+    "bing": 16400,
+    "bing_en": 302,
+    "google": 534
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "和龚同叔春日即事五首  其一",
+    "so360": 46,
+    "bing": 12300,
+    "bing_en": 3340,
+    "google": 28500
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "和龚同叔春日即事五首  其二",
+    "so360": 46,
+    "bing": 12300,
+    "bing_en": 3170,
+    "google": 28700
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "和龚同叔春日即事五首  其三",
+    "so360": 46,
+    "bing": 11900,
+    "bing_en": 18500,
+    "google": 28500
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "和龚同叔春日即事五首  其四",
+    "so360": 46,
+    "bing": 12100,
+    "bing_en": 18500,
+    "google": 28600
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "和龚同叔春日即事五首  其五",
+    "so360": 47,
+    "bing": 12100,
+    "bing_en": 18500,
+    "google": 28400
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "世事二首  其一",
+    "so360": 29,
+    "bing": 15800,
+    "bing_en": 21100,
+    "google": 11200
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "世事二首  其二",
+    "so360": 26,
+    "bing": 17700,
+    "bing_en": 21100,
+    "google": 10500
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "再用前韵  其一",
+    "so360": 19,
+    "bing": 21800,
+    "bing_en": 21100,
+    "google": 25200
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "再用前韵  其二",
+    "so360": 21,
+    "bing": 22700,
+    "bing_en": 21100,
+    "google": 25300
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "游香社寺",
+    "so360": 33,
+    "bing": 45600,
+    "bing_en": 21400,
+    "google": 8
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "清明偶题",
+    "so360": 38,
+    "bing": 37800,
+    "bing_en": 17300,
+    "google": 22600
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "同王秘校和同年五使君韵饯送严文守江阴  其一",
+    "so360": 4,
+    "bing": 2150,
+    "bing_en": 1680,
+    "google": 64
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "同王秘校和同年五使君韵饯送严文守江阴  其二",
+    "so360": 4,
+    "bing": 2150,
+    "bing_en": 1700,
+    "google": 75
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "题仪真天宁寺",
+    "so360": 27,
+    "bing": 42000,
+    "bing_en": 3010,
+    "google": 53
+  },
+  {
+    "baidu": 33,
+    "author": "赵善括",
+    "title": "挽王漕稚川  其一",
+    "so360": 31,
+    "bing": 13900,
+    "bing_en": 21100,
+    "google": 2400
+  },
+  {
+    "baidu": 33,
+    "author": "赵善括",
+    "title": "挽王漕稚川  其二",
+    "so360": 40,
+    "bing": 13900,
+    "bing_en": 21000,
+    "google": 2670
+  },
+  {
+    "baidu": 61,
+    "author": "赵善括",
+    "title": "挽朱倅周卿  其一",
+    "so360": 28,
+    "bing": 2530,
+    "bing_en": 3490,
+    "google": 348
+  },
+  {
+    "baidu": 57,
+    "author": "赵善括",
+    "title": "挽朱倅周卿  其二",
+    "so360": 28,
+    "bing": 2230,
+    "bing_en": 2780,
+    "google": 356
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "挽陈提举  其一",
+    "so360": 32,
+    "bing": 363000,
+    "bing_en": 9730,
+    "google": 4400
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "挽陈提举  其二",
+    "so360": 32,
+    "bing": 364000,
+    "bing_en": 9030,
+    "google": 4340
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "挽陈提举  其三",
+    "so360": 96,
+    "bing": 364000,
+    "bing_en": 21100,
+    "google": 4900
+  },
+  {
+    "baidu": 9,
+    "author": "赵善括",
+    "title": "王提举合政钱夫人挽诗  其一",
+    "so360": 33,
+    "bing": 12300,
+    "bing_en": 365,
+    "google": 1870
+  },
+  {
+    "baidu": 9,
+    "author": "赵善括",
+    "title": "王提举合政钱夫人挽诗  其二",
+    "so360": 33,
+    "bing": 12300,
+    "bing_en": 398,
+    "google": 1900
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "中秋下澣次计幕诸公佳什之韵  其一",
+    "so360": 45,
+    "bing": 12300,
+    "bing_en": 100,
+    "google": 10400
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "中秋下澣次计幕诸公佳什之韵  其二",
+    "so360": 44,
+    "bing": 12300,
+    "bing_en": 100,
+    "google": 10200
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "次龚丈同叔高韵",
+    "so360": 25,
+    "bing": 12600,
+    "bing_en": 17400,
+    "google": 7740
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "再用同叔韵",
+    "so360": 44,
+    "bing": 59700,
+    "bing_en": 21300,
+    "google": 16600
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "题马氏避暑宫开福寺莲湖",
+    "so360": 31,
+    "bing": 12300,
+    "bing_en": 4450,
+    "google": 4020
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "和莫谦父韵",
+    "so360": 27,
+    "bing": 12500,
+    "bing_en": 21300,
+    "google": 11900
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "和叶宰",
+    "so360": 29,
+    "bing": 295000,
+    "bing_en": 21400,
+    "google": 65900
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "过清江怀莫谦父",
+    "so360": 22,
+    "bing": 12700,
+    "bing_en": 4970,
+    "google": 10200
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "过前冈见毁松有感  其一",
+    "so360": 36,
+    "bing": 16300,
+    "bing_en": 3300,
+    "google": 268
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "过前冈见毁松有感  其二",
+    "so360": 36,
+    "bing": 15800,
+    "bing_en": 3300,
+    "google": 34
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "送运干陈圣嘉解组还朝",
+    "so360": 30,
+    "bing": 315000,
+    "bing_en": 1000,
+    "google": 548
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "登梅仙坛观中作",
+    "so360": 29,
+    "bing": 149000,
+    "bing_en": 106,
+    "google": 6230
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "醮成作",
+    "so360": 29,
+    "bing": 61900,
+    "bing_en": 19400,
+    "google": 2430
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "醮毕作",
+    "so360": 2020,
+    "bing": 16800,
+    "bing_en": 18400,
+    "google": 500
+  },
+  {
+    "baidu": 5,
+    "author": "赵善括",
+    "title": "登坛作",
+    "so360": 47,
+    "bing": 12800000,
+    "bing_en": 4990,
+    "google": 100
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "登裴公亭借用杜牧之登齐山诗韵二首  其一",
+    "so360": 33,
+    "bing": 6620,
+    "bing_en": 53,
+    "google": 20100
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "登裴公亭借用杜牧之登齐山诗韵二首  其二",
+    "so360": 33,
+    "bing": 6620,
+    "bing_en": 64,
+    "google": 20100
+  },
+  {
+    "baidu": 4,
+    "author": "赵善括",
+    "title": "同叶宰饯春浄众寺",
+    "so360": 26,
+    "bing": 12500,
+    "bing_en": 102,
+    "google": 485
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "游梅仙坛口占",
+    "so360": 22,
+    "bing": 156000,
+    "bing_en": 63,
+    "google": 419
+  },
+  {
+    "baidu": 3,
+    "author": "赵善括",
+    "title": "挽赵龙图大卿",
+    "so360": 29,
+    "bing": 12700,
+    "bing_en": 4440,
+    "google": 589
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "临江玉虚观有牡丹思后圃亦正开恨不与集",
+    "so360": 41,
+    "bing": 99,
+    "bing_en": 107,
+    "google": 1060
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "赠赵舍人",
+    "so360": 39,
+    "bing": 27100,
+    "bing_en": 19600,
+    "google": 17000
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "挽韩漕直阁  其一",
+    "so360": 28,
+    "bing": 50200,
+    "bing_en": 1330,
+    "google": 421
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "挽韩漕直阁  其二",
+    "so360": 29,
+    "bing": 12800,
+    "bing_en": 1150,
+    "google": 421
+  },
+  {
+    "baidu": 4,
+    "author": "赵善括",
+    "title": "平山堂",
+    "so360": 48,
+    "bing": 669,
+    "bing_en": 9430,
+    "google": 3260
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "跃马西湖",
+    "so360": 40,
+    "bing": 76600,
+    "bing_en": 2270,
+    "google": 2440
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "过清渚",
+    "so360": 33,
+    "bing": 127000,
+    "bing_en": 21300,
+    "google": 24900
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "清明日醉普光阁上",
+    "so360": 39,
+    "bing": 141000,
+    "bing_en": 455,
+    "google": 1390
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "发舟至至德观",
+    "so360": 25,
+    "bing": 122000,
+    "bing_en": 109,
+    "google": 28000
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "题本觉寺",
+    "so360": 32,
+    "bing": 31200,
+    "bing_en": 1600,
+    "google": 30300
+  },
+  {
+    "baidu": 4,
+    "author": "赵善括",
+    "title": "题长沙倅厅磬沼",
+    "so360": 9,
+    "bing": 18200,
+    "bing_en": 131,
+    "google": 820
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "用子存韵寄乃兄雪香",
+    "so360": 30,
+    "bing": 112000,
+    "bing_en": 745,
+    "google": 15000
+  },
+  {
+    "baidu": 6,
+    "author": "赵善括",
+    "title": "和帅座劝农三首  其一",
+    "so360": 32,
+    "bing": 50300,
+    "bing_en": 5100,
+    "google": 8430
+  },
+  {
+    "baidu": 8,
+    "author": "赵善括",
+    "title": "和帅座劝农三首  其二",
+    "so360": 32,
+    "bing": 20500,
+    "bing_en": 5110,
+    "google": 4780
+  },
+  {
+    "baidu": 8,
+    "author": "赵善括",
+    "title": "和帅座劝农三首  其三",
+    "so360": 32,
+    "bing": 257000,
+    "bing_en": 21100,
+    "google": 4800
+  },
+  {
+    "baidu": 1,
+    "author": "赵善括",
+    "title": "隔凡石",
+    "so360": 27,
+    "bing": 34,
+    "bing_en": 21400,
+    "google": 16200
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "和阳运干见招集句",
+    "so360": 23,
+    "bing": 200000,
+    "bing_en": 102,
+    "google": 994
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "题壁",
+    "so360": 62,
+    "bing": 638,
+    "bing_en": 3070,
+    "google": 4360
+  },
+  {
+    "baidu": 12,
+    "author": "赵善括",
+    "title": "天宝洞天",
+    "so360": 30,
+    "bing": 38800,
+    "bing_en": 3300,
+    "google": 1420
+  },
+  {
+    "baidu": 2,
+    "author": "赵善括",
+    "title": "乙酉端午联句",
+    "so360": 39,
+    "bing": 118000,
+    "bing_en": 119,
+    "google": 27700
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "鸣水洞辞",
+    "so360": 28,
+    "bing": 32000,
+    "bing_en": 105,
+    "google": 5220000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "怀忠堂辞",
+    "so360": 43,
+    "bing": 33600,
+    "bing_en": 3080,
+    "google": 3120000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "太庙瑞芝颂",
+    "so360": 16,
+    "bing": 9930,
+    "bing_en": 85,
+    "google": 28300
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "明妃曲",
+    "so360": 75,
+    "bing": 52,
+    "bing_en": 27100,
+    "google": 16400000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "公无渡河",
+    "so360": 79,
+    "bing": 289000,
+    "bing_en": 17400,
+    "google": 2330000
+  },
+  {
+    "baidu": 35,
+    "author": "王炎",
+    "title": "雉朝飞",
+    "so360": 40,
+    "bing": 89200,
+    "bing_en": 22200,
+    "google": 1680000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "关山月",
+    "so360": 4470,
+    "bing": 173000,
+    "bing_en": 4180,
+    "google": 12600000
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "白头吟",
+    "so360": 194,
+    "bing": 412000,
+    "bing_en": 5720,
+    "google": 1820000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "饮马长城窟",
+    "so360": 57,
+    "bing": 32600,
+    "bing_en": 3420,
+    "google": 200000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "门有车马客",
+    "so360": 13,
+    "bing": 2490000,
+    "bing_en": 21100,
+    "google": 10500000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "出塞曲",
+    "so360": 94,
+    "bing": 209000,
+    "bing_en": 69400,
+    "google": 2760000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "远别离",
+    "so360": 82,
+    "bing": 1480000,
+    "bing_en": 4330,
+    "google": 1070000
+  },
+  {
+    "baidu": 97,
+    "author": "王炎",
+    "title": "拟古闺怨三首  其一",
+    "so360": 22,
+    "bing": 12300,
+    "bing_en": 13700,
+    "google": 31500
+  },
+  {
+    "baidu": 66,
+    "author": "王炎",
+    "title": "拟古闺怨三首  其二",
+    "so360": 24,
+    "bing": 12300,
+    "bing_en": 21100,
+    "google": 38000
+  },
+  {
+    "baidu": 60,
+    "author": "王炎",
+    "title": "拟古闺怨三首  其三",
+    "so360": 24,
+    "bing": 13400,
+    "bing_en": 21300,
+    "google": 26500
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "妆楼怨",
+    "so360": 147,
+    "bing": 67200,
+    "bing_en": 21300,
+    "google": 4640000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "薄薄酒",
+    "so360": 46,
+    "bing": 171000,
+    "bing_en": 23300,
+    "google": 117000
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "夏日雨过",
+    "so360": 142,
+    "bing": 1710000,
+    "bing_en": 25900,
+    "google": 45100
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "村行",
+    "so360": 46,
+    "bing": 17300000,
+    "bing_en": 470000,
+    "google": 18900000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "雪晴即事",
+    "so360": 28,
+    "bing": 205000,
+    "bing_en": 22900,
+    "google": 17200000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "吕待制所居八咏 半隠",
+    "so360": 58,
+    "bing": 10600,
+    "bing_en": 21300,
+    "google": 35000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "吕待制所居八咏 舒啸",
+    "so360": 13,
+    "bing": 10900,
+    "bing_en": 21300,
+    "google": 4350000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "吕待制所居八咏 缓步",
+    "so360": 63,
+    "bing": 13700,
+    "bing_en": 21000,
+    "google": 1010000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "吕待制所居八咏 月台",
+    "so360": 12,
+    "bing": 7640,
+    "bing_en": 20600,
+    "google": 2300000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "吕待制所居八咏 藤洞",
+    "so360": 14000,
+    "bing": 10500,
+    "bing_en": 20500,
+    "google": 3040000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "吕待制所居八咏 岁寒",
+    "so360": 11,
+    "bing": 10600,
+    "bing_en": 17300,
+    "google": 3530000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "吕待制所居八咏 朝阳",
+    "so360": 14,
+    "bing": 14000,
+    "bing_en": 19700,
+    "google": 2690000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "吕待制所居八咏 醉松",
+    "so360": 11,
+    "bing": 12000,
+    "bing_en": 21200,
+    "google": 3270000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "太平道中遇流民",
+    "so360": 17,
+    "bing": 2960000,
+    "bing_en": 21200,
+    "google": 2130000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "游砚山",
+    "so360": 72,
+    "bing": 211000,
+    "bing_en": 3360,
+    "google": 3360000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "山间偶成二绝  其一",
+    "so360": 49,
+    "bing": 19600,
+    "bing_en": 11000,
+    "google": 4980
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "山间偶成二绝  其二",
+    "so360": 49,
+    "bing": 18400,
+    "bing_en": 16000,
+    "google": 4750
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "雪中怀韩毅伯",
+    "so360": 20,
+    "bing": 25700,
+    "bing_en": 21100,
+    "google": 541
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "和韩毅伯咏鴈",
+    "so360": 229,
+    "bing": 16900,
+    "bing_en": 20800,
+    "google": 2450
+  },
+  {
+    "baidu": 38,
+    "author": "王炎",
+    "title": "梅花",
+    "so360": 12300,
+    "bing": 171000,
+    "bing_en": 90700,
+    "google": 7350000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "犬捕鼠",
+    "so360": 27,
+    "bing": 173000,
+    "bing_en": 19500,
+    "google": 4640000
+  },
+  {
+    "baidu": 52,
+    "author": "王炎",
+    "title": "春日",
+    "so360": 5380,
+    "bing": 169000,
+    "bing_en": 434000,
+    "google": 8030000
+  },
+  {
+    "baidu": 39,
+    "author": "王炎",
+    "title": "春日书怀二首  其一",
+    "so360": 56,
+    "bing": 19900,
+    "bing_en": 16000,
+    "google": 2140000
+  },
+  {
+    "baidu": 34,
+    "author": "王炎",
+    "title": "春日书怀二首  其二",
+    "so360": 56,
+    "bing": 18900,
+    "bing_en": 21100,
+    "google": 3160000
+  },
+  {
+    "baidu": 88,
+    "author": "王炎",
+    "title": "答韩毅伯五首  其一",
+    "so360": 11,
+    "bing": 12800,
+    "bing_en": 65600,
+    "google": 464
+  },
+  {
+    "baidu": 60,
+    "author": "王炎",
+    "title": "答韩毅伯五首  其二",
+    "so360": 9,
+    "bing": 15000,
+    "bing_en": 72100,
+    "google": 3640
+  },
+  {
+    "baidu": 52,
+    "author": "王炎",
+    "title": "答韩毅伯五首  其三",
+    "so360": 40,
+    "bing": 151000,
+    "bing_en": 54500,
+    "google": 3620
+  },
+  {
+    "baidu": 32,
+    "author": "王炎",
+    "title": "答韩毅伯五首  其四",
+    "so360": 115,
+    "bing": 152000,
+    "bing_en": 67000,
+    "google": 426
+  },
+  {
+    "baidu": 35,
+    "author": "王炎",
+    "title": "答韩毅伯五首  其五",
+    "so360": 25,
+    "bing": 152000,
+    "bing_en": 66700,
+    "google": 474
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "渔人",
+    "so360": 330,
+    "bing": 73400,
+    "bing_en": 44500,
+    "google": 6510000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "促织",
+    "so360": 996,
+    "bing": 173000,
+    "bing_en": 31600,
+    "google": 378000
+  },
+  {
+    "baidu": 17,
+    "author": "王炎",
+    "title": "大水行",
+    "so360": 498,
+    "bing": 172000,
+    "bing_en": 28500,
+    "google": 38600000
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "冬日即事",
+    "so360": 331,
+    "bing": 174000,
+    "bing_en": 21100,
+    "google": 4010000
+  },
+  {
+    "baidu": 410,
+    "author": "王炎",
+    "title": "春兴二首  其一",
+    "so360": 48,
+    "bing": 1150000,
+    "bing_en": 308000,
+    "google": 6770000
+  },
+  {
+    "baidu": 72,
+    "author": "王炎",
+    "title": "春兴二首  其二",
+    "so360": 47,
+    "bing": 1150000,
+    "bing_en": 24100,
+    "google": 6930000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "旅兴",
+    "so360": 15600,
+    "bing": 34400,
+    "bing_en": 78900,
+    "google": 9200000
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "蔬食",
+    "so360": 138,
+    "bing": 170000,
+    "bing_en": 35300,
+    "google": 1100000
+  },
+  {
+    "baidu": 70,
+    "author": "王炎",
+    "title": "春雨",
+    "so360": 9740,
+    "bing": 168000,
+    "bing_en": 60900,
+    "google": 2860000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "石盆荷叶",
+    "so360": 23,
+    "bing": 78900,
+    "bing_en": 19300,
+    "google": 66300
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "窗外紫竹",
+    "so360": 21,
+    "bing": 173000,
+    "bing_en": 13200,
+    "google": 20100
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "秋日晚晴",
+    "so360": 32,
+    "bing": 17300,
+    "bing_en": 21100,
+    "google": 40300000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "和毅伯见寄",
+    "so360": 21,
+    "bing": 25200,
+    "bing_en": 130,
+    "google": 2440000
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "喜祝季通相访",
+    "so360": 17,
+    "bing": 48900,
+    "bing_en": 130,
+    "google": 1770
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "和祝季通韵",
+    "so360": 20,
+    "bing": 224000,
+    "bing_en": 529,
+    "google": 1830
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "南斋中秋小酌",
+    "so360": 561,
+    "bing": 13400,
+    "bing_en": 15300,
+    "google": 314000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "南斋书怀",
+    "so360": 49500,
+    "bing": 112000,
+    "bing_en": 24200,
+    "google": 3710000
+  },
+  {
+    "baidu": 86,
+    "author": "王炎",
+    "title": "和韩毅伯韵三首  其一",
+    "so360": 28,
+    "bing": 15800,
+    "bing_en": 12400,
+    "google": 4610
+  },
+  {
+    "baidu": 53,
+    "author": "王炎",
+    "title": "和韩毅伯韵三首  其二",
+    "so360": 28,
+    "bing": 15800,
+    "bing_en": 18500,
+    "google": 693
+  },
+  {
+    "baidu": 59,
+    "author": "王炎",
+    "title": "和韩毅伯韵三首  其三",
+    "so360": 49,
+    "bing": 23900,
+    "bing_en": 15600,
+    "google": 776
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "再和前韵三首  其一",
+    "so360": 256,
+    "bing": 733000,
+    "bing_en": 14600,
+    "google": 7030000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "再和前韵三首  其二",
+    "so360": 257,
+    "bing": 733000,
+    "bing_en": 12500,
+    "google": 5750000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "再和前韵三首  其三",
+    "so360": 579,
+    "bing": 295000,
+    "bing_en": 426000,
+    "google": 3720000
+  },
+  {
+    "baidu": 21,
+    "author": "王炎",
+    "title": "追念鳙谿老人  其一",
+    "so360": 11,
+    "bing": 7900,
+    "bing_en": 2310,
+    "google": 8580
+  },
+  {
+    "baidu": 16,
+    "author": "王炎",
+    "title": "追念鳙谿老人  其二",
+    "so360": 11,
+    "bing": 5810,
+    "bing_en": 2100,
+    "google": 14400
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "如大坂二绝  其一",
+    "so360": 26,
+    "bing": 9920,
+    "bing_en": 16800,
+    "google": 1710000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "如大坂二绝  其二",
+    "so360": 26,
+    "bing": 9050,
+    "bing_en": 12900,
+    "google": 2250000
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "田间闲步",
+    "so360": 11,
+    "bing": 564000,
+    "bing_en": 390,
+    "google": 544000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "晚浴溪上",
+    "so360": 18,
+    "bing": 76000,
+    "bing_en": 6390,
+    "google": 11000000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "自南斋晚归二绝  其一",
+    "so360": 22,
+    "bing": 15400,
+    "bing_en": 21100,
+    "google": 3610000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "自南斋晚归二绝  其二",
+    "so360": 22,
+    "bing": 14700,
+    "bing_en": 21100,
+    "google": 2850000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "到白石先妣新茔",
+    "so360": 21,
+    "bing": 12800,
+    "bing_en": 514,
+    "google": 47500
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "新晴二绝  其一",
+    "so360": 52,
+    "bing": 25800,
+    "bing_en": 17100,
+    "google": 4780000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "新晴二绝  其二",
+    "so360": 51,
+    "bing": 23200,
+    "bing_en": 22200,
+    "google": 4360000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "溪上晚望二绝  其一",
+    "so360": 19,
+    "bing": 219000,
+    "bing_en": 13000,
+    "google": 6920000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "溪上晚望二绝  其二",
+    "so360": 19,
+    "bing": 219000,
+    "bing_en": 18900,
+    "google": 3220000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "春日书怀",
+    "so360": 54,
+    "bing": 14000,
+    "bing_en": 21200,
+    "google": 2180000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "送詹少游之平江",
+    "so360": 12,
+    "bing": 91800,
+    "bing_en": 20600,
+    "google": 1070
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "春日遣怀",
+    "so360": 41,
+    "bing": 204000,
+    "bing_en": 1590,
+    "google": 2820000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "题古塔主语录",
+    "so360": 12,
+    "bing": 3320000,
+    "bing_en": 20800,
+    "google": 3310000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "田间麦秀因成绝句",
+    "so360": 24,
+    "bing": 55900,
+    "bing_en": 117,
+    "google": 5920000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "麦苗已有生意掘乌稬者未止",
+    "so360": 6,
+    "bing": 1780,
+    "bing_en": 106,
+    "google": 638000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "雨晴出田间",
+    "so360": 30,
+    "bing": 261000,
+    "bing_en": 1820,
+    "google": 2170
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "得昭叔弟书",
+    "so360": 20,
+    "bing": 183000,
+    "bing_en": 8000,
+    "google": 5970000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "枭羹",
+    "so360": 22,
+    "bing": 2160,
+    "bing_en": 21300,
+    "google": 1600000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "闻虎伤人",
+    "so360": 16,
+    "bing": 115000,
+    "bing_en": 21200,
+    "google": 7880000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "贺景高新居",
+    "so360": 17,
+    "bing": 276000,
+    "bing_en": 19500,
+    "google": 1260
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "元日书怀",
+    "so360": 60,
+    "bing": 49200,
+    "bing_en": 16100,
+    "google": 8390000
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "到大坂",
+    "so360": 12,
+    "bing": 173000,
+    "bing_en": 18200,
+    "google": 3800000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "江夏道中值雪",
+    "so360": 13,
+    "bing": 27800,
+    "bing_en": 13700,
+    "google": 1090000
+  },
+  {
+    "baidu": 3190,
+    "author": "王炎",
+    "title": "蒲圻道中遇雪二首  其一",
+    "so360": 12,
+    "bing": 12700,
+    "bing_en": 15700,
+    "google": 193000
+  },
+  {
+    "baidu": 1940,
+    "author": "王炎",
+    "title": "蒲圻道中遇雪二首  其二",
+    "so360": 12,
+    "bing": 12700,
+    "bing_en": 17400,
+    "google": 1120000
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "再如蒲圻二首  其一",
+    "so360": 53,
+    "bing": 15700,
+    "bing_en": 21100,
+    "google": 201000
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "再如蒲圻二首  其二",
+    "so360": 53,
+    "bing": 15700,
+    "bing_en": 21200,
+    "google": 1090000
+  },
+  {
+    "baidu": 29,
+    "author": "王炎",
+    "title": "行湖路",
+    "so360": 26900,
+    "bing": 8880000,
+    "bing_en": 116000,
+    "google": 411000000
+  },
+  {
+    "baidu": 71,
+    "author": "王炎",
+    "title": "送游尧臣归闽六首  其一",
+    "so360": 27,
+    "bing": 12700,
+    "bing_en": 6070,
+    "google": 2490
+  },
+  {
+    "baidu": 32,
+    "author": "王炎",
+    "title": "送游尧臣归闽六首  其二",
+    "so360": 27,
+    "bing": 12800,
+    "bing_en": 20800,
+    "google": 2480
+  },
+  {
+    "baidu": 32,
+    "author": "王炎",
+    "title": "送游尧臣归闽六首  其三",
+    "so360": 30,
+    "bing": 12300,
+    "bing_en": 20600,
+    "google": 2470
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "送游尧臣归闽六首  其四",
+    "so360": 403,
+    "bing": 12300,
+    "bing_en": 20600,
+    "google": 2400
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "送游尧臣归闽六首  其五",
+    "so360": 441,
+    "bing": 12300,
+    "bing_en": 21000,
+    "google": 2370
+  },
+  {
+    "baidu": 17,
+    "author": "王炎",
+    "title": "送游尧臣归闽六首  其六",
+    "so360": 31,
+    "bing": 12300,
+    "bing_en": 21000,
+    "google": 8200
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "和游尧臣出郊二首  其一",
+    "so360": 19,
+    "bing": 13800,
+    "bing_en": 21200,
+    "google": 7840
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "和游尧臣出郊二首  其二",
+    "so360": 19,
+    "bing": 13400,
+    "bing_en": 21100,
+    "google": 7550
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "送游大冶归建阳",
+    "so360": 25,
+    "bing": 733000,
+    "bing_en": 3950,
+    "google": 1590000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "送张饰之",
+    "so360": 81700,
+    "bing": 1470000,
+    "bing_en": 16500,
+    "google": 6920000
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "题周功甫总领石溪三亭 溪亭",
+    "so360": 15,
+    "bing": 4420,
+    "bing_en": 11400,
+    "google": 7230
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "题周功甫总领石溪三亭 雪亭",
+    "so360": 26,
+    "bing": 12200,
+    "bing_en": 9290,
+    "google": 6010
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "题周功甫总领石溪三亭 嫣然亭",
+    "so360": 33,
+    "bing": 12300,
+    "bing_en": 9400,
+    "google": 1700
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "题陈巽叔适轩",
+    "so360": 18,
+    "bing": 14100,
+    "bing_en": 21300,
+    "google": 1690
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "黄一翁自郡城回",
+    "so360": 50,
+    "bing": 54000,
+    "bing_en": 6170,
+    "google": 1830
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "秋怀五首简陈巽叔徐伯老  其一",
+    "so360": 64,
+    "bing": 4600,
+    "bing_en": 21100,
+    "google": 1840
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "秋怀五首简陈巽叔徐伯老  其二",
+    "so360": 63,
+    "bing": 4130,
+    "bing_en": 21100,
+    "google": 1840
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "秋怀五首简陈巽叔徐伯老  其三",
+    "so360": 64,
+    "bing": 7640,
+    "bing_en": 21200,
+    "google": 561
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "秋怀五首简陈巽叔徐伯老  其四",
+    "so360": 64,
+    "bing": 7610,
+    "bing_en": 21300,
+    "google": 1830
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "秋怀五首简陈巽叔徐伯老  其五",
+    "so360": 66,
+    "bing": 7690,
+    "bing_en": 21300,
+    "google": 1890
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "又五首  其一",
+    "so360": 81,
+    "bing": 557000,
+    "bing_en": 793000,
+    "google": 369000000
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "又五首  其二",
+    "so360": 26,
+    "bing": 398000,
+    "bing_en": 716000,
+    "google": 289000000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "又五首  其三",
+    "so360": 484,
+    "bing": 2790000,
+    "bing_en": 2600000,
+    "google": 298000000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "又五首  其四",
+    "so360": 539,
+    "bing": 6400000,
+    "bing_en": 2280000,
+    "google": 314000000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "又五首  其五",
+    "so360": 162,
+    "bing": 6400000,
+    "bing_en": 2680000,
+    "google": 380000000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "用前韵答黄一翁五首  其一",
+    "so360": 11,
+    "bing": 10200,
+    "bing_en": 8650,
+    "google": 1700
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "用前韵答黄一翁五首  其二",
+    "so360": 9,
+    "bing": 10700,
+    "bing_en": 8500,
+    "google": 4500
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "用前韵答黄一翁五首  其三",
+    "so360": 28,
+    "bing": 10200,
+    "bing_en": 6040,
+    "google": 9320
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "用前韵答黄一翁五首  其四",
+    "so360": 17,
+    "bing": 10400,
+    "bing_en": 5950,
+    "google": 4280
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "用前韵答黄一翁五首  其五",
+    "so360": 1450,
+    "bing": 10600,
+    "bing_en": 6410,
+    "google": 1700
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "廨舍梅花欲开三绝  其一",
+    "so360": 33,
+    "bing": 12500,
+    "bing_en": 8380,
+    "google": 20700
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "廨舍梅花欲开三绝  其二",
+    "so360": 33,
+    "bing": 11000,
+    "bing_en": 8370,
+    "google": 15300
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "廨舍梅花欲开三绝  其三",
+    "so360": 33,
+    "bing": 12900,
+    "bing_en": 21100,
+    "google": 16000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "郊外见梅再用前韵三首  其一",
+    "so360": 201,
+    "bing": 12600,
+    "bing_en": 14200,
+    "google": 485000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "郊外见梅再用前韵三首  其二",
+    "so360": 34,
+    "bing": 12600,
+    "bing_en": 16400,
+    "google": 482000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "郊外见梅再用前韵三首  其三",
+    "so360": 37,
+    "bing": 12200,
+    "bing_en": 9840,
+    "google": 108000
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "题咸宁江宰德先清远堂",
+    "so360": 24,
+    "bing": 12000,
+    "bing_en": 100,
+    "google": 2240000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "生朝无以自慰作留贫荐一杯",
+    "so360": 26,
+    "bing": 7390,
+    "bing_en": 76,
+    "google": 32600
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "用前韵答黄一翁二首  其一",
+    "so360": 29,
+    "bing": 11000,
+    "bing_en": 8680,
+    "google": 3270
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "用前韵答黄一翁二首  其二",
+    "so360": 22,
+    "bing": 11400,
+    "bing_en": 8590,
+    "google": 1190
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "过幕阜山",
+    "so360": 17,
+    "bing": 44100,
+    "bing_en": 21400,
+    "google": 6030000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "平江道中",
+    "so360": 27,
+    "bing": 72,
+    "bing_en": 26500,
+    "google": 2350000
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "喜雨歌",
+    "so360": 534,
+    "bing": 172000,
+    "bing_en": 22300,
+    "google": 112000
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "沿檄如蒲圻讯民之食菜事魔者作诗悯之",
+    "so360": 31,
+    "bing": 12500,
+    "bing_en": 18700,
+    "google": 941
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "和沈粹卿登南楼韵",
+    "so360": 13,
+    "bing": 13800,
+    "bing_en": 21300,
+    "google": 1330
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "晚春书怀简陈巽叔二首  其一",
+    "so360": 26,
+    "bing": 12300,
+    "bing_en": 2260,
+    "google": 1350
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "晚春书怀简陈巽叔二首  其二",
+    "so360": 26,
+    "bing": 12300,
+    "bing_en": 2100,
+    "google": 1490
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "和廖守岳阳楼韵三首  其一",
+    "so360": 1380,
+    "bing": 18500,
+    "bing_en": 6510,
+    "google": 68800
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "和廖守岳阳楼韵三首  其二",
+    "so360": 1380,
+    "bing": 18500,
+    "bing_en": 5670,
+    "google": 67700
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "和廖守岳阳楼韵三首  其三",
+    "so360": 1380,
+    "bing": 14700,
+    "bing_en": 19600,
+    "google": 68800
+  },
+  {
+    "baidu": 24,
+    "author": "王炎",
+    "title": "和留献之出郊劝农",
+    "so360": 14,
+    "bing": 17300,
+    "bing_en": 3110,
+    "google": 2050000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "和游尧臣劝农韵",
+    "so360": 15,
+    "bing": 12400,
+    "bing_en": 1180,
+    "google": 2000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "到胡道士草庵二首  其一",
+    "so360": 16,
+    "bing": 17800,
+    "bing_en": 21100,
+    "google": 30700
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "到胡道士草庵二首  其二",
+    "so360": 16,
+    "bing": 17800,
+    "bing_en": 21100,
+    "google": 30700
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "旅中书怀",
+    "so360": 21,
+    "bing": 15400000,
+    "bing_en": 20600,
+    "google": 5240000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "到寿安精舍",
+    "so360": 9,
+    "bing": 503000,
+    "bing_en": 847,
+    "google": 5120000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "岁莫官舍书怀二首  其一",
+    "so360": 2750,
+    "bing": 12900,
+    "bing_en": 13100,
+    "google": 3170000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "岁莫官舍书怀二首  其二",
+    "so360": 1020,
+    "bing": 12900,
+    "bing_en": 11200,
+    "google": 4620000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "闻杜鹃",
+    "so360": 3500,
+    "bing": 199000,
+    "bing_en": 74800,
+    "google": 4790000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "野凫",
+    "so360": 28,
+    "bing": 172000,
+    "bing_en": 21300,
+    "google": 105000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "林监生日",
+    "so360": 607,
+    "bing": 11500000,
+    "bing_en": 7050,
+    "google": 2620000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "留献之初得孙",
+    "so360": 37,
+    "bing": 158000,
+    "bing_en": 19500,
+    "google": 6160000
+  },
+  {
+    "baidu": 58,
+    "author": "王炎",
+    "title": "野次欲访于从周不果因寄二首  其一",
+    "so360": 57,
+    "bing": 4480,
+    "bing_en": 80200,
+    "google": 5070
+  },
+  {
+    "baidu": 56,
+    "author": "王炎",
+    "title": "野次欲访于从周不果因寄二首  其二",
+    "so360": 62,
+    "bing": 3670,
+    "bing_en": 73100,
+    "google": 6050
+  },
+  {
+    "baidu": 83,
+    "author": "王炎",
+    "title": "过凤隠山",
+    "so360": 439,
+    "bing": 261000,
+    "bing_en": 21300,
+    "google": 1020
+  },
+  {
+    "baidu": 67,
+    "author": "王炎",
+    "title": "出游郊外七绝  其一",
+    "so360": 30,
+    "bing": 12900,
+    "bing_en": 16900,
+    "google": 46000
+  },
+  {
+    "baidu": 46,
+    "author": "王炎",
+    "title": "出游郊外七绝  其二",
+    "so360": 30,
+    "bing": 12700,
+    "bing_en": 15400,
+    "google": 45900
+  },
+  {
+    "baidu": 43,
+    "author": "王炎",
+    "title": "出游郊外七绝  其三",
+    "so360": 543,
+    "bing": 16300,
+    "bing_en": 21100,
+    "google": 32000
+  },
+  {
+    "baidu": 36,
+    "author": "王炎",
+    "title": "出游郊外七绝  其四",
+    "so360": 568,
+    "bing": 14700,
+    "bing_en": 21100,
+    "google": 46000
+  },
+  {
+    "baidu": 31,
+    "author": "王炎",
+    "title": "出游郊外七绝  其五",
+    "so360": 504,
+    "bing": 13900,
+    "bing_en": 21100,
+    "google": 45800
+  },
+  {
+    "baidu": 18,
+    "author": "王炎",
+    "title": "出游郊外七绝  其六",
+    "so360": 585,
+    "bing": 12100,
+    "bing_en": 21000,
+    "google": 45900
+  },
+  {
+    "baidu": 23,
+    "author": "王炎",
+    "title": "出游郊外七绝  其七",
+    "so360": 526,
+    "bing": 17100,
+    "bing_en": 21100,
+    "google": 45800
+  },
+  {
+    "baidu": 66600,
+    "author": "王炎",
+    "title": "旅中思家",
+    "so360": 910,
+    "bing": 2080000,
+    "bing_en": 67200,
+    "google": 18500000
+  },
+  {
+    "baidu": 25,
+    "author": "王炎",
+    "title": "至灌溪予瓌老二首  其一",
+    "so360": 53,
+    "bing": 1330,
+    "bing_en": 13100,
+    "google": 392000
+  },
+  {
+    "baidu": 26,
+    "author": "王炎",
+    "title": "至灌溪予瓌老二首  其二",
+    "so360": 55,
+    "bing": 1130,
+    "bing_en": 10900,
+    "google": 314000
+  },
+  {
+    "baidu": 81,
+    "author": "王炎",
+    "title": "宿野人家",
+    "so360": 45,
+    "bing": 113000,
+    "bing_en": 23000,
+    "google": 11000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "闻蝉",
+    "so360": 71,
+    "bing": 173000,
+    "bing_en": 21400,
+    "google": 5840000
+  },
+  {
+    "baidu": 15,
+    "author": "王炎",
+    "title": "山行二绝  其一",
+    "so360": 22,
+    "bing": 41900,
+    "bing_en": 29700,
+    "google": 4750000
+  },
+  {
+    "baidu": 18,
+    "author": "王炎",
+    "title": "山行二绝  其二",
+    "so360": 22,
+    "bing": 38400,
+    "bing_en": 26600,
+    "google": 3770000
+  },
+  {
+    "baidu": 45,
+    "author": "王炎",
+    "title": "春日二绝  其一",
+    "so360": 58,
+    "bing": 222000,
+    "bing_en": 22200,
+    "google": 7220000
+  },
+  {
+    "baidu": 53,
+    "author": "王炎",
+    "title": "春日二绝  其二",
+    "so360": 59,
+    "bing": 243000,
+    "bing_en": 21800,
+    "google": 3580000
+  },
+  {
+    "baidu": 56,
+    "author": "王炎",
+    "title": "到常清寺予哲师三绝  其一",
+    "so360": 26,
+    "bing": 5310,
+    "bing_en": 32100,
+    "google": 20300
+  },
+  {
+    "baidu": 58,
+    "author": "王炎",
+    "title": "到常清寺予哲师三绝  其二",
+    "so360": 26,
+    "bing": 4550,
+    "bing_en": 9730,
+    "google": 20800
+  },
+  {
+    "baidu": 797,
+    "author": "王炎",
+    "title": "到常清寺予哲师三绝  其三",
+    "so360": 26,
+    "bing": 13400,
+    "bing_en": 20300,
+    "google": 22900
+  },
+  {
+    "baidu": 77,
+    "author": "王炎",
+    "title": "晚憩田家二绝  其一",
+    "so360": 55,
+    "bing": 12400,
+    "bing_en": 14800,
+    "google": 51100
+  },
+  {
+    "baidu": 50,
+    "author": "王炎",
+    "title": "晚憩田家二绝  其二",
+    "so360": 54,
+    "bing": 11600,
+    "bing_en": 13000,
+    "google": 54800
+  },
+  {
+    "baidu": 86,
+    "author": "王炎",
+    "title": "留山间即事",
+    "so360": 23,
+    "bing": 51200,
+    "bing_en": 20300,
+    "google": 61100
+  },
+  {
+    "baidu": 20,
+    "author": "王炎",
+    "title": "出郊书怀",
+    "so360": 291000,
+    "bing": 73600,
+    "bing_en": 21400,
+    "google": 2600000
+  },
+  {
+    "baidu": 99700,
+    "author": "王炎",
+    "title": "野次遇雨",
+    "so360": 53,
+    "bing": 288000,
+    "bing_en": 24300,
+    "google": 17800
+  },
+  {
+    "baidu": 34,
+    "author": "王炎",
+    "title": "酬陈叔裕四首  其一",
+    "so360": 30,
+    "bing": 13200,
+    "bing_en": 50800,
+    "google": 2150
+  },
+  {
+    "baidu": 25,
+    "author": "王炎",
+    "title": "酬陈叔裕四首  其二",
+    "so360": 30,
+    "bing": 13300,
+    "bing_en": 20900,
+    "google": 2200
+  },
+  {
+    "baidu": 22,
+    "author": "王炎",
+    "title": "酬陈叔裕四首  其三",
+    "so360": 78,
+    "bing": 15500,
+    "bing_en": 21300,
+    "google": 2200
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "酬陈叔裕四首  其四",
+    "so360": 39,
+    "bing": 15500,
+    "bing_en": 21300,
+    "google": 2190
+  },
+  {
+    "baidu": 22400,
+    "author": "王炎",
+    "title": "上巳",
+    "so360": 420,
+    "bing": 16100,
+    "bing_en": 14500,
+    "google": 68000
+  },
+  {
+    "baidu": 29,
+    "author": "王炎",
+    "title": "过灵塔寺",
+    "so360": 10,
+    "bing": 300000,
+    "bing_en": 11400,
+    "google": 5170000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "过西仑庄一宿",
+    "so360": 10,
+    "bing": 17600,
+    "bing_en": 1360,
+    "google": 3870000
+  },
+  {
+    "baidu": 87,
+    "author": "王炎",
+    "title": "酬李秀才",
+    "so360": 17,
+    "bing": 33400,
+    "bing_en": 22000,
+    "google": 486000
+  },
+  {
+    "baidu": 95,
+    "author": "王炎",
+    "title": "湘阴道中",
+    "so360": 23,
+    "bing": 114000,
+    "bing_en": 762,
+    "google": 1550000
+  },
+  {
+    "baidu": 13300,
+    "author": "王炎",
+    "title": "喜晴",
+    "so360": 120,
+    "bing": 175000,
+    "bing_en": 3580,
+    "google": 65800
+  },
+  {
+    "baidu": 53,
+    "author": "王炎",
+    "title": "雨中山行",
+    "so360": 632,
+    "bing": 28300,
+    "bing_en": 28900,
+    "google": 2340000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "春日即事四绝  其一",
+    "so360": 32,
+    "bing": 18400,
+    "bing_en": 21100,
+    "google": 3510000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "春日即事四绝  其二",
+    "so360": 34,
+    "bing": 18400,
+    "bing_en": 21100,
+    "google": 4540000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "春日即事四绝  其三",
+    "so360": 33,
+    "bing": 16800,
+    "bing_en": 21300,
+    "google": 3080000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "春日即事四绝  其四",
+    "so360": 34,
+    "bing": 16800,
+    "bing_en": 21400,
+    "google": 2740000
+  },
+  {
+    "baidu": 66,
+    "author": "王炎",
+    "title": "雨后继成二绝  其一",
+    "so360": 12,
+    "bing": 13800,
+    "bing_en": 16600,
+    "google": 1460000
+  },
+  {
+    "baidu": 51,
+    "author": "王炎",
+    "title": "雨后继成二绝  其二",
+    "so360": 15,
+    "bing": 12200,
+    "bing_en": 16600,
+    "google": 1430000
+  },
+  {
+    "baidu": 1190,
+    "author": "王炎",
+    "title": "陪留宰游灌溪回饮县圃六绝  其一",
+    "so360": 49,
+    "bing": 12300,
+    "bing_en": 632,
+    "google": 167000
+  },
+  {
+    "baidu": 441,
+    "author": "王炎",
+    "title": "陪留宰游灌溪回饮县圃六绝  其二",
+    "so360": 37,
+    "bing": 12300,
+    "bing_en": 641,
+    "google": 235000
+  },
+  {
+    "baidu": 431,
+    "author": "王炎",
+    "title": "陪留宰游灌溪回饮县圃六绝  其三",
+    "so360": 49,
+    "bing": 12800,
+    "bing_en": 16400,
+    "google": 219000
+  },
+  {
+    "baidu": 501,
+    "author": "王炎",
+    "title": "陪留宰游灌溪回饮县圃六绝  其四",
+    "so360": 49,
+    "bing": 12800,
+    "bing_en": 16800,
+    "google": 214000
+  },
+  {
+    "baidu": 536,
+    "author": "王炎",
+    "title": "陪留宰游灌溪回饮县圃六绝  其五",
+    "so360": 50,
+    "bing": 12800,
+    "bing_en": 16800,
+    "google": 169000
+  },
+  {
+    "baidu": 312,
+    "author": "王炎",
+    "title": "陪留宰游灌溪回饮县圃六绝  其六",
+    "so360": 50,
+    "bing": 12800,
+    "bing_en": 16900,
+    "google": 182000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "和留宰赏荼䕷二绝  其一",
+    "so360": 0,
+    "bing": 12800,
+    "bing_en": 846,
+    "google": 822000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "和留宰赏荼䕷二绝  其二",
+    "so360": 0,
+    "bing": 12800,
+    "bing_en": 834,
+    "google": 97800
+  },
+  {
+    "baidu": 66,
+    "author": "王炎",
+    "title": "陈推官幽居十咏 彭蠡归舟",
+    "so360": 18,
+    "bing": 12300,
+    "bing_en": 12300,
+    "google": 1480
+  },
+  {
+    "baidu": 53,
+    "author": "王炎",
+    "title": "陈推官幽居十咏 山堂旷望",
+    "so360": 15,
+    "bing": 10500,
+    "bing_en": 21100,
+    "google": 2580000
+  },
+  {
+    "baidu": 72,
+    "author": "王炎",
+    "title": "陈推官幽居十咏 重湖泛月",
+    "so360": 21,
+    "bing": 9840,
+    "bing_en": 15000,
+    "google": 5050000
+  },
+  {
+    "baidu": 22,
+    "author": "王炎",
+    "title": "陈推官幽居十咏 星湾晚钓",
+    "so360": 10,
+    "bing": 7770,
+    "bing_en": 21000,
+    "google": 3870000
+  },
+  {
+    "baidu": 24,
+    "author": "王炎",
+    "title": "陈推官幽居十咏 雨后观瀑",
+    "so360": 16,
+    "bing": 3510,
+    "bing_en": 20600,
+    "google": 14700
+  },
+  {
+    "baidu": 32,
+    "author": "王炎",
+    "title": "陈推官幽居十咏 松径闲步",
+    "so360": 16,
+    "bing": 12000,
+    "bing_en": 8330,
+    "google": 1570000
+  },
+  {
+    "baidu": 7770,
+    "author": "王炎",
+    "title": "陈推官幽居十咏 溪上赋诗",
+    "so360": 13,
+    "bing": 12600,
+    "bing_en": 20000,
+    "google": 2800000
+  },
+  {
+    "baidu": 6150,
+    "author": "王炎",
+    "title": "陈推官幽居十咏 林下避暑",
+    "so360": 20,
+    "bing": 12500,
+    "bing_en": 20800,
+    "google": 78300
+  },
+  {
+    "baidu": 1220,
+    "author": "王炎",
+    "title": "陈推官幽居十咏 载酒寻梅",
+    "so360": 21,
+    "bing": 8370,
+    "bing_en": 13100,
+    "google": 2870000
+  },
+  {
+    "baidu": 3000,
+    "author": "王炎",
+    "title": "陈推官幽居十咏 雪中访隠",
+    "so360": 14,
+    "bing": 13500,
+    "bing_en": 3600,
+    "google": 244000
+  },
+  {
+    "baidu": 19,
+    "author": "王炎",
+    "title": "宿公安二圣寺",
+    "so360": 8,
+    "bing": 20500,
+    "bing_en": 142000,
+    "google": 3430000
+  },
+  {
+    "baidu": 3010,
+    "author": "王炎",
+    "title": "寓江陵能仁僧舍二首  其一",
+    "so360": 29,
+    "bing": 45500,
+    "bing_en": 21100,
+    "google": 15700
+  },
+  {
+    "baidu": 96,
+    "author": "王炎",
+    "title": "寓江陵能仁僧舍二首  其二",
+    "so360": 29,
+    "bing": 45500,
+    "bing_en": 21100,
+    "google": 17100
+  },
+  {
+    "baidu": 44200,
+    "author": "王炎",
+    "title": "夜坐",
+    "so360": 474,
+    "bing": 189000,
+    "bing_en": 165000,
+    "google": 45200000
+  },
+  {
+    "baidu": 81,
+    "author": "王炎",
+    "title": "复州道中二首  其一",
+    "so360": 19,
+    "bing": 193000,
+    "bing_en": 18900,
+    "google": 1980000
+  },
+  {
+    "baidu": 49,
+    "author": "王炎",
+    "title": "复州道中二首  其二",
+    "so360": 19,
+    "bing": 37900,
+    "bing_en": 20300,
+    "google": 855000
+  },
+  {
+    "baidu": 29000,
+    "author": "王炎",
+    "title": "夜宿江上",
+    "so360": 212,
+    "bing": 209000,
+    "bing_en": 22300,
+    "google": 3650000
+  },
+  {
+    "baidu": 65,
+    "author": "王炎",
+    "title": "赠李居士弃官为僧二绝  其一",
+    "so360": 20,
+    "bing": 4710,
+    "bing_en": 3350,
+    "google": 303000
+  },
+  {
+    "baidu": 68,
+    "author": "王炎",
+    "title": "赠李居士弃官为僧二绝  其二",
+    "so360": 20,
+    "bing": 4080,
+    "bing_en": 3210,
+    "google": 342000
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "春日丛桂书舍偶成二首  其一",
+    "so360": 28,
+    "bing": 12500,
+    "bing_en": 14200,
+    "google": 1430
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "春日丛桂书舍偶成二首  其二",
+    "so360": 28,
+    "bing": 12500,
+    "bing_en": 17200,
+    "google": 1720
+  },
+  {
+    "baidu": 29,
+    "author": "王炎",
+    "title": "用前韵答弥明圣言二首  其一",
+    "so360": 88,
+    "bing": 12200,
+    "bing_en": 5520,
+    "google": 2230000
+  },
+  {
+    "baidu": 18,
+    "author": "王炎",
+    "title": "用前韵答弥明圣言二首  其二",
+    "so360": 89,
+    "bing": 12200,
+    "bing_en": 5270,
+    "google": 2520000
+  },
+  {
+    "baidu": 18900,
+    "author": "王炎",
+    "title": "再用前韵答继周丈二首  其一",
+    "so360": 27,
+    "bing": 12300,
+    "bing_en": 19600,
+    "google": 59300
+  },
+  {
+    "baidu": 20900,
+    "author": "王炎",
+    "title": "再用前韵答继周丈二首  其二",
+    "so360": 27,
+    "bing": 12300,
+    "bing_en": 20900,
+    "google": 59500
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "家仆来丛桂告米粟不继",
+    "so360": 19,
+    "bing": 13200,
+    "bing_en": 83,
+    "google": 1280
+  },
+  {
+    "baidu": 47,
+    "author": "王炎",
+    "title": "书舍遣兴二首  其一",
+    "so360": 15,
+    "bing": 15900,
+    "bing_en": 10900,
+    "google": 3080000
+  },
+  {
+    "baidu": 47,
+    "author": "王炎",
+    "title": "书舍遣兴二首  其二",
+    "so360": 15,
+    "bing": 15400,
+    "bing_en": 21100,
+    "google": 3610000
+  },
+  {
+    "baidu": 109000,
+    "author": "王炎",
+    "title": "即事",
+    "so360": 3000,
+    "bing": 161000,
+    "bing_en": 31600,
+    "google": 21400000
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "贺吴继仲母氏生日",
+    "so360": 14,
+    "bing": 1250000,
+    "bing_en": 13000,
+    "google": 1700
+  },
+  {
+    "baidu": 77,
+    "author": "王炎",
+    "title": "清化寓居",
+    "so360": 16,
+    "bing": 172000,
+    "bing_en": 4570,
+    "google": 241000
+  },
+  {
+    "baidu": 7030,
+    "author": "王炎",
+    "title": "秋旱得雨",
+    "so360": 38,
+    "bing": 446000,
+    "bing_en": 26600,
+    "google": 7310000
+  },
+  {
+    "baidu": 11,
+    "author": "王炎",
+    "title": "夜坐偶追悼猪哥不觉流涕因以绝句写其悲",
+    "so360": 21,
+    "bing": 245,
+    "bing_en": 101,
+    "google": 20700
+  },
+  {
+    "baidu": 84,
+    "author": "王炎",
+    "title": "除夜官舍独坐",
+    "so360": 24,
+    "bing": 22000,
+    "bing_en": 5160,
+    "google": 38800
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "到城南园瞻南轩先生遗像",
+    "so360": 19,
+    "bing": 12600,
+    "bing_en": 13000,
+    "google": 15200
+  },
+  {
+    "baidu": 72,
+    "author": "王炎",
+    "title": "用前韵答彪讲书",
+    "so360": 1280,
+    "bing": 9430,
+    "bing_en": 17100,
+    "google": 2310000
+  },
+  {
+    "baidu": 74,
+    "author": "王炎",
+    "title": "送李侍郎归衡州二首  其一",
+    "so360": 15,
+    "bing": 12600,
+    "bing_en": 18200,
+    "google": 683000
+  },
+  {
+    "baidu": 36,
+    "author": "王炎",
+    "title": "送李侍郎归衡州二首  其二",
+    "so360": 15,
+    "bing": 12500,
+    "bing_en": 706,
+    "google": 599000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "和谢安国求砚",
+    "so360": 17,
+    "bing": 32100,
+    "bing_en": 7240,
+    "google": 78500
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "和谢安国韵",
+    "so360": 396,
+    "bing": 733000,
+    "bing_en": 11200,
+    "google": 125000
+  },
+  {
+    "baidu": 11,
+    "author": "王炎",
+    "title": "送谢安国归清江",
+    "so360": 27,
+    "bing": 24000,
+    "bing_en": 3550,
+    "google": 11500
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "题王倅来泉",
+    "so360": 10,
+    "bing": 385000,
+    "bing_en": 21200,
+    "google": 1330
+  },
+  {
+    "baidu": 35,
+    "author": "王炎",
+    "title": "又题巢林",
+    "so360": 25,
+    "bing": 89800,
+    "bing_en": 21500,
+    "google": 5330000
+  },
+  {
+    "baidu": 7730,
+    "author": "王炎",
+    "title": "过浯溪读中兴碑",
+    "so360": 79,
+    "bing": 14500,
+    "bing_en": 51,
+    "google": 63300
+  },
+  {
+    "baidu": 83,
+    "author": "王炎",
+    "title": "和赵行之三首  其一",
+    "so360": 575,
+    "bing": 196000,
+    "bing_en": 22400,
+    "google": 2510
+  },
+  {
+    "baidu": 53,
+    "author": "王炎",
+    "title": "和赵行之三首  其二",
+    "so360": 558,
+    "bing": 73400,
+    "bing_en": 19700,
+    "google": 2500
+  },
+  {
+    "baidu": 48,
+    "author": "王炎",
+    "title": "和赵行之三首  其三",
+    "so360": 526,
+    "bing": 1380000,
+    "bing_en": 514000,
+    "google": 374
+  },
+  {
+    "baidu": 74,
+    "author": "王炎",
+    "title": "湘中杂咏十绝  其一",
+    "so360": 52,
+    "bing": 733000,
+    "bing_en": 18100,
+    "google": 3520000
+  },
+  {
+    "baidu": 58,
+    "author": "王炎",
+    "title": "湘中杂咏十绝  其二",
+    "so360": 40,
+    "bing": 733000,
+    "bing_en": 17500,
+    "google": 3180000
+  },
+  {
+    "baidu": 40,
+    "author": "王炎",
+    "title": "湘中杂咏十绝  其三",
+    "so360": 507,
+    "bing": 17100,
+    "bing_en": 19500,
+    "google": 3240000
+  },
+  {
+    "baidu": 31,
+    "author": "王炎",
+    "title": "湘中杂咏十绝  其四",
+    "so360": 516,
+    "bing": 16800,
+    "bing_en": 19700,
+    "google": 3520000
+  },
+  {
+    "baidu": 29,
+    "author": "王炎",
+    "title": "湘中杂咏十绝  其五",
+    "so360": 528,
+    "bing": 15900,
+    "bing_en": 19300,
+    "google": 3130000
+  },
+  {
+    "baidu": 16,
+    "author": "王炎",
+    "title": "湘中杂咏十绝  其六",
+    "so360": 374,
+    "bing": 13100,
+    "bing_en": 19300,
+    "google": 3320000
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "湘中杂咏十绝  其七",
+    "so360": 413,
+    "bing": 14900,
+    "bing_en": 18900,
+    "google": 3030000
+  },
+  {
+    "baidu": 15,
+    "author": "王炎",
+    "title": "湘中杂咏十绝  其八",
+    "so360": 418,
+    "bing": 13000,
+    "bing_en": 19000,
+    "google": 2330000
+  },
+  {
+    "baidu": 18,
+    "author": "王炎",
+    "title": "湘中杂咏十绝  其九",
+    "so360": 509,
+    "bing": 13300,
+    "bing_en": 18600,
+    "google": 3160000
+  },
+  {
+    "baidu": 11,
+    "author": "王炎",
+    "title": "湘中杂咏十绝  其一○",
+    "so360": 52,
+    "bing": 12300,
+    "bing_en": 18000,
+    "google": 529000
+  },
+  {
+    "baidu": 7940,
+    "author": "王炎",
+    "title": "秋怀二首  其一",
+    "so360": 239,
+    "bing": 57500,
+    "bing_en": 27400,
+    "google": 7260000
+  },
+  {
+    "baidu": 5730,
+    "author": "王炎",
+    "title": "秋怀二首  其二",
+    "so360": 249,
+    "bing": 46400,
+    "bing_en": 25800,
+    "google": 6240000
+  },
+  {
+    "baidu": 72,
+    "author": "王炎",
+    "title": "游岳麓三绝  其一",
+    "so360": 14,
+    "bing": 13500,
+    "bing_en": 21100,
+    "google": 130000
+  },
+  {
+    "baidu": 48,
+    "author": "王炎",
+    "title": "游岳麓三绝  其二",
+    "so360": 14,
+    "bing": 13100,
+    "bing_en": 20400,
+    "google": 144000
+  },
+  {
+    "baidu": 34,
+    "author": "王炎",
+    "title": "游岳麓三绝  其三",
+    "so360": 14,
+    "bing": 33200,
+    "bing_en": 13500,
+    "google": 114000
+  },
+  {
+    "baidu": 70,
+    "author": "王炎",
+    "title": "冬日书怀四首  其一",
+    "so360": 170,
+    "bing": 23900,
+    "bing_en": 21100,
+    "google": 2150000
+  },
+  {
+    "baidu": 30,
+    "author": "王炎",
+    "title": "冬日书怀四首  其二",
+    "so360": 166,
+    "bing": 19500,
+    "bing_en": 21100,
+    "google": 3470000
+  },
+  {
+    "baidu": 20,
+    "author": "王炎",
+    "title": "冬日书怀四首  其三",
+    "so360": 425,
+    "bing": 32100,
+    "bing_en": 21100,
+    "google": 3400000
+  },
+  {
+    "baidu": 32,
+    "author": "王炎",
+    "title": "冬日书怀四首  其四",
+    "so360": 22,
+    "bing": 35800,
+    "bing_en": 21100,
+    "google": 2840000
+  },
+  {
+    "baidu": 17,
+    "author": "王炎",
+    "title": "雪中官舍独坐闻薪炭翔贵因成长句",
+    "so360": 19,
+    "bing": 38900,
+    "bing_en": 103,
+    "google": 12500
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "萧参议雪中宴客朱佥判有诗因次韵  其一",
+    "so360": 29,
+    "bing": 16700,
+    "bing_en": 100,
+    "google": 10400
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "萧参议雪中宴客朱佥判有诗因次韵  其二",
+    "so360": 29,
+    "bing": 16700,
+    "bing_en": 100,
+    "google": 10800
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "和林宝文鹿鸣宴韵",
+    "so360": 18,
+    "bing": 22500,
+    "bing_en": 100,
+    "google": 1420
+  },
+  {
+    "baidu": 52,
+    "author": "王炎",
+    "title": "和林宝文喜雨",
+    "so360": 16,
+    "bing": 1230000,
+    "bing_en": 20500,
+    "google": 5150
+  },
+  {
+    "baidu": 96,
+    "author": "王炎",
+    "title": "丰年谣五首  其一",
+    "so360": 19,
+    "bing": 38800,
+    "bing_en": 9600,
+    "google": 665000
+  },
+  {
+    "baidu": 55,
+    "author": "王炎",
+    "title": "丰年谣五首  其二",
+    "so360": 6,
+    "bing": 38800,
+    "bing_en": 10000,
+    "google": 680000
+  },
+  {
+    "baidu": 42,
+    "author": "王炎",
+    "title": "丰年谣五首  其三",
+    "so360": 516,
+    "bing": 42900,
+    "bing_en": 21400,
+    "google": 670000
+  },
+  {
+    "baidu": 17,
+    "author": "王炎",
+    "title": "丰年谣五首  其四",
+    "so360": 482,
+    "bing": 41900,
+    "bing_en": 21400,
+    "google": 689000
+  },
+  {
+    "baidu": 22,
+    "author": "王炎",
+    "title": "丰年谣五首  其五",
+    "so360": 497,
+    "bing": 45200,
+    "bing_en": 20900,
+    "google": 663000
+  },
+  {
+    "baidu": 16,
+    "author": "王炎",
+    "title": "和林宝文吹暑轩二绝  其一",
+    "so360": 12,
+    "bing": 19600,
+    "bing_en": 100,
+    "google": 2370
+  },
+  {
+    "baidu": 16,
+    "author": "王炎",
+    "title": "和林宝文吹暑轩二绝  其二",
+    "so360": 12,
+    "bing": 4360,
+    "bing_en": 100,
+    "google": 2380
+  },
+  {
+    "baidu": 16,
+    "author": "王炎",
+    "title": "再和林宝文三绝  其一",
+    "so360": 46,
+    "bing": 1230000,
+    "bing_en": 100,
+    "google": 1390
+  },
+  {
+    "baidu": 11,
+    "author": "王炎",
+    "title": "再和林宝文三绝  其二",
+    "so360": 46,
+    "bing": 1230000,
+    "bing_en": 100,
+    "google": 1330
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "再和林宝文三绝  其三",
+    "so360": 438,
+    "bing": 318000,
+    "bing_en": 1570,
+    "google": 1300
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "李阁学挽诗三首  其一",
+    "so360": 21,
+    "bing": 15200,
+    "bing_en": 14600,
+    "google": 10300
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "李阁学挽诗三首  其二",
+    "so360": 21,
+    "bing": 15200,
+    "bing_en": 12600,
+    "google": 1620
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "李阁学挽诗三首  其三",
+    "so360": 21,
+    "bing": 13700,
+    "bing_en": 11200,
+    "google": 1630
+  },
+  {
+    "baidu": 177000,
+    "author": "王炎",
+    "title": "魏丞相挽诗三首  其一",
+    "so360": 25,
+    "bing": 12700,
+    "bing_en": 21100,
+    "google": 715000
+  },
+  {
+    "baidu": 142000,
+    "author": "王炎",
+    "title": "魏丞相挽诗三首  其二",
+    "so360": 25,
+    "bing": 12600,
+    "bing_en": 21100,
+    "google": 140000
+  },
+  {
+    "baidu": 114000,
+    "author": "王炎",
+    "title": "魏丞相挽诗三首  其三",
+    "so360": 26,
+    "bing": 17700,
+    "bing_en": 20400,
+    "google": 710000
+  },
+  {
+    "baidu": 51,
+    "author": "王炎",
+    "title": "黄致政挽诗二首  其一",
+    "so360": 29,
+    "bing": 12400,
+    "bing_en": 10400,
+    "google": 2090
+  },
+  {
+    "baidu": 58,
+    "author": "王炎",
+    "title": "黄致政挽诗二首  其二",
+    "so360": 29,
+    "bing": 12400,
+    "bing_en": 11700,
+    "google": 8680
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "贺东宫诞辰",
+    "so360": 63,
+    "bing": 3120000,
+    "bing_en": 8460,
+    "google": 3020000
+  },
+  {
+    "baidu": 1600000,
+    "author": "王炎",
+    "title": "和王右司游南岳得晴",
+    "so360": 10,
+    "bing": 10900,
+    "bing_en": 20300,
+    "google": 181000
+  },
+  {
+    "baidu": 73,
+    "author": "王炎",
+    "title": "和萧参议游岳麓八绝  其一",
+    "so360": 40,
+    "bing": 3390,
+    "bing_en": 274,
+    "google": 36000
+  },
+  {
+    "baidu": 41,
+    "author": "王炎",
+    "title": "和萧参议游岳麓八绝  其二",
+    "so360": 40,
+    "bing": 3390,
+    "bing_en": 2420,
+    "google": 36100
+  },
+  {
+    "baidu": 28,
+    "author": "王炎",
+    "title": "和萧参议游岳麓八绝  其三",
+    "so360": 40,
+    "bing": 3980,
+    "bing_en": 21100,
+    "google": 35900
+  },
+  {
+    "baidu": 15,
+    "author": "王炎",
+    "title": "和萧参议游岳麓八绝  其四",
+    "so360": 40,
+    "bing": 3970,
+    "bing_en": 21100,
+    "google": 36000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "和萧参议游岳麓八绝  其五",
+    "so360": 40,
+    "bing": 3970,
+    "bing_en": 5670,
+    "google": 35800
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "和萧参议游岳麓八绝  其六",
+    "so360": 40,
+    "bing": 3930,
+    "bing_en": 5570,
+    "google": 35800
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "和萧参议游岳麓八绝  其七",
+    "so360": 41,
+    "bing": 3900,
+    "bing_en": 5600,
+    "google": 35600
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "和萧参议游岳麓八绝  其八",
+    "so360": 41,
+    "bing": 3990,
+    "bing_en": 5690,
+    "google": 35800
+  },
+  {
+    "baidu": 96,
+    "author": "王炎",
+    "title": "和王右司游南岳三绝  其一",
+    "so360": 15,
+    "bing": 12700,
+    "bing_en": 21100,
+    "google": 250000
+  },
+  {
+    "baidu": 37100,
+    "author": "王炎",
+    "title": "和王右司游南岳三绝  其二",
+    "so360": 15,
+    "bing": 12700,
+    "bing_en": 20900,
+    "google": 235000
+  },
+  {
+    "baidu": 93,
+    "author": "王炎",
+    "title": "和王右司游南岳三绝  其三",
+    "so360": 15,
+    "bing": 8370,
+    "bing_en": 4500,
+    "google": 264000
+  },
+  {
+    "baidu": 57,
+    "author": "王炎",
+    "title": "林宝文生日",
+    "so360": 37,
+    "bing": 1720000,
+    "bing_en": 8110,
+    "google": 1680
+  },
+  {
+    "baidu": 97,
+    "author": "王炎",
+    "title": "和王右司回鴈峰韵",
+    "so360": 15,
+    "bing": 13400,
+    "bing_en": 21000,
+    "google": 4960000
+  },
+  {
+    "baidu": 1310,
+    "author": "王炎",
+    "title": "送王右司移江西宪",
+    "so360": 53,
+    "bing": 30900,
+    "bing_en": 16500,
+    "google": 3820000
+  },
+  {
+    "baidu": 8060,
+    "author": "王炎",
+    "title": "和马宜州卜居七首 卜居",
+    "so360": 63,
+    "bing": 14400,
+    "bing_en": 9320,
+    "google": 2070
+  },
+  {
+    "baidu": 2690,
+    "author": "王炎",
+    "title": "和马宜州卜居七首 足堂",
+    "so360": 14,
+    "bing": 13200,
+    "bing_en": 45900,
+    "google": 1190
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "和马宜州卜居七首 复斋",
+    "so360": 10,
+    "bing": 13700,
+    "bing_en": 21100,
+    "google": 1460
+  },
+  {
+    "baidu": 2030,
+    "author": "王炎",
+    "title": "和马宜州卜居七首 退圃",
+    "so360": 9,
+    "bing": 12400,
+    "bing_en": 21000,
+    "google": 1300
+  },
+  {
+    "baidu": 1510,
+    "author": "王炎",
+    "title": "和马宜州卜居七首 欣欣亭",
+    "so360": 24,
+    "bing": 12400,
+    "bing_en": 25000,
+    "google": 1270
+  },
+  {
+    "baidu": 31,
+    "author": "王炎",
+    "title": "和马宜州卜居七首 冰雪轩",
+    "so360": 10,
+    "bing": 8360,
+    "bing_en": 13800,
+    "google": 1270
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "和马宜州卜居七首 白莲池",
+    "so360": 23,
+    "bing": 13300,
+    "bing_en": 5490,
+    "google": 91
+  },
+  {
+    "baidu": 1190,
+    "author": "王炎",
+    "title": "九月到白石先妣茔所",
+    "so360": 16,
+    "bing": 12700,
+    "bing_en": 464,
+    "google": 26200
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "次韵胡元龙携诗相访",
+    "so360": 13,
+    "bing": 12000,
+    "bing_en": 104,
+    "google": 10100
+  },
+  {
+    "baidu": 71,
+    "author": "王炎",
+    "title": "丙午中秋夜",
+    "so360": 18,
+    "bing": 202000,
+    "bing_en": 14800,
+    "google": 112000
+  },
+  {
+    "baidu": 38,
+    "author": "王炎",
+    "title": "次韵李仲永携诗相别",
+    "so360": 627,
+    "bing": 3090,
+    "bing_en": 101,
+    "google": 10100
+  },
+  {
+    "baidu": 87,
+    "author": "王炎",
+    "title": "和至卿叙述三首  其一",
+    "so360": 20,
+    "bing": 27400,
+    "bing_en": 21500,
+    "google": 1120000
+  },
+  {
+    "baidu": 58,
+    "author": "王炎",
+    "title": "和至卿叙述三首  其二",
+    "so360": 20,
+    "bing": 27400,
+    "bing_en": 21200,
+    "google": 1080000
+  },
+  {
+    "baidu": 82,
+    "author": "王炎",
+    "title": "和至卿叙述三首  其三",
+    "so360": 532,
+    "bing": 20600,
+    "bing_en": 21300,
+    "google": 1100000
+  },
+  {
+    "baidu": 32,
+    "author": "王炎",
+    "title": "和至卿述怀二首  其一",
+    "so360": 20,
+    "bing": 15800,
+    "bing_en": 21100,
+    "google": 75400
+  },
+  {
+    "baidu": 26,
+    "author": "王炎",
+    "title": "和至卿述怀二首  其二",
+    "so360": 21,
+    "bing": 15100,
+    "bing_en": 21400,
+    "google": 76100
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "吊祢正平",
+    "so360": 18,
+    "bing": 180000,
+    "bing_en": 496,
+    "google": 1150000
+  },
+  {
+    "baidu": 27,
+    "author": "王炎",
+    "title": "和韩毅伯知命",
+    "so360": 28,
+    "bing": 21400,
+    "bing_en": 6460,
+    "google": 1430
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "和韩毅伯求鹿皮韵",
+    "so360": 70,
+    "bing": 50900,
+    "bing_en": 6290,
+    "google": 1360
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "次韵韩毅伯病疟",
+    "so360": 76,
+    "bing": 23000,
+    "bing_en": 538,
+    "google": 8880
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "次韵韩毅伯谢人惠茶",
+    "so360": 25,
+    "bing": 213000,
+    "bing_en": 101,
+    "google": 11300
+  },
+  {
+    "baidu": 11,
+    "author": "王炎",
+    "title": "和韩毅伯述怀",
+    "so360": 22,
+    "bing": 761000,
+    "bing_en": 21200,
+    "google": 1990
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "次韵韩毅伯趣诸先辈送茶",
+    "so360": 43,
+    "bing": 21100,
+    "bing_en": 16300,
+    "google": 13000
+  },
+  {
+    "baidu": 23,
+    "author": "王炎",
+    "title": "再用元韵因简县庠诸先辈",
+    "so360": 69,
+    "bing": 23500,
+    "bing_en": 1710,
+    "google": 29500
+  },
+  {
+    "baidu": 11,
+    "author": "王炎",
+    "title": "和韩毅伯拟别",
+    "so360": 42,
+    "bing": 27300,
+    "bing_en": 21400,
+    "google": 2460
+  },
+  {
+    "baidu": 22,
+    "author": "王炎",
+    "title": "江上为韩毅伯访得便舟",
+    "so360": 57,
+    "bing": 4070,
+    "bing_en": 602,
+    "google": 1770
+  },
+  {
+    "baidu": 27100,
+    "author": "王炎",
+    "title": "再用元韵二首  其一",
+    "so360": 103,
+    "bing": 427000,
+    "bing_en": 14400,
+    "google": 6980000
+  },
+  {
+    "baidu": 26800,
+    "author": "王炎",
+    "title": "再用元韵二首  其二",
+    "so360": 114,
+    "bing": 38900,
+    "bing_en": 11800,
+    "google": 5400000
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "次韵韩毅伯拟别",
+    "so360": 76,
+    "bing": 21700,
+    "bing_en": 1920,
+    "google": 9620
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "次韵韩毅伯别许宣教",
+    "so360": 22,
+    "bing": 20800,
+    "bing_en": 80,
+    "google": 28400
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "题岳阳守张仲骏浮光亭",
+    "so360": 57,
+    "bing": 126000,
+    "bing_en": 3800,
+    "google": 2140
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "又题月台",
+    "so360": 21,
+    "bing": 2480000,
+    "bing_en": 23400,
+    "google": 5670000
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "县圃黄梅半堕草间",
+    "so360": 528,
+    "bing": 21400,
+    "bing_en": 1900,
+    "google": 6010
+  },
+  {
+    "baidu": 1100,
+    "author": "王炎",
+    "title": "招同官诸宣教一饭用舟字韵成拙句",
+    "so360": 14,
+    "bing": 10900,
+    "bing_en": 1550,
+    "google": 10200
+  },
+  {
+    "baidu": 47,
+    "author": "王炎",
+    "title": "饮阑月上不能留客再成一篇",
+    "so360": 17,
+    "bing": 21100,
+    "bing_en": 130,
+    "google": 197000
+  },
+  {
+    "baidu": 27,
+    "author": "王炎",
+    "title": "居民多疫为散药",
+    "so360": 14,
+    "bing": 21100,
+    "bing_en": 3390,
+    "google": 2400000
+  },
+  {
+    "baidu": 19,
+    "author": "王炎",
+    "title": "闻田家插秧已毕",
+    "so360": 131,
+    "bing": 4750,
+    "bing_en": 874,
+    "google": 24300
+  },
+  {
+    "baidu": 44,
+    "author": "王炎",
+    "title": "偶行后圃成三绝  其一",
+    "so360": 458,
+    "bing": 19400,
+    "bing_en": 3600,
+    "google": 516000
+  },
+  {
+    "baidu": 11400,
+    "author": "王炎",
+    "title": "偶行后圃成三绝  其二",
+    "so360": 445,
+    "bing": 21900,
+    "bing_en": 21100,
+    "google": 429000
+  },
+  {
+    "baidu": 37,
+    "author": "王炎",
+    "title": "偶行后圃成三绝  其三",
+    "so360": 9,
+    "bing": 19700,
+    "bing_en": 21100,
+    "google": 507000
+  },
+  {
+    "baidu": 1060,
+    "author": "王炎",
+    "title": "小凫",
+    "so360": 22,
+    "bing": 109000,
+    "bing_en": 21300,
+    "google": 693000
+  },
+  {
+    "baidu": 32,
+    "author": "王炎",
+    "title": "蛙声",
+    "so360": 1060,
+    "bing": 73600000,
+    "bing_en": 21200,
+    "google": 3500000
+  },
+  {
+    "baidu": 25,
+    "author": "王炎",
+    "title": "劝农出郊三绝  其一",
+    "so360": 28,
+    "bing": 22400,
+    "bing_en": 264,
+    "google": 1510000
+  },
+  {
+    "baidu": 29,
+    "author": "王炎",
+    "title": "劝农出郊三绝  其二",
+    "so360": 28,
+    "bing": 22000,
+    "bing_en": 297,
+    "google": 1470000
+  },
+  {
+    "baidu": 26,
+    "author": "王炎",
+    "title": "劝农出郊三绝  其三",
+    "so360": 28,
+    "bing": 29400,
+    "bing_en": 11600,
+    "google": 1460000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "出郭视田讼三绝  其一",
+    "so360": 610,
+    "bing": 21100,
+    "bing_en": 4430,
+    "google": 472000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "出郭视田讼三绝  其二",
+    "so360": 616,
+    "bing": 21100,
+    "bing_en": 2660,
+    "google": 455000
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "出郭视田讼三绝  其三",
+    "so360": 531,
+    "bing": 21100,
+    "bing_en": 13400,
+    "google": 432000
+  },
+  {
+    "baidu": 64,
+    "author": "王炎",
+    "title": "觅李尉白犬",
+    "so360": 29,
+    "bing": 32000,
+    "bing_en": 20900,
+    "google": 19200
+  },
+  {
+    "baidu": 1080,
+    "author": "王炎",
+    "title": "和黄先卿即事五首  其一",
+    "so360": 28,
+    "bing": 23700,
+    "bing_en": 21100,
+    "google": 31700
+  },
+  {
+    "baidu": 94,
+    "author": "王炎",
+    "title": "和黄先卿即事五首  其二",
+    "so360": 28,
+    "bing": 23700,
+    "bing_en": 21100,
+    "google": 28700
+  },
+  {
+    "baidu": 89,
+    "author": "王炎",
+    "title": "和黄先卿即事五首  其三",
+    "so360": 508,
+    "bing": 23500,
+    "bing_en": 15600,
+    "google": 31500
+  },
+  {
+    "baidu": 75,
+    "author": "王炎",
+    "title": "和黄先卿即事五首  其四",
+    "so360": 494,
+    "bing": 23600,
+    "bing_en": 15000,
+    "google": 31500
+  },
+  {
+    "baidu": 64,
+    "author": "王炎",
+    "title": "和黄先卿即事五首  其五",
+    "so360": 535,
+    "bing": 23600,
+    "bing_en": 17400,
+    "google": 31500
+  },
+  {
+    "baidu": 37,
+    "author": "王炎",
+    "title": "题巴陵宰邓器先北窗",
+    "so360": 60,
+    "bing": 21100,
+    "bing_en": 2250,
+    "google": 4220000
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "用元韵寄周推萧法",
+    "so360": 33,
+    "bing": 23500,
+    "bing_en": 21300,
+    "google": 2900000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "用元韵答汪广文",
+    "so360": 414,
+    "bing": 25800,
+    "bing_en": 4300,
+    "google": 14500
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "用元韵答邓宰兼简华容孟宰",
+    "so360": 41,
+    "bing": 9900,
+    "bing_en": 2410,
+    "google": 3180
+  },
+  {
+    "baidu": 70,
+    "author": "王炎",
+    "title": "用元韵答徐尉",
+    "so360": 12,
+    "bing": 39000,
+    "bing_en": 21100,
+    "google": 1150000
+  },
+  {
+    "baidu": 47,
+    "author": "王炎",
+    "title": "和许尉小洞庭韵  其一",
+    "so360": 30,
+    "bing": 34300,
+    "bing_en": 18500,
+    "google": 468000
+  },
+  {
+    "baidu": 75,
+    "author": "王炎",
+    "title": "和许尉小洞庭韵  其二",
+    "so360": 30,
+    "bing": 30500,
+    "bing_en": 18200,
+    "google": 473000
+  },
+  {
+    "baidu": 100,
+    "author": "王炎",
+    "title": "和吴秀才二绝  其一",
+    "so360": 15,
+    "bing": 25500,
+    "bing_en": 21100,
+    "google": 4840000
+  },
+  {
+    "baidu": 99,
+    "author": "王炎",
+    "title": "和吴秀才二绝  其二",
+    "so360": 15,
+    "bing": 25500,
+    "bing_en": 21100,
+    "google": 3460000
+  },
+  {
+    "baidu": 61,
+    "author": "王炎",
+    "title": "送相士管明甫",
+    "so360": 13,
+    "bing": 765000,
+    "bing_en": 19700,
+    "google": 1730000
+  },
+  {
+    "baidu": 15,
+    "author": "王炎",
+    "title": "和程丞游清水岩黄龙山韵",
+    "so360": 31,
+    "bing": 21300,
+    "bing_en": 100,
+    "google": 1360
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "和程丞游清水岩黄龙山韵 清水岩",
+    "so360": 31,
+    "bing": 21100,
+    "bing_en": 100,
+    "google": 4530
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "和程丞游清水岩黄龙山韵 黄龙山 其一",
+    "so360": 32,
+    "bing": 10100,
+    "bing_en": 100,
+    "google": 1350
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "和程丞游清水岩黄龙山韵 黄龙山 其二",
+    "so360": 31,
+    "bing": 10100,
+    "bing_en": 100,
+    "google": 1130
+  },
+  {
+    "baidu": 36800,
+    "author": "王炎",
+    "title": "和陆簿九日二首  其一",
+    "so360": 15,
+    "bing": 30900,
+    "bing_en": 36200,
+    "google": 5040000
+  },
+  {
+    "baidu": 30800,
+    "author": "王炎",
+    "title": "和陆簿九日二首  其二",
+    "so360": 15,
+    "bing": 30900,
+    "bing_en": 42100,
+    "google": 4840000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "喜晴行呈陈宰",
+    "so360": 23,
+    "bing": 25300,
+    "bing_en": 19600,
+    "google": 24400
+  },
+  {
+    "baidu": 5730,
+    "author": "王炎",
+    "title": "陆簿生日",
+    "so360": 11,
+    "bing": 247000,
+    "bing_en": 30100,
+    "google": 3600000
+  },
+  {
+    "baidu": 61,
+    "author": "王炎",
+    "title": "溪上晚步二首  其一",
+    "so360": 512,
+    "bing": 19400,
+    "bing_en": 15400,
+    "google": 22800000
+  },
+  {
+    "baidu": 63,
+    "author": "王炎",
+    "title": "溪上晚步二首  其二",
+    "so360": 553,
+    "bing": 216000,
+    "bing_en": 16300,
+    "google": 72600000
+  },
+  {
+    "baidu": 18,
+    "author": "王炎",
+    "title": "宋可挹挽诗",
+    "so360": 179,
+    "bing": 23700,
+    "bing_en": 60,
+    "google": 397000
+  },
+  {
+    "baidu": 35,
+    "author": "王炎",
+    "title": "用十梅韵答冯簿  其一",
+    "so360": 94,
+    "bing": 24000,
+    "bing_en": 21100,
+    "google": 3280000
+  },
+  {
+    "baidu": 38,
+    "author": "王炎",
+    "title": "用十梅韵答冯簿  其二",
+    "so360": 94,
+    "bing": 21100,
+    "bing_en": 21100,
+    "google": 2540000
+  },
+  {
+    "baidu": 33,
+    "author": "王炎",
+    "title": "用十梅韵答冯簿  其三",
+    "so360": 85,
+    "bing": 63700,
+    "bing_en": 21300,
+    "google": 2580000
+  },
+  {
+    "baidu": 34,
+    "author": "王炎",
+    "title": "用十梅韵答冯簿  其四",
+    "so360": 9,
+    "bing": 38400,
+    "bing_en": 20900,
+    "google": 2950000
+  },
+  {
+    "baidu": 32,
+    "author": "王炎",
+    "title": "用十梅韵答冯簿  其五",
+    "so360": 9,
+    "bing": 96400,
+    "bing_en": 21300,
+    "google": 2830000
+  },
+  {
+    "baidu": 29,
+    "author": "王炎",
+    "title": "用十梅韵答冯簿  其六",
+    "so360": 10,
+    "bing": 94400,
+    "bing_en": 21300,
+    "google": 3420000
+  },
+  {
+    "baidu": 18,
+    "author": "王炎",
+    "title": "用十梅韵答冯簿  其七",
+    "so360": 9,
+    "bing": 102000,
+    "bing_en": 21300,
+    "google": 2960000
+  },
+  {
+    "baidu": 23,
+    "author": "王炎",
+    "title": "用十梅韵答冯簿  其八",
+    "so360": 182,
+    "bing": 119000,
+    "bing_en": 21300,
+    "google": 2610000
+  },
+  {
+    "baidu": 17,
+    "author": "王炎",
+    "title": "用十梅韵答冯簿  其九",
+    "so360": 474,
+    "bing": 98800,
+    "bing_en": 21300,
+    "google": 2170000
+  },
+  {
+    "baidu": 62,
+    "author": "王炎",
+    "title": "用十梅韵答冯簿  其一○",
+    "so360": 94,
+    "bing": 21100,
+    "bing_en": 21100,
+    "google": 341000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "和何应辰过山谷墓韵",
+    "so360": 14,
+    "bing": 21100,
+    "bing_en": 2660,
+    "google": 1510
+  },
+  {
+    "baidu": 796,
+    "author": "王炎",
+    "title": "新晴出溪上因访王伯明詹望之",
+    "so360": 20,
+    "bing": 30800,
+    "bing_en": 342,
+    "google": 5450
+  },
+  {
+    "baidu": 92,
+    "author": "王炎",
+    "title": "用元韵答詹望之",
+    "so360": 8,
+    "bing": 27800,
+    "bing_en": 20900,
+    "google": 1740
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "溪上寻梅不遇",
+    "so360": 7,
+    "bing": 18700,
+    "bing_en": 19100,
+    "google": 124000
+  },
+  {
+    "baidu": 67,
+    "author": "王炎",
+    "title": "寓居分宁去故乡千里不归者二年思念松楸成长句",
+    "so360": 57,
+    "bing": 1600,
+    "bing_en": 104,
+    "google": 4360
+  },
+  {
+    "baidu": 72,
+    "author": "王炎",
+    "title": "即事六绝  其一",
+    "so360": 50,
+    "bing": 246000,
+    "bing_en": 21400,
+    "google": 7120000
+  },
+  {
+    "baidu": 78,
+    "author": "王炎",
+    "title": "即事六绝  其二",
+    "so360": 50,
+    "bing": 246000,
+    "bing_en": 21200,
+    "google": 8650000
+  },
+  {
+    "baidu": 73,
+    "author": "王炎",
+    "title": "即事六绝  其三",
+    "so360": 50,
+    "bing": 49400,
+    "bing_en": 24600,
+    "google": 7930000
+  },
+  {
+    "baidu": 70,
+    "author": "王炎",
+    "title": "即事六绝  其四",
+    "so360": 51,
+    "bing": 47100,
+    "bing_en": 23300,
+    "google": 5640000
+  },
+  {
+    "baidu": 70,
+    "author": "王炎",
+    "title": "即事六绝  其五",
+    "so360": 8,
+    "bing": 46400,
+    "bing_en": 22600,
+    "google": 7790000
+  },
+  {
+    "baidu": 20,
+    "author": "王炎",
+    "title": "即事六绝  其六",
+    "so360": 50,
+    "bing": 50800,
+    "bing_en": 26300,
+    "google": 6870000
+  },
+  {
+    "baidu": 62,
+    "author": "王炎",
+    "title": "游南山寺题澹轩",
+    "so360": 19,
+    "bing": 21100,
+    "bing_en": 13800,
+    "google": 335000
+  },
+  {
+    "baidu": 65,
+    "author": "王炎",
+    "title": "用元韵答麟老  其一",
+    "so360": 33,
+    "bing": 22000,
+    "bing_en": 18900,
+    "google": 3000000
+  },
+  {
+    "baidu": 56,
+    "author": "王炎",
+    "title": "用元韵答麟老  其二",
+    "so360": 34,
+    "bing": 21900,
+    "bing_en": 20000,
+    "google": 3850000
+  },
+  {
+    "baidu": 5410,
+    "author": "王炎",
+    "title": "述怀三首  其一",
+    "so360": 581,
+    "bing": 1140000,
+    "bing_en": 24000,
+    "google": 135000
+  },
+  {
+    "baidu": 71,
+    "author": "王炎",
+    "title": "述怀三首  其二",
+    "so360": 582,
+    "bing": 1130000,
+    "bing_en": 23400,
+    "google": 154000
+  },
+  {
+    "baidu": 65,
+    "author": "王炎",
+    "title": "述怀三首  其三",
+    "so360": 28,
+    "bing": 165000,
+    "bing_en": 57800,
+    "google": 146000
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "次韵答熊朝英  其一",
+    "so360": 508,
+    "bing": 13800,
+    "bing_en": 124,
+    "google": 13500
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "次韵答熊朝英  其二",
+    "so360": 20,
+    "bing": 11800,
+    "bing_en": 10700,
+    "google": 13700
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "胜赏亭",
+    "so360": 11,
+    "bing": 344000,
+    "bing_en": 22700,
+    "google": 4050000
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "赠郭相士",
+    "so360": 562,
+    "bing": 29700,
+    "bing_en": 7940,
+    "google": 4140
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "和祝圣予送行韵",
+    "so360": 28,
+    "bing": 38600,
+    "bing_en": 7120,
+    "google": 1650
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "次韵孙居易送行",
+    "so360": 221,
+    "bing": 27300,
+    "bing_en": 1120,
+    "google": 8980
+  },
+  {
+    "baidu": 56,
+    "author": "王炎",
+    "title": "陈宰生日",
+    "so360": 26,
+    "bing": 114000,
+    "bing_en": 21200,
+    "google": 4140000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "和王宗礼送行韵",
+    "so360": 12,
+    "bing": 610000,
+    "bing_en": 11100,
+    "google": 3290
+  },
+  {
+    "baidu": 21,
+    "author": "王炎",
+    "title": "和陆簿韵",
+    "so360": 692000,
+    "bing": 266000,
+    "bing_en": 21400,
+    "google": 3990000
+  },
+  {
+    "baidu": 26900,
+    "author": "王炎",
+    "title": "和黄子山韵二首  其一",
+    "so360": 26,
+    "bing": 42400,
+    "bing_en": 13800,
+    "google": 1890
+  },
+  {
+    "baidu": 24400,
+    "author": "王炎",
+    "title": "和黄子山韵二首  其二",
+    "so360": 26,
+    "bing": 42400,
+    "bing_en": 12600,
+    "google": 2400
+  },
+  {
+    "baidu": 19,
+    "author": "王炎",
+    "title": "用元韵答徐幼文  其一",
+    "so360": 966,
+    "bing": 14000,
+    "bing_en": 12900,
+    "google": 2950
+  },
+  {
+    "baidu": 16,
+    "author": "王炎",
+    "title": "用元韵答徐幼文  其二",
+    "so360": 40,
+    "bing": 11700,
+    "bing_en": 16900,
+    "google": 2960
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "谢黄子山贺得孙",
+    "so360": 29,
+    "bing": 64800,
+    "bing_en": 100,
+    "google": 5530
+  },
+  {
+    "baidu": 80,
+    "author": "王炎",
+    "title": "和麟老韵五绝  其一",
+    "so360": 28,
+    "bing": 49000,
+    "bing_en": 10800,
+    "google": 208000
+  },
+  {
+    "baidu": 58,
+    "author": "王炎",
+    "title": "和麟老韵五绝  其二",
+    "so360": 27,
+    "bing": 49000,
+    "bing_en": 21100,
+    "google": 205000
+  },
+  {
+    "baidu": 49,
+    "author": "王炎",
+    "title": "和麟老韵五绝  其三",
+    "so360": 28,
+    "bing": 49000,
+    "bing_en": 21100,
+    "google": 208000
+  },
+  {
+    "baidu": 30,
+    "author": "王炎",
+    "title": "和麟老韵五绝  其四",
+    "so360": 568,
+    "bing": 49000,
+    "bing_en": 21100,
+    "google": 205000
+  },
+  {
+    "baidu": 29,
+    "author": "王炎",
+    "title": "和麟老韵五绝  其五",
+    "so360": 393,
+    "bing": 49000,
+    "bing_en": 20100,
+    "google": 210000
+  },
+  {
+    "baidu": 60,
+    "author": "王炎",
+    "title": "王倅成老挽诗二首  其一",
+    "so360": 31,
+    "bing": 21100,
+    "bing_en": 21100,
+    "google": 1520
+  },
+  {
+    "baidu": 65,
+    "author": "王炎",
+    "title": "王倅成老挽诗二首  其二",
+    "so360": 31,
+    "bing": 21100,
+    "bing_en": 21100,
+    "google": 6250
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "和陈丞彦能韵",
+    "so360": 16,
+    "bing": 217000,
+    "bing_en": 112,
+    "google": 1490
+  },
+  {
+    "baidu": 57500,
+    "author": "王炎",
+    "title": "方漕躬明挽诗三首  其一",
+    "so360": 27,
+    "bing": 22000,
+    "bing_en": 21100,
+    "google": 1070000
+  },
+  {
+    "baidu": 53300,
+    "author": "王炎",
+    "title": "方漕躬明挽诗三首  其二",
+    "so360": 27,
+    "bing": 21900,
+    "bing_en": 21100,
+    "google": 1070000
+  },
+  {
+    "baidu": 44900,
+    "author": "王炎",
+    "title": "方漕躬明挽诗三首  其三",
+    "so360": 27,
+    "bing": 21100,
+    "bing_en": 21100,
+    "google": 307000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "谢江潭诸公",
+    "so360": 28,
+    "bing": 65700,
+    "bing_en": 18900,
+    "google": 1570
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "题童寿卿博雅堂",
+    "so360": 600,
+    "bing": 427000,
+    "bing_en": 12000,
+    "google": 3110
+  },
+  {
+    "baidu": 24,
+    "author": "王炎",
+    "title": "题秋山图",
+    "so360": 447,
+    "bing": 728000,
+    "bing_en": 15500,
+    "google": 2000000
+  },
+  {
+    "baidu": 15,
+    "author": "王炎",
+    "title": "题远山平林图",
+    "so360": 51,
+    "bing": 604000,
+    "bing_en": 4130,
+    "google": 5070
+  },
+  {
+    "baidu": 40,
+    "author": "王炎",
+    "title": "题潮山海门图",
+    "so360": 134,
+    "bing": 56600,
+    "bing_en": 10900,
+    "google": 2320000
+  },
+  {
+    "baidu": 21,
+    "author": "王炎",
+    "title": "送许士龙秘校",
+    "so360": 23,
+    "bing": 55200,
+    "bing_en": 3000,
+    "google": 1650
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "题韦同年聚远合",
+    "so360": 2,
+    "bing": 22500,
+    "bing_en": 3430,
+    "google": 468
+  },
+  {
+    "baidu": 37,
+    "author": "王炎",
+    "title": "送房陵倅韦同年二首  其一",
+    "so360": 17,
+    "bing": 19400,
+    "bing_en": 16000,
+    "google": 3780000
+  },
+  {
+    "baidu": 39,
+    "author": "王炎",
+    "title": "送房陵倅韦同年二首  其二",
+    "so360": 17,
+    "bing": 19800,
+    "bing_en": 390,
+    "google": 3570000
+  },
+  {
+    "baidu": 40,
+    "author": "王炎",
+    "title": "赠轮上座",
+    "so360": 53,
+    "bing": 51300,
+    "bing_en": 8730,
+    "google": 49300
+  },
+  {
+    "baidu": 35,
+    "author": "王炎",
+    "title": "寄蒋主簿",
+    "so360": 60,
+    "bing": 36200,
+    "bing_en": 16900,
+    "google": 1990000
+  },
+  {
+    "baidu": 73,
+    "author": "王炎",
+    "title": "用元韵答刘判官",
+    "so360": 28,
+    "bing": 760000,
+    "bing_en": 17300,
+    "google": 486000
+  },
+  {
+    "baidu": 37800,
+    "author": "王炎",
+    "title": "用元韵答戴簿",
+    "so360": 77,
+    "bing": 39000,
+    "bing_en": 21400,
+    "google": 2590000
+  },
+  {
+    "baidu": 30700,
+    "author": "王炎",
+    "title": "用元韵答蒋簿",
+    "so360": 21,
+    "bing": 39100,
+    "bing_en": 21000,
+    "google": 2650000
+  },
+  {
+    "baidu": 36900,
+    "author": "王炎",
+    "title": "萧参政挽诗二首  其一",
+    "so360": 23,
+    "bing": 22000,
+    "bing_en": 742,
+    "google": 97800
+  },
+  {
+    "baidu": 19300,
+    "author": "王炎",
+    "title": "萧参政挽诗二首  其二",
+    "so360": 23,
+    "bing": 22000,
+    "bing_en": 791,
+    "google": 92700
+  },
+  {
+    "baidu": 69,
+    "author": "王炎",
+    "title": "送施宣教",
+    "so360": 22,
+    "bing": 245000,
+    "bing_en": 20100,
+    "google": 220000
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "和吴梦授韵",
+    "so360": 14,
+    "bing": 56200,
+    "bing_en": 21200,
+    "google": 2250000
+  },
+  {
+    "baidu": 43,
+    "author": "王炎",
+    "title": "题徐秘校达轩",
+    "so360": 17,
+    "bing": 153000,
+    "bing_en": 104000,
+    "google": 4290000
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "壬子春罗端长赠别",
+    "so360": 25,
+    "bing": 21100,
+    "bing_en": 7760,
+    "google": 301000
+  },
+  {
+    "baidu": 84,
+    "author": "王炎",
+    "title": "和王文州咏雪韵  其一",
+    "so360": 27,
+    "bing": 328000,
+    "bing_en": 19500,
+    "google": 3440
+  },
+  {
+    "baidu": 55,
+    "author": "王炎",
+    "title": "和王文州咏雪韵  其二",
+    "so360": 27,
+    "bing": 23400,
+    "bing_en": 20100,
+    "google": 3420
+  },
+  {
+    "baidu": 9360,
+    "author": "王炎",
+    "title": "冬雪行",
+    "so360": 1210,
+    "bing": 251000,
+    "bing_en": 85300,
+    "google": 98800000
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "次韵答简簿",
+    "so360": 22,
+    "bing": 71700,
+    "bing_en": 5910,
+    "google": 118000
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "题杨秀才园三亭 绣春",
+    "so360": 18,
+    "bing": 23000,
+    "bing_en": 21100,
+    "google": 3220000
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "题杨秀才园三亭 见山",
+    "so360": 13,
+    "bing": 20400,
+    "bing_en": 21100,
+    "google": 8970
+  },
+  {
+    "baidu": 17,
+    "author": "王炎",
+    "title": "题杨秀才园三亭 移春",
+    "so360": 9,
+    "bing": 358000,
+    "bing_en": 24600,
+    "google": 2660000
+  },
+  {
+    "baidu": 440,
+    "author": "王炎",
+    "title": "和王文州梅花韵",
+    "so360": 28,
+    "bing": 95400,
+    "bing_en": 14000,
+    "google": 1990
+  },
+  {
+    "baidu": 838,
+    "author": "王炎",
+    "title": "题清江常宰道院",
+    "so360": 25,
+    "bing": 242000,
+    "bing_en": 2180,
+    "google": 97300
+  },
+  {
+    "baidu": 45,
+    "author": "王炎",
+    "title": "和周南吉二绝  其一",
+    "so360": 19,
+    "bing": 25500,
+    "bing_en": 13400,
+    "google": 720000
+  },
+  {
+    "baidu": 75,
+    "author": "王炎",
+    "title": "和周南吉二绝  其二",
+    "so360": 19,
+    "bing": 23800,
+    "bing_en": 13500,
+    "google": 304000
+  },
+  {
+    "baidu": 25,
+    "author": "王炎",
+    "title": "题徐参议画轴三首 墨梅",
+    "so360": 36,
+    "bing": 23500,
+    "bing_en": 65,
+    "google": 30100
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "题徐参议画轴三首 赤壁图",
+    "so360": 32,
+    "bing": 21100,
+    "bing_en": 1750,
+    "google": 25800
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "题徐参议画轴三首 岁寒三友",
+    "so360": 53,
+    "bing": 22700,
+    "bing_en": 143,
+    "google": 9570
+  },
+  {
+    "baidu": 21,
+    "author": "王炎",
+    "title": "题徐参议所藏唐人浴儿图",
+    "so360": 32,
+    "bing": 41300,
+    "bing_en": 1670,
+    "google": 21100
+  },
+  {
+    "baidu": 35600,
+    "author": "王炎",
+    "title": "和潘判官送酒韵",
+    "so360": 14,
+    "bing": 14000,
+    "bing_en": 16100,
+    "google": 1270000
+  },
+  {
+    "baidu": 27,
+    "author": "王炎",
+    "title": "和王宫教送酒韵",
+    "so360": 10,
+    "bing": 25100,
+    "bing_en": 100,
+    "google": 3320000
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "和王宫教韵",
+    "so360": 14,
+    "bing": 37800,
+    "bing_en": 11400,
+    "google": 1820000
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "送简簿  其一",
+    "so360": 525,
+    "bing": 29300,
+    "bing_en": 7350,
+    "google": 4360000
+  },
+  {
+    "baidu": 11,
+    "author": "王炎",
+    "title": "送简簿  其二",
+    "so360": 527,
+    "bing": 138000,
+    "bing_en": 16800,
+    "google": 6590000
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "送简簿  其三",
+    "so360": 578,
+    "bing": 187000,
+    "bing_en": 36800,
+    "google": 5210000
+  },
+  {
+    "baidu": 24,
+    "author": "王炎",
+    "title": "游合皂",
+    "so360": 48000,
+    "bing": 240000,
+    "bing_en": 19400,
+    "google": 3960000
+  },
+  {
+    "baidu": 21,
+    "author": "王炎",
+    "title": "陈张甘三道士和篇继至用元韵并谢之",
+    "so360": 16,
+    "bing": 18400,
+    "bing_en": 9290,
+    "google": 1440
+  },
+  {
+    "baidu": 50,
+    "author": "王炎",
+    "title": "题苍玉轩",
+    "so360": 19,
+    "bing": 251000,
+    "bing_en": 22500,
+    "google": 3620000
+  },
+  {
+    "baidu": 53,
+    "author": "王炎",
+    "title": "题李道士揖云轩",
+    "so360": 11,
+    "bing": 22700,
+    "bing_en": 13700,
+    "google": 86300
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "题熊道士遐观阁",
+    "so360": 10,
+    "bing": 22600,
+    "bing_en": 8630,
+    "google": 401000
+  },
+  {
+    "baidu": 0,
+    "author": "王炎",
+    "title": "题刘知宫愚圃三首  其一",
+    "so360": 25,
+    "bing": 32300,
+    "bing_en": 21100,
+    "google": 330000
+  },
+  {
+    "baidu": 0,
+    "author": "王炎",
+    "title": "题刘知宫愚圃三首  其二",
+    "so360": 26,
+    "bing": 32300,
+    "bing_en": 21100,
+    "google": 248000
+  },
+  {
+    "baidu": 0,
+    "author": "王炎",
+    "title": "题刘知宫愚圃三首  其三",
+    "so360": 26,
+    "bing": 25700,
+    "bing_en": 21300,
+    "google": 343000
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "题乘槎",
+    "so360": 48,
+    "bing": 40300,
+    "bing_en": 21400,
+    "google": 1050000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "和壁间谢艮斋留题",
+    "so360": 12,
+    "bing": 22900,
+    "bing_en": 112,
+    "google": 1380000
+  },
+  {
+    "baidu": 25,
+    "author": "王炎",
+    "title": "酬白云张道士惠诗",
+    "so360": 11,
+    "bing": 22300,
+    "bing_en": 12100,
+    "google": 426000
+  },
+  {
+    "baidu": 38,
+    "author": "王炎",
+    "title": "题杨解元寿萱堂二首  其一",
+    "so360": 61,
+    "bing": 41300,
+    "bing_en": 65,
+    "google": 1280
+  },
+  {
+    "baidu": 35,
+    "author": "王炎",
+    "title": "题杨解元寿萱堂二首  其二",
+    "so360": 61,
+    "bing": 41400,
+    "bing_en": 33200,
+    "google": 1510
+  },
+  {
+    "baidu": 30,
+    "author": "王炎",
+    "title": "除日出江上迓赵宪",
+    "so360": 14,
+    "bing": 19600,
+    "bing_en": 2920,
+    "google": 29500
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "张德夫园亭八咏 梅隠",
+    "so360": 34,
+    "bing": 20700,
+    "bing_en": 136,
+    "google": 27000
+  },
+  {
+    "baidu": 11,
+    "author": "王炎",
+    "title": "张德夫园亭八咏 山堂",
+    "so360": 20,
+    "bing": 22700,
+    "bing_en": 14800,
+    "google": 1810
+  },
+  {
+    "baidu": 19,
+    "author": "王炎",
+    "title": "张德夫园亭八咏 玉椽",
+    "so360": 126,
+    "bing": 10200,
+    "bing_en": 20200,
+    "google": 1580
+  },
+  {
+    "baidu": 277,
+    "author": "王炎",
+    "title": "张德夫园亭八咏 渔村",
+    "so360": 55,
+    "bing": 4400,
+    "bing_en": 1350,
+    "google": 2190
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "张德夫园亭八咏 兼远",
+    "so360": 128,
+    "bing": 19000,
+    "bing_en": 20500,
+    "google": 528
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "张德夫园亭八咏 橘渚",
+    "so360": 130,
+    "bing": 7450,
+    "bing_en": 20300,
+    "google": 1740
+  },
+  {
+    "baidu": 279,
+    "author": "王炎",
+    "title": "张德夫园亭八咏 山椒",
+    "so360": 27,
+    "bing": 11100,
+    "bing_en": 20900,
+    "google": 17900
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "张德夫园亭八咏 可莹",
+    "so360": 20,
+    "bing": 13200,
+    "bing_en": 20800,
+    "google": 1820
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "题谢艮斋画笥四首  其一",
+    "so360": 32,
+    "bing": 64500,
+    "bing_en": 20100,
+    "google": 1140000
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "题谢艮斋画笥四首  其二",
+    "so360": 32,
+    "bing": 64500,
+    "bing_en": 20000,
+    "google": 1220000
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "题谢艮斋画笥四首  其三",
+    "so360": 32,
+    "bing": 32600,
+    "bing_en": 21100,
+    "google": 1130000
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "题谢艮斋画笥四首  其四",
+    "so360": 32,
+    "bing": 9290,
+    "bing_en": 21100,
+    "google": 1160000
+  },
+  {
+    "baidu": 15,
+    "author": "王炎",
+    "title": "送谢庭玉二首  其一",
+    "so360": 32,
+    "bing": 32500,
+    "bing_en": 7510,
+    "google": 2190
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "送谢庭玉二首  其二",
+    "so360": 32,
+    "bing": 31500,
+    "bing_en": 7370,
+    "google": 2280
+  },
+  {
+    "baidu": 94,
+    "author": "王炎",
+    "title": "送刘都干",
+    "so360": 258,
+    "bing": 1460000,
+    "bing_en": 1140,
+    "google": 15200000
+  },
+  {
+    "baidu": 90,
+    "author": "王炎",
+    "title": "清江劝驾送举人二首  其一",
+    "so360": 28,
+    "bing": 41300,
+    "bing_en": 79,
+    "google": 37700
+  },
+  {
+    "baidu": 47,
+    "author": "王炎",
+    "title": "清江劝驾送举人二首  其二",
+    "so360": 28,
+    "bing": 41300,
+    "bing_en": 11200,
+    "google": 30800
+  },
+  {
+    "baidu": 9,
+    "author": "王炎",
+    "title": "次韵分宁胡宰赠行",
+    "so360": 45,
+    "bing": 22900,
+    "bing_en": 7350,
+    "google": 116000
+  },
+  {
+    "baidu": 90,
+    "author": "王炎",
+    "title": "次韵巴陵罗簿送行二首  其一",
+    "so360": 26,
+    "bing": 11400,
+    "bing_en": 838,
+    "google": 18000
+  },
+  {
+    "baidu": 62,
+    "author": "王炎",
+    "title": "次韵巴陵罗簿送行二首  其二",
+    "so360": 26,
+    "bing": 9490,
+    "bing_en": 2480,
+    "google": 16500
+  },
+  {
+    "baidu": 76,
+    "author": "王炎",
+    "title": "次韵分宁罗簿赠行二首  其一",
+    "so360": 22,
+    "bing": 21200,
+    "bing_en": 6510,
+    "google": 85300
+  },
+  {
+    "baidu": 45,
+    "author": "王炎",
+    "title": "次韵分宁罗簿赠行二首  其二",
+    "so360": 22,
+    "bing": 21200,
+    "bing_en": 6490,
+    "google": 88800
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "郊祀庆成诗",
+    "so360": 497,
+    "bing": 27700,
+    "bing_en": 1520,
+    "google": 60100
+  },
+  {
+    "baidu": 18,
+    "author": "王炎",
+    "title": "送吴司令知金州",
+    "so360": 39,
+    "bing": 765000,
+    "bing_en": 2590,
+    "google": 2120000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "和李提干携诗相访",
+    "so360": 16,
+    "bing": 21800,
+    "bing_en": 177,
+    "google": 3000000
+  },
+  {
+    "baidu": 63,
+    "author": "王炎",
+    "title": "用前韵答李提干",
+    "so360": 18,
+    "bing": 74100,
+    "bing_en": 21200,
+    "google": 4140000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "九日登宝叔塔同游者杨大著李校书冯正字曾著作易校书",
+    "so360": 20,
+    "bing": 497,
+    "bing_en": 144,
+    "google": 20600
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "用元韵答杨大著李校书",
+    "so360": 618,
+    "bing": 23400,
+    "bing_en": 653,
+    "google": 2910000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "送王巽泽侍郎  其一",
+    "so360": 21,
+    "bing": 21300,
+    "bing_en": 21000,
+    "google": 2150
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "送王巽泽侍郎  其二",
+    "so360": 21,
+    "bing": 20800,
+    "bing_en": 20700,
+    "google": 2170
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "张尚书挽诗  其一",
+    "so360": 47,
+    "bing": 24300,
+    "bing_en": 2090,
+    "google": 808000
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "张尚书挽诗  其二",
+    "so360": 43,
+    "bing": 23700,
+    "bing_en": 2970,
+    "google": 816000
+  },
+  {
+    "baidu": 19,
+    "author": "王炎",
+    "title": "李少保挽诗  其一",
+    "so360": 13,
+    "bing": 9760,
+    "bing_en": 174,
+    "google": 2340
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "李少保挽诗  其二",
+    "so360": 13,
+    "bing": 23400,
+    "bing_en": 16900,
+    "google": 2350
+  },
+  {
+    "baidu": 20,
+    "author": "王炎",
+    "title": "太皇太后挽诗  其一",
+    "so360": 22,
+    "bing": 21800,
+    "bing_en": 17900,
+    "google": 611000
+  },
+  {
+    "baidu": 18,
+    "author": "王炎",
+    "title": "太皇太后挽诗  其二",
+    "so360": 22,
+    "bing": 21800,
+    "bing_en": 21100,
+    "google": 614000
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "从范秘监过城南陈亦颜读书楼  其一",
+    "so360": 11,
+    "bing": 9030,
+    "bing_en": 6620,
+    "google": 1390
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "从范秘监过城南陈亦颜读书楼  其二",
+    "so360": 11,
+    "bing": 4030,
+    "bing_en": 6740,
+    "google": 1390
+  },
+  {
+    "baidu": 55,
+    "author": "王炎",
+    "title": "次韵杨秘监馆中即事",
+    "so360": 19,
+    "bing": 24600,
+    "bing_en": 3030,
+    "google": 51500
+  },
+  {
+    "baidu": 36,
+    "author": "王炎",
+    "title": "次韵午睡不知雨作",
+    "so360": 10,
+    "bing": 19700,
+    "bing_en": 5710,
+    "google": 44600
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "次韵杨秘监馆中留题  其一",
+    "so360": 11,
+    "bing": 24600,
+    "bing_en": 2070,
+    "google": 45100
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "次韵杨秘监馆中留题  其二",
+    "so360": 11,
+    "bing": 24600,
+    "bing_en": 2110,
+    "google": 48300
+  },
+  {
+    "baidu": 17,
+    "author": "王炎",
+    "title": "九日陪杨秘监游真珠园属炎赋诗",
+    "so360": 22,
+    "bing": 3260,
+    "bing_en": 17400,
+    "google": 1150000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "送黄尚书帅蜀",
+    "so360": 2300,
+    "bing": 21700,
+    "bing_en": 18600,
+    "google": 3760000
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "题徐商叟参议儒荣阁",
+    "so360": 18,
+    "bing": 42900,
+    "bing_en": 100,
+    "google": 44200
+  },
+  {
+    "baidu": 49,
+    "author": "王炎",
+    "title": "铦老许相过不至炎约尧章访之又以事夺铦寄二诗次其韵  其一",
+    "so360": 20,
+    "bing": 12500,
+    "bing_en": 591,
+    "google": 83200
+  },
+  {
+    "baidu": 47,
+    "author": "王炎",
+    "title": "铦老许相过不至炎约尧章访之又以事夺铦寄二诗次其韵  其二",
+    "so360": 20,
+    "bing": 13000,
+    "bing_en": 631,
+    "google": 79700
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "游刘寺次林子长郎中韵",
+    "so360": 8200,
+    "bing": 21400,
+    "bing_en": 4350,
+    "google": 2250000
+  },
+  {
+    "baidu": 26,
+    "author": "王炎",
+    "title": "炎十世先陇在婺源不归拜扫者九年清明有感遂成小诗",
+    "so360": 12,
+    "bing": 7940,
+    "bing_en": 751,
+    "google": 252000
+  },
+  {
+    "baidu": 75,
+    "author": "王炎",
+    "title": "同李鲁二郎中游三茅观  其一",
+    "so360": 61,
+    "bing": 21500,
+    "bing_en": 18400,
+    "google": 315000
+  },
+  {
+    "baidu": 48,
+    "author": "王炎",
+    "title": "同李鲁二郎中游三茅观  其二",
+    "so360": 58,
+    "bing": 21500,
+    "bing_en": 18200,
+    "google": 346000
+  },
+  {
+    "baidu": 39,
+    "author": "王炎",
+    "title": "同李鲁二郎中游三茅观  其三",
+    "so360": 61,
+    "bing": 20800,
+    "bing_en": 19900,
+    "google": 9430
+  },
+  {
+    "baidu": 73,
+    "author": "王炎",
+    "title": "用元韵答李郎中  其一",
+    "so360": 24,
+    "bing": 18200,
+    "bing_en": 21100,
+    "google": 2940000
+  },
+  {
+    "baidu": 75,
+    "author": "王炎",
+    "title": "用元韵答李郎中  其二",
+    "so360": 24,
+    "bing": 39000,
+    "bing_en": 21100,
+    "google": 2200000
+  },
+  {
+    "baidu": 56,
+    "author": "王炎",
+    "title": "用元韵答李郎中  其三",
+    "so360": 24,
+    "bing": 17800,
+    "bing_en": 21100,
+    "google": 2110000
+  },
+  {
+    "baidu": 67,
+    "author": "王炎",
+    "title": "用元韵答铦老  其一",
+    "so360": 27,
+    "bing": 21100,
+    "bing_en": 21100,
+    "google": 519000
+  },
+  {
+    "baidu": 45,
+    "author": "王炎",
+    "title": "用元韵答铦老  其二",
+    "so360": 27,
+    "bing": 21100,
+    "bing_en": 21000,
+    "google": 548000
+  },
+  {
+    "baidu": 41,
+    "author": "王炎",
+    "title": "用元韵答铦老  其三",
+    "so360": 966,
+    "bing": 20700,
+    "bing_en": 19800,
+    "google": 549000
+  },
+  {
+    "baidu": 61,
+    "author": "王炎",
+    "title": "腊中得雪快晴成古风呈尧章铦老",
+    "so360": 13,
+    "bing": 18600,
+    "bing_en": 146,
+    "google": 897
+  },
+  {
+    "baidu": 12600,
+    "author": "王炎",
+    "title": "用元韵答李郎中",
+    "so360": 25,
+    "bing": 39000,
+    "bing_en": 21000,
+    "google": 1940000
+  },
+  {
+    "baidu": 217,
+    "author": "王炎",
+    "title": "游水乐洞",
+    "so360": 5660,
+    "bing": 206000,
+    "bing_en": 3810,
+    "google": 4330000
+  },
+  {
+    "baidu": 25400,
+    "author": "王炎",
+    "title": "出城",
+    "so360": 1570,
+    "bing": 160000,
+    "bing_en": 1260000,
+    "google": 857000
+  },
+  {
+    "baidu": 24900,
+    "author": "王炎",
+    "title": "即事四首  其一",
+    "so360": 329,
+    "bing": 35100,
+    "bing_en": 38200,
+    "google": 22700000
+  },
+  {
+    "baidu": 25200,
+    "author": "王炎",
+    "title": "即事四首  其二",
+    "so360": 325,
+    "bing": 32500,
+    "bing_en": 34500,
+    "google": 24900000
+  },
+  {
+    "baidu": 21800,
+    "author": "王炎",
+    "title": "即事四首  其三",
+    "so360": 229,
+    "bing": 114000,
+    "bing_en": 462000,
+    "google": 22700000
+  },
+  {
+    "baidu": 11800,
+    "author": "王炎",
+    "title": "即事四首  其四",
+    "so360": 474,
+    "bing": 123000,
+    "bing_en": 490000,
+    "google": 20700000
+  },
+  {
+    "baidu": 49,
+    "author": "王炎",
+    "title": "汪秘校携诗并雪月二赋相访次其韵",
+    "so360": 12,
+    "bing": 21100,
+    "bing_en": 111,
+    "google": 846000
+  },
+  {
+    "baidu": 25,
+    "author": "王炎",
+    "title": "送朱大卿归龙舒",
+    "so360": 17,
+    "bing": 25100,
+    "bing_en": 115,
+    "google": 1870
+  },
+  {
+    "baidu": 25,
+    "author": "王炎",
+    "title": "题徐商叟所藏李伯时四天王图",
+    "so360": 3610,
+    "bing": 16200,
+    "bing_en": 9130,
+    "google": 2130
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "次韵胡连翁携诗见访",
+    "so360": 12,
+    "bing": 43600,
+    "bing_en": 62,
+    "google": 9920
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "太上皇后挽诗  其一",
+    "so360": 24,
+    "bing": 18000,
+    "bing_en": 16700,
+    "google": 231000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "太上皇后挽诗  其二",
+    "so360": 24,
+    "bing": 16200,
+    "bing_en": 16100,
+    "google": 221000
+  },
+  {
+    "baidu": 17,
+    "author": "王炎",
+    "title": "太上皇帝挽诗  其一",
+    "so360": 27,
+    "bing": 22400,
+    "bing_en": 20900,
+    "google": 2130000
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "太上皇帝挽诗  其二",
+    "so360": 27,
+    "bing": 22000,
+    "bing_en": 13100,
+    "google": 1990000
+  },
+  {
+    "baidu": 21,
+    "author": "王炎",
+    "title": "题姜尧章旧游诗卷",
+    "so360": 19,
+    "bing": 21000,
+    "bing_en": 21300,
+    "google": 13700
+  },
+  {
+    "baidu": 32,
+    "author": "王炎",
+    "title": "和九日尧章送菊  其一",
+    "so360": 24,
+    "bing": 20500,
+    "bing_en": 12600,
+    "google": 3110000
+  },
+  {
+    "baidu": 76,
+    "author": "王炎",
+    "title": "和九日尧章送菊  其二",
+    "so360": 24,
+    "bing": 21200,
+    "bing_en": 14500,
+    "google": 4160000
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "送陈华文出守当涂同僚饯别分韵得立字",
+    "so360": 16,
+    "bing": 118,
+    "bing_en": 102,
+    "google": 1790
+  },
+  {
+    "baidu": 109000,
+    "author": "王炎",
+    "title": "即事",
+    "so360": 3000,
+    "bing": 161000,
+    "bing_en": 31600,
+    "google": 21400000
+  },
+  {
+    "baidu": 5560,
+    "author": "王炎",
+    "title": "庚申元日",
+    "so360": 13,
+    "bing": 210000,
+    "bing_en": 21100,
+    "google": 1420000
+  },
+  {
+    "baidu": 95,
+    "author": "王炎",
+    "title": "和杨郎中北廊梅花",
+    "so360": 10,
+    "bing": 21800,
+    "bing_en": 11300,
+    "google": 513000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "和陈右司春雪",
+    "so360": 18,
+    "bing": 99600,
+    "bing_en": 4520,
+    "google": 2050000
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "送杨明夫郎中持节闽中",
+    "so360": 11,
+    "bing": 21100,
+    "bing_en": 17400,
+    "google": 10200
+  },
+  {
+    "baidu": 74,
+    "author": "王炎",
+    "title": "壬戌立春日",
+    "so360": 31,
+    "bing": 257000,
+    "bing_en": 4180,
+    "google": 46300
+  },
+  {
+    "baidu": 65,
+    "author": "王炎",
+    "title": "贺吴兴郡王生日",
+    "so360": 29,
+    "bing": 24300,
+    "bing_en": 3750,
+    "google": 30100
+  },
+  {
+    "baidu": 57,
+    "author": "王炎",
+    "title": "登四望亭",
+    "so360": 17,
+    "bing": 43300,
+    "bing_en": 21200,
+    "google": 5860000
+  },
+  {
+    "baidu": 7060,
+    "author": "王炎",
+    "title": "闲居即事  其一",
+    "so360": 228,
+    "bing": 245000,
+    "bing_en": 21700,
+    "google": 295000
+  },
+  {
+    "baidu": 6110,
+    "author": "王炎",
+    "title": "闲居即事  其二",
+    "so360": 229,
+    "bing": 248000,
+    "bing_en": 21900,
+    "google": 275000
+  },
+  {
+    "baidu": 3930,
+    "author": "王炎",
+    "title": "闲居即事  其三",
+    "so360": 225,
+    "bing": 731000,
+    "bing_en": 25300,
+    "google": 275000
+  },
+  {
+    "baidu": 13300,
+    "author": "王炎",
+    "title": "喜晴",
+    "so360": 120,
+    "bing": 175000,
+    "bing_en": 3580,
+    "google": 65800
+  },
+  {
+    "baidu": 30500,
+    "author": "王炎",
+    "title": "用元韵答秀叔  其一",
+    "so360": 43,
+    "bing": 38900,
+    "bing_en": 13800,
+    "google": 3160000
+  },
+  {
+    "baidu": 32600,
+    "author": "王炎",
+    "title": "用元韵答秀叔  其二",
+    "so360": 45,
+    "bing": 7260,
+    "bing_en": 18200,
+    "google": 3340000
+  },
+  {
+    "baidu": 23300,
+    "author": "王炎",
+    "title": "用元韵答秀叔  其三",
+    "so360": 45,
+    "bing": 21100,
+    "bing_en": 18200,
+    "google": 2020000
+  },
+  {
+    "baidu": 81,
+    "author": "王炎",
+    "title": "秀叔和章自言及再娶之事用元韵戏答之",
+    "so360": 535,
+    "bing": 2730,
+    "bing_en": 560,
+    "google": 42800
+  },
+  {
+    "baidu": 52,
+    "author": "王炎",
+    "title": "池边梅花一株盛开  其一",
+    "so360": 106,
+    "bing": 9010,
+    "bing_en": 9760,
+    "google": 3130000
+  },
+  {
+    "baidu": 33,
+    "author": "王炎",
+    "title": "池边梅花一株盛开  其二",
+    "so360": 107,
+    "bing": 9550,
+    "bing_en": 9610,
+    "google": 3360000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "戏江子大",
+    "so360": 11,
+    "bing": 195000,
+    "bing_en": 25300,
+    "google": 288000
+  },
+  {
+    "baidu": 68800,
+    "author": "王炎",
+    "title": "用元韵答子大",
+    "so360": 402,
+    "bing": 96500,
+    "bing_en": 16100,
+    "google": 3310000
+  },
+  {
+    "baidu": 15,
+    "author": "王炎",
+    "title": "追悼亲哥",
+    "so360": 44,
+    "bing": 2220,
+    "bing_en": 5060,
+    "google": 4080000
+  },
+  {
+    "baidu": 483,
+    "author": "王炎",
+    "title": "送石宰",
+    "so360": 526,
+    "bing": 221000,
+    "bing_en": 121,
+    "google": 3480000
+  },
+  {
+    "baidu": 54,
+    "author": "王炎",
+    "title": "念旧  其一",
+    "so360": 531,
+    "bing": 74400,
+    "bing_en": 53600,
+    "google": 1140000
+  },
+  {
+    "baidu": 45,
+    "author": "王炎",
+    "title": "念旧  其二",
+    "so360": 532,
+    "bing": 57700,
+    "bing_en": 23300,
+    "google": 1130000
+  },
+  {
+    "baidu": 78,
+    "author": "王炎",
+    "title": "久雨无聊成两诗呈秀叔并简继韩  其一",
+    "so360": 21,
+    "bing": 1300,
+    "bing_en": 507,
+    "google": 1300
+  },
+  {
+    "baidu": 74,
+    "author": "王炎",
+    "title": "久雨无聊成两诗呈秀叔并简继韩  其二",
+    "so360": 21,
+    "bing": 2650,
+    "bing_en": 587,
+    "google": 1310
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "贺吴兴郡王生日四绝  其一",
+    "so360": 31,
+    "bing": 56000,
+    "bing_en": 264,
+    "google": 25900
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "贺吴兴郡王生日四绝  其二",
+    "so360": 31,
+    "bing": 12300,
+    "bing_en": 298,
+    "google": 24100
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "贺吴兴郡王生日四绝  其三",
+    "so360": 31,
+    "bing": 22600,
+    "bing_en": 4320,
+    "google": 24500
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "贺吴兴郡王生日四绝  其四",
+    "so360": 541,
+    "bing": 22600,
+    "bing_en": 4310,
+    "google": 21900
+  },
+  {
+    "baidu": 60400000,
+    "author": "王炎",
+    "title": "念往  其一",
+    "so360": 66,
+    "bing": 21200,
+    "bing_en": 146000,
+    "google": 41700000
+  },
+  {
+    "baidu": 60000000,
+    "author": "王炎",
+    "title": "念往  其二",
+    "so360": 67,
+    "bing": 20200,
+    "bing_en": 120000,
+    "google": 94400000
+  },
+  {
+    "baidu": 60300000,
+    "author": "王炎",
+    "title": "念往  其三",
+    "so360": 542,
+    "bing": 1020000,
+    "bing_en": 1120000,
+    "google": 86200000
+  },
+  {
+    "baidu": 60500000,
+    "author": "王炎",
+    "title": "念往  其四",
+    "so360": 508,
+    "bing": 848000,
+    "bing_en": 911000,
+    "google": 80700000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "子大有游东山之约以诗相趣因次其韵  其一",
+    "so360": 41,
+    "bing": 1340,
+    "bing_en": 7060,
+    "google": 3200000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "子大有游东山之约以诗相趣因次其韵  其二",
+    "so360": 42,
+    "bing": 1050,
+    "bing_en": 7680,
+    "google": 2210000
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "子大有游东山之约以诗相趣因次其韵  其三",
+    "so360": 42,
+    "bing": 10300,
+    "bing_en": 6700,
+    "google": 3320000
+  },
+  {
+    "baidu": 11,
+    "author": "王炎",
+    "title": "子大有游东山之约以诗相趣因次其韵  其四",
+    "so360": 41,
+    "bing": 10400,
+    "bing_en": 6700,
+    "google": 3340000
+  },
+  {
+    "baidu": 37,
+    "author": "王炎",
+    "title": "纸被行",
+    "so360": 31,
+    "bing": 3680000,
+    "bing_en": 57300,
+    "google": 10400000
+  },
+  {
+    "baidu": 58,
+    "author": "王炎",
+    "title": "京丞相挽诗  其一",
+    "so360": 57,
+    "bing": 21600,
+    "bing_en": 21400,
+    "google": 915000
+  },
+  {
+    "baidu": 36,
+    "author": "王炎",
+    "title": "京丞相挽诗  其二",
+    "so360": 56,
+    "bing": 21500,
+    "bing_en": 21000,
+    "google": 902000
+  },
+  {
+    "baidu": 27,
+    "author": "王炎",
+    "title": "京丞相挽诗  其三",
+    "so360": 56,
+    "bing": 24500,
+    "bing_en": 21500,
+    "google": 910000
+  },
+  {
+    "baidu": 65500,
+    "author": "王炎",
+    "title": "游东山 田舍",
+    "so360": 19,
+    "bing": 30600,
+    "bing_en": 17800,
+    "google": 286000
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "游东山 松风",
+    "so360": 21,
+    "bing": 73400,
+    "bing_en": 29000,
+    "google": 74000
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "游东山 烂柯",
+    "so360": 17,
+    "bing": 14700,
+    "bing_en": 28400,
+    "google": 9500
+  },
+  {
+    "baidu": 2,
+    "author": "王炎",
+    "title": "游东山 舒啸",
+    "so360": 16,
+    "bing": 855000,
+    "bing_en": 12100,
+    "google": 3660000
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "游东山 待月",
+    "so360": 17,
+    "bing": 855000,
+    "bing_en": 58200,
+    "google": 2430000
+  },
+  {
+    "baidu": 33900,
+    "author": "王炎",
+    "title": "游东山 栈径",
+    "so360": 18,
+    "bing": 21000,
+    "bing_en": 39600,
+    "google": 149000
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "游东山 入翠",
+    "so360": 13,
+    "bing": 855000,
+    "bing_en": 39900,
+    "google": 5730000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "游东山 磐吉",
+    "so360": 19,
+    "bing": 30100,
+    "bing_en": 52200,
+    "google": 3650000
+  },
+  {
+    "baidu": 47400,
+    "author": "王炎",
+    "title": "游东山 披云",
+    "so360": 13,
+    "bing": 41200,
+    "bing_en": 28500,
+    "google": 2220000
+  },
+  {
+    "baidu": 20,
+    "author": "王炎",
+    "title": "胡清卿来访留一日亟求去云欲谒郑宰因以小诗佐其行",
+    "so360": 13,
+    "bing": 18300,
+    "bing_en": 16900,
+    "google": 1300
+  },
+  {
+    "baidu": 392,
+    "author": "王炎",
+    "title": "用元韵答清卿并简蔡尉",
+    "so360": 21,
+    "bing": 22500,
+    "bing_en": 21300,
+    "google": 1070000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "次韵谢胡清卿",
+    "so360": 12,
+    "bing": 433000,
+    "bing_en": 71,
+    "google": 10500
+  },
+  {
+    "baidu": 40,
+    "author": "王炎",
+    "title": "汪直卿相招以病爽约因成拙句并呈子大",
+    "so360": 12,
+    "bing": 305,
+    "bing_en": 207,
+    "google": 637
+  },
+  {
+    "baidu": 5850,
+    "author": "王炎",
+    "title": "汪直卿相招子大先至有诗炎后至子大再至因次其韵",
+    "so360": 20,
+    "bing": 1720,
+    "bing_en": 544,
+    "google": 4030
+  },
+  {
+    "baidu": 13300,
+    "author": "王炎",
+    "title": "谷雨后一日子大再有诗次其韵",
+    "so360": 1550,
+    "bing": 5850,
+    "bing_en": 1870,
+    "google": 399000
+  },
+  {
+    "baidu": 23,
+    "author": "王炎",
+    "title": "鳙溪行",
+    "so360": 35,
+    "bing": 53700,
+    "bing_en": 15300,
+    "google": 3700000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "次韵子大四绝  其一",
+    "so360": 21,
+    "bing": 330000,
+    "bing_en": 693,
+    "google": 89800
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "次韵子大四绝  其二",
+    "so360": 21,
+    "bing": 330000,
+    "bing_en": 21800,
+    "google": 116000
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "次韵子大四绝  其三",
+    "so360": 21,
+    "bing": 83200,
+    "bing_en": 17600,
+    "google": 120000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "次韵子大四绝  其四",
+    "so360": 467,
+    "bing": 86500,
+    "bing_en": 18400,
+    "google": 94200
+  },
+  {
+    "baidu": 15,
+    "author": "王炎",
+    "title": "送僧惠日归蟠龙山",
+    "so360": 12,
+    "bing": 22300,
+    "bing_en": 4120,
+    "google": 107000
+  },
+  {
+    "baidu": 17,
+    "author": "王炎",
+    "title": "秋旱得雨子大诗言祈祷所致炎谓不可贪天之功次韵以见区区",
+    "so360": 18,
+    "bing": 9050,
+    "bing_en": 100,
+    "google": 4670
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "金夫人挽诗",
+    "so360": 15,
+    "bing": 225000,
+    "bing_en": 107,
+    "google": 571000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "万宣教挽诗",
+    "so360": 35,
+    "bing": 23400,
+    "bing_en": 94,
+    "google": 83500
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "汪贵之挽诗",
+    "so360": 23,
+    "bing": 30300,
+    "bing_en": 1540,
+    "google": 16200
+  },
+  {
+    "baidu": 91,
+    "author": "王炎",
+    "title": "周仁甫挽诗",
+    "so360": 25,
+    "bing": 23600,
+    "bing_en": 2260,
+    "google": 1340
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "卢夫人挽诗",
+    "so360": 14,
+    "bing": 30000,
+    "bing_en": 1580,
+    "google": 1170000
+  },
+  {
+    "baidu": 15,
+    "author": "王炎",
+    "title": "奏事入都出西湖上成四绝  其一",
+    "so360": 594,
+    "bing": 21100,
+    "bing_en": 10800,
+    "google": 3120000
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "奏事入都出西湖上成四绝  其二",
+    "so360": 605,
+    "bing": 21100,
+    "bing_en": 18800,
+    "google": 1720000
+  },
+  {
+    "baidu": 14,
+    "author": "王炎",
+    "title": "奏事入都出西湖上成四绝  其三",
+    "so360": 549,
+    "bing": 21000,
+    "bing_en": 19700,
+    "google": 2550000
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "奏事入都出西湖上成四绝  其四",
+    "so360": 539,
+    "bing": 21000,
+    "bing_en": 19900,
+    "google": 1910000
+  },
+  {
+    "baidu": 90,
+    "author": "王炎",
+    "title": "招诸宰饭六客堂以小诗代折简",
+    "so360": 15,
+    "bing": 5090,
+    "bing_en": 100,
+    "google": 23100
+  },
+  {
+    "baidu": 41,
+    "author": "王炎",
+    "title": "通守赵侯改倅会稽以诗饯行",
+    "so360": 24,
+    "bing": 20400,
+    "bing_en": 100,
+    "google": 8200
+  },
+  {
+    "baidu": 5,
+    "author": "王炎",
+    "title": "劝农道场山",
+    "so360": 42,
+    "bing": 2060000,
+    "bing_en": 9460,
+    "google": 5470
+  },
+  {
+    "baidu": 1610,
+    "author": "王炎",
+    "title": "招魏倅项教授小饮",
+    "so360": 22,
+    "bing": 21900,
+    "bing_en": 100,
+    "google": 733000
+  },
+  {
+    "baidu": 3020,
+    "author": "王炎",
+    "title": "用前韵酬魏倅",
+    "so360": 22,
+    "bing": 30000,
+    "bing_en": 20800,
+    "google": 1050000
+  },
+  {
+    "baidu": 37,
+    "author": "王炎",
+    "title": "夜半闻雨再用前韵",
+    "so360": 55,
+    "bing": 5840,
+    "bing_en": 843,
+    "google": 4600000
+  },
+  {
+    "baidu": 37,
+    "author": "王炎",
+    "title": "魏倅同杜仲高游黄龙洞次韵",
+    "so360": 78,
+    "bing": 1400,
+    "bing_en": 115,
+    "google": 7
+  },
+  {
+    "baidu": 1,
+    "author": "王炎",
+    "title": "郡中游观之地清风楼为第一前此诸公有诗似觉摹写未尽辄成唐律一篇约魏倅同赋不拘和韵可也",
+    "so360": 4,
+    "bing": 641,
+    "bing_en": 100,
+    "google": 22100
+  },
+  {
+    "baidu": 12,
+    "author": "王炎",
+    "title": "和项广文喜雨",
+    "so360": 17,
+    "bing": 43200,
+    "bing_en": 21100,
+    "google": 5230
+  },
+  {
+    "baidu": 0,
+    "author": "王炎",
+    "title": "与魏倅葛书记同谢雨于黄龙洞回憩小玲珑晚饭魏倅有诗次其韵",
+    "so360": 45,
+    "bing": 12000,
+    "bing_en": 100,
+    "google": 91600
+  },
+  {
+    "baidu": 31,
+    "author": "王炎",
+    "title": "苦脾泄在告因饮白酒一杯小愈魏倅有诗已而病复作因次韵见意",
+    "so360": 11,
+    "bing": 1750,
+    "bing_en": 101,
+    "google": 31100
+  },
+  {
+    "baidu": 39,
+    "author": "王炎",
+    "title": "贺皇太子生辰  其一",
+    "so360": 13,
+    "bing": 16200,
+    "bing_en": 2740,
+    "google": 3410000
+  },
+  {
+    "baidu": 36,
+    "author": "王炎",
+    "title": "贺皇太子生辰  其二",
+    "so360": 374,
+    "bing": 11800,
+    "bing_en": 21100,
+    "google": 3450000
+  },
+  {
+    "baidu": 79,
+    "author": "王炎",
+    "title": "题归鴈亭",
+    "so360": 4,
+    "bing": 34200,
+    "bing_en": 107,
+    "google": 3900000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "题白苹亭",
+    "so360": 15,
+    "bing": 34400,
+    "bing_en": 6550,
+    "google": 1840000
+  },
+  {
+    "baidu": 33,
+    "author": "王炎",
+    "title": "题碧澜亭",
+    "so360": 14,
+    "bing": 40200000,
+    "bing_en": 21300,
+    "google": 1160
+  },
+  {
+    "baidu": 60,
+    "author": "王炎",
+    "title": "六客堂",
+    "so360": 25,
+    "bing": 208000,
+    "bing_en": 21300,
+    "google": 34400
+  },
+  {
+    "baidu": 82,
+    "author": "王炎",
+    "title": "生日魏倅惠三诗  其一",
+    "so360": 60,
+    "bing": 21100,
+    "bing_en": 18700,
+    "google": 1590
+  },
+  {
+    "baidu": 63,
+    "author": "王炎",
+    "title": "生日魏倅惠三诗  其二",
+    "so360": 60,
+    "bing": 21100,
+    "bing_en": 18300,
+    "google": 1570
+  },
+  {
+    "baidu": 59,
+    "author": "王炎",
+    "title": "生日魏倅惠三诗  其三",
+    "so360": 38,
+    "bing": 22900,
+    "bing_en": 47800,
+    "google": 297
+  },
+  {
+    "baidu": 22,
+    "author": "王炎",
+    "title": "酬俞子清侍郎惠画韵  其一",
+    "so360": 19,
+    "bing": 11600,
+    "bing_en": 15900,
+    "google": 3080
+  },
+  {
+    "baidu": 23,
+    "author": "王炎",
+    "title": "酬俞子清侍郎惠画韵  其二",
+    "so360": 19,
+    "bing": 8540,
+    "bing_en": 15400,
+    "google": 3110
+  },
+  {
+    "baidu": 64,
+    "author": "王炎",
+    "title": "送蓬庵梵老  其一",
+    "so360": 15,
+    "bing": 21500,
+    "bing_en": 17800,
+    "google": 653000
+  },
+  {
+    "baidu": 62,
+    "author": "王炎",
+    "title": "送蓬庵梵老  其二",
+    "so360": 15,
+    "bing": 21000,
+    "bing_en": 20700,
+    "google": 756000
+  },
+  {
+    "baidu": 48,
+    "author": "王炎",
+    "title": "梵老以小诗为寿和韵答之",
+    "so360": 12,
+    "bing": 21100,
+    "bing_en": 21300,
+    "google": 311000
+  },
+  {
+    "baidu": 80,
+    "author": "王炎",
+    "title": "呈游大冶",
+    "so360": 23,
+    "bing": 46700,
+    "bing_en": 21000,
+    "google": 2870000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "送游大冶归建阳",
+    "so360": 25,
+    "bing": 733000,
+    "bing_en": 3950,
+    "google": 1590000
+  },
+  {
+    "baidu": 876,
+    "author": "王炎",
+    "title": "魏倅和铦老一诗因次其韵",
+    "so360": 524,
+    "bing": 16700,
+    "bing_en": 18700,
+    "google": 476000
+  },
+  {
+    "baidu": 11,
+    "author": "王炎",
+    "title": "赵处州挽诗  其一",
+    "so360": 26,
+    "bing": 23400,
+    "bing_en": 9770,
+    "google": 1350
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "赵处州挽诗  其二",
+    "so360": 27,
+    "bing": 23200,
+    "bing_en": 8170,
+    "google": 1360
+  },
+  {
+    "baidu": 44,
+    "author": "王炎",
+    "title": "题墨妙亭",
+    "so360": 95,
+    "bing": 37000,
+    "bing_en": 84100,
+    "google": 4760000
+  },
+  {
+    "baidu": 23900,
+    "author": "王炎",
+    "title": "送魏倅",
+    "so360": 55,
+    "bing": 245000,
+    "bing_en": 103,
+    "google": 904000
+  },
+  {
+    "baidu": 13000,
+    "author": "王炎",
+    "title": "二月望日留越上偶成",
+    "so360": 11,
+    "bing": 24800,
+    "bing_en": 16600,
+    "google": 249000
+  },
+  {
+    "baidu": 4,
+    "author": "王炎",
+    "title": "谒告成庙",
+    "so360": 7630,
+    "bing": 17900,
+    "bing_en": 7760,
+    "google": 803000
+  },
+  {
+    "baidu": 24400,
+    "author": "王炎",
+    "title": "游稽山",
+    "so360": 300,
+    "bing": 181000,
+    "bing_en": 25600,
+    "google": 54700
+  },
+  {
+    "baidu": 8,
+    "author": "王炎",
+    "title": "题大禹庙",
+    "so360": 13,
+    "bing": 66000000,
+    "bing_en": 13800,
+    "google": 3780000
+  },
+  {
+    "baidu": 16,
+    "author": "王炎",
+    "title": "鉴湖",
+    "so360": 544,
+    "bing": 209000,
+    "bing_en": 5180,
+    "google": 4850000
+  },
+  {
+    "baidu": 68,
+    "author": "王炎",
+    "title": "二月中休日黄帅领客登望海亭有诗因次其韵",
+    "so360": 18,
+    "bing": 10900,
+    "bing_en": 7290,
+    "google": 2720
+  },
+  {
+    "baidu": 68,
+    "author": "王炎",
+    "title": "追悼昭叔弟",
+    "so360": 3040,
+    "bing": 22800,
+    "bing_en": 19200,
+    "google": 2670000
+  },
+  {
+    "baidu": 53,
+    "author": "王炎",
+    "title": "赠岩电道人",
+    "so360": 16,
+    "bing": 19500,
+    "bing_en": 19200,
+    "google": 1600000
+  },
+  {
+    "baidu": 6,
+    "author": "王炎",
+    "title": "贺监宅",
+    "so360": 19,
+    "bing": 63300000,
+    "bing_en": 21600,
+    "google": 236000
+  },
+  {
+    "baidu": 44,
+    "author": "王炎",
+    "title": "游景德",
+    "so360": 56,
+    "bing": 556000,
+    "bing_en": 21800,
+    "google": 1420
+  },
+  {
+    "baidu": 109000,
+    "author": "王炎",
+    "title": "即事",
+    "so360": 3000,
+    "bing": 161000,
+    "bing_en": 31600,
+    "google": 21400000
+  },
+  {
+    "baidu": 39,
+    "author": "王炎",
+    "title": "麝香萱草",
+    "so360": 14,
+    "bing": 211000,
+    "bing_en": 14100,
+    "google": 14000
+  },
+  {
+    "baidu": 67,
+    "author": "王炎",
+    "title": "寄潘维节",
+    "so360": 12,
+    "bing": 275000,
+    "bing_en": 5950,
+    "google": 1530
+  },
+  {
+    "baidu": 7,
+    "author": "王炎",
+    "title": "两鹤",
+    "so360": 587,
+    "bing": 43100,
+    "bing_en": 31600,
+    "google": 11400000
+  },
+  {
+    "baidu": 62,
+    "author": "王炎",
+    "title": "食楞梅",
+    "so360": 12,
+    "bing": 55100,
+    "bing_en": 21600,
+    "google": 4920000
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "会稽六月初五日新米入市价减旧以升计之几十二三闻海商米船方集亦损其直",
+    "so360": 17,
+    "bing": 1310,
+    "bing_en": 100,
+    "google": 202
+  },
+  {
+    "baidu": 28,
+    "author": "王炎",
+    "title": "七月二十二日遣怀",
+    "so360": 285,
+    "bing": 52000,
+    "bing_en": 99,
+    "google": 978000
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "二十五日闻德莹弟讣音越三日悲不能禁以小诗自解",
+    "so360": 9,
+    "bing": 9640,
+    "bing_en": 2190,
+    "google": 2430000
+  },
+  {
+    "baidu": 2310,
+    "author": "王炎",
+    "title": "病中书怀",
+    "so360": 27,
+    "bing": 11200000,
+    "bing_en": 21100,
+    "google": 10100000
+  },
+  {
+    "baidu": 55,
+    "author": "王炎",
+    "title": "病中恕子投劾同归",
+    "so360": 16,
+    "bing": 7790,
+    "bing_en": 112,
+    "google": 498000
+  },
+  {
+    "baidu": 87,
+    "author": "王炎",
+    "title": "西兴阻风",
+    "so360": 25,
+    "bing": 106000,
+    "bing_en": 15400,
+    "google": 5020000
+  },
+  {
+    "baidu": 53,
+    "author": "王炎",
+    "title": "江亭晓望",
+    "so360": 17,
+    "bing": 206000,
+    "bing_en": 21400,
+    "google": 5420000
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "夜宿闵滩下",
+    "so360": 17,
+    "bing": 4420,
+    "bing_en": 21300,
+    "google": 706000
+  },
+  {
+    "baidu": 60,
+    "author": "王炎",
+    "title": "将使送玉堂春花江南竹笋次韵二绝  其一",
+    "so360": 25,
+    "bing": 2230,
+    "bing_en": 8550,
+    "google": 10700
+  },
+  {
+    "baidu": 62,
+    "author": "王炎",
+    "title": "将使送玉堂春花江南竹笋次韵二绝  其二",
+    "so360": 25,
+    "bing": 2230,
+    "bing_en": 8510,
+    "google": 8170
+  },
+  {
+    "baidu": 29,
+    "author": "王炎",
+    "title": "题詹氏佚老堂",
+    "so360": 7,
+    "bing": 23200,
+    "bing_en": 20200,
+    "google": 2630000
+  },
+  {
+    "baidu": 25,
+    "author": "王炎",
+    "title": "凶年慨然叹久生成赘因以长句述此意",
+    "so360": 19,
+    "bing": 21100,
+    "bing_en": 105,
+    "google": 11600
+  },
+  {
+    "baidu": 113000,
+    "author": "王炎",
+    "title": "落花",
+    "so360": 5960,
+    "bing": 206000,
+    "bing_en": 37900,
+    "google": 5730000
+  },
+  {
+    "baidu": 72,
+    "author": "王炎",
+    "title": "春日苦雨",
+    "so360": 118,
+    "bing": 143000,
+    "bing_en": 20900,
+    "google": 60800
+  },
+  {
+    "baidu": 85,
+    "author": "王炎",
+    "title": "密室",
+    "so360": 1790,
+    "bing": 210000,
+    "bing_en": 65700,
+    "google": 9970000
+  },
+  {
+    "baidu": 146000,
+    "author": "王炎",
+    "title": "久雨而雪",
+    "so360": 46700,
+    "bing": 916000,
+    "bing_en": 38100,
+    "google": 57300000
+  },
+  {
+    "baidu": 13,
+    "author": "王炎",
+    "title": "清明日先茔挂楮钱",
+    "so360": 21,
+    "bing": 21100,
+    "bing_en": 104,
+    "google": 319000
+  },
+  {
+    "baidu": 18900,
+    "author": "王炎",
+    "title": "将使有诗许移厨双溪次其韵  其一",
+    "so360": 29,
+    "bing": 20200,
+    "bing_en": 1680,
+    "google": 4050000
+  },
+  {
+    "baidu": 16900,
+    "author": "王炎",
+    "title": "将使有诗许移厨双溪次其韵  其二",
+    "so360": 29,
+    "bing": 20200,
+    "bing_en": 1760,
+    "google": 5110000
+  },
+  {
+    "baidu": 14600,
+    "author": "王炎",
+    "title": "将使有诗许移厨双溪次其韵  其三",
+    "so360": 29,
+    "bing": 21100,
+    "bing_en": 20300,
+    "google": 4940000
+  },
+  {
+    "baidu": 39000,
+    "author": "王炎",
+    "title": "新晴",
+    "so360": 912,
+    "bing": 218000,
+    "bing_en": 314000,
+    "google": 11300000
+  },
+  {
+    "baidu": 10,
+    "author": "王炎",
+    "title": "和董叔重韵",
+    "so360": 14,
+    "bing": 763000,
+    "bing_en": 21500,
+    "google": 1460
+  },
+  {
+    "baidu": 3,
+    "author": "王炎",
+    "title": "题黄元静广先楼",
+    "so360": 11,
+    "bing": 148000,
+    "bing_en": 103,
+    "google": 1280
+  },
+  {
+    "baidu": 84,
+    "author": "王炎",
+    "title": "社日",
+    "so360": 354,
+    "bing": 169000,
+    "bing_en": 18700,
+    "google": 29900000
+  },
+  {
+    "baidu": 6130,
+    "author": "王炎",
+    "title": "喜晴  其一",
+    "so360": 121,
+    "bing": 238000,
+    "bing_en": 82400,
+    "google": 73900
+  },
+  {
+    "baidu": 4660,
+    "author": "王炎",
+    "title": "喜晴  其二",
+    "so360": 121,
+    "bing": 234000,
+    "bing_en": 65200,
+    "google": 71300
+  },
+  {
+    "baidu": 62,
+    "author": "王炎",
+    "title": "舟行到满塘",
+    "so360": 38,
+    "bing": 55700,
+    "bing_en": 46400,
+    "google": 101000
+  },
+  {
+    "baidu": 80800,
+    "author": "王炎",
+    "title": "秋夜",
+    "so360": 3600,
+    "bing": 203000,
+    "bing_en": 31400,
+    "google": 14700000
+  },
+  {
+    "baidu": 356000,
+    "author": "王炎",
+    "title": "壬申十二月二十八夜雷",
+    "so360": 228,
+    "bing": 43900,
+    "bing_en": 17500,
+    "google": 748000
+  },
+  {
+    "baidu": 15,
+    "author": "王炎",
+    "title": "初春苦寒久不到双溪成长句书怀",
+    "so360": 15,
+    "bing": 16300,
+    "bing_en": 16000,
+    "google": 13000
+  },
+  {
+    "baidu": 5160,
+    "author": "王炎",
+    "title": "和将使早雪",
+    "so360": 10,
+    "bing": 653000,
+    "bing_en": 43200,
+    "google": 10400000
+  },
+  {
+    "baidu": 66,
+    "author": "王炎",
+    "title": "又和早雪韵",
+    "so360": 65,
+    "bing": 762000,
+    "bing_en": 14000,
+    "google": 4880000
+  },
+  {
+    "baidu": 93900,
+    "author": "王炎",
+    "title": "梅花  其一",
+    "so360": 587,
+    "bing": 212000,
+    "bing_en": 159000,
+    "google": 6840000
+  },
+  {
+    "baidu": 79800,
+    "author": "王炎",
+    "title": "梅花  其二",
+    "so360": 570,
+    "bing": 212000,
+    "bing_en": 129000,
+    "google": 3420000
+  },
+  {
+    "baidu": 99300,
+    "author": "王炎",
+    "title": "咏便坐梅花",
+    "so360": 153,
+    "bing": 35000,
+    "bing_en": 22400,
+    "google": 4290000
+  },
+  {
+    "baidu": 29500,
+    "author": "王炎",
+    "title": "病起",
+    "so360": 1030,
+    "bing": 224000,
+    "bing_en": 868000,
+    "google": 70000000
+  }
+]
