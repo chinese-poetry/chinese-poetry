@@ -12,11 +12,11 @@ from bs4.element import NavigableString
 def get_page_content(page: int) -> list:
     """ 获取目录页每一页的内容 """
     content = []
-    r = requests.post("http://qsc.zww.cn/getdata.asp", data={
+    r = requests.post("https://qsc.zww.cn/getdata.asp", data={
         "seektype": 2,
         "seekvalue": "",
         "pageno": page
-    })
+    }, timeout=30)
     r.encoding = "gbk"
     soup = BeautifulSoup(re.search(r"filllist\('·(.*?)'\);", r.text).group(1), features="lxml")
     for i, a in enumerate(soup.find_all(name="a")):
@@ -36,11 +36,11 @@ def get_page_content(page: int) -> list:
 def get_paragraphs(seek_type: int, seek_value: int) -> list:
     """ 获取词的内容段落 """
     paragraphs = []
-    r = requests.post("http://qsc.zww.cn/getdata.asp", data={
+    r = requests.post("https://qsc.zww.cn/getdata.asp", data={
         "seektype": seek_type,
         "seekvalue": seek_value,
         "pageno": 1
-    })
+    }, timeout=30)
     r.encoding = "gbk"
     soup = BeautifulSoup(re.search(r"fillbody\('(.*?)'\);", r.text).group(1), features="lxml")
     for child in soup.find(name="p", align=None).contents:
