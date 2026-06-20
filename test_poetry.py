@@ -45,3 +45,4 @@ def is_book_directory(book):
 
 for path in [i for i in os.listdir('.') if is_book_directory(i)]:
     namespace[f'test_{path}'] = functools.partial(check_path, f'{path}')
+print("hi")
