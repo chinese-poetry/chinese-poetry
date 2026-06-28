@@ -1,0 +1,3 @@
+[submodule "tools/TCFontCreator"]
+	path = tools/TCFontCreator
+	url = https://github.com/GuiWonder/TCFontCreator.git

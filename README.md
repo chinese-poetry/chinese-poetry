@@ -80,7 +80,54 @@
 - [四书五经](./四书五经)
 - [蒙学](./蒙学)
 - [纳兰性德诗集](./纳兰性德)
-- [御定全唐詩](./御定全唐詩)
+- [御定全唐诗](./%E5%BE%A1%E5%AE%9A%E5%85%A8%E5%94%90%E8%A9%A9)
+
+## 繁简转换复现
+
+本仓库当前的繁体转简体数据转换，基于 [TCFontCreator](https://github.com/GuiWonder/TCFontCreator) 提供的 OpenCC 词表规则，采用“词组优先、最长匹配、单字兜底”的顺序处理。
+
+### 依赖
+
+- `python3`
+- `git`（用于初始化 submodule）
+
+### 操作步骤
+
+1. 初始化字典 submodule：
+
+```bash
+git submodule update --init --recursive tools/TCFontCreator
+```
+
+2. 先做 dry-run 查看会变更多少文件：
+
+```bash
+python3 tools/convert_repo_t2s.py --dry-run
+```
+
+3. 执行正式转换：
+
+```bash
+python3 tools/convert_repo_t2s.py
+```
+
+4. 再次 dry-run，确认结果稳定（`changed=0`）：
+
+```bash
+python3 tools/convert_repo_t2s.py --dry-run
+```
+
+5. 可选：打印会改动的文件路径：
+
+```bash
+python3 tools/convert_repo_t2s.py --dry-run --print-files
+```
+
+### 转换范围说明
+
+- 仅处理当前仓库 `git ls-files` 可见的已跟踪文件。
+- 跳过包含 `NUL` 的二进制文件。
+- 仅改写 UTF-8 文本文件内容，不重命名目录或文件名。
 
 
 ## 贡献
@@ -89,7 +136,7 @@
 
 - 直接提交 PR 或者通过 issue 讨论来优化完善此数据库，理论上古诗歌体非宗教类都欢迎加入，部分有争议性的数据需要社区投票讨论决定是否加入。关于诗句的纠错在创建 PR 时请标明出处。更多规范请[参考贡献规范文档](https://github.com/chinese-poetry/chinese-poetry/wiki/%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE%E8%A7%84%E8%8C%83)。
 
-- 如果你没有办法直接参与完善的过程，你也可以通过 「[爱发电赞助](https://afdian.net/a/chinese-poetry)」  「[Patreon 周期性赞助](https://www.patreon.com/jackeygao)」 的形式来持续帮助并激励我去优化完善此数据库。如果您不喜欢周期性赞助，你也可以通过「[支付宝](https://github.com/jackeyGao/JackeyGao.github.io/blob/master/static/images/alipay.png)」或者「[微信赞赏码](https://github.com/jackeyGao/JackeyGao.github.io/blob/master/static/images/wechat.jpg)」进行一次性赞助(备注留下邮箱)。
+- 如果你没有办法直接参与完善的过程，你也可以通过 “[爱发电赞助](https://afdian.net/a/chinese-poetry)”  “[Patreon 周期性赞助](https://www.patreon.com/jackeygao)” 的形式来持续帮助并激励我去优化完善此数据库。如果您不喜欢周期性赞助，你也可以通过“[支付宝](https://github.com/jackeyGao/JackeyGao.github.io/blob/master/static/images/alipay.png)”或者“[微信赞赏码](https://github.com/jackeyGao/JackeyGao.github.io/blob/master/static/images/wechat.jpg)”进行一次性赞助(备注留下邮箱)。
 
 - 如有建议或吐槽，欢迎联系我的邮箱 gaojunqi@outlook.com。
 
