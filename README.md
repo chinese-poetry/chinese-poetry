@@ -126,7 +126,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=chinese-poetry/chinese-poetry&type=Date)](https://star-history.com/#chinese-poetry/chinese-poetry&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=chinese-poetry/chinese-poetry&type=Date)](https://star-history.dera.page/#chinese-poetry/chinese-poetry&Date)
 
 ## License
 
